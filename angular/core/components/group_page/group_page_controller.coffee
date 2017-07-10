@@ -1,4 +1,5 @@
-angular.module('diehardFundApp').controller 'GroupPageController', ($rootScope, $location, $routeParams, $scope, Records, Session, MessageChannelService, AbilityService, AppConfig, LmoUrlService, PaginationService, PollService, ModalService) ->
+angular.module('diehardFundoApp').controller 'GroupPageController', ($rootScope, $location, $routeParams, $scope, Records, Session, MessageChannelService, AbilityService, AppConfig, LmoUrlService, PaginationService, PollService, ModalService, InstallSlackModal) ->
+>>>>>>> Slack group card (#4189)
   $rootScope.$broadcast 'currentComponent', {page: 'groupPage', key: $routeParams.key, skipScroll: true }
 
   @launchers = []
@@ -8,6 +9,11 @@ angular.module('diehardFundApp').controller 'GroupPageController', ($rootScope, 
       action:         action
       condition:      condition
       allowContinue:  opts.allowContinue
+
+  @addLauncher =>
+    ModalService.open InstallSlackModal, group: => @group
+  , ->
+    $location.search().install_slack
 
   @performLaunch = ->
     @launchers.sort((a, b) -> a.priority - b.priority).map (launcher) =>
