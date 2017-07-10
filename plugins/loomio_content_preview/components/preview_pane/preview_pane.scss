@@ -1,0 +1,18 @@
+.preview-pane {
+  min-height: 100px;
+}
+
+.preview-pane__with-content {
+  padding: 10px;
+  min-height: 100px;
+  margin-bottom: 10px;
+  background: $card-background-color;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+}
+
+.preview-pane__without-content {
+  font-style: italic;
+  margin-top: 10px;
+  text-align: center;
+}

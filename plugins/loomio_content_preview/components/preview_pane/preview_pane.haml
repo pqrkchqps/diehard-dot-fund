@@ -1,0 +1,21 @@
+.preview-pane.hidden
+  .preview-pane__without-content{ng-if: "!model.hasContext()"}
+    %span{translate: "loomio_content_preview.preview_pane.no_content"}
+
+  // for comment previews
+  .preview-pane__with-content{ng-if: "model.hasContext()"}
+    .preview-pane__with-content--comment{ng-if: "type == 'comment'"}
+      .thread-item__header.media
+        .media-left
+          %user_avatar{user: "model.author()", size: "small"}
+        .media-body
+          %h3.new-comment__in-reply-to{ng-if: "model.parentId", id: "event-{{event.id}}"}
+            %strong> {{ model.authorName() }}
+            %span{translate: "new_comment_item.in_reply_to", translate-value-recipient: "{{model.parentAuthorName}}"}
+          %h3.new-comment__author-name{ng-if: "!model.parentId"}> {{ model.authorName() }}
+          .sr-only{ng-if: "!model.parentId", id: "event-{{event.id}}", translate: "new_comment_item.aria_label", translate-value-author: "{{model.authorName()}}"}
+      .thread-item__body.new-comment__body.lmo-markdown-wrapper{marked: "model.cookedBody()"}
+
+    // for context previews
+    %div{ng-if: "type != 'comment'", class: "preview-pane__with-content--{{model.constructor.singular}}"}
+      .lmo-markdown-wrapper{marked: "model.cookedDescription()"}
