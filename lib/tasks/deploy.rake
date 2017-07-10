@@ -19,8 +19,8 @@
 # rake deploy:heroku_reset -- run rake db:migrate on heroku, restart dynos, and notify clients of version update
 
 task :deploy do
-  remote, branch = ARGV[1] || 'loomio-production', ARGV[2] || 'master'
-  is_production_push = remote == 'loomio-production' && branch == 'master'
+  remote, branch = ARGV[1] || 'diehard-dot-fund', ARGV[2] || 'master'
+  is_production_push = remote == 'diehard-dot-fund' && branch == 'master'
   id = Time.now.to_i
   temp_branch = build_branch(remote, branch, id)
 
