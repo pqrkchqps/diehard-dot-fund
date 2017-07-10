@@ -105,7 +105,7 @@ module Loomio
         user_name: ENV['SMTP_USERNAME'],
         password: ENV['SMTP_PASSWORD'],
         domain: ENV['SMTP_DOMAIN'],
-        #openssl_verify_mode: 'none'
+        openssl_verify_mode: 'none'
       }.compact
     else
       config.action_mailer.delivery_method = :test
