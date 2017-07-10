@@ -1,8 +1,19 @@
 ---
 en:
+  invitation:
+    invitation_not_found: We could not find an invitation with the token you've given us. Please request another invitation from your group.
+    invitation_cancelled: Sorry, this invitation has been revoked by the group cooordinator. Please request another invitation from your group.
+    invitation_already_used: This invitation has already been used. Please sign in to Diehard.Fund directly to continue to your group.
+
+  date:
+    formats:
+      for_this_year: "%e %b"
+      for_another_year: "%-d/%-m/%y"
   time:
     formats:
       closing_soon_subject: "%d %b %H:%M"
+      for_today: "%l:%M %P"
+
   validate:
     motion:
       must_close_in_future: Proposal must close in the future.
@@ -15,15 +26,15 @@ en:
 
   email:
     login:
-      subject: Sign in to DiehardFund
-      intro: Hi %{name}, here is a link to sign in to your DiehardFund account.
-      login: Sign in to DiehardFund as %{name}
+      subject: Sign in to Diehard.Fund
+      intro: Hi %{name}, here is a link to sign in to your Diehard.Fund account.
+      login: Sign in to Diehard.Fund as %{name}
       resend: This link will expire at %{expires_at}. If that time has passed, you can follow the link above to get another link.
 
     reset_password:
       greeting: |
         Hi %{name}
-        Here is a link you can use to reset the password on your DiehardFund account:
+        Here is a link you can use to reset the password on your Diehard.Fund account:
       link_text: Reset your password
       signoff: |
         You received this because your email was entered into the "Forgot password" form on %{hostname}.
@@ -31,7 +42,7 @@ en:
         If you continue to have problems logging in, reply to this email to contact a support person.
 
     start_decision:
-      subject: Start a decision on DiehardFund
+      subject: Start a decision on Diehard.Fund
       intro: Hello, <strong>%{name}</strong>!
       action: What would you like to do?
       proposal: Raise a proposal
@@ -46,73 +57,73 @@ en:
     by_who: by %{person}
     reply_to_this_discussion: Reply to this discussion
     to_join_discussion:
-      subject: "%{who} wants you to join a discussion on DiehardFund"
+      subject: "%{who} wants you to join a discussion on Diehard.Fund"
       content: 'You''ve been invited to participate in the discussion: %{discussion}'
       message_intro: "%{who} says:"
       link: Join the discussion
-    value_proposition: "DiehardFund is a place for groups to make decisions together"
+    value_proposition: "Diehard.Fund is a place for groups to make decisions together"
     view_group: View group
     to_join_group:
-      subject: "%{member} has invited you to join %{group_name} on DiehardFund"
+      subject: "%{member} has invited you to join %{group_name} on Diehard.Fund"
       invitation_text: "%{member} has invited you to join their group %{group_name}."
       invitation_text_html: "has invited you to join their group"
       link_help: "Click the link below to accept the invitation:"
       accept_invitation: "Accept invitation"
     resend_to_join_group:
-      subject: "%{member} is still waiting for you to join %{group_name} on DiehardFund"
+      subject: "%{member} is still waiting for you to join %{group_name} on Diehard.Fund"
     to_start_group:
-      subject: "Set up your new DiehardFund group: %{group_name}"
+      subject: "Set up your new Diehard.Fund group: %{group_name}"
       hi: "Hi %{name},"
       intro: "Click the link below to set up your group %{group_name}:"
       intro_html: "Click below to set up your group:"
       start_group: "Start my group"
       closing_message: "If you need help or have a question, just reply to this email."
       thanks: "Thanks,"
-      diehard_fund_team: "The DiehardFund Team"
+      diehard_fund_team: "The Diehard.Fund Team"
     user_added_to_group:
-      subject: "%{who} has added you to %{which_group} on DiehardFund"
+      subject: "%{who} has added you to %{which_group} on Diehard.Fund"
       content: "%{who} has added you to %{which_group}."
       content_html: "<strong>%{who}</strong> has added you to <strong>%{which_group}</strong>."
       link_help: "Click the link below to go to the group:"
     unsubscribe: 'Unsubscribe or change your email preferences:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> to unsubscribe or change your email preferences."
-    view_comment: Click here to view the comment on DiehardFund
+    view_comment: Click here to view the comment on Diehard.Fund
     view_discussion: Click here to view this discussion
-    view_proposal: View this proposal on DiehardFund
+    view_proposal: View this proposal on Diehard.Fund
     create_discussion:
       intro_html: "started a thread:"
       intro: "%{who} started a thread:"
     create_proposal:
-      intro: A new proposal was created in a DiehardFund group that you belong to.
+      intro: A new proposal was created in a Diehard.Fund group that you belong to.
       closes_in: Closes in
       subject: 'New proposal: %{which}'
     daily_activity:
-      heading: Your DiehardFund Activity
-      intro: Showing you what’s been happening in your DiehardFund groups in the last 24 hours
-      subject: DiehardFund - Summary of the last 24 hours
+      heading: Your Diehard.Fund Activity
+      intro: Showing you what’s been happening in your Diehard.Fund groups in the last 24 hours
+      subject: Diehard.Fund - Summary of the last 24 hours
     missed_yesterday:
-      subject: Yesterday on DiehardFund
+      subject: Yesterday on Diehard.Fund
       do_not_reply: Please do not reply to this email.
       headlines: Headlines
       mark_as_read: Mark as read
       thanks_for_reading: Thanks for reading, have a great day!
-      heres_what_happened: "Here’s what happened on DiehardFund yesterday."
+      heres_what_happened: "Here’s what happened on Diehard.Fund yesterday."
       marked_as_read_success: Everything from the email has been marked as read
     comment_replied_to:
       context_html: 'replied to your comment in'
       context: '%{author_name} replied to your comment in %{discussion_title}'
-      subject: "%{who} replied to your comment in the %{which} group on DiehardFund"
+      subject: "%{who} replied to your comment in the %{which} group on Diehard.Fund"
     new_comment:
       context: 'commented in'
     group_membership_approved:
       intro: "Your request for access to the group %{group_name} has been approved."
       intro_html: "Your request for access to the group <strong>%{group_name}</strong> has been approved."
       link_help: "Click the link below to join %{group_name} and get started:"
-      subject: "Your request to join %{group_name} on DiehardFund has been approved"
+      subject: "Your request to join %{group_name} on Diehard.Fund has been approved"
       join_group: "Join group"
-      view_group_text: "Click below to view the group on DiehardFund:"
+      view_group_text: "Click below to view the group on Diehard.Fund:"
     membership_request:
-      intro: "%{name} (%{email}) has requested access to one of your DiehardFund groups."
+      intro: "%{name} (%{email}) has requested access to one of your Diehard.Fund groups."
       intro_html: has requested access to one of your groups.
       subject: "%{who} has requested to join %{which_group}"
       view_group: You can approve or decline the request here
@@ -157,16 +168,16 @@ en:
       outcome_created: "%{who} shared an outcome for the proposal:"
       you_agreed: You %{past_tense_position}
     analytics:
-      subject: "%{which_group}'s week on DiehardFund"
+      subject: "%{which_group}'s week on Diehard.Fund"
       title: "Your summary for the week starting %{since}"
       table_header: "Name | Motions created | Discussions created | Comments created | Votes created"
       stats: "<strong>%{active_members}</strong> out of <strong>%{group_members}</strong> in your group were active in the last week. Your group raised <strong>%{motions}</strong> and made <strong>%{comments}</strong> in <strong>%{discussions}</strong>."
       contact_us: "Looking for more stats? <a href='%{contact_link}'>Get in touch</a>."
-      no_activity: "Want to talk with one of our collaboration coaches about getting the most out of DiehardFund? <a href='%{contact_link}'>Get in touch</a>"
+      no_activity: "Want to talk with one of our collaboration coaches about getting the most out of Diehard.Fund? <a href='%{contact_link}'>Get in touch</a>"
       trial_subscription: "%{which_group} is on a <strong>free trial</strong> ending <strong>%{expires_at}</strong>. You can choose a subscription plan <a href='%{subscription_link}'>here</a>."
-      trial_expired: "%{which_group} has reached the end of its free DiehardFund trial. "
-      heart: "❤ from team DiehardFund"
-      unsubscribe: "This email is sent to coordinators of active DiehardFund groups.<br />If you'd prefer not to receive these emails, <a href='%{contact_link}'>let us know</a>."
+      trial_expired: "%{which_group} has reached the end of its free Diehard.Fund trial. "
+      heart: "❤ from team Diehard.Fund"
+      unsubscribe: "This email is sent to coordinators of active Diehard.Fund groups.<br />If you'd prefer not to receive these emails, <a href='%{contact_link}'>let us know</a>."
       user_table:
         motions_created: "Proposals"
         discussions_created: "Discussions"
@@ -181,13 +192,13 @@ en:
     pricing: Pricing
     public_groups: Public groups
     terms: Terms
-    independent_install_html: '%{hostname} is running an independent copy of DiehardFund: <a href="http://github.com/diehard_fund/diehard_fund">find out more</a>.'
+    independent_install_html: '%{hostname} is running an independent copy of Diehard.Fund: <a href="http://github.com/diehard_fund/diehard_fund">find out more</a>.'
   start_group_form:
     enable_angular:
-      header: New groups start in DiehardFund 1.0
-      subtitle: 'To start a new group, you''ll need to switch to the brand new version of DiehardFund:'
-      switch_to_angular: Start a group in the new DiehardFund
-      helptext: We've rebuilt DiehardFund from the ground up. You can read about what's new <a href="/angular">here</a>.<br/>You'll be able to switch back to the old version any time you like.
+      header: New groups start in Diehard.Fund 1.0
+      subtitle: 'To start a new group, you''ll need to switch to the brand new version of Diehard.Fund:'
+      switch_to_angular: Start a group in the new Diehard.Fund
+      helptext: We've rebuilt Diehard.Fund from the ground up. You can read about what's new <a href="/angular">here</a>.<br/>You'll be able to switch back to the old version any time you like.
     header: Start a new group
     form_error: Some information is missing or incorrect.
     name: Your name
@@ -199,64 +210,20 @@ en:
     group_description_placeholder: Describe the purpose of your group so your group members know why they are here.
     group_name_error: Group name is required
     pricing_html: In 30 days, we'll ask you to choose a <a href='%{link}' target='_blank'>pricing plan</a>.
-    terms_html: By starting a group, you agree to DiehardFund's <a href='%{link}' target='_blank'>terms of service</a>.
+    terms_html: By starting a group, you agree to Diehard.Fund's <a href='%{link}' target='_blank'>terms of service</a>.
     success:
       header: You're almost done! Check your email.
       email_delivered: We've sent an email to %{email}. Please follow the link inside to setup your new group.
       email_not_arrived: Email has not arrived?
       please_hold: Please allow up to five 5 minutes for the email to arrive and be sure to check your spam folder.
-    start_making_decisions: 'To start making decisions together on DiehardFund, set up a group for free:'
+    start_making_decisions: 'To start making decisions together on Diehard.Fund, set up a group for free:'
   invitation_form:
     error:
       too_many_pending: "You have more than the maximum %{count} pending invitations for this group"
       all_email_addresses_belong_to_members: "We didn't send invitations to the email addresses provided because they belong to people already in the group."
-  pricing_page:
-    header: Group plans
-    gift: Free
-    standard: Standard
-    plus: Pro
-    free_trial_html: We'll ask you to choose your pricing plan after a <span>30-day free trial</span>. No credit card required.
-    get_started_for_free: Get started for free
-    gift_body: Everything you need to make effective decisions with your group.
-    standard_body_html: Make decisions in Slack
-    pro_body_html: Make decisions across your organisation
-    one_group: one group
-    unlimited_members: unlimited members
-    unlimited_decisions: unlimited decisions
-    coming_facebook: Facebook integration coming soon.
-    email_support: email support
-    coming_soon: Coming soon
-    analytics_report: Analytics report
-    data_export: Data export (CSV or XLS)
-    slack_integration_html: |
-      <strong>Slack</strong> integration
-    customer_support_html: Customer support
-    standard_price_html: '<strong>$19</strong>/month'
-    gift_price_html: '<strong>$0</strong>'
-    plus_includes_standard: 'Everything in Standard, plus:'
-    standard_includes_free: 'Everything in Free, plus:'
-    multiple_groups: "up to 10 groups"
-    premium_support: premium support
-    help_with_setup: help with initial setup
-    ldap_coming_soon: ActiveDirectory/LDAP coming soon
-    custom_subdomain: custom subdomain
-    analytics_reports: analytics reports
-    free_is_for_community_and_evaluation_html: |
-      Our free plan is for casual users, communities and anyone who wants to evaluate DiehardFund for use within their organisation. We rely on paid plans to maintain and enhance DiehardFund.<br/>
-      We respect your privacy and will never sell your data to third parties, nor put advertising into DiehardFund.<br/>
-      If you are a non-profit organisation, contact us for discount.
-
-    contact_us_html: |
-      Prices are in US dollars, plus sales tax where applicable. Need something else? <a href="/contact">Let's talk!</a>
-
-    custom_subdomain_html: |
-      custom subdomain,<br />
-      e.g. <strong>yourgroup</strong>.diehard.fund
-    usage_statistics: usage statistics
-    plus_price_html: '<strong>$99</strong>/month'
   password_reset:
     email_guidelines_html: |
-      <p>Enter the email address for your DiehardFund account into the field below and you will be sent a password reset link.</p>
+      <p>Enter the email address for your Diehard.Fund account into the field below and you will be sent a password reset link.</p>
       <p>If you normally sign in via Facebook, Google, Twitter or Persona, enter the email address associated with that account.</p>
     reset_email_timeframe: It may take up to 5 minutes for the email to arrive. If it doesn't show up, be sure to check your spam folder.
     length_restriction: Passwords must be at least 8 characters long.
@@ -268,24 +235,24 @@ en:
 
       What’s your role or approach to participation in this group? What should people know about you to understand where you’re coming from?
   how_it_works_thread:
-    title: How to use DiehardFund
+    title: How to use Diehard.Fund
     description: |
-      Welcome to DiehardFund, an online place to make decisions together.
+      Welcome to Diehard.Fund, an online place to make decisions together.
 
-      This is an example discussion **thread**. You can add comments below. A thread is a conversation on a given topic. This thread is about how DiehardFund works, so post questions about that here.
+      This is an example discussion **thread**. You can add comments below. A thread is a conversation on a given topic. This thread is about how Diehard.Fund works, so post questions about that here.
 
       You are currently reading the thread **context**, a space for background information. You can update it as the discussion progresses.
 
-      To get started with DiehardFund:
+      To get started with Diehard.Fund:
       1. Upload a [profile picture](/profile)
       2. Introduce yourself in the [Welcome thread](%{thread_url})
       3. Post in existing threads, or start a new one
 
-      Tips for posting on DiehardFund:
+      Tips for posting on Diehard.Fund:
       * To notify a specific person, type @ followed by their name.
       * Click the paperclip icon to add attachments.
 
-      If you’ve got questions, check the [DiehardFund help manual](http://help.diehard.fund).
+      If you’ve got questions, check the [Diehard.Fund help manual](http://help.diehard.fund).
 
   first_proposal:
     name: Demonstration proposal
@@ -302,7 +269,7 @@ en:
 
   contact_page:
     contact_us: Contact us
-    faq_prompt_html: Got a question for the DiehardFund team? Before contacting us, you might be able to find the answer in our frequently asked questions.
+    faq_prompt_html: Got a question for the Diehard.Fund team? Before contacting us, you might be able to find the answer in our frequently asked questions.
     contact_information: If you don't find what you're looking for, you can find our contact information at the bottom of the page.
     contact_form: Contact form
     labels:
@@ -376,26 +343,26 @@ en:
 
         Square brackets for name then round brackets for URL. There's no spaces between the brackets.
 
-        [DiehardFund Homepage](https://www.diehard.fund/)
+        [Diehard.Fund Homepage](https://diehard.fund/)
 
         Images are the same, but prefixed with an exclamation mark.
 
-        ![diehard_fund logo](https://i.imgur.com/Fvtworb.png)
+        ![diehard_fund logo](http://i.imgur.com/Sim4o9d.png)
 
   beta_banner:
     new_diehard_fund_html: |
-      <strong>The New DiehardFund is faster, prettier, and better!</strong> We're switching everyone over.
+      <strong>The New Diehard.Fund is faster, prettier, and better!</strong> We're switching everyone over.
     upgrade_browser_html: |
       We only support modern versions of Internet Explore (10+). You will need to <a href='http://outdatedbrowser.com/en' target='_blank'>upgrade your browser</a> to keep using DiehardFund.
-      <strong>The New DiehardFund is here!</strong> It's faster, prettier, and mobile-ready.
+      <strong>The New Diehard.Fund is here!</strong> It's faster, prettier, and mobile-ready.
     more_info: More info...
-    button_text: Switch to the new DiehardFund
+    button_text: Switch to the new Diehard.Fund
 
   poll_mailer:
     common:
       or: or
       why_send_this: You are receiving this email because %{reason}
-      view_on_diehard_fund: View it on DiehardFund
+      view_on_diehard_fund: View it on Diehard.Fund
       unsubscribe: Unsubscribe
       results: Results
       responses: Responses
