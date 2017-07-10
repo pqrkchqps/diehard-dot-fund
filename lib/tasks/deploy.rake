@@ -44,7 +44,7 @@ end
 namespace :deploy do
   desc "Setup heroku and github for deployment"
   task :setup do
-    remote = ARGV[1] || 'loomio-production'
+    remote = ARGV[1] || 'diehard-dot-fund'
     run_commands [
       "sh script/heroku_login.sh $DEPLOY_EMAIL $DEPLOY_PASSWORD",                     # login to heroku
       "echo \"Host heroku.com\n  StrictHostKeyChecking no\" > ~/.ssh/config",         # don't prompt for confirmation of heroku.com host
@@ -110,7 +110,6 @@ namespace :deploy do
     run_commands [
       "#{cmd} run rake db:migrate -a #{remote}",                                      # Migrate Heroku DB
       "#{cmd} restart -a #{remote}",                                                  # Restart Heroku dynos
-      "#{cmd} run -a #{remote} rake loomio:notify_clients_of_update"                  # Notify clients of update
     ]
   end
 end
