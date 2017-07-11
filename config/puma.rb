@@ -10,8 +10,9 @@ environment ENV['RAILS_ENV'] || 'development'
 
 if ENV['LOOMIO_SSL_KEY']
   ssl_bind '0.0.0.0', '9292', {
-     key: ENV['LOOMIO_SSL_KEY'],
-     cert: ENV['LOOMIO_SSL_CERT']
+     key: ENV['SSL_KEY'],
+     cert: ENV['SSL_CERT'],
+     ca: ENV['SSL_CA']
   }
 end
 
