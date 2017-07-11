@@ -8,7 +8,7 @@ rackup      DefaultRackup
 port        ENV['PORT']     || 3000
 environment ENV['RAILS_ENV'] || 'development'
 
-if ENV['LOOMIO_SSL_KEY']
+if ENV['SSL_KEY']
   ssl_bind '0.0.0.0', '9292', {
      key: ENV['SSL_KEY'],
      cert: ENV['SSL_CERT'],
