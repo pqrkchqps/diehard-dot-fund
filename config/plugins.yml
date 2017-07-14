@@ -9,6 +9,7 @@ diehard-dot-fund_tags:
 
 diehard-dot-fund_truncate_comment:
   repo:         pqrkchqps/diehard-dot-fund_truncate_comment
+  experimental:	true
 
 diehard-dot-fund_content_preview:
   repo:         pqrkchqps/diehard-dot-fund_content_preview
