@@ -26,7 +26,7 @@ public/client
 public/system
 public/uploads
 
-/plugins/
+#/plugins/
 /plugins_backup/
 
 # NB: To reveal a plugin to hack on it locally, add a line here telling .gitignore to reveal it:
