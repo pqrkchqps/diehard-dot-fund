@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'RevisionHistoryModal', ->
+angular.module('diehard_fundApp').factory 'RevisionHistoryModal', ->
   templateUrl: 'generated/components/thread_page/revision_history_modal/revision_history_modal.html'
   controller: ($scope, model, Records, LoadingService) ->
     $scope.model = model

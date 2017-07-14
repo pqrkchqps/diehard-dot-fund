@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'RemoveAppForm', ->
+angular.module('diehard_fundApp').factory 'RemoveAppForm', ->
   templateUrl: 'generated/components/remove_app_form/remove_app_form.html'
   controller: ($scope, $rootScope, application, FlashService) ->
     $scope.application = application

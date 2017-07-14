@@ -18,11 +18,11 @@ describe Griddler::EmailsController do
   let(:email_params) { EmailParams.new(
     OpenStruct.new(
       to: [{
-        host: "loomiohost.org",
+        host: "diehard_fundhost.org",
         token: "reply&d=#{discussion.id}&u=#{user.id}&k=#{user.email_api_key}"
       }],
       body: "This is a comment!"),
-    reply_host: "loomiohost.org")
+    reply_host: "diehard_fundhost.org")
   }
 
   before do

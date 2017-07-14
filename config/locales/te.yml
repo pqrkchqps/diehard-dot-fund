@@ -313,7 +313,7 @@ te:
       subject: "ప్రతిపాదన మూసివేయబడింది - %{which}"
     proposal_closing_soon:
       summary: సారాంశం
-  about_loomio: లూమియో గురించి
+  about_diehard_fund: లూమియో గురించి
   ago: "%{quantity_of_time} క్రితం"
   approve: ఆమోదించండి
   author: రచయిత

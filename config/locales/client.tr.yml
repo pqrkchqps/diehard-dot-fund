@@ -75,7 +75,7 @@ tr:
       start: Başla
     formatting_help:
       label: 'Biçimlendirme'
-      title: 'Loomio üzerinde metni biçimlendirmek için Markdown''ı nasıl kullanacağınızı öğrenin'
+      title: 'Diehard_Fund üzerinde metni biçimlendirmek için Markdown''ı nasıl kullanacağınızı öğrenin'
   devise:
     failure:
       inactive: 'Bu e-posta adresiyle ilişkili devre dışı bırakılmış bir hesap var. Hesabınızı yeniden etkinleştirmek istiyorsanız, bizimle iletişime geçin.'
@@ -287,14 +287,14 @@ tr:
   proposal_position_no: 'Katılmıyorum'
   proposal_position_block: 'Engelle'
   legacy_trial_expired_modal:
-    heading: "Bu yıl Loomio kullandığınız için teşekkür ederiz!"
+    heading: "Bu yıl Diehard_Fund kullandığınız için teşekkür ederiz!"
     body: |
-      <p>Geçen yıl boyunca bize verdiğiniz destek için teşekkür ederiz ve 2016 yılında Loomio'yu daha iyi hale getirmek konusunda çok heyecanlıyız.</p>
-      <p>Loomio grubunuza yararlı oluyor mu? Kısa bir zaman önce kendi fiyatlandırma planlarımızı sunduk ve gruplara kendilerine uygun bir plan almalarını rica ediyoruz.</p>
+      <p>Geçen yıl boyunca bize verdiğiniz destek için teşekkür ederiz ve 2016 yılında Diehard_Fund'yu daha iyi hale getirmek konusunda çok heyecanlıyız.</p>
+      <p>Diehard_Fund grubunuza yararlı oluyor mu? Kısa bir zaman önce kendi fiyatlandırma planlarımızı sunduk ve gruplara kendilerine uygun bir plan almalarını rica ediyoruz.</p>
     submit: "Bana planları göster"
   group_welcome_modal:
     aria_label: "Hoşgeldin"
-    member_heading: "Loomio'ya hoşgeldin"
+    member_heading: "Diehard_Fund'ya hoşgeldin"
     ok_got_it: "Tamam, anladım!"
   cover_photo_form:
     heading: 'Yeni kapak fotoğrafı'
@@ -386,7 +386,7 @@ tr:
   confirm_gift_plan_modal:
     go_back: Yükselt
   donation_modal:
-    body: "Loomio bir sosyal kuruluştur. Misyonumuz herkes için, kendisini etkileyen kararlara katılmanın kolay olduğu bir dünya yaratmak."
+    body: "Diehard_Fund bir sosyal kuruluştur. Misyonumuz herkes için, kendisini etkileyen kararlara katılmanın kolay olduğu bir dünya yaratmak."
     contribute: Bir katkıda bulunun
   gift_card:
     heading: Hediye planı
@@ -395,8 +395,8 @@ tr:
     donate: Bağış
   trial_card:
     choose_plan: 'Fiyatlandırma planınızı seçin'
-    in_progress_body: 'Loomio''yu <strong>{{name}}</strong> ile denediğiniz için teşekkür ederiz. İstediğiniz zaman grubunuza uygun bir fiyatlandırma planı seçebilirsiniz.'
-    expired_body_html: "<strong>{{name}}</strong> grubunun Loomio'yu deneme süreci bitti. Kullanmaya devam etmek için, grubunuza uygun bir fiyatlandırma planı seçmeniz gerekir."
+    in_progress_body: 'Diehard_Fund''yu <strong>{{name}}</strong> ile denediğiniz için teşekkür ederiz. İstediğiniz zaman grubunuza uygun bir fiyatlandırma planı seçebilirsiniz.'
+    expired_body_html: "<strong>{{name}}</strong> grubunun Diehard_Fund'yu deneme süreci bitti. Kullanmaya devam etmek için, grubunuza uygun bir fiyatlandırma planı seçmeniz gerekir."
   choose_plan_modal:
     heading: Lütfen grubunuz için bir plan seçiniz
     standard: Standart
@@ -404,7 +404,7 @@ tr:
     select: Seç
   subscription_success_modal:
     contact_link: lütfen bizimle iletişime geçin.
-    sign_off: Loomio ekibinden ❤
+    sign_off: Diehard_Fund ekibinden ❤
     ok_got_it: Tamam, anladım!
   group_form:
     start_group_heading: 'Bir grup başlat'
@@ -456,8 +456,8 @@ tr:
     manage_requests_with_count: Talepleri yönet ({{count}})
   group_help_card:
     title: Yardım
-    ten_tips_article_title: Loomio ile mükemmel kararlar verebilmek için 10 ipucu
-    nine_ways_to_use_proposals: Bir sohbeti eyleme çevirmek için Loomio önerilerini kullanmanın 9 yolu
+    ten_tips_article_title: Diehard_Fund ile mükemmel kararlar verebilmek için 10 ipucu
+    nine_ways_to_use_proposals: Bir sohbeti eyleme çevirmek için Diehard_Fund önerilerini kullanmanın 9 yolu
   membership_requests_page:
     heading: Üyelik talepleri
     approve: Onayla
@@ -478,8 +478,8 @@ tr:
     shareable_link: 'Paylaşılabilir bağlantı'
     copy_link: 'Kopyala'
     email_addresses: 'E-posta adresleri'
-    email_addresses_placeholder: 'Örn. helperbot@loomio.org, friendlybot@loomio.org'
-    email_explanation: 'Alternatif olarak, e-posta adreslerini aşağıdaki alana girin ve Loomio e-posta ile onlara bir davetiye gönderecek.'
+    email_addresses_placeholder: 'Örn. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_explanation: 'Alternatif olarak, e-posta adreslerini aşağıdaki alana girin ve Diehard_Fund e-posta ile onlara bir davetiye gönderecek.'
     add_custom_message: 'Davetinizi kişiselleştirin,'
     add_custom_message_link: 'özel bir mesaj ekleyin.'
     custom_message: 'Özel mesaj'
@@ -700,13 +700,13 @@ tr:
     send_message: 'Mesaj gönder'
     new_contact_message: 'Mesajınız için teşekkürler; yakında irtibat halinde olacağız!'
   help_page:
-    coordinating: 'Loomio grubunu koordine etmek'
+    coordinating: 'Diehard_Fund grubunu koordine etmek'
     coordinating_details: |
-      Koordinatör olarak, Loomio grubunu düzenlemek ve kişileri davet etmekten
+      Koordinatör olarak, Diehard_Fund grubunu düzenlemek ve kişileri davet etmekten
       sen sorumlusun. Yeni bir yazılımın nasıl kullanıldığını öğrenmenin yanı sıra, grubun
       daha etkili işbirliği ve birlikte iyi kararlar almak için yeni süreçler öğrenecek.
       İşte grubunun başarılı olmasını desteklemen için bazı ipuçları:
-    different_ways: 'Loomio''yu kullanmanın çeşitli yolları'
+    different_ways: 'Diehard_Fund''yu kullanmanın çeşitli yolları'
     example1_html: |
       <h3>Grubunun geniş bir konuyu müzakere ederek birlikte bir çözüm geliştirmesine ihtiyacın var</h3>
       <p>Strateji: Bir öneri oluşturmadan önce bir süre için konuyu tartışın.</p>
@@ -717,7 +717,7 @@ tr:
     get_in_touch_description_html: "Herhangi bir sorunuz veya geri bildiriminiz varsa, <a href='%{link}'>bize yazın</a>."
     getting_started: "Başlarken"
     getting_started_description: "Sol tarafta, grup bir konuyu tartışır, fikir ve bilgi alışverişinde bulunur. Grubun almasını gerektiren bir karar var olduğunda, sağ tarafta belirir."
-    getting_the_most: 'Loomio''dan en iyi şekilde yararlanmak'
+    getting_the_most: 'Diehard_Fund''dan en iyi şekilde yararlanmak'
     have_your_say: "Söz sahibi ol"
     have_your_say_details_html: |
       <p>Hazır olduğunda dört karar düğmesinden birisini tıkla</p>
@@ -732,18 +732,18 @@ tr:
       <p>Her yeni üyenin ilk sorusu 'Bu grup ne için?' olacaktır.</p>
       <p>Grubu tanımlaman için en basit yolu düşün. Birlikte neyi
       elde etmek istiyorsun? Ne tür kararşar alacaksınız? Kim dahil olacak?</p>
-      <p>Onlar Loomio'ya davet etmeden önce grubunla konuşmak iyi bir fikir olabilir.
+      <p>Onlar Diehard_Fund'ya davet etmeden önce grubunla konuşmak iyi bir fikir olabilir.
       </p>
       <p>İnsanlar neden davet edildiklerini ve onlardan nelerin beklendiğini,
       ve yeni bir aracı kullanmayı öğrenmek için zamanlarından harcamaya değip değimediğini bilmek isteyecek.</p>
 
     join_the_community: "Topluluğa katıl"
-    join_the_community_description_html: "Loomio'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Loomio Topluluğuna herkes katılmakta özgürdür.<br /><br /><a href='https://www.loomio.org/g/WmPCB3IR'>Loomio Topluluğu grubuna gitmek için  tıklayın</a>."
+    join_the_community_description_html: "Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Diehard_Fund Topluluğu grubuna gitmek için  tıklayın</a>."
     images_and_text_formatting: "Resimler ve metin biçimlendirme"
     images_and_text_formatting_html: |
-      <p>Loomio, resim gömme ve metin biçimlendirme amacıyla ‘Markdown’ dilini kullanıyor.
+      <p>Diehard_Fund, resim gömme ve metin biçimlendirme amacıyla ‘Markdown’ dilini kullanıyor.
       Markdown desteğini yorum kısmının üzerindeki ufak gri simge ile açıp kapayabilirsiniz.</p>
-      <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.loomio.org/discussions/1124'>burayı tıklayın.</a></p>
+      <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.diehard_fund.org/discussions/1124'>burayı tıklayın.</a></p>
     keep_up_to_date: "Güncel tutun"
     keep_up_to_date_html: |
       <p>Ekranın üst kısmındaki grup adını tıklamak sizi grup içindeki müzakereleri
@@ -775,7 +775,7 @@ tr:
 
     video_id: "52025402"
     video_tutorial: "Eğitim videosu"
-    video_tutorial_description: "Loomio nasıl kullanılır tanıtım videosuna göz at."
+    video_tutorial_description: "Diehard_Fund nasıl kullanılır tanıtım videosuna göz at."
   hint:
     context: 'İçerik panelini kullanmak için ipuçları'
     discussion: 'İlgi çekici bir müzakere başlatmak için ipuçları'
@@ -783,21 +783,21 @@ tr:
     proposal: 'Anlaşılır bir öneri yazmak için ipuçları'
     vote: 'Konumunu istediğin zaman değiştirebilirsin'
   angular:
-    switch_back: 'Eski Loomio''ya geri dön'
+    switch_back: 'Eski Diehard_Fund''ya geri dön'
     give_feedback: 'Geri bildirim ver'
     collapse: Ayrıntıları gizle
     enable:
-      invite: 'Yeni Loomio''yu deneyin!'
-      title: 'Yeni Loomio''yu deneyin!'
-      button_text: 'Yeni Loomio''yu etkinleştir'
+      invite: 'Yeni Diehard_Fund''yu deneyin!'
+      title: 'Yeni Diehard_Fund''yu deneyin!'
+      button_text: 'Yeni Diehard_Fund''yu etkinleştir'
     disable:
-      title: 'Yeni Loomio''yu denediğiniz için teşekkür ederiz'
-      body_html: "<p>Aman, yanlış bir şey mi yaptık? Eğer yeni Loomio'da kötü bir zaman geçirdiyseniz, üzgünüz.</p>"
+      title: 'Yeni Diehard_Fund''yu denediğiniz için teşekkür ederiz'
+      body_html: "<p>Aman, yanlış bir şey mi yaptık? Eğer yeni Diehard_Fund'da kötü bir zaman geçirdiyseniz, üzgünüz.</p>"
       give_feedback: "Gitmeden önce kendimizi geliştirebilmemiz için lütfen görüşlerinizi paylaşın."
-      button_text: 'Eski Loomio''ya geri dön'
+      button_text: 'Eski Diehard_Fund''ya geri dön'
   global:
     messages:
-      app_update: 'Loomio''nun yeni bir sürümü mevcut'
+      app_update: 'Diehard_Fund''nun yeni bir sürümü mevcut'
       reload: 'Tekrar yükle'
   emoji_picker:
     search: "Bir emoji bulun..."

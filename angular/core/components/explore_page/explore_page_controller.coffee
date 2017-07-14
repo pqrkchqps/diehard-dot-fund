@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'ExplorePageController', (Records, $rootScope, $timeout, AppConfig, LoadingService) ->
+angular.module('diehard_fundApp').controller 'ExplorePageController', (Records, $rootScope, $timeout, AppConfig, LoadingService) ->
   $rootScope.$broadcast('currentComponent', { page: 'explorePage'})
 
   @groupIds = []

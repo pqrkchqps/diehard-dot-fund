@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'SessionModel', (BaseModel) ->
+angular.module('diehard_fundApp').factory 'SessionModel', (BaseModel) ->
   class SessionModel extends BaseModel
     @singular: 'session'
     @plural: 'sessions'

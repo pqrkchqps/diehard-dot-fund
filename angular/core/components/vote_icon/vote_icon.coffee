@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'voteIcon', ->
+angular.module('diehard_fundApp').directive 'voteIcon', ->
   scope: {position: '='}
   restrict: 'E'
   templateUrl: 'generated/components/vote_icon/vote_icon.html'

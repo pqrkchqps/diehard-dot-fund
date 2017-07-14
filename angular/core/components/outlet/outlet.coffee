@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'outlet', ($compile, AppConfig) ->
+angular.module('diehard_fundApp').directive 'outlet', ($compile, AppConfig) ->
   scope: {model: '=?'}
   restrict: 'E'
   replace: true

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'emojiPicker', ->
+angular.module('diehard_fundApp').directive 'emojiPicker', ->
   scope: {targetSelector: '='}
   restrict: 'E'
   replace: true

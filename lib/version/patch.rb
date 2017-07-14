@@ -1,1 +1,1 @@
-Loomio::Version::PATCH = 107
+Diehard_Fund::Version::PATCH = 107

@@ -23,7 +23,7 @@ Dir.glob('config/locales/client.*.yml').each do |filename|
   fallback = YAML.load_file('config/locales/client.en.yml')['en']
   dest = fallback.deep_merge(source)
 
-  File.open("public/i18n/#{locale}-#{Loomio::Version.current}.json", 'w') do |file|
+  File.open("public/i18n/#{locale}-#{Diehard_Fund::Version.current}.json", 'w') do |file|
     file.write(dest.to_json)
   end
 end

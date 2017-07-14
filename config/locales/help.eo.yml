@@ -1,6 +1,6 @@
 eo:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Komenci grupon
       invite_people_link: Inviti personojn
       start_discussion_link: Komenci diskuton
@@ -59,8 +59,8 @@ eo:
         title: Laŭteco
       email_settings:
         title: Retpoŝtaj agordoj
-      yesterday_on_loomio:
-        title: Hieraŭ en Loomio
+      yesterday_on_diehard_fund:
+        title: Hieraŭ en Diehard_Fund
     user_profile:
       account_deactivation:
         title: Malaktivigi vian konton

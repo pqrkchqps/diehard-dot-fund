@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'loadingContent', ->
+angular.module('diehard_fundApp').directive 'loadingContent', ->
   scope: {blockCount: '=?', lineCount: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/loading_content/loading_content.html'

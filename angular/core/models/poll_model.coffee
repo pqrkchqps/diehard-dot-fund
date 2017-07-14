@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PollModel', (DraftableModel, AppConfig, MentionLinkService) ->
+angular.module('diehard_fundApp').factory 'PollModel', (DraftableModel, AppConfig, MentionLinkService) ->
   class PollModel extends DraftableModel
     @singular: 'poll'
     @plural: 'polls'

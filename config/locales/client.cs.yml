@@ -82,7 +82,7 @@ cs:
       subscribe: Přihlásit odběr
     formatting_help:
       label: 'Formátování'
-      title: 'Naučte se používat Markdown k formátování textu na Loomio'
+      title: 'Naučte se používat Markdown k formátování textu na Diehard_Fund'
   devise:
     failure:
       inactive: 'K této e-mailové adrese je přiřazen deaktivovaný účet. Chcete-li svůj účet znovu aktivovat, kontaktujte nás.'
@@ -151,7 +151,7 @@ cs:
     closing_in: 'Zavřené'
   sign_up_form:
     aria_label: 'Registrační formulář'
-    title: "Vítejte v Loomio! Pojďme vás připravit"
+    title: "Vítejte v Diehard_Fund! Pojďme vás připravit"
     name_label: 'Vaše jméno:'
     name_placeholder: 'Jan Novák'
     email_label: 'Email:'
@@ -194,7 +194,7 @@ cs:
     edit_profile: 'Upravit profil'
     email_settings: 'Nastavení emailu'
     help: 'Nápověda'
-    contact: 'Kontaktovat Loomio'
+    contact: 'Kontaktovat Diehard_Fund'
     sign_out: 'Odhlásit se'
     start_thread: Nové vlákno
     start_decision: Nové rozhodnutí
@@ -325,11 +325,11 @@ cs:
   proposal_position_no: 'Nesouhlasit'
   proposal_position_block: 'Zamítnout'
   legacy_trial_expired_modal:
-    heading: "Děkujeme, že jste tento rok použili Loomio!"
+    heading: "Děkujeme, že jste tento rok použili Diehard_Fund!"
   group_welcome_modal:
     aria_label: "Vítejte"
     creator_heading: "Vítejte ve své nové skupině"
-    member_heading: "Vítejte na Loomio"
+    member_heading: "Vítejte na Diehard_Fund"
     ok_got_it: "OK, chápu!"
   cover_photo_form:
     image_size_helptext: 'Ideální velikost obrázku je 1400 x 320px'
@@ -412,7 +412,7 @@ cs:
   subscription_success_modal:
     heading: Jste připraven/a!
     contact_link: prosím kontaktujte nás.
-    sign_off: ❤ od týmu Loomio
+    sign_off: ❤ od týmu Diehard_Fund
     ok_got_it: OK, chápu!
   group_form:
     start_group_heading: 'Vytvořit skupinu'
@@ -442,7 +442,7 @@ cs:
   group_help_card:
     title: Nápověda
     ten_tips_article_title: 10 tipů pro rozhodování s Loomiem
-    nine_ways_to_use_proposals: 9 způsobů, jak využít v Loomio návrhu  k tomu, aby se konverzace změnila na akci
+    nine_ways_to_use_proposals: 9 způsobů, jak využít v Diehard_Fund návrhu  k tomu, aby se konverzace změnila na akci
   membership_requests_page:
     heading: Žádosti o členství
     approve: Schválit
@@ -460,7 +460,7 @@ cs:
     shareable_link: 'Odkaz ke sdílení'
     copy_link: 'Kopírovat'
     email_addresses: 'E-mailová adresa'
-    email_addresses_placeholder: 'např. helperbot@loomio.org, friendlybot@loomio.org'
+    email_addresses_placeholder: 'např. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
     custom_message: 'Vlastní zpráva'
     send: 'Odeslat'
     done: 'Hotovo'
@@ -637,13 +637,13 @@ cs:
     send_message: 'Odeslat zprávu'
     new_contact_message: 'Děkujeme za Vaší zprávu; brzy vám napíšeme!'
   help_page:
-    coordinating: 'Koordinace vaší Loomio skupiny'
-    different_ways: 'Různé způsoby jak použít Loomio'
+    coordinating: 'Koordinace vaší Diehard_Fund skupiny'
+    different_ways: 'Různé způsoby jak použít Diehard_Fund'
     get_in_touch: "Spojte se s námi"
     get_in_touch_description_html: "Pokud máte jakékoli otázky nebo připomínky, <a href='%{link}'>napište nám</a>."
     getting_started: "Jak začít"
     getting_started_description: "Nalevo skupina prodiskutuje téma, vymění si názory a informace. Když nastane čas pro rozhodnutí, rozhodnutí se objeví napravo."
-    getting_the_most: 'Získání co nejvíce z Loomio'
+    getting_the_most: 'Získání co nejvíce z Diehard_Fund'
     have_your_say: "Vyjádřete svůj názor"
     have_a_discussion: "Mějte diskuzi"
     have_a_discussion_description: "Téma a veškeré relevantní související informace se nacházejí v horní části stránky. Pomocí pole pro komentář vneste svůj hlas do diskuze."
@@ -664,7 +664,7 @@ cs:
     start_proposal: "Napsání jasného návrhu"
     video_id: "52025402"
     video_tutorial: "Video tutorial"
-    video_tutorial_description: "Shlédněte rychlou ukázku toho, jak se Loomio používá."
+    video_tutorial_description: "Shlédněte rychlou ukázku toho, jak se Diehard_Fund používá."
   hint:
     context: 'Rady pro používání kontextového panelu'
     discussion: 'Rady k zahájení poutavé diskuze'
@@ -672,22 +672,22 @@ cs:
     proposal: 'Rady pro napsání jasného návrhu'
     vote: 'Můžete kdykoliv svůj postoj změnit'
   explore_page:
-    header: Prozkoumejte skupiny Loomio
-    search_placeholder: Vyhledání veřejných skupin Loomio
+    header: Prozkoumejte skupiny Diehard_Fund
+    search_placeholder: Vyhledání veřejných skupin Diehard_Fund
   angular:
-    switch_back: 'Přepnout zpět na staré Loomio'
+    switch_back: 'Přepnout zpět na staré Diehard_Fund'
     give_feedback: 'Sdělte nám svůj názor'
     collapse: Skrýt
     enable:
-      invite: 'Vyzkoušejte nové Loomio!'
-      title: 'Vyzkoušet nové Loomio'
-      button_text: 'Povolit nové Loomio'
+      invite: 'Vyzkoušejte nové Diehard_Fund!'
+      title: 'Vyzkoušet nové Diehard_Fund'
+      button_text: 'Povolit nové Diehard_Fund'
     disable:
       title: 'Děkujeme za vyzkoušení nového Loomia'
-      button_text: 'Přepnout zpět na staré Loomio'
+      button_text: 'Přepnout zpět na staré Diehard_Fund'
   global:
     messages:
-      app_update: 'Je k dispozici nová verze Loomio'
+      app_update: 'Je k dispozici nová verze Diehard_Fund'
       reload: 'Znovu načíst'
   registered_apps_page:
     name: Jméno
@@ -746,7 +746,7 @@ cs:
   poll_common_share_form:
     view_poll: Zobrazit hlasování
   poll_common_publish_slack_preview:
-    view_it_on_loomio: Prohlédněte si to na Loomio
+    view_it_on_diehard_fund: Prohlédněte si to na Diehard_Fund
   add_community_form:
     currently_signed_in_as: "Momentálně jste přihlášeni jako:"
     facebook:
@@ -762,7 +762,7 @@ cs:
     filter_placeholder: (Všechna hlasování)
     groups_placeholder: (Všechny skupiny)
   auth_form:
-    sign_in_to_loomio: Přihlásit se na Loomio
+    sign_in_to_diehard_fund: Přihlásit se na Diehard_Fund
     sign_in: Přihlásit se
     choose_an_account: "Přihlaste se prostřednictvím třetí strany nebo zadejte svou e-mailovou adresu a pokračujte."
     more_providers: Více
@@ -778,7 +778,7 @@ cs:
     login_link: Přihlaste se prostřednictvím e-mailu
     set_password: Nastavit heslo
     hello: "Ahoj, {{name}}!"
-    new_to_loomio: nový
+    new_to_diehard_fund: nový
     create_account: Vytvořit účet
     check_your_email: Zkontrolujte svůj e-mail!
     signed_in: Úspěšně jste se přihlásili

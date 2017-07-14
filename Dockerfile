@@ -1,6 +1,6 @@
 #
 # Warning: this image is designed to be used with docker-compose as
-# instructed athttps://github.com/loomio/loomio-deploy
+# instructed at https://github.com/diehard_fund/diehard_fund-deploy
 #
 # It is not a standalone image.
 #
@@ -22,17 +22,17 @@ RUN apt-get install -y libxml2-dev libxslt1-dev
 RUN curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 RUN apt-get install -y nodejs
 
-# RUN mkdir /loomio
-WORKDIR /loomio
-ADD . /loomio
-COPY config/database.docker.yml /loomio/config/database.yml
+# RUN mkdir /diehard_fund
+WORKDIR /diehard_fund
+ADD . /diehard_fund
+COPY config/database.docker.yml /diehard_fund/config/database.yml
 
-WORKDIR /loomio/angular
+WORKDIR /diehard_fund/angular
 RUN npm install -g yarn
 RUN npm install
 RUN npm rebuild node-sass
 
-WORKDIR /loomio
+WORKDIR /diehard_fund
 RUN bundle install
 
 # use development env to build assets with fake sqlite database (heroku blocks you from using sqlite in production)

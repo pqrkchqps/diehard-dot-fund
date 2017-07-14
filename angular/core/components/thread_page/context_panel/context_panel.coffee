@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'contextPanel', ->
+angular.module('diehard_fundApp').directive 'contextPanel', ->
   scope: {discussion: '='}
   restrict: 'E'
   replace: true

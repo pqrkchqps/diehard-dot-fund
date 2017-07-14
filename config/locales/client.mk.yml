@@ -111,7 +111,7 @@ mk:
     email_label: 'Твојата електронска пошта'
     message_label: 'Твојата порака'
   help_page:
-    different_ways: 'Различни начини да го користиш Loomio'
+    different_ways: 'Различни начини да го користиш Diehard_Fund'
     get_in_touch: "Останете во контакт"
     getting_started: "Започни"
     have_your_say: "Кажете што имате"
@@ -125,4 +125,4 @@ mk:
     positions_abstain_description: "<span>Воздржан</span> значи дека сте несигурни или дека е во ред групата да одлучи без вас."
     video_id: "52025402"
     video_tutorial: "Видео туторијал"
-    video_tutorial_description: "Провери го видеото за брза демонстрација како се користи Loomio."
+    video_tutorial_description: "Провери го видеото за брза демонстрација како се користи Diehard_Fund."

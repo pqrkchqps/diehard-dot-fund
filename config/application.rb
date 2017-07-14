@@ -17,7 +17,7 @@ def lmo_asset_host
   parts.join('')
 end
 
-module Loomio
+module Diehard_Fund
   class Application < Rails::Application
     config.active_job.queue_adapter = :delayed_job
 
@@ -52,7 +52,7 @@ module Loomio
 
     # config.i18n.available_locales = # --> don't use this, make mostly empty yml files e.g. fallback.be.yml
     config.i18n.enforce_available_locales = false
-    # config.i18n.fallbacks = # --> see initilizers/loomio_i18n
+    # config.i18n.fallbacks = # --> see initilizers/diehard_fund_i18n
 
     # Configure the default encoding used in templates for Ruby 1.9.
     config.encoding = "utf-8"

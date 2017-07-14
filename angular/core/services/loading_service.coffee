@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'LoadingService', (Records) ->
+angular.module('diehard_fundApp').factory 'LoadingService', (Records) ->
   new class LoadingService
     applyLoadingFunction: (controller, functionName) ->
       executing = "#{functionName}Executing"

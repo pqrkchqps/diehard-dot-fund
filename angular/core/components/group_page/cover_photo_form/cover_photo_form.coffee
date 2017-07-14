@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'CoverPhotoForm', ->
+angular.module('diehard_fundApp').factory 'CoverPhotoForm', ->
   templateUrl: 'generated/components/group_page/cover_photo_form/cover_photo_form.html'
   controller: ($scope, $timeout, $rootScope, group, Records, FormService) ->
 

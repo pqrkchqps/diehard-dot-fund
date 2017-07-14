@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'StanceModel', (DraftableModel, AppConfig, MentionLinkService) ->
+angular.module('diehard_fundApp').factory 'StanceModel', (DraftableModel, AppConfig, MentionLinkService) ->
   class StanceModel extends DraftableModel
     @singular: 'stance'
     @plural: 'stances'

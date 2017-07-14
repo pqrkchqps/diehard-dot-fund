@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ContactMessageModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'ContactMessageModel', (BaseModel, AppConfig) ->
   class ContactMessageModel extends BaseModel
     @singular: 'contactMessage'
     @plural: 'contactMessages'

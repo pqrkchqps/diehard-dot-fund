@@ -4,23 +4,23 @@ mk:
       intro: "%{who} направи најава во %{group}:"
     reply_to_this_discussion: Врати на дискусијата
     to_join_discussion:
-      subject: "%{who} сака да се приклучиш во дискусија на Loomio"
+      subject: "%{who} сака да се приклучиш во дискусија на Diehard_Fund"
       content: 'Треба да си поканет/а за да учествуваш во дискусијата: %{discussion}'
       message_intro: "%{who} кажува:"
       link: Приклучи се на дискусијата
     to_join_group:
-      subject: "%{member} те покани да се приклучиш во %{group_name} на Loomio"
-    view_comment: Кликни овде за да го видиш коментарот на Loomio
+      subject: "%{member} те покани да се приклучиш во %{group_name} на Diehard_Fund"
+    view_comment: Кликни овде за да го видиш коментарот на Diehard_Fund
     view_discussion: Кликни овде за да ја видиш дискусијата
-    view_proposal: Види го предлогот на Loomio
+    view_proposal: Види го предлогот на Diehard_Fund
     create_proposal:
       closes_in: Се затвора во
       subject: 'Нов предлог: %{which}'
     daily_activity:
-      heading: Вашата активност на Loomio
-      subject: Loomio - Резиме на последните 24 часа
+      heading: Вашата активност на Diehard_Fund
+      subject: Diehard_Fund - Резиме на последните 24 часа
     missed_yesterday:
-      subject: Вчера на Loomio
+      subject: Вчера на Diehard_Fund
       mark_as_read: Означи го како прочитано
     membership_request:
       subject: "%{who} побара да се приклучи во %{which_group}"
@@ -33,7 +33,7 @@ mk:
       closes_in: Се затвора во
       summary: Резиме
   footer:
-    about: За Loomio
+    about: За Diehard_Fund
     blog: Блог
     contact: Контакт
     help: Помош

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'AbilityService', (AppConfig, Session) ->
+angular.module('diehard_fundApp').factory 'AbilityService', (AppConfig, Session) ->
   new class AbilityService
 
     isLoggedIn: =>

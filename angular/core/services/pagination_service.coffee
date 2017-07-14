@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PaginationService', (AppConfig) ->
+angular.module('diehard_fundApp').factory 'PaginationService', (AppConfig) ->
   new class PaginationService
 
     windowFor: ({current, min, max, pageType}) ->

@@ -48,11 +48,11 @@ RSpec.configure do |config|
 
   config.before(:each) do
 
-    stub_request(:get, /loomio-test.chargify.com/).
+    stub_request(:get, /diehard_fund-test.chargify.com/).
       to_return(status: 200, body: '{"subscription":{"product":{"handle":"test-handle"}}}', headers: {})
-    stub_request(:put, /loomio-test.chargify.com/).
+    stub_request(:put, /diehard_fund-test.chargify.com/).
       to_return(status: 200, body: '{"subscription":{"product":{"handle":"test-handle"}}}', headers: {})
-    stub_request(:delete, /loomio-test.chargify.com/).
+    stub_request(:delete, /diehard_fund-test.chargify.com/).
       to_return(status: 200, body: '{"subscription":{"product":{"handle":"test-handle"}}}', headers: {})
 
     stub_request(:get,  /slack.com\/api/).to_return(status: 200, body: '{"ok": true}')

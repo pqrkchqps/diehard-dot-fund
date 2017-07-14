@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonShareLinkForm', (LmoUrlService, FlashService) ->
+angular.module('diehard_fundApp').directive 'pollCommonShareLinkForm', (LmoUrlService, FlashService) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/share/link_form/poll_common_share_link_form.html'

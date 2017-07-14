@@ -1,6 +1,6 @@
-# HOWTO: Developing Loomio Plugins
+# HOWTO: Developing Diehard_Fund Plugins
 
-Due to popular demand, we've implemented a simple plugin architecture to allow contributors to supply their own awesome improvements to Loomio. This is a great place to start!
+Due to popular demand, we've implemented a simple plugin architecture to allow contributors to supply their own awesome improvements to Diehard_Fund. This is a great place to start!
 
 ## Setting up a plugin
 Every plugin must be a folder within the `/plugins` directory, with a `plugin.rb` file in it. Like so:
@@ -73,7 +73,7 @@ Then, in order to include this class, we can write the following line into our s
   plugin.use_class 'models/kickflip'
 ```
 
-We spin up our Loomio instance, and voila!
+We spin up our Diehard_Fund instance, and voila!
 ```
 > Kickflip.new.perform
 100 points!
@@ -113,8 +113,8 @@ If you want to extend an existing class, you can do so easily! Here we use the `
 100 points!
 ```
 
-### Listen for Loomio events
-Loomio emits all kinds of events as things happen within the app. Most service methods (the files living in `app/services`) will emit events, as well as when new Event instances are created (`app/models/events`). In order to listen to these events, you can use the `use_events` method, which will supply you an instance of our EventBus to apply listeners to.
+### Listen for Diehard_Fund events
+Diehard_Fund emits all kinds of events as things happen within the app. Most service methods (the files living in `app/services`) will emit events, as well as when new Event instances are created (`app/models/events`). In order to listen to these events, you can use the `use_events` method, which will supply you an instance of our EventBus to apply listeners to.
 
 Parameters passed through these events vary a little based on the event, but the following rules of thumb apply:
 
@@ -158,7 +158,7 @@ This will make your component available within the app.
 
 ### Add routes to the angular app
 
-If you're adding an entirely new page to Loomio, you'll need to add a route in order to allow us to
+If you're adding an entirely new page to Diehard_Fund, you'll need to add a route in order to allow us to
 navigate to your new page properly. To do this, use the `use_client_route` command
 
 ```ruby
@@ -177,14 +177,14 @@ So now we can simply write our controller code as normal:
       kickflip_page.coffee
 ```
 
-For examples on how to write page controllers (which are subtly different from regular components), check out [thread_page_controller.coffee](https://github.com/loomio/loomio/blob/master/angular/core/components/thread_page/thread_page_controller.coffee) or [group_page_controller.coffee](https://github.com/loomio/loomio/blob/master/angular/core/components/group_page/group_page_controller.coffee) in the core Loomio repo.
+For examples on how to write page controllers (which are subtly different from regular components), check out [thread_page_controller.coffee](https://github.com/diehard_fund/diehard_fund/blob/master/angular/core/components/thread_page/thread_page_controller.coffee) or [group_page_controller.coffee](https://github.com/diehard_fund/diehard_fund/blob/master/angular/core/components/group_page/group_page_controller.coffee) in the core Diehard_Fund repo.
 
 _NB: you don't need to call `use_component` as well, calling `use_client_route` will do this for you!)_
 
 ### Attach components to outlets in the Angular interface
 Now that the component is loaded into our angular app, how to make it appear on the interface?
 
-There are several outlets in the loomio angular interface which you can attach components to. They look like this:
+There are several outlets in the diehard_fund angular interface which you can attach components to. They look like this:
 
 ```haml
   %outlet{name: "before-motion-description"}
@@ -204,7 +204,7 @@ If you want to make an angular something which isn't a component (like a filter 
 
 ```coffee
   # services/kickflip_filter.coffee
-  angular.module('loomioApp').filter 'kickflipFilter', ->
+  angular.module('diehard_fundApp').filter 'kickflipFilter', ->
     (text) ->
       "#{text} for 100 points!!"
 ```
@@ -230,7 +230,7 @@ As of Angular 1.4, there is some decent support for adding custom code to existi
 6. Return our newly modified controller instance
 
 ```coffee
-angular.module('loomioApp').config ($provide) -> # 1
+angular.module('diehard_fundApp').config ($provide) -> # 1
   $provide.decorator 'kickflipDirective', ($delegate) -> # 2
     directive = _.first($delegate) # $delegate is an array here :/
     directive.compile = ->
@@ -259,7 +259,7 @@ Here's what a simple implementation might look like, given we've got a `Kickflip
 
 We can update this method with the following:
 ```coffee
-angular.module('loomioApp').config ($provide) -> # 1
+angular.module('diehard_fundApp').config ($provide) -> # 1
   $provide.decorator '$controller', ($delegate, Session) -> # 2
      ->
       ctrl = $delegate arguments... # 3
@@ -276,8 +276,8 @@ Now, when our KickflipPageController calls `kickflip()`, we get "100 points, and
 
 ##### Add vanilla rails views
 
-While it's not encouraged, it is possible to add vanilla rails views to your Loomio instance.
-(We do this for things like the about page, or the terms of service page on loomio.org)
+While it's not encouraged, it is possible to add vanilla rails views to your Diehard_Fund instance.
+(We do this for things like the about page, or the terms of service page on diehard_fund.org)
 
 In order to add a page to your app, use `plugin.use_page`, passing it a view and a controller action.
 
@@ -290,7 +290,7 @@ For example, given a view in `kickflip/views/kickflip.html.erb`, we could write
 
 ##### Add redirects to external pages
 
-Have an external blog, forum, or other page you'd like to link from within your loomio? Try the `redirect` option on `use_page`, and pass through an absolute URL to redirect to.
+Have an external blog, forum, or other page you'd like to link from within your diehard_fund? Try the `redirect` option on `use_page`, and pass through an absolute URL to redirect to.
 
 ```ruby
   # have /blog point to an external url
@@ -355,7 +355,7 @@ If you need a spot in the database to store all the cool stuff your plugin is do
 ```
 Note that `do` block can accept anything you'd put in a typical `create_table` block in a migration
 
-Also note that while you can add new tables to the schema, we don't support modifying the existing tables in Loomio core via plugin.
+Also note that while you can add new tables to the schema, we don't support modifying the existing tables in Diehard_Fund core via plugin.
 
 ### Add routes
 If your plugin needs to communicate between the client and server side, you'll want to set up a route.
@@ -432,7 +432,7 @@ GITHUB_PASSWORD=my_password
 
 ##### Marking a plugin as an experiment
 
-On Loomio.org, we have plugins that we'd like to try out in a production environment,
+On Diehard_Fund.org, we have plugins that we'd like to try out in a production environment,
 but might not be ready for all of our users to see just yet. To enable this, we've
 added the ability to mark some plugins as 'experimental', which means they will
 only be loaded for groups who have opted in to see our mad science.
@@ -442,7 +442,7 @@ to the plugin's entry in `plugins.yml`, like so:
 
 ```yaml
 kickflip:
-  repo:         loomio/kickflip
+  repo:         diehard_fund/kickflip
   branch:       master
   experimental: true
 ```
@@ -454,7 +454,7 @@ you can provide the config with a list of 'plans', like so:
 
 ```yaml
 kickflip:
-  repo:     loomio/kickflip
+  repo:     diehard_fund/kickflip
   plans:
     - standard
     - plus
@@ -485,7 +485,7 @@ behaves, those changes will take place across the entire instance.
 
 ### Add user permissions
 
-For most of the actions that occur in Loomio, you'll want to ensure that the current user is able to perform that action. We use [cancan](), and store our permissions in the `app/models/ability.rb` file.
+For most of the actions that occur in Diehard_Fund, you'll want to ensure that the current user is able to perform that action. We use [cancan](), and store our permissions in the `app/models/ability.rb` file.
 
 Unfortunately, overwriting this file directly isn't an option, but you can add new abilities by overriding the `add_additional_abilities` method, like so:
 
@@ -498,7 +498,7 @@ end
 ```
 
 ### Add tests
-The official Loomio plugins will all have just the right amount of tests, and so can you!
+The official Diehard_Fund plugins will all have just the right amount of tests, and so can you!
 
 ##### RSpec tests
 
@@ -529,7 +529,7 @@ end
 
 ##### End to end testing
 
-Loomio uses [protractor](http://github.com/angular/protractor), which is a framework for running automated tests on Angular. We use a very simple DSL to write these tests; you can look at examples in `angular/test/protractor`
+Diehard_Fund uses [protractor](http://github.com/angular/protractor), which is a framework for running automated tests on Angular. We use a very simple DSL to write these tests; you can look at examples in `angular/test/protractor`
 
 In order to write angular tests in your application, add a file that follows the pattern `*_spec.coffee` anywhere in your plugin. (Such as `plugins/kickflip/test/kickflip_spec.coffee`). You can then write angular specs in there as in the main repo (and they will be run by our CI.)
 

@@ -1,6 +1,6 @@
-angular.module('loomioApp').factory 'AppConfig', ->
-  configData = if window? and window.Loomio?
-                 window.Loomio
+angular.module('diehard_fundApp').factory 'AppConfig', ->
+  configData = if window? and window.Diehard_Fund?
+                 window.Diehard_Fund
                else
                  {bootData: {}, permittedParams: {}}
 

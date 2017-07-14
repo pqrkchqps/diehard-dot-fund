@@ -1,4 +1,4 @@
-Check out this blog story about [Translating Loomio](http://blog.loomio.org/2013/10/01/translating-loomio-2/) for some more context + guidelines for translators.
+Check out this blog story about [Translating Diehard_Fund](http://blog.diehard_fund.org/2013/10/01/translating-diehard_fund-2/) for some more context + guidelines for translators.
 
 ***
 **How to make your feature translation-ready**
@@ -6,7 +6,7 @@ Check out this blog story about [Translating Loomio](http://blog.loomio.org/2013
 Note: In addition to this guide, I highly recommend reading the [Rails I18n documentation](http://guides.rubyonrails.org/i18n.html) for a good introduction to the technology.
 
 
-All you need to do is pull out any static text from the views, and put them in a locale configuration (config/locale/en.yml) file. This file is automatically synced up to translation management platform [Transifex](http://transifex.com/projects/p/loomio-1/).
+All you need to do is pull out any static text from the views, and put them in a locale configuration (config/locale/en.yml) file. This file is automatically synced up to translation management platform [Transifex](http://transifex.com/projects/p/diehard_fund-1/).
 
 So for instance, if you open app/views/help/_how_it_works.html.haml, you’ll see this line
 ```haml
@@ -100,4 +100,4 @@ When a language has been completed to a first draft stage, the yml file should b
 ```
 EXPERIMENTAL_LANGUAGES = {"română" => "ro"}
 ```
-Now the translator is directed to view loomio.org/?locale=ro, which will give them access to the Romanian version of the site, without giving that option to the average user. This gives them the chance to make any final changes before we move it out of `EXPERIMENTAL_LANGUAGES` and into the fully supported `LANGUAGES` list.
+Now the translator is directed to view diehard_fund.org/?locale=ro, which will give them access to the Romanian version of the site, without giving that option to the average user. This gives them the chance to make any final changes before we move it out of `EXPERIMENTAL_LANGUAGES` and into the fully supported `LANGUAGES` list.

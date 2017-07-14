@@ -7,7 +7,7 @@ class BaseMailer < ActionMailer::Base
   add_template_helper(PrettyUrlHelper)
 
   NOTIFICATIONS_EMAIL_ADDRESS = "info@#{ENV['SMTP_DOMAIN']}"
-  default :from => "Loomio <#{NOTIFICATIONS_EMAIL_ADDRESS}>"
+  default :from => "Diehard_Fund <#{NOTIFICATIONS_EMAIL_ADDRESS}>"
   before_action :utm_hash
 
   protected
@@ -16,11 +16,11 @@ class BaseMailer < ActionMailer::Base
   end
 
   def email_subject_prefix(group_name)
-    "[Loomio: #{group_name}]"
+    "[Diehard_Fund: #{group_name}]"
   end
 
-  def from_user_via_loomio(user)
-    "\"#{user.name} (Loomio)\" <#{NOTIFICATIONS_EMAIL_ADDRESS}>"
+  def from_user_via_diehard_fund(user)
+    "\"#{user.name} (Diehard_Fund)\" <#{NOTIFICATIONS_EMAIL_ADDRESS}>"
   end
 
   def send_single_mail(locale: , to:, subject_key:, subject_params: {}, **options)

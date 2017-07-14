@@ -1,4 +1,4 @@
-Start with a [Basic server setup](https://github.com/loomio/loomio/wiki/Basic-VPS-setup) with [a deploy user added](https://github.com/loomio/loomio/wiki/Add-a-deploy-user-to-your-host). Give this host a domain record such as: `smtp.loomio.example.com`
+Start with a [Basic server setup](https://github.com/diehard_fund/diehard_fund/wiki/Basic-VPS-setup) with [a deploy user added](https://github.com/diehard_fund/diehard_fund/wiki/Add-a-deploy-user-to-your-host). Give this host a domain record such as: `smtp.diehard_fund.example.com`
 
 Install docker. This command adds the latest docker apt repositories to the system and installs docker via apt.
 
@@ -10,8 +10,8 @@ Use your DNS hosting interface (we use cloudflare) to add an SPF record:
 
 ```
 Type: TXT
-Name: loomio.example.com
-Value: v=spf1 a:smtp.loomio.example.com a:loomio.example.org ~all
+Name: diehard_fund.example.com
+Value: v=spf1 a:smtp.diehard_fund.example.com a:diehard_fund.example.org ~all
 ```
 
 Pull the docker image down. Be sure to check out the [docker-postfix github page](https://github.com/catatnight/docker-postfix) to find out more about this container.
@@ -31,14 +31,14 @@ deploy@smtp:~/tlscerst$ sudo openssl req -x509 -nodes \
 You can use default values (ie: hit enter) for everything except Common Name
 
 ```
-Common Name (e.g. server FQDN or YOUR name) []: smtp.loomio.example.com
+Common Name (e.g. server FQDN or YOUR name) []: smtp.diehard_fund.example.com
 ```
 
 Decide on username and password to authenticate the sender. In this case we're using `loomailo` and `passwordio`
 
 ```
 sudo docker run -p 587:587 \
-                -e maildomain=smtp.loomio.example.com -e smtp_user=loomailo:passwordio \
+                -e maildomain=smtp.diehard_fund.example.com -e smtp_user=loomailo:passwordio \
                 -v /home/deploy/tlscerts:/etc/postfix/certs \
                 --name postfix -d catatnight/postfix
 ```

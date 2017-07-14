@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'focusOn', ->
+angular.module('diehard_fundApp').directive 'focusOn', ->
   (scope, elem, attr) ->
     console.log "elem"
     scope.$on attr.focusOn, (e) ->

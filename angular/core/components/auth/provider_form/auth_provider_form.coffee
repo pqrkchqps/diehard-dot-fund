@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'authProviderForm', ->
+angular.module('diehard_fundApp').directive 'authProviderForm', ->
   scope: {user: '='}
   templateUrl: 'generated/components/auth/provider_form/auth_provider_form.html'
   controller: ($scope, $window, AppConfig) ->

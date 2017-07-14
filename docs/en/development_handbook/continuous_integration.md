@@ -1,24 +1,24 @@
-This describes the current continuous integration setup of Loomio
+This describes the current continuous integration setup of Diehard_Fund
 
 # Continuous Integration
 
 ### Environments
 
-##### Loomio Clone
-[http://loomioclone.org](http://loomioclone.org)
+##### Diehard_Fund Clone
+[http://diehard_fundclone.org](http://diehard_fundclone.org)
 
-Loomio clone is an environment designed to mirror the production environment as much as possible. It will have a snapshot of a recent production database, and will have the latest commit of master for which the tests have passed.
+Diehard_Fund clone is an environment designed to mirror the production environment as much as possible. It will have a snapshot of a recent production database, and will have the latest commit of master for which the tests have passed.
 
-Emails on Loomio Clone will be intercepted and sent to `interceptor@loomio-clone.org`, one per batch action. (This is to prevent real users receiving emails from a staging environment)
+Emails on Diehard_Fund Clone will be intercepted and sent to `interceptor@diehard_fund-clone.org`, one per batch action. (This is to prevent real users receiving emails from a staging environment)
 
-##### Loomio Test
-[http://loomiotest.org](http://loomiotest.org)
+##### Diehard_Fund Test
+[http://diehard_fundtest.org](http://diehard_fundtest.org)
 
-Loomio test is an environment designed for private user testing, ie of a premium feature, a new release or workflow, etc.
+Diehard_Fund test is an environment designed for private user testing, ie of a premium feature, a new release or workflow, etc.
 It does not have a production-like database, and will all emails normally. (This is designed to allow testers to mimic going through particular workflows as seamlessly as possible.)
 The data stored there should not be relied on to remain for longer than a few weeks. (We will likely clear it out periodically)
 
-Loomio test is tied to the `user-testing` branch in github. Pushing to the `user-testing` branch will cause the CI to run tests, and deploy if they pass.
+Diehard_Fund test is tied to the `user-testing` branch in github. Pushing to the `user-testing` branch will cause the CI to run tests, and deploy if they pass.
 
 **It's okay to force push to this branch.** We're not looking to maintain a history, but rather to be able to swap out branches to test as seamlessly as possible.
 

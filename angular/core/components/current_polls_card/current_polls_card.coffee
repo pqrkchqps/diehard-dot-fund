@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'currentPollsCard', (Records, LoadingService, ModalService, PollCommonStartModal) ->
+angular.module('diehard_fundApp').directive 'currentPollsCard', (Records, LoadingService, ModalService, PollCommonStartModal) ->
   scope: {model: '='}
   templateUrl: 'generated/components/current_polls_card/current_polls_card.html'
   controller: ($scope) ->

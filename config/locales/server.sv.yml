@@ -11,34 +11,34 @@ sv:
     by_who: av %{person}
     reply_to_this_discussion: Svara på denna diskussion
     to_join_discussion:
-      subject: "%{who} vill att du går med en diskussion i Loomio"
+      subject: "%{who} vill att du går med en diskussion i Diehard_Fund"
       content: 'Du har blivit inbjuden att delta i diskussionen: %{discussion}'
       message_intro: "%{who} säger:"
       link: Gå med i diskussionen
     to_join_group:
-      subject: "%{member} har bjudit in dig att gå med i  %{group_name} på Loomio"
+      subject: "%{member} har bjudit in dig att gå med i  %{group_name} på Diehard_Fund"
     to_start_group:
-      subject: "Starta din nya Loomiogrupp: %{group_name}"
+      subject: "Starta din nya Diehard_Fundgrupp: %{group_name}"
     unsubscribe: 'Avregistrera dig eller ändra dina e-postinställningar:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> för att avregistrera eller ändra dina emailinställnignar."
-    view_comment: Klicka här för att se kommentaren på Loomio
+    view_comment: Klicka här för att se kommentaren på Diehard_Fund
     view_discussion: Klicka här för att se denna diskussionen
-    view_proposal: Visa detta förslag på Loomio
+    view_proposal: Visa detta förslag på Diehard_Fund
     create_proposal:
-      intro: Ett nytt förslag skapades i en Loomiogrupp som du är med i.
+      intro: Ett nytt förslag skapades i en Diehard_Fundgrupp som du är med i.
       closes_in: Stänger om
       subject: 'Nytt förslag: %{which}'
     daily_activity:
-      heading: Dina aktiviter i Loomio
-      intro: Visar dig vad som har hänt i dina Loomiogrupper under de senaste 24 timmarna
-      subject: Loomio - Sammanställning för de senaste 24 timmarna
+      heading: Dina aktiviter i Diehard_Fund
+      intro: Visar dig vad som har hänt i dina Diehard_Fundgrupper under de senaste 24 timmarna
+      subject: Diehard_Fund - Sammanställning för de senaste 24 timmarna
     missed_yesterday:
-      subject: I går på Loomio
+      subject: I går på Diehard_Fund
       mark_as_read: Markera som läst
       thanks_for_reading: Tack för läsning, ha en bra dag!
       marked_as_read_success: Allt från mail har markerats som läst
     membership_request:
-      intro: "%{name} (%{email}) har begärt att få tillgång till en av dina Loomiogrupper."
+      intro: "%{name} (%{email}) har begärt att få tillgång till en av dina Diehard_Fundgrupper."
       subject: "%{who} har begärt att få gå med %{which_group}"
       view_group: Du kan godkänna eller avslå begäran här
     new_motion_created:

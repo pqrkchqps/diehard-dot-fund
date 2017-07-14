@@ -1,4 +1,4 @@
-Setting up a slack integration to notify you and your team of new events in Loomio is easy. Here are the steps:
+Setting up a slack integration to notify you and your team of new events in Diehard_Fund is easy. Here are the steps:
 
 - Visit `https://<your-team-name>.slack.com/services/new/incoming-webhook/`
 - Select the channel you'd like the posts to go into, and click 'Add Incoming Webhooks Integration'

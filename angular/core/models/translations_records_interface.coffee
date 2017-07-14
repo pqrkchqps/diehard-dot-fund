@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'TranslationRecordsInterface', (BaseRecordsInterface, TranslationModel) ->
+angular.module('diehard_fundApp').factory 'TranslationRecordsInterface', (BaseRecordsInterface, TranslationModel) ->
   class TranslationRecordsInterface extends BaseRecordsInterface
     model: TranslationModel
 

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonCardHeader', ->
+angular.module('diehard_fundApp').directive 'pollCommonCardHeader', ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/card_header/poll_common_card_header.html'
   controller: ($scope, AbilityService, PollService) ->

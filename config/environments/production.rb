@@ -1,4 +1,4 @@
-Loomio::Application.configure do
+Diehard_Fund::Application.configure do
   config.log_level = :info
 
   # Code is not reloaded between requests

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'barChart', (AppConfig) ->
+angular.module('diehard_fundApp').directive 'barChart', (AppConfig) ->
   template: '<div class="bar-chart"></div>'
   replace: true
   scope:

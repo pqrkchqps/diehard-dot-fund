@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'DeleteCommentForm', ->
+angular.module('diehard_fundApp').factory 'DeleteCommentForm', ->
   templateUrl: 'generated/components/thread_page/comment_form/delete_comment_form.html'
   controller: ($scope, $rootScope, Records, comment) ->
     $scope.comment = comment

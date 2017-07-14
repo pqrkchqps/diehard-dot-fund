@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'groupForm', ->
+angular.module('diehard_fundApp').directive 'groupForm', ->
   scope: {group: '='}
   templateUrl: 'generated/components/group/form/group_form.html'
   controller: ($scope, $location, KeyEventService, LmoUrlService, FormService, Records, PrivacyString) ->

@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'PollPageController', ($scope, $rootScope, $routeParams, CommunityService, MessageChannelService, Records, $location, ModalService, PollService, PollCommonOutcomeModal, PollCommonEditVoteModal, AddCommunityModal, PollCommonShareModal, Session) ->
+angular.module('diehard_fundApp').controller 'PollPageController', ($scope, $rootScope, $routeParams, CommunityService, MessageChannelService, Records, $location, ModalService, PollService, PollCommonOutcomeModal, PollCommonEditVoteModal, AddCommunityModal, PollCommonShareModal, Session) ->
   $rootScope.$broadcast('currentComponent', { page: 'pollPage', skipScroll: true })
 
   @init = (poll) =>

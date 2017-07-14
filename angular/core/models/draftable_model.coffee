@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'DraftableModel', (BaseModel) ->
+angular.module('diehard_fundApp').factory 'DraftableModel', (BaseModel) ->
   class DraftableModel extends BaseModel
     @draftParent: 'undefined'
 

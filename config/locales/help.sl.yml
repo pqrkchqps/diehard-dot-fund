@@ -1,6 +1,6 @@
 sl:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Ustvari skupino
       invite_people_link: Povabi še koga
       start_discussion_link: Začni razpravo
@@ -64,7 +64,7 @@ sl:
           mute_title: Neslišno
       email_settings:
         title: Email nastavitve
-      yesterday_on_loomio:
+      yesterday_on_diehard_fund:
         title: Včeraj na Loomiu
     user_profile:
       account_deactivation:

@@ -1,7 +1,7 @@
 require 'yaml'
-module Loomio
+module Diehard_Fund
   class I18n
-    config = YAML.load_file(Rails.root.join('config', 'loomio_i18n.yml'))['loomio_i18n']
+    config = YAML.load_file(Rails.root.join('config', 'diehard_fund_i18n.yml'))['diehard_fund_i18n']
 
     SELECTABLE_LOCALES = Array(config['selectable_locales']).map(&:to_sym)
     DETECTABLE_LOCALES = Array(config['additional_detectable_locales']).map(&:to_sym) + SELECTABLE_LOCALES

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'membersCard', ->
+angular.module('diehard_fundApp').directive 'membersCard', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/members_card/members_card.html'

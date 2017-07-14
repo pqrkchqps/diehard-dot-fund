@@ -30,7 +30,7 @@ gl:
       no_invitations_remaining: Non fican invitacións
     mailer:
       invitation_instructions:
-        subject: Alguén invitoute a uníreste ao seu grupo de Loomio
+        subject: Alguén invitoute a uníreste ao seu grupo de Diehard_Fund
     registrations:
       sign_up: Crea unha conta
   error:
@@ -73,7 +73,7 @@ gl:
     new_contacts_imported: Correcto! Podes escribir os nomes no campo inferior e nós suxeriremos os enderezos de correo.
     admin_rights_removed: Elimináronse os dereitos de coordenador/a de %{which_user}.
     user_added: Engadiuse a %{user_email_or_name} ao grupo.
-    new_user_added: Engadirase a %{user_email_or_name} ao grupo despois de que creen unha conta en Loomio.
+    new_user_added: Engadirase a %{user_email_or_name} ao grupo despois de que creen unha conta en Diehard_Fund.
     member_removed: Membro eliminado/a.
     membership_approved: Entrada aprobada.
     membership_request_canceled: Solicitude de entrada cancelada.
@@ -167,7 +167,7 @@ gl:
         one: 1 ano
         other: "%{count} anos"
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: Mostrar / Ocultar Navegación
   inbox:
@@ -204,15 +204,15 @@ gl:
   find_a_group_hint: Explorar grupos públicos
   search_for_group: Busca un grupo
   no_groups_found: Ningún grupo atopado con este nome
-  no_group_header: Benvido a Loomio Beta
+  no_group_header: Benvido a Diehard_Fund Beta
   empty_notifications: Non tes notificacións neste momento
   see_all_notifications: Ver todas as notificacións
   sign_out: Pechar sesión
   sign_in: Identifícate
   honeypot_warning: Non se ouido acceder á túa conta. Se usas un lector de pantallas, por favor, asegúrate de que o último campo (oculto) do formulario está en branco.
   tagline: Creando un mundo onde é fácil para todas participar das decisións que nos afectan.
-  or_sign_in_html: Se xa tes unha conta de Loomio, <a href='%{link}' class='%{link_class}'>identifícate aquí</a>
-  or_link_account_html: Se xa tes conta en Loomio, <a href='%{link}'>fai que se vinculen</a>
+  or_sign_in_html: Se xa tes unha conta de Diehard_Fund, <a href='%{link}' class='%{link_class}'>identifícate aquí</a>
+  or_link_account_html: Se xa tes conta en Diehard_Fund, <a href='%{link}'>fai que se vinculen</a>
   click_to_dismiss: Fai clic aquí para descartar esta mensaxe
   generic_confirm: Estás seguro?
   discussion_helper_text:
@@ -245,7 +245,7 @@ gl:
       info_title: Que significa a desactivación da túa conta?
       memberships: Xa non serás listado como membro en calquera dos grupos aos que pertences na actualidade.
       group_contributions: Os comentarios, propostas e debates que fagas nos grupos permanecerán, pero borraremos o teu nome deles.
-      emails: Deixaremos de mandarche correos relacionados con Loomio.
+      emails: Deixaremos de mandarche correos relacionados con Diehard_Fund.
   group_form:
     name: Nome do grupo
     description: Descripción
@@ -461,8 +461,8 @@ gl:
     comment_changes: Comentar trocos
     edit_comment: Editar commentario
   help:
-    coordinating: Coordinando o teu grupo de Loomio
-    different_ways: Formas diferentes de empregar Loomio
+    coordinating: Coordinando o teu grupo de Diehard_Fund
+    different_ways: Formas diferentes de empregar Diehard_Fund
     getting_started: Comezando
     have_a_discussion: Ter un debate
     have_a_discussion_description: O asunto e calquera información relevante van no alto da páxina. Usa a caixa de comentario para dicir algo no debate.
@@ -482,7 +482,7 @@ gl:
   contribution:
     submit: Cooperar
     thought_about_contributing: A túa oportunidade de cooperar
-    thank_you_title: Grazas por cooperar con Loomio!
+    thank_you_title: Grazas por cooperar con Diehard_Fund!
     making_a_donation: Facer doazón
   new_password: Novo contrasinal
   confirm_new_password: Confirmar contrasinal
@@ -505,7 +505,7 @@ gl:
   or_fill_in_this_form: ou cubre neste formulario
   confirm_your_details: Confirme os detalles
   link_up_your_account: Enlace a súa conta
-  create_an_account_html: Crear unha conta Beta en Loomio
+  create_an_account_html: Crear unha conta Beta en Diehard_Fund
   log_in: Iniciar sesión
   join_group:
     log_in: Inicie sesión para unirse a %{group_name}
@@ -514,7 +514,7 @@ gl:
     create_account: Cree unha conta, por favor
   invitation:
     by_email: Convidar por correo electrónico
-    subject: Únete ó noso novo grupo de Loomio %{group}, por favor
+    subject: Únete ó noso novo grupo de Diehard_Fund %{group}, por favor
     invite_people: Convidar xente ó teu grupo
     invite_to_discussion: Convidar xente a este debate
     select_members: Engadir de %{group_name}
@@ -569,10 +569,10 @@ gl:
   group_setup:
     set_up_your_group: Configura o teu grupo
     desc_header: Case estás!
-    desc_html: 'Como coordinador de grupo, es o responsable de preparar e manter o teu grupo Loomio. Logo de seleccionar unhas opcións, podes ir ao teu novo grupo, comezar un debate ou dous, e enviar algunha invitación! <p>Cando penses nun xeito sinxelo de describir o teu grupo, pregúntache: Que queres que acaden xuntos? Que tipos de decisións tomaredes? Quen vai estar implicado?</p>'
+    desc_html: 'Como coordinador de grupo, es o responsable de preparar e manter o teu grupo Diehard_Fund. Logo de seleccionar unhas opcións, podes ir ao teu novo grupo, comezar un debate ou dous, e enviar algunha invitación! <p>Cando penses nun xeito sinxelo de describir o teu grupo, pregúntache: Que queres que acaden xuntos? Que tipos de decisións tomaredes? Quen vai estar implicado?</p>'
     submit: Lévame ó meu grupo!
     payment_model:
-      header: Loomio é para toda a xente!
+      header: Diehard_Fund é para toda a xente!
       link: Atopar máis
   simple_form:
     'yes': Si
@@ -609,14 +609,14 @@ gl:
       user:
         create: Crear conta
         update: Actualizar configuración
-  about_loomio: Sobre Loomio
+  about_diehard_fund: Sobre Diehard_Fund
   ago: van %{quantity_of_time}
   approve: Dar o visto bo
   author: Autor/a
   back: Volver
   cancel: Cancelar
   change: Cmabiar
-  change_language: Picha aquí para usar Loomio en %{language}
+  change_language: Picha aquí para usar Diehard_Fund en %{language}
   changing: Cambiando
   click_here: Pincha aquí
   close: Pechar
@@ -650,7 +650,7 @@ gl:
   pricing: Custo
   prev: Ant.
   more: Máis...
-  translate: Axudar a traducir Loomio!
+  translate: Axudar a traducir Diehard_Fund!
   translate_field: Ver tradución
   loading_translation: Cargando tradución...
   translate_this_string: Traducir ó %{language}

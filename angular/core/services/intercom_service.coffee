@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'IntercomService', ($rootScope, $window, AppConfig, Session, LmoUrlService) ->
+angular.module('diehard_fundApp').factory 'IntercomService', ($rootScope, $window, AppConfig, Session, LmoUrlService) ->
   lastGroup = {}
 
   mapGroup = (group) ->

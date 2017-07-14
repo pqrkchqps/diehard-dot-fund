@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'AuthModal', (AuthService, Records, AppConfig) ->
+angular.module('diehard_fundApp').factory 'AuthModal', (AuthService, Records, AppConfig) ->
   templateUrl: 'generated/components/auth/modal/auth_modal.html'
   controller: ($scope, preventClose) ->
     $scope.user = AuthService.applyEmailStatus Records.users.build(), AppConfig.pendingIdentity

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ThreadService', (Session, Records, ModalService, MuteExplanationModal, FlashService) ->
+angular.module('diehard_fundApp').factory 'ThreadService', (Session, Records, ModalService, MuteExplanationModal, FlashService) ->
   new class ThreadService
 
     mute: (thread) ->

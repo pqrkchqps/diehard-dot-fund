@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'EventModel', (BaseModel) ->
+angular.module('diehard_fundApp').factory 'EventModel', (BaseModel) ->
   class EventModel extends BaseModel
     @singular: 'event'
     @plural: 'events'

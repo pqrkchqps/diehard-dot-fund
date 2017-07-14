@@ -1,8 +1,8 @@
-## We're developing Loomio to be accessible to people who are blind.
+## We're developing Diehard_Fund to be accessible to people who are blind.
 
-Recently we started a collaboration with [David Best](http://davidbest.ca/), whose experience as a web developer and a blind individual has been invaluable in teaching us how to make Loomio work for people how are navigating the web without vision.
+Recently we started a collaboration with [David Best](http://davidbest.ca/), whose experience as a web developer and a blind individual has been invaluable in teaching us how to make Diehard_Fund work for people how are navigating the web without vision.
 
-We're developing guidelines specifically for the Loomio codebase. Please note none of this has been verified yet: while it may be a useful resource for your development project, please consult with a professional if you want to guarantee accessibility.
+We're developing guidelines specifically for the Diehard_Fund codebase. Please note none of this has been verified yet: while it may be a useful resource for your development project, please consult with a professional if you want to guarantee accessibility.
 
 ## Guidelines
 
@@ -12,7 +12,7 @@ The most basic place to start is to add `title`s to links, and `alt`s to images:
 
 So instead of `<a href: '/dashboard'>`, we use `<a href: '/dashboard', title: "Dashboard">`.
 
-(At the same time as we’re doing accessibility improvements, we’re also trying to support [33 languages](https://www.loomio.org/translation), so in reality instead of just plopping a string in like ‘Dashboard’, we would actually pass it to the translate filter.)
+(At the same time as we’re doing accessibility improvements, we’re also trying to support [33 languages](https://www.diehard_fund.org/translation), so in reality instead of just plopping a string in like ‘Dashboard’, we would actually pass it to the translate filter.)
 
 ### Indicate whether an element displays pop-up content with `aria-haspopup` and `aria-collapsed`
 
@@ -43,7 +43,7 @@ Where possible, we also try to exclude HTML elements that add unnecessary confus
 
 There’s some debate over the most accessibility strategy for handling headings in web apps. Ideally, every page should have a single H1, with nested H2’s, H3’s, H4’s underneath it in a logical tree structure.
 
-This is easy to do on a static document, but more complex in a web app because we want to distinguish chrome from content. We're still settling on the best solution for Loomio.
+This is easy to do on a static document, but more complex in a web app because we want to distinguish chrome from content. We're still settling on the best solution for Diehard_Fund.
 
 At a bare minimum standard, every page must have an H1. When a user jumps to the H1, they should know what page they are on, and be positioned at the top of the main content.
 
@@ -81,13 +81,13 @@ Modals should have a header with an h1. When a modal or popup is launched, the f
 
 The WCAG standards specify the required contrast ratio to ensure your text is legible.
 
-In Loomio there are two background colors, one for the page (we’re using a light grey #ebebeb), and one for the cards (we’re using white #fff). Our primary text color is near black (#262626), which has a really high contrast.
+In Diehard_Fund there are two background colors, one for the page (we’re using a light grey #ebebeb), and one for the cards (we’re using white #fff). Our primary text color is near black (#262626), which has a really high contrast.
 
 However, there are parts of the app where we want text to be de-emphasised, e.g. on a timestamp. This lower-priority text still needs to be legible, so we used the [WebAIM contrast checker](http://webaim.org/resources/contrastchecker/) to find the right colors. In the end we settled on one grey to be used on the white card background and a slightly darker grey to be used on the light grey page background.
 
 We have these colors defined in mixins.scss.
 
-![Colors used in Loomio](http://i.imgur.com/dRFmrET.png)
+![Colors used in Diehard_Fund](http://i.imgur.com/dRFmrET.png)
 
 ### Everything interactive should probably be a form
 ### Links + Buttons
@@ -101,4 +101,4 @@ If you are developing for accessibility, you should try using the web with a scr
 If you're on OSX, CMD+F5 opens [VoiceOver](https://www.apple.com/nz/accessibility/osx/voiceover/), the built-in screenreader. Probably the 'best in class' screenreader is [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) (Windows only). There are many free alternatives too, e.g. browser plugins.
 ## Partners
 
-The funding for this work has come from a crowdfunding campaign and a generous grant from the [Namaste Foundation](http://www.namaste.org/blog/collaborative-decision-making-with-loomio). We also work with accessibility consulting firms [U-R-Able](http://u-r-able.com) in North America and [AccEase](http://www.accease.com/) in New Zealand.
+The funding for this work has come from a crowdfunding campaign and a generous grant from the [Namaste Foundation](http://www.namaste.org/blog/collaborative-decision-making-with-diehard_fund). We also work with accessibility consulting firms [U-R-Able](http://u-r-able.com) in North America and [AccEase](http://www.accease.com/) in New Zealand.

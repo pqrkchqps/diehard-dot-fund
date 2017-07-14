@@ -15,7 +15,7 @@ class InvitePeopleMailer < BaseMailer
     @message_body = invitation.message
     send_single_mail to:   @invitation.recipient_email,
                      locale: locale,
-                     from: from_user_via_loomio(invitation.inviter),
+                     from: from_user_via_diehard_fund(invitation.inviter),
                      reply_to: invitation.inviter.name_and_email,
                      subject_key: subject_key,
                      subject_params: {member: @invitation.inviter.name, group_name: @invitation.invitable_name}

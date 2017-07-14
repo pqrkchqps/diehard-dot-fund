@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'DeactivationModal', ->
+angular.module('diehard_fundApp').factory 'DeactivationModal', ->
   templateUrl: 'generated/components/deactivation_modal/deactivation_modal.html'
   controller: ($scope, AbilityService, ModalService, DeactivateUserForm, OnlyCoordinatorModal) ->
 

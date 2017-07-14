@@ -1,4 +1,4 @@
-module LoomioI18n
+module Diehard_FundI18n
   # next write spec that confirms some file is translated correctly.
   # boose:
   #   some_key: 'ok'

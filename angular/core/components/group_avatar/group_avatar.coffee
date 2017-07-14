@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'groupAvatar', ->
+angular.module('diehard_fundApp').directive 'groupAvatar', ->
   scope: {group: '=', size: '@?'}
   restrict: 'E'
   templateUrl: 'generated/components/group_avatar/group_avatar.html'

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'threadLintel', ->
+angular.module('diehard_fundApp').directive 'threadLintel', ->
   restrict: 'E'
   templateUrl: 'generated/components/thread_lintel/thread_lintel.html'
   replace: true

@@ -1,6 +1,6 @@
 el:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Ξεκινήστε μια ομάδα
       invite_people_link: Προσκαλέστε άτομα
       invite_people_description: στην ομάδα σας
@@ -13,9 +13,9 @@ el:
     contents:
       getting_started:
         title_html: Ξεκινώντας
-        starting_new_group_html: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο Loomio
-        invited_into_group_html: Όταν έχετε προσκληθεί σε μια ομάδα στο Loomio
-        joining_existing_group_html: Όταν θέλετε να συμμετάσχετε σε μια υπάρχουσα ομάδα στο Loomio
+        starting_new_group_html: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο Diehard_Fund
+        invited_into_group_html: Όταν έχετε προσκληθεί σε μια ομάδα στο Diehard_Fund
+        joining_existing_group_html: Όταν θέλετε να συμμετάσχετε σε μια υπάρχουσα ομάδα στο Diehard_Fund
       group_settings:
         title_html: Ρυθμίσεις ομάδας
         group_profile_html: Προφίλ ομάδας
@@ -63,7 +63,7 @@ el:
       keeping_up_to_date:
         title_html: Παραμένοντας ενημερωμένοι
         volume_html: Ένταση
-        yesterday_on_loomio_html: "\"Εχτές στο Loomio\""
+        yesterday_on_diehard_fund_html: "\"Εχτές στο Diehard_Fund\""
         email_settings_html: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου
       user_profile:
         title_html: Το προφίλ σας
@@ -81,17 +81,17 @@ el:
       security:
         title_html: Απόρρητο και ασφάλεια
       contributing:
-        title_html: Συνεισφέροντας στο Loomio
-      loomio_community:
-        title_html: Η κοινότητα του Loomio
-      loomio_development:
-        title_html: Συμβαδίζοντας με την ανάπτυξη του Loomio
+        title_html: Συνεισφέροντας στο Diehard_Fund
+      diehard_fund_community:
+        title_html: Η κοινότητα του Diehard_Fund
+      diehard_fund_development:
+        title_html: Συμβαδίζοντας με την ανάπτυξη του Diehard_Fund
     getting_started:
       title: Ξεκινώντας
       starting_new_group:
-        title: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο Loomio
+        title: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο Diehard_Fund
       invited_into_group:
-        title: Όταν έχετε προσκληθεί σε μια ομάδα στο Loomio
+        title: Όταν έχετε προσκληθεί σε μια ομάδα στο Diehard_Fund
     group_settings:
       group_profile:
         title: Προφίλ ομάδας
@@ -192,8 +192,8 @@ el:
           mute_title: Σίγαση
       email_settings:
         title: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου
-      yesterday_on_loomio:
-        title: Χθες στο Loomio
+      yesterday_on_diehard_fund:
+        title: Χθες στο Diehard_Fund
     user_profile:
       title: Το προφίλ σας
       language_settings:
@@ -217,11 +217,11 @@ el:
     security:
       title: Απόρρητο και ασφάλεια
     contributing:
-      title: Συνεισφέροντας στο Loomio
+      title: Συνεισφέροντας στο Diehard_Fund
       body:
         translation:
           title_html: Μετάφραση
-        loomio_community:
-          title_html: Η κοινότητα του Loomio
-    loomio_community:
-      title: Η κοινότητα του Loomio
+        diehard_fund_community:
+          title_html: Η κοινότητα του Diehard_Fund
+    diehard_fund_community:
+      title: Η κοινότητα του Diehard_Fund

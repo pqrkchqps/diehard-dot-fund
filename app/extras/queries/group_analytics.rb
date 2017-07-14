@@ -59,7 +59,7 @@ class Queries::GroupAnalytics
     kind.to_s.classify.constantize
         .joins(:user)
         .where(id: events.where(kind: :"new_#{kind}").pluck(:eventable_id))
-        .where('users.email <> ?', ENV['HELPER_BOT_EMAIL'] || 'contact@loomio.org')
+        .where('users.email <> ?', ENV['HELPER_BOT_EMAIL'] || 'contact@diehard_fund.org')
   end
 
   def events

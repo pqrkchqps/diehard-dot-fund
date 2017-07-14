@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'RecordLoader', (Records) ->
+angular.module('diehard_fundApp').factory 'RecordLoader', (Records) ->
   class RecordLoader
     constructor: (opts = {}) ->
       @collection = opts.collection

@@ -18,7 +18,7 @@
 }
 
 .install-slack-progress__bar.active {
-  background: $loomio-orange;
+  background: $diehard_fund-orange;
   border-radius: 5px;
   transition: 0.25s all ease-in-out;
 }
@@ -40,10 +40,10 @@
 }
 
 .install-slack-progress__dot.complete {
-  background: $loomio-orange;
+  background: $diehard_fund-orange;
 }
 
 .install-slack-progress__dot.active label {
-  color: $loomio-orange;
+  color: $diehard_fund-orange;
   font-weight: bold;
 }

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'OnlyCoordinatorModal', ->
+angular.module('diehard_fundApp').factory 'OnlyCoordinatorModal', ->
   templateUrl: 'generated/components/only_coordinator_modal/only_coordinator_modal.html'
   controller: ($scope, $location, Session, LmoUrlService) ->
 

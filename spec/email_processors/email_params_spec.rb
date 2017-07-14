@@ -4,7 +4,7 @@ describe EmailParams do
   let(:user) { create :user }
   let(:group) { create :group }
   let(:discussion) { create :discussion }
-  let(:reply_host) { 'loomio.example.org' }
+  let(:reply_host) { 'diehard_fund.example.org' }
   let(:to_params) { {
     host: reply_host,
     token: "d=#{discussion.id}&u=#{user.id}&k=#{user.email_api_key}"

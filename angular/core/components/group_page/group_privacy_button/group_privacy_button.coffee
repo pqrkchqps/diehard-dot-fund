@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'groupPrivacyButton', ->
+angular.module('diehard_fundApp').directive 'groupPrivacyButton', ->
   restrict: 'E'
   templateUrl: 'generated/components/group_page/group_privacy_button/group_privacy_button.html'
   replace: true

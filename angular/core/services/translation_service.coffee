@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'TranslationService', ($translate) ->
+angular.module('diehard_fundApp').factory 'TranslationService', ($translate) ->
   new class TranslationService
 
     # this sucks atm, but I want to improve and reintroduce it.

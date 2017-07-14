@@ -7,8 +7,8 @@ ru:
     to_change_one_group: Для изменения громкости лишь одной из Ваших групп, посетите страницу этой группы.
     discussion_activity: Изменить громкость обсуждения, когда я участвую.
     discussion_activity_description: Когда вы участвуете в обсуждении, регулировка громкости изменяется на 'Громко', таким образом, вы будете получать e-mail о дальнейших событиях.
-    yesterday_on_loomio: Присылать мне e-mail с обзором событий каждый день
-    yesterday_on_loomio_description: Каждый день в 6 утра присылать мне e-mail о непрочитанных вчерашних событиях. Это отличный способ отслеживать ваши группы, и он содержит всё, что не заглушено.
+    yesterday_on_diehard_fund: Присылать мне e-mail с обзором событий каждый день
+    yesterday_on_diehard_fund_description: Каждый день в 6 утра присылать мне e-mail о непрочитанных вчерашних событиях. Это отличный способ отслеживать ваши группы, и он содержит всё, что не заглушено.
     email_when_mentioned: Присылать мне e-mail, когда я @упомянут
     email_when_mentioned_description: Когда кто-нибудь хочет привлечь Ваше внимание, они @упоминают Вас. Мы рекомендуем оставить эту установку отмеченной, таким образом, Вы будете получать e-mail об этих событиях.
     proposal_closing_soon: Присылать мне e-mail перед закрытием предложения
@@ -87,7 +87,7 @@ ru:
     new_contacts_imported: Сработало! Вы можете набрать имена в поле внизу и мы предложим адреса электронной почты.
     admin_rights_removed: 'Пользователь %{which_user} был лишен прав координатора. '
     user_added: "%{user_email_or_name} был добавлен к группе."
-    new_user_added: "%{user_email_or_name} будут добавлены в группу после того, как создадут аккаунт в Loomio."
+    new_user_added: "%{user_email_or_name} будут добавлены в группу после того, как создадут аккаунт в Diehard_Fund."
     member_removed: 'Участник удален. '
     membership_approved: 'Участие подтверждено. '
     membership_request_canceled: Заявка на участие отклонена.
@@ -211,7 +211,7 @@ ru:
         many: "%{count} лет"
         other: "%{count} лет"
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: Toggle navigation
   inbox:
@@ -252,7 +252,7 @@ ru:
   sign_in: Войти
   honeypot_warning: Не удалось создать учетную запись. Если Вы используете программу для чтения с экрана, пожалуйста, убедитесь, что последнее (скрытое) поле формы пустое.
   tagline: Создавая мир, в котором каждому легко принимать участие в принятии решений, влияющих на них.
-  or_link_account_html: Если у Вас уже есть учетная запись в Loomio, <a href='%{link}'>зайдите в него</a>
+  or_link_account_html: Если у Вас уже есть учетная запись в Diehard_Fund, <a href='%{link}'>зайдите в него</a>
   click_to_dismiss: Нажмите сюда, чтобы отклонить это сообщение
   generic_confirm: Вы уверены?
   discussion_helper_text:
@@ -282,7 +282,7 @@ ru:
       info_title: Что означает деактивация Вашей учетной записи?
       memberships: Вы больше не будете числиться членом ни в каких группах, к которым вы в настоящее время принадлежите.
       group_contributions: Комментарии, предложения и обсуждения, которые Вы делали в группах, останутся, но мы удалим из них Ваше имя .
-      emails: Мы прекратим направлять Вам электронные письма, относящиеся к Loomio.
+      emails: Мы прекратим направлять Вам электронные письма, относящиеся к Diehard_Fund.
   group_form:
     name: Название группы
     description: Описание
@@ -520,7 +520,7 @@ ru:
     edit_comment: Редактировать коментарий
   help:
     coordinating: Координация вашей группы
-    different_ways: Различные способы использовать Loomio
+    different_ways: Различные способы использовать Diehard_Fund
     get_in_touch: Оставаться на связи
     get_in_touch_description_html: Если у Вас есть вопросы или отзыв, <a href='%{link}'>черкните нам пару строк</a>.
     getting_started: С чего начать
@@ -534,8 +534,8 @@ ru:
     start_discussion: Начиная интересное обсуждение
     start_proposal: Написание понятного предложения
     video_tutorial: Видеоучебник
-    video_tutorial_description: Посмотрите видео, которое вкратце покажет, как использовать Loomio.
-    what_is_loomio: Что такое Loomio?
+    video_tutorial_description: Посмотрите видео, которое вкратце покажет, как использовать Diehard_Fund.
+    what_is_diehard_fund: Что такое Diehard_Fund?
   hint:
     context: Подсказки для использования контекстной панели
     discussion: Подсказки для начала увлекательного обсуждения
@@ -606,7 +606,7 @@ ru:
       user:
         create: Создать учетную запись
         update: Обновить настройки
-  about_loomio: О Loomio
+  about_diehard_fund: О Diehard_Fund
   ago: "%{quantity_of_time} назад"
   approve: Подтвердить
   author: Автор

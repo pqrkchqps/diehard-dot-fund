@@ -1,6 +1,6 @@
 ga-IE:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Cuir baicle ar bun
       invite_people_link: Tabhair cuirí do dhaoine
       start_discussion_link: Cuir tús le plé
@@ -57,5 +57,5 @@ ga-IE:
           mute_title: Gan fhuaim
       email_settings:
         title: Socruithe ríomhphoist
-      yesterday_on_loomio:
-        title: Inné ar Loomio
+      yesterday_on_diehard_fund:
+        title: Inné ar Diehard_Fund

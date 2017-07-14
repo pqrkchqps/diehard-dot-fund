@@ -53,7 +53,7 @@ module ApplicationHelper
     Redcarpet::Render::SmartyPants.render(output).html_safe
   end
 
-  def hosted_by_loomio?
+  def hosted_by_diehard_fund?
     false
   end
 

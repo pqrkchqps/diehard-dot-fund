@@ -1,5 +1,5 @@
 Feature: Close lapsed motions
-  As a computer running loomio
+  As a computer running diehard_fund
   In order to close motions at the time they are scheduled to close
   I close lapsed motions
 

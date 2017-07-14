@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonParticipantForm', ->
+angular.module('diehard_fundApp').directive 'pollCommonParticipantForm', ->
   scope: {stance: '='}
   templateUrl: 'generated/components/poll/common/participant_form/poll_common_participant_form.html'
   controller: ($scope, $location, AbilityService) ->

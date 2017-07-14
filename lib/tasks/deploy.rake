@@ -1,4 +1,4 @@
-# DEPLOYING LOOMIO
+# DEPLOYING DIEHARD_FUND
 # To run a full deploy simply run
 # `rake deploy`
 #
@@ -6,8 +6,8 @@
 # You can also specify the heroku remote, and the branch to be deployed, like so:
 # `rake deploy <remote> <branch>`
 #
-# So, running `rake deploy loomio-clone test-feature` will deploy the test-feature branch
-# to the heroku remote named loomio-clone
+# So, running `rake deploy diehard_fund-clone test-feature` will deploy the test-feature branch
+# to the heroku remote named diehard_fund-clone
 #
 # This script is also modular, meaning you can run any part of it individually.
 # The order of operations goes:
@@ -15,7 +15,7 @@
 # rake deploy:build        -- acquire plugins and build all clientside assets
 # rake deploy:commit       -- commit all non-repository code to a branch for pushing
 # rake deploy:push         -- push deploy branch to heroku
-# rake deploy:bump_version -- add a commit to master which bumps the current version (when deploying to loomio-production only)
+# rake deploy:bump_version -- add a commit to master which bumps the current version (when deploying to diehard_fund-production only)
 # rake deploy:heroku_reset -- run rake db:migrate on heroku, restart dynos, and notify clients of version update
 
 task :deploy do
@@ -61,7 +61,7 @@ namespace :deploy do
       "rake 'plugins:fetch[#{plugin_set}]' plugins:install",                             # install plugins specified in plugins/plugins.yml
       "rm -rf plugins/**/.git",                                                          # allow cloned plugins to be added to this repo
       "cd angular && yarn && node_modules/gulp/bin/gulp.js compile-fast && cd ../",    # build the app via gulp
-      "cp -r public/client/development public/client/#{Loomio::Version.current}"         # version assets
+      "cp -r public/client/development public/client/#{Diehard_Fund::Version.current}"         # version assets
     ]
   end
 
@@ -70,7 +70,7 @@ namespace :deploy do
     puts "Committing assets to deployment branch..."
     run_commands [
       "find plugins -name '*.*' | xargs git add -f",                                  # add plugins folder to commit
-      "git add public/client/#{Loomio::Version.current} public/client/fonts -f",      # add assets to commit
+      "git add public/client/#{Diehard_Fund::Version.current} public/client/fonts -f",      # add assets to commit
       "git commit -m 'Add compiled assets / plugin code'"                             # commit assets
     ]
   end
@@ -80,11 +80,11 @@ namespace :deploy do
     raise 'branch must be specified' unless branch = args[:branch]
     is_production_push = args[:is_production_push] == 'true'
 
-    puts "Bumping version from #{Loomio::Version.current}..."
+    puts "Bumping version from #{Diehard_Fund::Version.current}..."
     run_commands [
       "ruby script/bump_version.rb #{is_production_push ? 'patch' : 'test'}",
       "git add lib/version",
-      "git commit -m 'bump version to #{Loomio::Version.current}'",
+      "git commit -m 'bump version to #{Diehard_Fund::Version.current}'",
      ("git push origin #{branch}:master" if is_production_push)
     ]
   end

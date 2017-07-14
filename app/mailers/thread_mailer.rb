@@ -129,7 +129,7 @@ class ThreadMailer < BaseMailer
     end
 
     send_single_mail  to: @recipient.email,
-                      from: from_user_via_loomio(@author),
+                      from: from_user_via_diehard_fund(@author),
                       reply_to: reply_to_address_with_group_name(discussion: @discussion, user: @recipient),
                       subject_key: subject_key,
                       subject_params: subject_params,

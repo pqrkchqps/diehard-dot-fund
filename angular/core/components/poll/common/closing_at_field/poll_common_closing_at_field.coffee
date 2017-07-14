@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonClosingAtField', (AppConfig) ->
+angular.module('diehard_fundApp').directive 'pollCommonClosingAtField', (AppConfig) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/closing_at_field/poll_common_closing_at_field.html'

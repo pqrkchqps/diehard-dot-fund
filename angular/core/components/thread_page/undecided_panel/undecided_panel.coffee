@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'undecidedPanel', ->
+angular.module('diehard_fundApp').directive 'undecidedPanel', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/undecided_panel/undecided_panel.html'

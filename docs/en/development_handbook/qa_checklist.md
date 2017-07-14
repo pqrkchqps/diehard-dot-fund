@@ -1,4 +1,4 @@
-# Loomio QA checklist template
+# Diehard_Fund QA checklist template
 Copy this into the context panel of a QA thread.
 Deploy your feature branch to a public test environment, provide a link to the environment and give instructions about how to test the feature.
 
@@ -47,7 +47,7 @@ See the [a11y guide](accessibility.md) for more info.
 
 ## Production readyness
 - does the user help manual need updating?
-- deployment to loomio-clone ok
+- deployment to diehard_fund-clone ok
 - background jobs for things that take time or use external services.
 - intercom behaves correctly
 - google analytics records actions
@@ -55,8 +55,8 @@ See the [a11y guide](accessibility.md) for more info.
 - migrations have been tested on a copy of the production database
 
 ## Open source ready
-- The code does not contain any Loomio.org specific stuff
-- The design makes sense when used on domains other than loomio.org
+- The code does not contain any Diehard_Fund.org specific stuff
+- The design makes sense when used on domains other than diehard_fund.org
 
 ## Emails
 - Have as simple as can be HTML & CSS confirming to BEM where possible

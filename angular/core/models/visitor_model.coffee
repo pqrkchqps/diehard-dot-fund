@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'VisitorModel', (AppConfig, BaseModel) ->
+angular.module('diehard_fundApp').factory 'VisitorModel', (AppConfig, BaseModel) ->
   class VisitorModel extends BaseModel
     @singular: 'visitor'
     @plural: 'visitors'

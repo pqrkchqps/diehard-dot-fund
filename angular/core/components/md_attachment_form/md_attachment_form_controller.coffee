@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'MdAttachmentFormController', ->
+angular.module('diehard_fundApp').factory 'MdAttachmentFormController', ->
   ($scope, $element, Records) ->
     $scope.upload = ->
       $scope.model.setErrors({})

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'sidebar', ->
+angular.module('diehard_fundApp').directive 'sidebar', ->
   scope: false
   restrict: 'E'
   templateUrl: 'generated/components/sidebar/sidebar.html'
@@ -47,8 +47,8 @@ angular.module('loomioApp').directive 'sidebar', ->
       ThreadQueryService.filterQuery(['show_unread', 'only_threads_in_my_groups'], queryType: 'inbox').length()
 
     $scope.showContactUs = ->
-      # TODO: use loomio_org plugin to determine official site or not
-      AppConfig.baseUrl == 'https://www.loomio.org/'
+      # TODO: use diehard_fund_org plugin to determine official site or not
+      AppConfig.baseUrl == 'https://www.diehard_fund.org/'
 
     $scope.contactUs = ->
       IntercomService.contactUs()

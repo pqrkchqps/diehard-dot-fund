@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollMeetingTimeField', (TimeService) ->
+angular.module('diehard_fundApp').directive 'pollMeetingTimeField', (TimeService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/meeting/time_field/poll_meeting_time_field.html'
   controller: ($scope) ->

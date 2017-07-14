@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PollOptionModel', (BaseModel) ->
+angular.module('diehard_fundApp').factory 'PollOptionModel', (BaseModel) ->
   class PollOptionModel extends BaseModel
     @singular: 'pollOption'
     @plural: 'pollOptions'

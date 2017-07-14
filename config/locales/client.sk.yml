@@ -128,10 +128,10 @@ sk:
     email_label: 'Vaša emailová adresa'
     message_label: 'Vaša správa'
   help_page:
-    coordinating: 'Koordinácia vašej Loomio skupiny'
+    coordinating: 'Koordinácia vašej Diehard_Fund skupiny'
     coordinating_details: |
-      Ako koordinátor ste zodpovedný/á za konfiguráciu nastavení pre vašu Loomio skupinu a rozoslanie pozvánok do nej. Budete sa musieť aj naučiť používať túto aplikáciu a túto znalosť šíriť medzi členmi skupiny, aby boli funkcie ktoré aplikácia ponúka využívané efektívne. Tu je niekoľko tipov ktoré vám pomôžu v tejto úlohe:
-    different_ways: 'Rôzne spôsoby ako používať Loomio'
+      Ako koordinátor ste zodpovedný/á za konfiguráciu nastavení pre vašu Diehard_Fund skupinu a rozoslanie pozvánok do nej. Budete sa musieť aj naučiť používať túto aplikáciu a túto znalosť šíriť medzi členmi skupiny, aby boli funkcie ktoré aplikácia ponúka využívané efektívne. Tu je niekoľko tipov ktoré vám pomôžu v tejto úlohe:
+    different_ways: 'Rôzne spôsoby ako používať Diehard_Fund'
     example1_html: |
       <h3>Vaša skupina potrebuje dosiahnuť riešenie komplexného problému</h3>
       <p>Stratégia: Predtým než sformulujete návrh, diskutujte o probléme istý čas.</p>
@@ -164,9 +164,9 @@ sk:
     join_the_community: "Staňte sa súčasťou komunity"
     images_and_text_formatting: "Obrázky a formátovanie textu"
     images_and_text_formatting_html: |
-      <p>Loomio používa ‘Markdown’ formát na vkladanie obrázkov a formátovanie štýlu textu.
+      <p>Diehard_Fund používa ‘Markdown’ formát na vkladanie obrázkov a formátovanie štýlu textu.
       Do Markdown módu môžte prepnúť kliknutím na šedú ikonku pod poľom na vkladanie komentára.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>Kliknite sem</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Kliknite sem</a>
       ak sa chcete dozvedieť ako používať Markdown.</p>
     keep_up_to_date: "Zostaňte informovaný(a)"
     keep_up_to_date_html: |
@@ -197,7 +197,7 @@ sk:
       tak, že diskusia potrebuje viac času. Každý dostane email 24 hodín pred jej uzatvorením.</p>
     video_id: "52025402"
     video_tutorial: "Zobraziť tutoriál"
-    video_tutorial_description: "Pozrite si rýchlu ukážku toho, ako sa Loomio používa."
+    video_tutorial_description: "Pozrite si rýchlu ukážku toho, ako sa Diehard_Fund používa."
   hint:
     context: 'Rady pre používánie kontextového panelu'
     discussion: 'Rady na zahájenie pútavej diskusie'

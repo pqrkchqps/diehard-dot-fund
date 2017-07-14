@@ -7,8 +7,8 @@ pt-BR:
     to_change_one_group: Para alterar o volume de apenas um de seus grupos, visite a página do grupo.
     discussion_activity: Alterar o volume da discussão quando participo
     discussion_activity_description: Quando você participa de uma discussão, a definição do volume será alterado para 'Alto', então todas as atividade serão imediatamente enviadas para você.
-    yesterday_on_loomio: Envie-me um resumo da atividade de cada dia
-    yesterday_on_loomio_description: Todos os dias, às 06:00, envia um e-mail com a atividade não lida de ontem. Esta é uma ótima maneira de recuperar o atraso em seus grupos e contém tudo o que não está mudo.
+    yesterday_on_diehard_fund: Envie-me um resumo da atividade de cada dia
+    yesterday_on_diehard_fund_description: Todos os dias, às 06:00, envia um e-mail com a atividade não lida de ontem. Esta é uma ótima maneira de recuperar o atraso em seus grupos e contém tudo o que não está mudo.
     email_when_mentioned: Envie-me um email quando eu for @mencionado
     email_when_mentioned_description: Quando alguém quer chamar sua atenção, eles vão @mencionar você. Recomendamos que você deixe esta opção marcada para que receba um e-mail quando isso acontecer.
     proposal_closing_soon: Envie-me um e-mail antes de uma proposta encerrar
@@ -44,7 +44,7 @@ pt-BR:
       no_invitations_remaining: Não restam mais convites
     mailer:
       invitation_instructions:
-        subject: Alguém convidou você para um grupo no Loomio
+        subject: Alguém convidou você para um grupo no Diehard_Fund
     registrations:
       sign_up: Criar conta
     sessions:
@@ -91,7 +91,7 @@ pt-BR:
     new_contacts_imported: Funcionou! Você pode digitar nomes no campo abaixo e nós vamos sugerir o endereço de e-mail.
     admin_rights_removed: Privilégios de coordenador(a) de %{which_user} foram removidos.
     user_added: "%{user_email_or_name} foi adicionada(o) ao grupo."
-    new_user_added: "%{user_email_or_name} serão adicionados ao grupo após configurarem uma conta Loomio."
+    new_user_added: "%{user_email_or_name} serão adicionados ao grupo após configurarem uma conta Diehard_Fund."
     member_removed: Membro removido.
     membership_approved: Membro aprovado.
     membership_request_canceled: Solicitação de inclusão de membro cancelada.
@@ -188,7 +188,7 @@ pt-BR:
         one: 1 ano
         other: "%{count} anos"
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: Alternar navegação
   inbox:
@@ -229,15 +229,15 @@ pt-BR:
   find_a_group_hint: Para descobrir grupos públicos
   search_for_group: Procure por um grupo...
   no_groups_found: Nenhum grupo encontrado com esse nome!
-  no_group_header: Bem-vindo ao Loomio Beta
+  no_group_header: Bem-vindo ao Diehard_Fund Beta
   empty_notifications: Você ainda não tem notificações.
   see_all_notifications: Ver todas as notificações
   sign_out: Sair
   sign_in: Entrar
   honeypot_warning: Não foi possível criar sua conta. Se você está usando um leitor de tela, por favor assegure que o último campo (oculto) no formulário esteja em branco.
   tagline: Criando um mundo onde é fácil para qualquer um participar nas decisões que os afetam.
-  or_sign_in_html: Se você já tem uma conta Loomio, <a href='%{link}' class='%{link_class}'>faça o login aqui</a>
-  or_link_account_html: Se você já tem uma conta Loomio, <a href='%{link}'>contecte-a</a>
+  or_sign_in_html: Se você já tem uma conta Diehard_Fund, <a href='%{link}' class='%{link_class}'>faça o login aqui</a>
+  or_link_account_html: Se você já tem uma conta Diehard_Fund, <a href='%{link}'>contecte-a</a>
   click_to_dismiss: Clique aqui para remover esta mensagem
   generic_confirm: Você tem certeza?
   discussion_helper_text:
@@ -270,7 +270,7 @@ pt-BR:
       info_title: O que desativar sua conta significará?
       memberships: Você deixará de ser listado como membro de qualquer um dos grupos você pertence.
       group_contributions: Comentários, propostas e discussões feitas por você em grupos vão ficar, mas vamos retirar o seu nome destes.
-      emails: Vamos parar de enviar-lhe e-mails relacionados ao Loomio.
+      emails: Vamos parar de enviar-lhe e-mails relacionados ao Diehard_Fund.
   group_form:
     name: Nome do grupo
     description: Descrição
@@ -370,7 +370,7 @@ pt-BR:
   confirm_leave_hidden_group: Você tem certeza que deseja sair de %{which_group}? Você também será removido dos subgrupos.
   confirm_leave_group: Você tem certeza que deseja abandonar %{which_group}?
   deactivate_group: Desativar grupo
-  confirm_deactivate_group: Espere!!! Tem certeza que deseja desativar %{which_group}? Você não poderá mais ver o grupo. Entretanto, caso deseje ter o grupo de volta, pode pedir para reativá-lo enviando um e-mail para contact@loomio.org.
+  confirm_deactivate_group: Espere!!! Tem certeza que deseja desativar %{which_group}? Você não poderá mais ver o grupo. Entretanto, caso deseje ter o grupo de volta, pode pedir para reativá-lo enviando um e-mail para contact@diehard_fund.org.
   invited_users: Membros convidados
   members: Membros
   confirm_remove_user: Você tem certeza que deseja remover %{which_user} do grupo?
@@ -445,7 +445,7 @@ pt-BR:
     request_declined: Pedido reprovado como membro da rede.
   group_request:
     header: Iniciar um grupo
-    desc: 'Crie um grupo para começar a tomar decisões em conjunto no Loomio:'
+    desc: 'Crie um grupo para começar a tomar decisões em conjunto no Diehard_Fund:'
     commercial_use_option: em uma empresa, organização formal ou local de trabalho
     non_commercial_use_option: em um grupo comunitário ou rede informal
     please_select_an_option: Por favor, selecione uma opção
@@ -455,7 +455,7 @@ pt-BR:
         Nós te enviamos um e-mail com um convite para começar teu grupo.
 
         Se você não encontrar nada em sua caixa de entrada em alguns minutos, mande-nos
-        um e-mail em <a href='mailto:contact@loomio.org'>contact@loomio.org</a>.
+        um e-mail em <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
   volume:
     volume: Volume
     loud: Alto
@@ -603,10 +603,10 @@ pt-BR:
     comment_changes: Alterar comentários
     edit_comment: Editar comentários
   help:
-    coordinating: Coordenando o seu grupo do Loomio
-    coordinating_details: "Como coordenador(a), você é responsável por configurar o seu grupo do Loomio e \nconvidar as pessoas para entrar. Além de aprender a usar uma nova plataforma, o seu grupo\naprenderá novos processos para colaborar mais efetivamente e tomar boas decisões\nem conjunto. Seguem abaixo algumas dicas para ajudar o seu grupo a dar certo:\n"
-    different_ways: Diferentes formas de usar o Loomio
-    engaging_html: "<h2>Dicas para engajar seu grupo</h2>\n\n<p>As pessoas ficarão empolgadas em se envolver e começar a participar quando houver uma\nproposta na mesa. Uma boa proposta contém um plano de ação para o grupo de tal forma que \né imediatamente óbvio o que significa concordar ou discordar. Pense em como você  pode \nidentificar os debates/decisões que o grupo está atualmente empreendendo pessoalmente ou por email que seriam mais fáceis se estivessem no Loomio.</p>\n<p>Se seu grupo está apenas começando, você poderia inciar uma discussão leve, para dar\na todos a chance de brincar com a ferramenta e ver o processo de tomar decisões em ação</p>\n<p>Outra maneira simples de encorajar as pessoas a se envolver no debate é usar o recurso de @menção para estimular pessoas específicas; isto vai enviá-las um e-mail para avisá-las que elas foram mencionadas em um comentário.</p>\n"
+    coordinating: Coordenando o seu grupo do Diehard_Fund
+    coordinating_details: "Como coordenador(a), você é responsável por configurar o seu grupo do Diehard_Fund e \nconvidar as pessoas para entrar. Além de aprender a usar uma nova plataforma, o seu grupo\naprenderá novos processos para colaborar mais efetivamente e tomar boas decisões\nem conjunto. Seguem abaixo algumas dicas para ajudar o seu grupo a dar certo:\n"
+    different_ways: Diferentes formas de usar o Diehard_Fund
+    engaging_html: "<h2>Dicas para engajar seu grupo</h2>\n\n<p>As pessoas ficarão empolgadas em se envolver e começar a participar quando houver uma\nproposta na mesa. Uma boa proposta contém um plano de ação para o grupo de tal forma que \né imediatamente óbvio o que significa concordar ou discordar. Pense em como você  pode \nidentificar os debates/decisões que o grupo está atualmente empreendendo pessoalmente ou por email que seriam mais fáceis se estivessem no Diehard_Fund.</p>\n<p>Se seu grupo está apenas começando, você poderia inciar uma discussão leve, para dar\na todos a chance de brincar com a ferramenta e ver o processo de tomar decisões em ação</p>\n<p>Outra maneira simples de encorajar as pessoas a se envolver no debate é usar o recurso de @menção para estimular pessoas específicas; isto vai enviá-las um e-mail para avisá-las que elas foram mencionadas em um comentário.</p>\n"
     example1_html: "<h3>Você precisa que o grupo discuta um tema amplo e desenvolva uma solução em conjunto</h3>\n<p>Estratégia: Discuta o tópico por um tempo antes de criar uma proposta.</p>\n<p>Discussões muitas vezes alcançam o melhor resultado se você construir um entendimento \ncompartilhado sobre o problema antes de pular para especificar a solução. Quando as pessoas \nchegam a participar do processo, elas são muito mais propensas a estar alinhadas com o resultado.</p>\n"
     example2_html: |
       <h3>Você já tem uma proposta em mente e gostaria de obter validação do grupo para seguir adiante.</h3>
@@ -618,7 +618,7 @@ pt-BR:
     get_in_touch_description_html: Se tiver qualquer pergunta ou sugestão, <a href='%{link}'>fale conosco</a>.
     getting_started: Primeiros passos
     getting_started_description: Na esquerda, o grupo discute um assunto, trocando ideias e informações. Quando há uma decisão a ser tomada pelo grupo, ela aparece na direita.
-    getting_the_most: Aproveitando ao máximo o Loomio
+    getting_the_most: Aproveitando ao máximo o Diehard_Fund
     have_your_say: Dê a sua opinião
     have_your_say_details_html: |
       <p>Quando estiver pronto para dar sua posição, clique em um dos quatro botões de decisão.</p>
@@ -635,16 +635,16 @@ pt-BR:
       <p>A primeira pergunta que todo novo membro fará é 'para que serve este grupo'?</p>
       <p>Pense sobre a maneira mais simples de descrever seu grupo: O que vocês querem alcançar
       em conjunto? Quais tipos de decisão vocês tomarão? Quem estará envolvido?</p>
-      <p>Pode ser uma boa ideia conversar com seu grupo antes de enviar os convites para o Loomio.</p>
+      <p>Pode ser uma boa ideia conversar com seu grupo antes de enviar os convites para o Diehard_Fund.</p>
       <p>As pessoas vão querer saber por que foram convidadas, o que se espera delas,
       e por que valeria a pena passar um tempo aprendendo a usar uma nova ferramenta.</p>
     join_the_community: Faça parte da comunidade
-    join_the_community_description_html: 'Todos(as) são bem-vindos(as) a juntar-se à Comunidade Loomio, onde nós conversamos sobre como tirar o máximo da ferramenta e sobre como ela pode ser melhorada.<br /><br /><a href=''https://www.loomio.org/groups/3''> Clique aqui para ir para o grupo da Comunidade Loomio</a>. '
+    join_the_community_description_html: 'Todos(as) são bem-vindos(as) a juntar-se à Comunidade Diehard_Fund, onde nós conversamos sobre como tirar o máximo da ferramenta e sobre como ela pode ser melhorada.<br /><br /><a href=''https://www.diehard_fund.org/groups/3''> Clique aqui para ir para o grupo da Comunidade Diehard_Fund</a>. '
     images_and_text_formatting: Formatação de imagens e texto
     images_and_text_formatting_html: |
-      <p>Loomio utiliza o código 'Markdown' -- Remarcação -- para formatação de texto e inserção de imagens.
+      <p>Diehard_Fund utiliza o código 'Markdown' -- Remarcação -- para formatação de texto e inserção de imagens.
       Você pode ativar a Remarcação pelo pequeno ícone cinza embaixo da caixa de comentários.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>Clique aqui</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Clique aqui</a>
       para informações sobre como utilizar Remarcação.</p>
     keep_up_to_date: Manter atualizado
     keep_up_to_date_html: "<p>Clicar no nome do grupo na parte superior da tela levará à Página do Grupo, \nonde você pode ver uma lista de todas as discussões e decisões desse grupo. \nSe você está em mais de um grupo, pode ver toda as atividades em todos os seus \ngrupos de uma vez na Página Inicial.</p>\n<p>Você receberá notificações por e-mail quando coisas importantes acontecerem\nem seu grupo. Você pode modificar suas preferências de e-mail <a href=\"%{link}\"\">aqui</a>.</p>\n"
@@ -669,11 +669,11 @@ pt-BR:
     start_proposal_html: "<p> Se escolher um título claro e sucinto, as pessoas saberão imediatamente com o que exatamente \nirão concordar ou discordar.</p>\n<p>Não será o fim do mundo se uma proposta não obtiver concordândia clara imediatamente.\nSe o grupo não amar a primeira proposta, qualquer membro pode iniciar uma nova proposta para\nlidar com os problemas levantados e fazer com que o processo siga adiante.</p>\n<p>Através desse processo dinâmico, a sabedoria coletiva do grupo pode gerar ideias melhores\ndo que as que um membro sozinho poderia ter.</p>\n<p>O prazo em uma proposição pode ser estendido a qualquer momento, caso pareça que a decisão\nprecise disso. Todos membros receberão uma notificação por e-mail 24 horas antes de uma proposição fechar.</p>\n\n"
     video_id: '52025402'
     video_tutorial: Vídeo-tutorial
-    video_tutorial_description: Assista ao vídeo para uma rápida demonstração de como usar o Loomio.
-    what_is_loomio: O que é Loomio?
-    what_is_loomio_description_html: |
-      <p> Loomio é uma ferramenta on-line simples e fácil de usar para tomada de decisão colaborativa.
-      Loomio permite a hospedagem de discussões on-line, convidar as pessoas certas para participar,
+    video_tutorial_description: Assista ao vídeo para uma rápida demonstração de como usar o Diehard_Fund.
+    what_is_diehard_fund: O que é Diehard_Fund?
+    what_is_diehard_fund_description_html: |
+      <p> Diehard_Fund é uma ferramenta on-line simples e fácil de usar para tomada de decisão colaborativa.
+      Diehard_Fund permite a hospedagem de discussões on-line, convidar as pessoas certas para participar,
       chegar às decisões oportunas e transformar deliberação em ação no mundo real. </p>
   hint:
     context: Dicas para usar o painel de contexto
@@ -689,18 +689,18 @@ pt-BR:
     submit: Contribuir
     tooltip: Aprenda sobre o modelo de financiamento de nossa comunidade
     thought_about_contributing: Sua chance de contribuir
-    thought_about_contributing_description: "Loomio é um empreendimento social cooperativo trabalhando para facilitar a participação de quaisquer pessoas em decisões que as afetem. \n\nDinheiro não devia ser uma barreira para tomadas de decisão colaborativas. Loomio é sustentado por contribuições de nossa comunidade de usuários(as), e pelos pagamentos periódicos de organizações formais que o usam.\n\nSua contribuição significa que podermos manter o Loomio independente, livre de anúncios e disponível gratuitamente para grupos que realizam coisas incríveis em suas comunidades.\n\nAgradecemos por tornar isso possível!\n"
-    thank_you_title: Obrigado por contribuir com o Loomio!
+    thought_about_contributing_description: "Diehard_Fund é um empreendimento social cooperativo trabalhando para facilitar a participação de quaisquer pessoas em decisões que as afetem. \n\nDinheiro não devia ser uma barreira para tomadas de decisão colaborativas. Diehard_Fund é sustentado por contribuições de nossa comunidade de usuários(as), e pelos pagamentos periódicos de organizações formais que o usam.\n\nSua contribuição significa que podermos manter o Diehard_Fund independente, livre de anúncios e disponível gratuitamente para grupos que realizam coisas incríveis em suas comunidades.\n\nAgradecemos por tornar isso possível!\n"
+    thank_you_title: Obrigado por contribuir com o Diehard_Fund!
     thank_you_body: |
       Sua contribuição nos ajuda a prover ao mundo tomadas de decisão colaborativas e simples.
 
       Você receberá um e-mail em breve com um recibo de sua contribuição.
 
-      Qualquer pessoa é bem-vinda a juntar-se à Comunidade Loomio, onde conversamos sobre como tirar o melhor proveito da ferramenta e como ela pode ser melhorada.
+      Qualquer pessoa é bem-vinda a juntar-se à Comunidade Diehard_Fund, onde conversamos sobre como tirar o melhor proveito da ferramenta e como ela pode ser melhorada.
 
-       <a href='https://www.loomio.org/groups/3'>Leve-me ao grupo da Comunidade Loomio &raquo;</a>
+       <a href='https://www.diehard_fund.org/groups/3'>Leve-me ao grupo da Comunidade Diehard_Fund &raquo;</a>
     making_a_donation: Fazer uma doação
-    making_a_donation_description: "Loomio é um empreendimento social cooperativo trabalhando para facilitar a participação de quaisquer pessoas em decisões que as afetem. \n\nSua contribuição significa que podemos manter o Loomio independente, livre de anúncios e disponível gratuitamente para grupos que realizam coisas incríveis em suas comunidades.\n\nAgradecemos por tornar isso possível!\n"
+    making_a_donation_description: "Diehard_Fund é um empreendimento social cooperativo trabalhando para facilitar a participação de quaisquer pessoas em decisões que as afetem. \n\nSua contribuição significa que podemos manter o Diehard_Fund independente, livre de anúncios e disponível gratuitamente para grupos que realizam coisas incríveis em suas comunidades.\n\nAgradecemos por tornar isso possível!\n"
   resend_confirmation: Reenvie as instruções de confirmação
   new_password: Nova senha
   confirm_new_password: Confirmar a nova senha
@@ -723,15 +723,15 @@ pt-BR:
   link_it_up_instead: Então conecte-se
   sign_up_via: Registre-se via
   or_fill_in_this_form: ou preencha este formulário
-  already_have_account: Já tem uma conta no Loomio?
+  already_have_account: Já tem uma conta no Diehard_Fund?
   confirm_your_details: Confirme os seus dados
   link_up_your_account: Vincular a sua conta
-  log_in_to_your_loomio_account: Faça login na sua conta do Loomio para vinculá-la com %{provider_name}.
-  now_that_your_logged_in: Agora que você já está conectado(a) com %{provider_name}, por favor confirme os seus dados para criar uma conta no Loomio.
+  log_in_to_your_diehard_fund_account: Faça login na sua conta do Diehard_Fund para vinculá-la com %{provider_name}.
+  now_that_your_logged_in: Agora que você já está conectado(a) com %{provider_name}, por favor confirme os seus dados para criar uma conta no Diehard_Fund.
   confirmation_not_received: Não recebeu as instruções de confirmação?
   unlock_not_received: Não recebeu as instruções para desbloquear?
   inactive_html: Esta conta foi desativada. Se você tiver alguma dúvida, por favor <a href='%{path_to_contact}'>entre em contato</a>.
-  create_an_account_html: Crie uma conta Loomio Beta
+  create_an_account_html: Crie uma conta Diehard_Fund Beta
   log_in: Entrar
   join_group:
     log_in: Faça login para entrar em %{group_name}
@@ -741,7 +741,7 @@ pt-BR:
     create_account_to_start_group: Por favor, crie uma conta para começar o seu grupo %{group_name}
     create_account: Por favor, crie uma conta
   invitation:
-    angular_warning_html: '<small> Qualquer um que aceitar seu convite vai usar a nova interface do Loomio: <a href="http://blog.loomio.org/2015/10/14/one-step-closer-to-loomio-1-0/" target="_blank">saiba mais</a>.</small>'
+    angular_warning_html: '<small> Qualquer um que aceitar seu convite vai usar a nova interface do Diehard_Fund: <a href="http://blog.diehard_fund.org/2015/10/14/one-step-closer-to-diehard_fund-1-0/" target="_blank">saiba mais</a>.</small>'
     alternate: 'Ou compartilhe esse link e qualquer um poderá solicitar entrada:'
     by_email: Convidar por e-mail
     invitation_not_found: Não localizamos um convite com este código. Por favor peça um novo convite a quem lhe enviou da outra vez.
@@ -749,12 +749,12 @@ pt-BR:
     invitation_already_used: Esse convite já foi utilizado. Favor fazer login para continuar para seu grupo.
     recipients: 'Insira endereços de e-mail, separados por vírgulas: '
     invitees_placeholder: Nome de usuário  <usuario1@exemplo.com>, usuario2@exemplo.com
-    subject: Por favor, venha participar de nosso novo grupo Loomio, %{group}
+    subject: Por favor, venha participar de nosso novo grupo Diehard_Fund, %{group}
     invite_people: Convidar pessoas para o seu grupo
     invite_to_discussion: Convide pessoas para essa discussão
     invite_to_discussion_info: Adicionar pessoas a essa discussão enviará a elas um convite para o seu grupo. Quando aceitarem, serão direcionadas para essa discussão.
     select_members: Adicionar membros do grupo %{group_name}
-    body_editable: 'Ei, venha tomar decisões com a gente! Estamos usando uma ferramenta colaborativa para tomada de decisões chamada Loomio.
+    body_editable: 'Ei, venha tomar decisões com a gente! Estamos usando uma ferramenta colaborativa para tomada de decisões chamada Diehard_Fund.
 
 '
     body_editable_discussion: 'Olá, venha e junte-se à discussão!
@@ -821,10 +821,10 @@ pt-BR:
   group_setup:
     set_up_your_group: Configure seu grupo
     desc_header: Você está quase lá!
-    desc_html: 'Como coordenador ou coordenadora do grupo, você é responsável por configurar e administrar seu grupo no Loomio. Depois de escolher algumas configurações, você pode entrar em seu grupo, começar uma discussão ou duas, e enviar convites! <p>Quando estiver pensando sobre a maneira mais simples de descrever seu grupo, pergunte a si mesmo/a: O que vocês esperam alcançar em conjunto? Quais tipos de decisão vocês tomarão? Quem estará envolvido?</p>'
+    desc_html: 'Como coordenador ou coordenadora do grupo, você é responsável por configurar e administrar seu grupo no Diehard_Fund. Depois de escolher algumas configurações, você pode entrar em seu grupo, começar uma discussão ou duas, e enviar convites! <p>Quando estiver pensando sobre a maneira mais simples de descrever seu grupo, pergunte a si mesmo/a: O que vocês esperam alcançar em conjunto? Quais tipos de decisão vocês tomarão? Quem estará envolvido?</p>'
     submit: Leve-me ao meu grupo!
     payment_model:
-      header: Loomio é para todos!
+      header: Diehard_Fund é para todos!
       info: Nós temos um modelo de pagamento que serve para qualquer grupo, mesmo aqueles que não tem dinheiro :)
       link: Descubra mais
   simple_form:
@@ -869,9 +869,9 @@ pt-BR:
         create: Criar conta
         update: Atualizar configurações
   meta_tags:
-    default_title: Loomio | Processo Decisório Colaborativo
-    default_description: Loomio é uma ferramenta on-line fácil de usar para tomada de decisão em grupo. Ele permite que grupos dispersos tomem decisões rapidamente e façam açõe construtivas.
-  about_loomio: Sobre o Loomio
+    default_title: Diehard_Fund | Processo Decisório Colaborativo
+    default_description: Diehard_Fund é uma ferramenta on-line fácil de usar para tomada de decisão em grupo. Ele permite que grupos dispersos tomem decisões rapidamente e façam açõe construtivas.
+  about_diehard_fund: Sobre o Diehard_Fund
   ago: há %{quantity_of_time}
   approve: Aprovar
   attachments: 'Anexos:'
@@ -879,7 +879,7 @@ pt-BR:
   back: Voltar
   cancel: Cancelar
   change: Mudar
-  change_language: Clique aqui para utilizar o Loomio em %{language}
+  change_language: Clique aqui para utilizar o Diehard_Fund em %{language}
   changing: Mudando
   click_here: Clique aqui
   close: Encerrar
@@ -913,7 +913,7 @@ pt-BR:
   pricing: Preços
   prev: Anterior
   more: Mais...
-  translate: Ajude a traduzir o Loomio!
+  translate: Ajude a traduzir o Diehard_Fund!
   translate_field: Veja tradução
   loading_translation: Carregando tradução...
   translate_this_string: Traduzir para %{language}
@@ -931,7 +931,7 @@ pt-BR:
   start_a_group: Iniciar um grupo
   starting: Começar
   subject: Assunto
-  tos_html: Ao fazer o login, você concorda com os <a href='%{link_path}' target='_blank'>Termos de serviço</a> do Loomio
+  tos_html: Ao fazer o login, você concorda com os <a href='%{link_path}' target='_blank'>Termos de serviço</a> do Diehard_Fund
   thanks: Obrigado!
   unlike: Curtir (desfazer)
   time_until_close: "%{quantity_of_time} até encerrar"
@@ -1069,7 +1069,7 @@ pt-BR:
       new_motion: "*%{author}* iniciou uma nova proposta em *%{name}*"
       new_vote: "*%{author}* %{position} *%{proposal}* em *%{name}*"
       new_discussion: "*%{author}* iniciou uma nova discussão em *%{group}*"
-      view_it_on_loomio: Ver no Loomio
+      view_it_on_diehard_fund: Ver no Diehard_Fund
       position_verbs:
         'yes': concordou
         'no': discordou

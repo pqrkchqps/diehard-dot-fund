@@ -1,6 +1,6 @@
 sr:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Kreiraj grupu
       invite_people_link: Pozovi ljude
       start_discussion_link: Započni diskusiju
@@ -73,7 +73,7 @@ sr:
           mute_title: Isključeno
       email_settings:
         title: Podešavanja ePoruka
-      yesterday_on_loomio:
+      yesterday_on_diehard_fund:
         title: Juče na Lumiju
     user_profile:
       account_deactivation:

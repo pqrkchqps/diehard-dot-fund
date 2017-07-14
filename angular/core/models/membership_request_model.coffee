@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'MembershipRequestModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'MembershipRequestModel', (BaseModel, AppConfig) ->
   class MembershipRequestModel extends BaseModel
     @singular: 'membershipRequest'
     @plural: 'membershipRequests'

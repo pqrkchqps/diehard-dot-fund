@@ -1,6 +1,6 @@
 an:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Crear un grupo
       invite_people_link: Convidar a personas
       start_discussion_link: Empecipiar una discusión
@@ -56,8 +56,8 @@ an:
     keeping_up_to_date:
       email_settings:
         title: "Configuración d'o correu electronico"
-      yesterday_on_loomio:
-        title: Ahiere en Loomio
+      yesterday_on_diehard_fund:
+        title: Ahiere en Diehard_Fund
     user_profile:
       account_deactivation:
         title: Desactivando a tuya cuenta.

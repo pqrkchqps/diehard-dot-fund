@@ -1,15 +1,15 @@
 lt:
   new_help:
     title: Kuo galime jums padėti?
-    how_loomio_works:
-      title: Kaip veikia Loomio
+    how_diehard_fund_works:
+      title: Kaip veikia Diehard_Fund
       invite_people_link: Pakviesti žmones
     contents:
       title: Turinys
-      what_is_loomio:
-        title: Kas yra Loomio
-      how_loomio_works:
-        title: Kaip veikia Loomio
+      what_is_diehard_fund:
+        title: Kas yra Diehard_Fund
+      how_diehard_fund_works:
+        title: Kaip veikia Diehard_Fund
       getting_started:
         title_html: Darbo pradžia
       group_settings:

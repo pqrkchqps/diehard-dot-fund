@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'StartGroupPageController', ($scope, $location, $rootScope, Records, ModalService, InvitationModal) ->
+angular.module('diehard_fundApp').controller 'StartGroupPageController', ($scope, $location, $rootScope, Records, ModalService, InvitationModal) ->
   $rootScope.$broadcast('currentComponent', { page: 'startGroupPage', skipScroll: true })
 
   @init = ->

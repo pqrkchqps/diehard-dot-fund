@@ -383,7 +383,7 @@ ar:
     group: 'مجموعة'
     shareable_link: 'رابط قابل للمشاركة'
     email_addresses: 'عناوين البريد الإلكتروني'
-    email_addresses_placeholder: 'مثال: helperbot@loomio.org, friendlybot@loomio.org'
+    email_addresses_placeholder: 'مثال: helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
     email_explanation: 'عوضاً عن ذلك، يمكنك إدخال عناوين البريد الإلكتروني في الأسفل و سيقوم لوميو بإرسال الدعوات لهم عبر البريد الإلكتروني.'
     add_custom_message: 'قم بجعل دعوتك شخصية،'
     add_custom_message_link: 'قم بإضافة رسالة مخصصة.'
@@ -627,11 +627,11 @@ ar:
       <p>قد تكون فكرة جيدة أن تناقش الأمر مع مجموعتك قبل أن تدعوهم للانضمام للوميو.</p>
       <p>سيرغب الأشخاص أن يعرفوا لماذا تمت دعوتهم، و ماهو المتوقع منهم، و لماذا يستحق الأمر أن يمضوا وقتهم لتعلم كيفية استخدام الأدوات الجديدة.</p>
     join_the_community: "إنضم للمجتمع"
-    join_the_community_description_html: "الجميع مرحب به للانضمام لمجتمع لوميو، حيث نتحدث حول كيفية الاستفادة من الأدوات، و كيفية تطويرها. <br/><br/><a href='https://www.loomio.org/g/WmPCB3IR> اضغط هنا للذهاب إلى مجموعة مجتمع لوميو.<a/>"
+    join_the_community_description_html: "الجميع مرحب به للانضمام لمجتمع لوميو، حيث نتحدث حول كيفية الاستفادة من الأدوات، و كيفية تطويرها. <br/><br/><a href='https://www.diehard_fund.org/g/WmPCB3IR> اضغط هنا للذهاب إلى مجموعة مجتمع لوميو.<a/>"
     images_and_text_formatting: "تنسيق النص و الصور"
     images_and_text_formatting_html: |
       <p>يستخدم لوميو نظام التخفيض لتضمين الصور و تنسيق النصوص. يمكنك تفعيل نظام التخفيض عبر الأيقونة الصغيرة الرمادية تحت صندوق التعليقات.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>اضغط هنا</a> للمعلومات حول كيفية استخدام نظام التخفيض.</p>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>اضغط هنا</a> للمعلومات حول كيفية استخدام نظام التخفيض.</p>
     keep_up_to_date: "البقاء على تواصل"
     keep_up_to_date_html: |
       <p>بالضغط على اسم مجموعتك في أعلى الصفحة ستنتقل إلى صفحة مجموعتك، حيث يمكنك رؤية قائمة بكل النقاشات و القرارات لهذه المجموعة. إن كنت في أكثر من مجموعة، يمكنك رؤية كل النشاطات في كل مجموعاتك مرة واحدة على الصفحة الرئيسية.</p>
@@ -702,7 +702,7 @@ ar:
     name_label: 'الاسم '
     name_placeholder: ماذا يدعى طلبك؟
     redirect_uri_label: 'إعادة توجيه معرف الموارد '
-    redirect_uri_placeholder: "إعادة الاتصال من قبل معرف الموارد بشأن طلبك، مثال:  https://myapplication.com/loomio/callback"
+    redirect_uri_placeholder: "إعادة الاتصال من قبل معرف الموارد بشأن طلبك، مثال:  https://myapplication.com/diehard_fund/callback"
     redirect_uri_note: (سطر واحد لكل معرف موارد، استخدم 'urn:ietf:wg:oauth:2.0:oob' من أجل الفحوصات المحلية)
     new_application_submit: انشئ طلباً
     edit_application_submit: 'تحديث الطلب '

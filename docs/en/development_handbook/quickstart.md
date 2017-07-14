@@ -1,8 +1,8 @@
-### Loomio Development Quickstart
+### Diehard_Fund Development Quickstart
 
-1. Clone the Loomio repo from github
+1. Clone the Diehard_Fund repo from github
 ```
-git clone git@github.com:loomio/loomio.git && cd loomio
+git clone git@github.com:diehard_fund/diehard_fund.git && cd diehard_fund
 ```
 
 If you're on OSX then you can run the following bootstrap task to setup your system with postgresql, npm, bundler and gulp. It will then create an admin user. If you need help installing ruby, or more detail on installing the dependencies, please read [Setup Environment](setup_environment.md)
@@ -33,4 +33,4 @@ rails s
 ##### Having trouble?
 
 - Make sure ruby (2.3.0), node (7.4.0), postgres (9.4+), and [ImageMagick](http://stackoverflow.com/questions/3704919/installing-rmagick-on-ubuntu) are installed
-- Let us know in the [product team](https://www.loomio.org/g/VmBUX7WM/loomio-community-product-team) group on Loomio.
+- Let us know in the [product team](https://www.diehard_fund.org/g/VmBUX7WM/diehard_fund-community-product-team) group on Diehard_Fund.

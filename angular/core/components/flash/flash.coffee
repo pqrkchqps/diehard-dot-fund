@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'flash', (AppConfig) ->
+angular.module('diehard_fundApp').directive 'flash', (AppConfig) ->
   restrict: 'E'
   templateUrl: 'generated/components/flash/flash.html'
   replace: true

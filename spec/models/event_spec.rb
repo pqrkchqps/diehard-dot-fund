@@ -63,8 +63,8 @@ describe Event do
     # set email motion closing soon
     discussion.group.add_member!(user_motion_closing_soon).set_volume! :mute
 
-    # add the loomio group community to poll
-    poll.build_loomio_group_community; poll.save
+    # add the diehard_fund group community to poll
+    poll.build_diehard_fund_group_community; poll.save
 
     # create an unsubscription for a poll user
     poll.poll_unsubscriptions.create(user: user_unsubscribed)
@@ -460,7 +460,7 @@ describe Event do
       expect(n.kind).to eq 'poll_expired'
     end
 
-    it 'does not notify loomio helper bot' do
+    it 'does not notify diehard_fund helper bot' do
       poll.author = User.helper_bot
       expect { Events::PollExpired.publish!(poll) }.to_not change { ActionMailer::Base.deliveries.count }
     end
@@ -557,7 +557,7 @@ describe Event do
   describe 'outcome_created' do
     let(:poll_meeting) { create :poll_meeting, discussion: discussion }
     before do
-      poll_meeting.build_loomio_group_community; poll_meeting.save
+      poll_meeting.build_diehard_fund_group_community; poll_meeting.save
     end
 
     it 'makes an announcement' do

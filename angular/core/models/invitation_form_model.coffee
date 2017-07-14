@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'InvitationFormModel', (DraftableModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'InvitationFormModel', (DraftableModel, AppConfig) ->
   class InvitationFormModel extends DraftableModel
     @singular: 'invitationForm'
     @plural: 'invitationForms'

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'RegisteredAppForm', ->
+angular.module('diehard_fundApp').factory 'RegisteredAppForm', ->
   templateUrl: 'generated/components/registered_app_form/registered_app_form.html'
   controller: ($scope, $location, application, Records, FormService, LmoUrlService, KeyEventService) ->
     $scope.application = application.clone()

@@ -515,7 +515,7 @@ ko:
     group_placeholder: '그룹을 선택하세요'
     shareable_link: '공유가능링크 '
     email_addresses: '이메일 주소'
-    email_addresses_placeholder: '예를 들어 helperbot@loomio.org, friendlybot@loomio.org'
+    email_addresses_placeholder: '예를 들어 helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
     shareable_link_explanation: '링크를 복사해서 그룹에 초대하고 싶은 사람에게 보내십시요. 초대받은 사람은 그룹의 모든 모둠(Threads)에 접근할 수 있다.'
     email_explanation: '그 대신에, 아래 이메일주소로 들어가면 루미오가 이메일로 초대장을 보낸다.'
     add_custom_message: '초대하기'
@@ -812,13 +812,13 @@ ko:
       <p>사람들은 왜 내가 초대받았는지, 나에게 뭘 기대하는지
       왜 시간을 들여 새로운 도구를 사용하는 방법을 배워야 하는지 알고 싶어하겠죠.</p>
     join_the_community: "커뮤니티에 참여하기"
-    join_the_community_description_html: "우리가 루미오라는 도구를 최대한 활용하는 방법과 어떻게 하면 더 향상시킬 수 있을지에 대해 이야기하는 루미오 커뮤니티에 들어오는 모든 사람들을 환영합니다.<br /><br /><a href='https://www.loomio.org/g/WmPCB3IR'>루미오 커뮤니티에 가려면 여기를 클릭하세요</a>."
+    join_the_community_description_html: "우리가 루미오라는 도구를 최대한 활용하는 방법과 어떻게 하면 더 향상시킬 수 있을지에 대해 이야기하는 루미오 커뮤니티에 들어오는 모든 사람들을 환영합니다.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>루미오 커뮤니티에 가려면 여기를 클릭하세요</a>."
     images_and_text_formatting: "이미지와 문자 형식"
     images_and_text_formatting_html: |
       <p>루미오는 이미지를 표시하고 텍스트 스타일링을 위해 ‘마크다운’을 사용합니다.
       댓글 영역 아래 조그만 회색 아이콘을 클릭해 마크다운을 사용할 수 있습니다.</p>
       <p>마크다운 사용법을 알고 싶으면
-      <a href='https://www.loomio.org/discussions/1124'>여기를 클릭하세요</a>.
+      <a href='https://www.diehard_fund.org/discussions/1124'>여기를 클릭하세요</a>.
       </p>
     keep_up_to_date: "최신 상태로 유지"
     keep_up_to_date_html: |

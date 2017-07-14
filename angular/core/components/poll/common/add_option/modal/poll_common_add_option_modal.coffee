@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PollCommonAddOptionModal', (LoadingService) ->
+angular.module('diehard_fundApp').factory 'PollCommonAddOptionModal', (LoadingService) ->
   templateUrl: 'generated/components/poll/common/add_option/modal/poll_common_add_option_modal.html'
   controller: ($scope, poll) ->
     $scope.poll = poll.clone()

@@ -102,4 +102,4 @@ npm install -g gulp
 
 Ensure your node version matches with the version specified in the `engines` field of `angular/package.json`
 
-Ok that's it, you're now ready to [install Loomio](quickstart.md) (or any other ruby or node app)
+Ok that's it, you're now ready to [install Diehard_Fund](quickstart.md) (or any other ruby or node app)

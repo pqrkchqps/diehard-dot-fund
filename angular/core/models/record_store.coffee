@@ -1,2 +1,2 @@
-angular.module('loomioApp').factory 'RecordStore', () ->
+angular.module('diehard_fundApp').factory 'RecordStore', () ->
   AngularRecordStore.RecordStoreFn()

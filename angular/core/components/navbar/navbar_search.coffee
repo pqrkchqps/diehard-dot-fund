@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'navbarSearch', ->
+angular.module('diehard_fundApp').directive 'navbarSearch', ->
   scope: {}
   restrict: 'E'
   templateUrl: 'generated/components/navbar/navbar_search.html'

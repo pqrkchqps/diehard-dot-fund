@@ -42,7 +42,7 @@ end
 
 require_relative '../lib/version'
 
-puts "Current version: #{Loomio::Version.current}"
+puts "Current version: #{Diehard_Fund::Version.current}"
 
 def write_version(type, value)
   file_path = File.expand_path "../../lib/version/#{type.downcase}", __FILE__
@@ -52,7 +52,7 @@ end
 next_version = if version_type == 'test'
   SecureRandom.hex(8)
 else
-  Loomio::Version.send(version_type.downcase).to_i + 1
+  Diehard_Fund::Version.send(version_type.downcase).to_i + 1
 end
 
 case version_type
@@ -71,7 +71,7 @@ if action == 'commit'
   puts "Creating version bump commit..."
   `git add lib/version.rb`
   `git add lib/version`
-  `git commit -m "Bump version to #{Loomio::Version.current}"`
+  `git commit -m "Bump version to #{Diehard_Fund::Version.current}"`
 end
 
-puts "New version: #{Loomio::Version.current}"
+puts "New version: #{Diehard_Fund::Version.current}"

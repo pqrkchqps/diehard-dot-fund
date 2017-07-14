@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'translateButton', ->
+angular.module('diehard_fundApp').directive 'translateButton', ->
   scope: {model: '=', showdot: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/translate_button/translate_button.html'

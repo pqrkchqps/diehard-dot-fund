@@ -110,7 +110,7 @@ describe 'Invitations', ->
 
       staticPage.click 'a[href]'
 
-      staticPage.fillIn '#user_email', 'emilio@loomio.org'
+      staticPage.fillIn '#user_email', 'emilio@diehard_fund.org'
       staticPage.fillIn '#user_password', 'gh0stmovie'
       staticPage.click '#sign-in-btn'
 

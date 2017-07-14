@@ -1,3 +1,3 @@
-angular.module('loomioApp').factory 'RegistrationRecordsInterface', (BaseRecordsInterface, RegistrationModel) ->
+angular.module('diehard_fundApp').factory 'RegistrationRecordsInterface', (BaseRecordsInterface, RegistrationModel) ->
   class RegistrationRecordsInterface extends BaseRecordsInterface
     model: RegistrationModel

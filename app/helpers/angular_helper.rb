@@ -17,16 +17,16 @@ module AngularHelper
   def app_config
     @appConfig = {
       bootData:            BootData.new(current_user, current_visitor).data,
-      version:             Loomio::Version.current,
+      version:             Diehard_Fund::Version.current,
       environment:         Rails.env,
-      loadVideos:          (ENV.has_key?('LOOMIO_LOAD_VIDEOS') or Rails.env.production?),
+      loadVideos:          (ENV.has_key?('DIEHARD_FUND_LOAD_VIDEOS') or Rails.env.production?),
       flash:               flash.to_h,
       currentVisitorId:    current_visitor.id,
       currentUserLocale:   current_user.locale,
       currentUrl:          request.original_url,
       permittedParams:     PermittedParamsSerializer.new({}),
       locales:             angular_locales,
-      siteName:            ENV.fetch('SITE_NAME', 'Loomio'),
+      siteName:            ENV.fetch('SITE_NAME', 'Diehard_Fund'),
       recaptchaKey:        ENV['RECAPTCHA_APP_KEY'],
       baseUrl:             root_url,
       safeThreadItemKinds: Discussion::THREAD_ITEM_KINDS,
@@ -46,7 +46,7 @@ module AngularHelper
         long:  ENV.fetch('FLASH_TIMEOUT_LONG', 2147483645).to_i
       },
       drafts: {
-        debounce: ENV.fetch('LOOMIO_DRAFT_DEBOUNCE', 750).to_i
+        debounce: ENV.fetch('DIEHARD_FUND_DRAFT_DEBOUNCE', 750).to_i
       },
       searchFilters: { status: %w(active closed).freeze },
       pendingIdentity: serialized_pending_identity,
@@ -72,7 +72,7 @@ module AngularHelper
   end
 
   def angular_asset_folder
-    Rails.env.production? ? Loomio::Version.current : :development
+    Rails.env.production? ? Diehard_Fund::Version.current : :development
   end
 
   def serialized_pending_identity

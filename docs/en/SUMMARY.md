@@ -1,15 +1,15 @@
 # Summary
 
 ## Deploying
-* [Deploying Loomio](setup_loomio_production.md)
+* [Deploying Diehard_Fund](setup_diehard_fund_production.md)
   1. [Basic VPS setup](basic_vps_setup.md)
-  2. [Setup Loomio with Dokku](install_loomio_with_dokku.md)
+  2. [Setup Diehard_Fund with Dokku](install_diehard_fund_with_dokku.md)
   3. [Environment Variables](environment_variables.md)
   4. [Setup PostgreSQL](setup_postgresql.md)
   5. [Setup reply by email](setup_reply_by_email.md)
   6. [Setup Faye for live updating](setup_faye.md)
   7. [Setup SMTP server](setup_smtp_server.md)
-  8. [Setup third party integrations](setup_loomio_integrations.md)
+  8. [Setup third party integrations](setup_diehard_fund_integrations.md)
   9. [Setup Slack integration](setup_slack.md)
   9. [Setup SSL/TLS](setup_ssl.md)
 

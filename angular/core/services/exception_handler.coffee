@@ -1,4 +1,4 @@
-# angular.module('loomioApp').factory '$exceptionHandler', (AppConfig) ->
+# angular.module('diehard_fundApp').factory '$exceptionHandler', (AppConfig) ->
 #   (exception, cause) ->
 #     if AppConfig.reportErrors
 #       Airbrake.push
@@ -8,4 +8,4 @@
 #         params:
 #           user_id: AppConfig.currentUserId
 #
-#     console.error "LoomioApp exception:", exception, cause
+#     console.error "Diehard_FundApp exception:", exception, cause

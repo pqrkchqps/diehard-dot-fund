@@ -30,7 +30,7 @@ describe "User abilities" do
       end
 
       describe "not a network coordinator" do
-        let(:network) { Network.create(name: "Loomio", coordinators: [other_user]) }
+        let(:network) { Network.create(name: "Diehard_Fund", coordinators: [other_user]) }
         it {should_not be_able_to(:manage_membership_requests, network)}
       end
     end
@@ -44,7 +44,7 @@ describe "User abilities" do
         it {should be_able_to(:decline, request)}
       end
       describe "not a network coordinator" do
-        let(:network) { Network.create(name: "Loomio", coordinators: [other_user]) }
+        let(:network) { Network.create(name: "Diehard_Fund", coordinators: [other_user]) }
         let(:request) { NetworkMembershipRequest.create(requestor: user, group: group, network: network) }
 
         it {should_not be_able_to(:approve, request)}
@@ -644,7 +644,7 @@ describe "User abilities" do
     it { should_not be_able_to(:destroy, motion) }
   end
 
-  context "Loomio admin deactivates other_user" do
+  context "Diehard_Fund admin deactivates other_user" do
     before do
       user.is_admin = true
     end

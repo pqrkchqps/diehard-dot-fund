@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
-  database: loomio_development
+  database: diehard_fund_development
 
 test:
   adapter: postgresql
-  database: loomio_test
+  database: diehard_fund_test

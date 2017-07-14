@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonToolTip', (Session) ->
+angular.module('diehard_fundApp').directive 'pollCommonToolTip', (Session) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/tool_tip/poll_common_tool_tip.html'
   controller: ($scope, Records) ->

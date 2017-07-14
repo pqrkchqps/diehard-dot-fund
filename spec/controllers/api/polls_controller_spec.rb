@@ -207,7 +207,7 @@ describe API::PollsController do
       expect(poll.title).to eq poll_params[:title]
       expect(poll.discussion).to eq discussion
       expect(poll.author).to eq user
-      expect(poll.communities.map(&:class)).to include Communities::LoomioGroup
+      expect(poll.communities.map(&:class)).to include Communities::Diehard_FundGroup
       expect(poll.communities.map(&:class)).to include Communities::Email
 
       json = JSON.parse(response.body)
@@ -368,12 +368,12 @@ describe API::PollsController do
       expect(poll.reload.active?).to eq true
     end
 
-    it 'converts a poll in a loomio group to a loomio user community' do
+    it 'converts a poll in a diehard_fund group to a diehard_fund user community' do
       sign_in user
       PollService.create(poll: poll, actor: user)
       post :close, id: poll.key
-      expect(poll.reload.communities.map(&:class)).to_not include Communities::LoomioGroup
-      expect(poll.communities.map(&:class)).to include Communities::LoomioUsers
+      expect(poll.reload.communities.map(&:class)).to_not include Communities::Diehard_FundGroup
+      expect(poll.communities.map(&:class)).to include Communities::Diehard_FundUsers
     end
   end
 

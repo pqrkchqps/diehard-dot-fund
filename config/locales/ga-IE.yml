@@ -1,7 +1,7 @@
 ga-IE:
   email_settings:
     title: Socruithe ríomhphoist
-    yesterday_on_loomio: Seol ríomhphost chugam le hachoimre den ghníomhacht gach lá
+    yesterday_on_diehard_fund: Seol ríomhphost chugam le hachoimre den ghníomhacht gach lá
     email_when_mentioned: Seol ríomhphost chugam nuair a dhéantar tagairt dom
     proposal_closing_soon: Seol ríomhphost chugam sula ndúntar togra
     proposal_closing_soon_description: "24 uair a chloig sula dhúnfar togra, beag beann ar an airde, seolfar ríomhphost chugat leis an eolas is déanaí faoin dtogra."
@@ -33,7 +33,7 @@ ga-IE:
       no_invitations_remaining: Níl cuirí fágtha
     mailer:
       invitation_instructions:
-        subject: Thug duine éigin cuireadh duit clárú ina b(h)aicle ar Loomio
+        subject: Thug duine éigin cuireadh duit clárú ina b(h)aicle ar Diehard_Fund
     registrations:
       sign_up: Cruthaigh cuntas
   error:
@@ -102,7 +102,7 @@ ga-IE:
     proposal_created: Cruthaíodh an togra go rathúil.
     proposal_deleted: Scriosadh an togra
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: Scoránaigh an nascleanúint
   footer:
@@ -114,7 +114,7 @@ ga-IE:
     pricing: Praghsáil
     public_groups: Grúpaí poiblí
     terms: Coinníollacha
-    independent_install_html: "Tá leagan neamhspleách de Loomio á rith ag %{hostname}: <a href=\"http://github.com/loomio/loomio\">find out more</a>."
+    independent_install_html: "Tá leagan neamhspleách de Diehard_Fund á rith ag %{hostname}: <a href=\"http://github.com/diehard_fund/diehard_fund\">find out more</a>."
   inbox:
     clear: Glan
     title: Bosca Isteach
@@ -137,13 +137,13 @@ ga-IE:
   start_new_group_hint: Chun tús a chur le cinntí a dhéanamh
   find_a_group: Aimsigh baicle
   search_for_group: Cuardaigh i gcomhair baicle
-  no_group_header: Fáilte go dtí Loomio Beta
+  no_group_header: Fáilte go dtí Diehard_Fund Beta
   empty_notifications: Níl aon fhógra agat fós.
   see_all_notifications: Féach ar gach fógra
   sign_out: Scoir
   sign_in: Logáil isteach
   tagline: "Ag cruthú domhan ina bhfuil sé easca ar gach duine cinneadh a dhéanamh ar rudaí a théann i bhfeidhm orthu. "
-  or_link_account_html: "Má tá cuntas Loomio agat cheana féin, <a href='%{link}'>nasc leis é</a>"
+  or_link_account_html: "Má tá cuntas Diehard_Fund agat cheana féin, <a href='%{link}'>nasc leis é</a>"
   click_to_dismiss: Brúigh anseo chun fáil réidh leis an teachtaireacht seo
   generic_confirm: An bhfuil tú cinnte?
   discussion_helper_text:
@@ -169,7 +169,7 @@ ga-IE:
       header: "Tá beagnach críochnaithe agat! Féach do ríomhphoist."
       email_delivered: "Seoladh ríomhphost chuig %{email}. Lean an nasc istigh ann chun do bhaicle nua a chur ar bun."
       email_not_arrived: Nár bhfuair tú an ríomhphost?
-    start_making_decisions: "Chun tosú ag déanamh cinntí le chéile ar Loomio, cuir baicle ar bun saor in aisce:"
+    start_making_decisions: "Chun tosú ag déanamh cinntí le chéile ar Diehard_Fund, cuir baicle ar bun saor in aisce:"
   group_form:
     name: Ainm na baicle
     description: Cur síos
@@ -344,12 +344,12 @@ ga-IE:
   edit_comment:
     edit_comment: Déan eagarthóireacht ar an trácht
   help:
-    coordinating: Ag déanamh comheagar ar do bhaicle Loomio
-    different_ways: Bealaí éagsúla chun feidhm a bhaint as Loomio
+    coordinating: Ag déanamh comheagar ar do bhaicle Diehard_Fund
+    different_ways: Bealaí éagsúla chun feidhm a bhaint as Diehard_Fund
     get_in_touch: Déan teagmháil
     get_in_touch_description_html: "Má tá aon cheist nó aiseolas agat dúinn, <a href='%{link}'>cuir teachtaireacht chugainn</a>."
     getting_started: Ag tosú ar dtús báire
-    getting_the_most: Bain an leas is fearr as Loomio
+    getting_the_most: Bain an leas is fearr as Diehard_Fund
     have_your_say: Abair leat
     have_a_discussion: Bíodh plé ann
     help: Cabhair
@@ -367,8 +367,8 @@ ga-IE:
     start_proposal: Ag scríobh togra soiléir
     video_id: "52025402"
     video_tutorial: Físeán teagaisc
-    video_tutorial_description: Breathnaig ar an bhfíseán chun taispeántas tapa a fheiceáil conas feidhm a bhaint as Loomio
-    what_is_loomio: Cad é Loomio?
+    video_tutorial_description: Breathnaig ar an bhfíseán chun taispeántas tapa a fheiceáil conas feidhm a bhaint as Diehard_Fund
+    what_is_diehard_fund: Cad é Diehard_Fund?
   hint:
     discussion: Leideanna chun tús a chur le plé mealltach
     invitation: Leideanna chun cuireadh den scoth a scríobh
@@ -395,7 +395,7 @@ ga-IE:
   dont_have_an_account: Nach bhfuil cuntas agat?
   create_one_now: Cruthaigh ceann anois
   or_fill_in_this_form: nó líon an fhoirm seo
-  already_have_account: An bhfuil cuntas Loomio agat cheana féin?
+  already_have_account: An bhfuil cuntas Diehard_Fund agat cheana féin?
   confirm_your_details: Deimhnigh do shonraí
   link_up_your_account: Ceangail do chuntas le
   log_in: Logáil isteach
@@ -465,7 +465,7 @@ ga-IE:
     desc_header: "Tá beagnach críochnaithe agat!"
     submit: "Tabhair chuig mo bhaicle mé!"
     payment_model:
-      header: "Is do chách é Loomio!"
+      header: "Is do chách é Diehard_Fund!"
       info: "Tá samhail íocaíochta againn a oireann d'aon ghrúpa, fiú iad siúd gan aon airgid :)"
       link: Cuir tuilleadh eolais air
   simple_form:
@@ -508,33 +508,33 @@ ga-IE:
     by_who: "ag %{person}"
     reply_to_this_discussion: Freagraigh an plé seo
     to_join_discussion:
-      subject: "Ba mhaith le %{who} go gcuirfeá do ladar i bplé ar Loomio"
+      subject: "Ba mhaith le %{who} go gcuirfeá do ladar i bplé ar Diehard_Fund"
       content: "Tugadh cuireadh duit bheith rannpháirteach sa phlé seo: %{discussion}"
       message_intro: "Deireann %{who}:"
       link: Bí istigh sa phlé
     to_start_group:
-      subject: "Cuir do bhaicle Loomio nua ar bun: %{group_name}"
+      subject: "Cuir do bhaicle Diehard_Fund nua ar bun: %{group_name}"
     user_added_to_a_group:
       subject: "Chuir %{who} thú le %{which_group}"
     view_discussion: Brúigh anseo chun an plé seo a fheiceáil
-    view_group: Brúigh anseo chun an bhaicle ar fheiceáil ar Loomio
-    view_proposal: Féach an togra seo ar Loomio
+    view_group: Brúigh anseo chun an bhaicle ar fheiceáil ar Diehard_Fund
+    view_proposal: Féach an togra seo ar Diehard_Fund
     create_discussion:
       intro: "Thosaigh %{who} plé i %{which_group}:"
     create_proposal:
       closes_in: Dúnann sé i gceann
       subject: "Togra nua: %{which}"
     daily_activity:
-      heading: Do Ghníomhaíocht Loomio
-      intro: Ag léiriú cad a bhí ar siúil sna baiclí Loomio agatsa sa 24 uair anuas
-      subject: Loomio - Achoimre ar an 24 uair is déanaí
+      heading: Do Ghníomhaíocht Diehard_Fund
+      intro: Ag léiriú cad a bhí ar siúil sna baiclí Diehard_Fund agatsa sa 24 uair anuas
+      subject: Diehard_Fund - Achoimre ar an 24 uair is déanaí
     missed_yesterday:
-      subject: Inné ar Loomio
+      subject: Inné ar Diehard_Fund
       mark_as_read: Rianaigh mar léite
       thanks_for_reading: "Go raibh maith agat as ucht é a léamh. Bíodh lá den scoth agat!"
     invitation:
       hi: "Hóra a %{name},"
-      thanks: "Go raibh maith agat!\nLucht Loomio\n"
+      thanks: "Go raibh maith agat!\nLucht Diehard_Fund\n"
     membership_request:
       subject: "D'iarr %{who} cead dul isteach i %{which_group}"
       view_group: Tig leat an t-iarratas a cheadú nó diúltú dó anseo
@@ -557,15 +557,15 @@ ga-IE:
       motion_closing_soon: "Togra a dhúnfaidh i gceann 24 uair:"
       proposal_closed: "Tá an togra dúnta:"
   meta_tags:
-    default_title: "Loomio | Cinnteoireacht Chomhoibríoch"
-  about_loomio: Maidir le Loomio
+    default_title: "Diehard_Fund | Cinnteoireacht Chomhoibríoch"
+  about_diehard_fund: Maidir le Diehard_Fund
   ago: "%{quantity_of_time} ó shin"
   approve: Ceadaigh
   author: Údar
   back: Siar
   cancel: Cealaigh
   change: Athraigh
-  change_language: "Brúigh anseo chun feidhm a bhaint as Loomio in %{language}"
+  change_language: "Brúigh anseo chun feidhm a bhaint as Diehard_Fund in %{language}"
   changing: Ag athrú
   click_here: Brúigh anseo
   close: Dún
@@ -597,7 +597,7 @@ ga-IE:
   pricing: Praghsáil
   prev: Roimhe
   more: Tuilleadh...
-  translate: "Cabhraigh Loomio! a aistriú"
+  translate: "Cabhraigh Diehard_Fund! a aistriú"
   translate_field: Féach aistriúchán
   loading_translation: Ag luchtú an aistriúcháin...
   translate_this_string: "Aistrigh chuig %{language}"

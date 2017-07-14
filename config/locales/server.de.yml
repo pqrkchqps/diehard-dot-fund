@@ -14,7 +14,7 @@ de:
     reset_password:
       greeting: |
         Hallo %{name}
-        hier ist ein Link mit dem Du Dein Passwort für Dein Loomio-Konto zurücksetzen kannst:
+        hier ist ein Link mit dem Du Dein Passwort für Dein Diehard_Fund-Konto zurücksetzen kannst:
       link_text: Dein Passwort zurücksetzen
       signoff: |
         Du hast diese Mail erhalten, weil Deine eMail-Adresse in das "Passwort vergessen"-Formular auf %{hostname} eingegeben wurd.
@@ -26,72 +26,72 @@ de:
     by_who: von %{person}
     reply_to_this_discussion: Dieser Diskussion antworten
     to_join_discussion:
-      subject: "%{who} hat dich zu einer Diskussion auf Loomio eingeladen"
+      subject: "%{who} hat dich zu einer Diskussion auf Diehard_Fund eingeladen"
       content: 'Du wurdest zur Diskussion %{discussion} eingeladen'
       message_intro: "%{who} sagt:"
       link: Der Diskussion beitreten
-    value_proposition: "Loomio ist ein Ort für Gruppenentscheidungen"
+    value_proposition: "Diehard_Fund ist ein Ort für Gruppenentscheidungen"
     view_group: Gruppe ansehen
     to_join_group:
-      subject: "%{member} hat dich eingeladen, %{group_name} auf Loomio beizutreten"
+      subject: "%{member} hat dich eingeladen, %{group_name} auf Diehard_Fund beizutreten"
       invitation_text: "%{member} hat dich eingeladen, ihrer Gruppe %{group_name} beizutreten."
       invitation_text_html: "hat dich eingeladen, ihrer/seiner Gruppe beizutreten"
       link_help: "Klicke auf den untenstehenden Link, um die Einladung anzunehmen:"
       accept_invitation: "Einladung annehmen"
     resend_to_join_group:
-      subject: "%{member} wartet auf Deine Teilnahme an %{group_name} auf Loomio"
+      subject: "%{member} wartet auf Deine Teilnahme an %{group_name} auf Diehard_Fund"
     to_start_group:
-      subject: "Richte deine neue Loomio-Gruppe ein: %{group_name}"
+      subject: "Richte deine neue Diehard_Fund-Gruppe ein: %{group_name}"
       hi: "Hi %{name},"
       intro: "Klicke auf den untenstehenden Link, um deine Gruppe %{group_name} einzurichten:"
       intro_html: "Klicke unten, um deine Gruppe einzurichten:"
       start_group: "Eröffne meine Gruppe"
       closing_message: "Wenn du Hilfe brauchst oder eine Frage hast, antworte einfach auf diese E-Mail."
       thanks: "Danke,"
-      loomio_team: "Das Loomio-Team"
+      diehard_fund_team: "Das Diehard_Fund-Team"
     user_added_to_group:
-      subject: "%{who} hat dich zu %{which_group} auf Loomio hinzugefügt"
+      subject: "%{who} hat dich zu %{which_group} auf Diehard_Fund hinzugefügt"
       content: "%{who} hat dich zu %{which_group} hinzugefügt."
       content_html: "<strong>%{who}</strong> hat dich zu <strong>%{which_group}</strong> hinzugefügt."
       link_help: "Klicke auf den untenstehenden Link, um zur Gruppe zu kommen:"
     unsubscribe: 'Bestelle eMails ab oder ändere Deine eMail-Einstellungen:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> um Deine eMail-Einstellungen zu ändern und eMails abzubestellen."
-    view_comment: Klicke hier um den Kommentar auf Loomio zu sehen
+    view_comment: Klicke hier um den Kommentar auf Diehard_Fund zu sehen
     view_discussion: Klicke hier um diese Diskussion zu sehen
-    view_proposal: Diesen Vorschlag auf Loomio ansehen
+    view_proposal: Diesen Vorschlag auf Diehard_Fund ansehen
     create_discussion:
       intro_html: "eröffnete ein Thema:"
       intro: "%{who} hat ein Thema eröffnet:"
     create_proposal:
-      intro: Ein neuer Vorschlag wurde in einer Loomio Gruppe erstellt, der Du angehörst.
+      intro: Ein neuer Vorschlag wurde in einer Diehard_Fund Gruppe erstellt, der Du angehörst.
       closes_in: Schließt in
       subject: 'Neuer Vorschlag: %{which} '
     daily_activity:
-      heading: Deine Loomio Aktivität
-      intro: Zeigt, was in deinen Loomio Gruppen in den letzten 24 Stunden passiert ist
-      subject: Loomio - Zusammenfassung der letzten 24 Stunden
+      heading: Deine Diehard_Fund Aktivität
+      intro: Zeigt, was in deinen Diehard_Fund Gruppen in den letzten 24 Stunden passiert ist
+      subject: Diehard_Fund - Zusammenfassung der letzten 24 Stunden
     missed_yesterday:
-      subject: Gestern auf Loomio
+      subject: Gestern auf Diehard_Fund
       headlines: Schlagzeilen
       mark_as_read: Als gelesen markieren
       thanks_for_reading: Vielen Dank fürs Lesen. Wir wünschen einen schönen Tag!
-      heres_what_happened: "Was gestern auf Loomio passiert ist."
+      heres_what_happened: "Was gestern auf Diehard_Fund passiert ist."
       marked_as_read_success: Alles aus der eMail wurde als gelesen markiert
     comment_replied_to:
       context_html: 'beantwortete deinen Kommentar in'
       context: '%{author_name} beantwortete deinen Kommentar in %{discussion_title}'
-      subject: "%{who} hat dich erwähnt in der %{which} Gruppe in Loomio"
+      subject: "%{who} hat dich erwähnt in der %{which} Gruppe in Diehard_Fund"
     new_comment:
       context: 'kommentierte in'
     group_membership_approved:
       intro: "Deine Aufnahme-Anfrage für die Gruppe %{group_name} wurde angenommen."
       intro_html: "Deine Aufnahme-Anfrage für Gruppe <strong>%{group_name}</strong> wurde angenommen."
       link_help: "Klicke auf den untenstehenden Link, um der Gruppe %{group_name} beizutreten, und loszulegen:"
-      subject: "Dein Aufnahme-Antrag für Gruppe %{group_name} auf Loomio wurde angenommen"
+      subject: "Dein Aufnahme-Antrag für Gruppe %{group_name} auf Diehard_Fund wurde angenommen"
       join_group: "Der Gruppe beitreten"
-      view_group_text: "Klicke unten, um die Gruppe auf Loomio anzusehen:"
+      view_group_text: "Klicke unten, um die Gruppe auf Diehard_Fund anzusehen:"
     membership_request:
-      intro: "%{name} (%{email}) bittet um Zugang zu einer Deiner Loomio Gruppen."
+      intro: "%{name} (%{email}) bittet um Zugang zu einer Deiner Diehard_Fund Gruppen."
       intro_html: hat um Aufnahme in eine deiner Gruppen gebeten.
       subject: "%{who} bittet darum %{which_group} beitreten zu dürfen."
       view_group: Du kannst die Anfrage hier annehmen oder ablehnen
@@ -124,7 +124,7 @@ de:
       turn_off_notifications_text: 'Deaktivieren Sie E-Mails für diese Diskussion: %{url}'
       turn_on_notifications_html: "<a href='%{url}'>E-Mails für diese Diskussion aktivieren</a> um über weitere Aktivitäten informiert zu werden."
       turn_on_notifications_text: 'Aktiviere E-Mails, um über weitere Aktivitäten in dieser Diskussion informiert zu werden: %{url} '
-      change_email_preferences_html: Ändere deine <a href='%{email_preferences_url}'>eMail-Einstellungen</a> um weniger Loomio eMails zu erhalten.
+      change_email_preferences_html: Ändere deine <a href='%{email_preferences_url}'>eMail-Einstellungen</a> um weniger Diehard_Fund eMails zu erhalten.
       change_preferences: 'Ändere Deine eMail Einstellungen:'
       new_motion_html: 'startete einen Vorschlag:'
       new_motion: '%{who} startete einen Vorschlag:'
@@ -136,23 +136,23 @@ de:
       outcome_created: "%{who} hat ein Ergebnis für den Vorschlag geteilt:"
       you_agreed: Du %{past_tense_position}
     analytics:
-      subject: "%{which_group}'s Woche auf Loomio"
+      subject: "%{which_group}'s Woche auf Diehard_Fund"
       title: "Deine Zusammenfassung für die Woche ab dem %{since}"
       table_header: "Name | Aktivitäten begonnen | Diskussionen begonnen | Kommentare geschrieben | Stimmen abgegeben"
       stats: "<strong>%{active_members}</strong> von <strong>%{group_members}</strong> aus deiner Gruppe waren letzte Woche aktiv. Deine Gruppe startete <strong>%{motions}</strong> Aktivitäten und erstellte <strong>%{comments}</strong> Kommentare zum Thema <strong>%{discussions}</strong>."
       contact_us: "Noch mehr Auswertungen gewünscht? <a href='%{contact_link}'>Sprich uns an</a>."
-      no_activity: "Möchtest du unsere Kooperations-Coaches kontaktieren, um das Beste aus Loomio herauszuholen? <a href='%{contact_link}'>Sprich uns an</a>"
+      no_activity: "Möchtest du unsere Kooperations-Coaches kontaktieren, um das Beste aus Diehard_Fund herauszuholen? <a href='%{contact_link}'>Sprich uns an</a>"
       trial_subscription: "%{which_group} hat einen <strong>kostenlosen Testzugang</strong>, der am <strong>%{expires_at}</strong> endet. Du kannst <a href='%{subscription_link}'>hier ein Abonnement einrichten</a>."
       trial_expired: "%{which_group} hat das Ende des kostenlosen Probezugangs erreicht."
-      heart: "❤ vom Loomio-Team"
-      unsubscribe: "Diese Mail wird an die Koordinatoren der aktiven Loomio-Gruppen geschickt.<br />Falls du sie nicht erhalten möchtest, <a href='%{contact_link}'>teile es uns mit</a>."
+      heart: "❤ vom Diehard_Fund-Team"
+      unsubscribe: "Diese Mail wird an die Koordinatoren der aktiven Diehard_Fund-Gruppen geschickt.<br />Falls du sie nicht erhalten möchtest, <a href='%{contact_link}'>teile es uns mit</a>."
       user_table:
         motions_created: "Vorschläge"
         discussions_created: "Diskussionen"
         comments_created: "Kommentare"
         votes_created: "Stimmen"
   footer:
-    about: Über Loomio
+    about: Über Diehard_Fund
     blog: Blog
     contact: Kontakt
     help: Hilfe
@@ -160,13 +160,13 @@ de:
     pricing: Preisgestaltung
     public_groups: Öffentliche Gruppen
     terms: Bedingungen
-    independent_install_html: '%{hostname} benutzt eine unabhängige Kopie von Loomio: <a href="http://github.com/loomio/loomio"> Erfahre mehr</a>.'
+    independent_install_html: '%{hostname} benutzt eine unabhängige Kopie von Diehard_Fund: <a href="http://github.com/diehard_fund/diehard_fund"> Erfahre mehr</a>.'
   start_group_form:
     enable_angular:
-      header: Neue Gruppen beginnen in Loomio 1.0
-      subtitle: 'Um eine neue Gruppe zu gründen musst Du zur brandneuen Version von Loomio wechseln:'
-      switch_to_angular: Gründe eine Gruppe im neuen Loomio
-      helptext: Wir haben Loomio komplett überarbeitet. Was neu ist, <a href="/angular">kannst du hier</a> nachlesen.<br/>Du kannst jederzeit zur alten Version zurück wechseln.
+      header: Neue Gruppen beginnen in Diehard_Fund 1.0
+      subtitle: 'Um eine neue Gruppe zu gründen musst Du zur brandneuen Version von Diehard_Fund wechseln:'
+      switch_to_angular: Gründe eine Gruppe im neuen Diehard_Fund
+      helptext: Wir haben Diehard_Fund komplett überarbeitet. Was neu ist, <a href="/angular">kannst du hier</a> nachlesen.<br/>Du kannst jederzeit zur alten Version zurück wechseln.
     header: Gründe eine Gruppe
     form_error: Etwas fehlt oder ist nicht korrekt.
     name: Dein Name
@@ -178,13 +178,13 @@ de:
     group_description_placeholder: Beschreibe den Zweck Deiner Gruppe, damit Mitglieder wissen, warum sie dabei sind.
     group_name_error: Gruppenname wird benötigt
     pricing_html: In 30 Tagen werden wir Dich bitten ein <a href='%{link}' target='_blank'>Vertragsmodell</a> zu wählen.
-    terms_html: Sobald Du eine Gruppe gründest stimmst Du Loomio's <a href='%{link}' target='_blank'>Geschäftsbedingungen</a> zu.
+    terms_html: Sobald Du eine Gruppe gründest stimmst Du Diehard_Fund's <a href='%{link}' target='_blank'>Geschäftsbedingungen</a> zu.
     success:
       header: Du bist fast fertig! Prüfe Deine eMails.
       email_delivered: Wir haben eine eMail an %{email} gesendet. Bitte folge dem darin enthaltenen Link um Deine neue Gruppe einzurichten.
       email_not_arrived: Kam die eMail nicht an?
       please_hold: Bitte gib der eMail 5 Minuten Zeit und prüfe auch Deinen Spam-Ordner.
-    start_making_decisions: 'Um gemeinsam auf Loomio Entscheidungen zu treffen, erstelle kostenlos eine Gruppe:'
+    start_making_decisions: 'Um gemeinsam auf Diehard_Fund Entscheidungen zu treffen, erstelle kostenlos eine Gruppe:'
   invitation_form:
     error:
       all_email_addresses_belong_to_members: "Wir haben keine Einladungen an die angegebenen E-Mail-Adressen versandt, da sie Personen gehören, die bereits an der Gruppe teilnehmen."
@@ -214,12 +214,12 @@ de:
       Preise in US-Dollar, plus wenn erforderlich Mehrwertsteuer. Brauchst du noch etwas? <a href="/contact">Nimm mit uns Kontakt auf!</a>
     custom_subdomain_html: |
       gruppenspezifische Subdomain,<br />
-      z.B. <strong>DeineGruppe</strong>.loomio.org
+      z.B. <strong>DeineGruppe</strong>.diehard_fund.org
     usage_statistics: Nutzerstatistiken
     plus_price_html: '<strong>$99</strong>/Monat'
   password_reset:
     email_guidelines_html: |
-      <p>Gib die eMail-Adresse Deines Loomio-Konto's in das untenstehende Feld ein und Du bekommst einen Link zugesandt, um dein Passwort zurückzusetzen.</p>
+      <p>Gib die eMail-Adresse Deines Diehard_Fund-Konto's in das untenstehende Feld ein und Du bekommst einen Link zugesandt, um dein Passwort zurückzusetzen.</p>
       <p>Falls du dich üblicherweise mit Facebook, Google, Twitter oder Persona einloggst, gib die entsprechende eMail-Adresse ein.</p>
     reset_email_timeframe: Es wird bis zu 5 Minuten dauern, bis die eMail Dich erreicht. Bitte prüfe gegebenenfalls auch Deinen Spam-Ordner.
     length_restriction: Passwörter müssen mindestens 8 Zeichen enthalten.
@@ -231,25 +231,25 @@ de:
 
       Was ist deine Rolle oder der Anlass für deine Teilnahme in dieser Gruppe? Was sollten die Menschen wissen, um zu verstehen, woher du kommst?
   how_it_works_thread:
-    title: Wie man Loomio benutzt
+    title: Wie man Diehard_Fund benutzt
     description: |
-      Willkommen bei Loomio, einem Online-Ort für gemeinsame Entscheidungsfindung.
+      Willkommen bei Diehard_Fund, einem Online-Ort für gemeinsame Entscheidungsfindung.
 
-      Das ist ein Beispiels**thema**. Du kannst unten Kommentare einfügen. Ein Thema beschäftigt sich, wie der Name schon sagt, mit einem bestimmten Thema. In diesem Thema geht es darum, wie Loomio funktioniert, darum stelle hier deine Fragen dazu.
+      Das ist ein Beispiels**thema**. Du kannst unten Kommentare einfügen. Ein Thema beschäftigt sich, wie der Name schon sagt, mit einem bestimmten Thema. In diesem Thema geht es darum, wie Diehard_Fund funktioniert, darum stelle hier deine Fragen dazu.
 
       Du liest gerade das Thema **Kontext**, in dem es um Hintergrundinformationen geht. Du kannst es im Verlauf der Diskussion anpassen.
 
-      Um mit Loomio zu beginnen:
+      Um mit Diehard_Fund zu beginnen:
       1. lade ein [Profilbild](/profile) hoch
       2. Stelle dich im [Willkommensthema](%{thread_url}) vor
       3. Kommentiere ein bestehendes Thema oder eröffne ein neues.
 
-      Tips fürs Posten auf Loomio:
+      Tips fürs Posten auf Diehard_Fund:
 
       * um eine Person zu benachrichtigen, tippe ein @ vor ihrem Namen.
       * Klicke auf die Büroklammer, um Anhänge hinzuzufügen.
 
-      Wenn du Fragen hast, sieh in der [Loomio-Hilfe](http://help.loomio.org) nach.
+      Wenn du Fragen hast, sieh in der [Diehard_Fund-Hilfe](http://help.diehard_fund.org) nach.
   first_proposal:
     name: Demo-Vorschlag
     description: |
@@ -264,7 +264,7 @@ de:
       **Versuche teilzunehmen! Klicke einen der vier Knöpfe**.
   contact_page:
     contact_us: Kontaktiere uns
-    faq_prompt_html: 'Du hast eine Frage an das Loomio Team? Bevor Du uns kontaktierst, prüfe, ob Du die Antwort in unseren meistgestellten Fragen (faq''s) findest. '
+    faq_prompt_html: 'Du hast eine Frage an das Diehard_Fund Team? Bevor Du uns kontaktierst, prüfe, ob Du die Antwort in unseren meistgestellten Fragen (faq''s) findest. '
     contact_information: Wenn Du nichts gefunden hast, findest Du unsere Kontaktinformationen am Ende dieser Seite
     contact_form: Kontaktformular
     labels:
@@ -326,25 +326,25 @@ de:
       body: |
         Eckige Klammern für den angezeigten Text und runde Klammern für die URL. Kein Leerzeichen dazwischen!
 
-        [Loomio Homepage](https://www.loomio.org/)
+        [Diehard_Fund Homepage](https://www.diehard_fund.org/)
 
         Bilder gehen genau so, nur mit einem Ausrufezeichen davor.
 
-        ![Loomio-Logo](https://i.imgur.com/Fvtworb.png)
+        ![Diehard_Fund-Logo](https://i.imgur.com/Fvtworb.png)
   beta_banner:
-    new_loomio_html: |
-      <strong>Das neue Loomio ist schneller, hübscher und besser!</strong> Wir wechseln zur neuen Version.
+    new_diehard_fund_html: |
+      <strong>Das neue Diehard_Fund ist schneller, hübscher und besser!</strong> Wir wechseln zur neuen Version.
     upgrade_browser_html: |+
-      Wir unterstützen nur moderne Versionen des Internet Explorer (10+). Du wirst deinen <a href='http://outdatedbrowser.com/en' target='_blank'>Browser aktualisieren müssen</a> um Loomio weiter verwenden zu können.
-      <strong>Das neue Loomio ist raus!</strong> Es ist schneller, hübscher, und Smartphone-tauglich.
+      Wir unterstützen nur moderne Versionen des Internet Explorer (10+). Du wirst deinen <a href='http://outdatedbrowser.com/en' target='_blank'>Browser aktualisieren müssen</a> um Diehard_Fund weiter verwenden zu können.
+      <strong>Das neue Diehard_Fund ist raus!</strong> Es ist schneller, hübscher, und Smartphone-tauglich.
 
     more_info: Mehr Informationen...
-    button_text: Wechsle zum neuen Loomio
+    button_text: Wechsle zum neuen Diehard_Fund
   poll_mailer:
     common:
       or: oder
       why_send_this: Du erhältst diese E-Mail weil %{reason}
-      view_on_loomio: In Loomio ansehen
+      view_on_diehard_fund: In Diehard_Fund ansehen
       unsubscribe: Abmelden
       results: Ergebnisse
       responses: Antworten

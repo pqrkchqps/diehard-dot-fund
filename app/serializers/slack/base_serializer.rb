@@ -7,7 +7,7 @@ class Slack::BaseSerializer < ActiveModel::Serializer
   end
 
   def username
-    "Loomio Bot"
+    "Diehard_Fund Bot"
   end
 
   def icon_url

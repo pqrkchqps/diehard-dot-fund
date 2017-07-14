@@ -1,6 +1,6 @@
 da:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Start en gruppe
       invite_people_link: Inviter folk
       start_discussion_link: Start en diskussion
@@ -72,8 +72,8 @@ da:
           mute_title: Slået fra
       email_settings:
         title: Indstillinger for email
-      yesterday_on_loomio:
-        title: I går på Loomio
+      yesterday_on_diehard_fund:
+        title: I går på Diehard_Fund
     user_profile:
       account_deactivation:
         title: Deaktiverer din konto

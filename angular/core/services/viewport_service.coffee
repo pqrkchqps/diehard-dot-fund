@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ViewportService', ($window) ->
+angular.module('diehard_fundApp').factory 'ViewportService', ($window) ->
   new class ViewportService
 
     viewportSize: ->

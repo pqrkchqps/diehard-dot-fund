@@ -1,4 +1,4 @@
-Given(/^I have a loomio account$/) do
+Given(/^I have a diehard_fund account$/) do
   @user = FactoryGirl.create(:user)
 end
 

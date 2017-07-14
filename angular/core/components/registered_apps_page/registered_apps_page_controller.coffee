@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'RegisteredAppsPageController', ($scope, $rootScope, Records, ModalService, RegisteredAppForm, RemoveAppForm) ->
+angular.module('diehard_fundApp').controller 'RegisteredAppsPageController', ($scope, $rootScope, Records, ModalService, RegisteredAppForm, RemoveAppForm) ->
   $rootScope.$broadcast('currentComponent', {page: 'registeredAppsPage'})
   $rootScope.$broadcast('setTitle', 'OAuth Application Dashboard')
 

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'descriptionCard', ->
+angular.module('diehard_fundApp').directive 'descriptionCard', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/description_card/description_card.html'

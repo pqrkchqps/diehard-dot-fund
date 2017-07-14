@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PollDidNotVoteModel', (AppConfig, BaseModel) ->
+angular.module('diehard_fundApp').factory 'PollDidNotVoteModel', (AppConfig, BaseModel) ->
   class PollDidNotVoteModel extends BaseModel
     @singular: 'poll_did_not_vote'
     @plural: 'poll_did_not_votes'

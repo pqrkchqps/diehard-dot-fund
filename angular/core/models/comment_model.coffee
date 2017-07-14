@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'CommentModel', (DraftableModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'CommentModel', (DraftableModel, AppConfig) ->
   class CommentModel extends DraftableModel
     @singular: 'comment'
     @plural: 'comments'

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'MentionLinkService', ->
+angular.module('diehard_fundApp').factory 'MentionLinkService', ->
   new class MentionLinkService
     cook: (mentionedUsernames, text) ->
       text

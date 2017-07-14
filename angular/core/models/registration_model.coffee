@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'RegistrationModel', (BaseModel) ->
+angular.module('diehard_fundApp').factory 'RegistrationModel', (BaseModel) ->
   class RegistrationModel extends BaseModel
     @singular: 'registration'
     @plural: 'registrations'

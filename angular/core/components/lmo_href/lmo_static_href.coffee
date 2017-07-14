@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'lmoStaticHref', ($window) ->
+angular.module('diehard_fundApp').directive 'lmoStaticHref', ($window) ->
   restrict: 'A'
   scope:
     route: '@lmoStaticHref'

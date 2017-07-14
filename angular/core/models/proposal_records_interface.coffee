@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ProposalRecordsInterface', (BaseRecordsInterface, ProposalModel) ->
+angular.module('diehard_fundApp').factory 'ProposalRecordsInterface', (BaseRecordsInterface, ProposalModel) ->
   class ProposalRecordsInterface extends BaseRecordsInterface
     model: ProposalModel
 

@@ -11,7 +11,7 @@ Feature: Autodetect the time zone of the user on login or signup
 
   @javascript
   Scenario: Invited user signs up and has time_zone defined
-    Given I am invited to join a Loomio Group
+    Given I am invited to join a Diehard_Fund Group
     And I follow the invitation link
     When I sign up as a new user
     Then the new user should have a time zone

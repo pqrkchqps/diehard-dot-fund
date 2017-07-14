@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'EmailSettingsPageController', ($rootScope, $translate, Records, AbilityService, FormService, Session, $location, ModalService, ChangeVolumeForm) ->
+angular.module('diehard_fundApp').controller 'EmailSettingsPageController', ($rootScope, $translate, Records, AbilityService, FormService, Session, $location, ModalService, ChangeVolumeForm) ->
   $rootScope.$broadcast('currentComponent', { page: 'emailSettingsPage'})
 
   @init = =>

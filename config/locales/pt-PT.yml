@@ -19,7 +19,7 @@ pt-PT:
       no_invitations_remaining: Não há convites disponíveis
     mailer:
       invitation_instructions:
-        subject: Alguém convidou-o para participar no seu grupo Loomio
+        subject: Alguém convidou-o para participar no seu grupo Diehard_Fund
   error:
     access_denied: Não tem permissão para o fazer.
     cant_join_subgroup: Não pode afiliar-se a um sub-grupo se não for membro do grupo principal.
@@ -56,7 +56,7 @@ pt-PT:
     new_contacts_imported: "Funcionou! Pode introduzir nomes no campo abaixo e nós sugerimos o endereço de email."
     admin_rights_removed: "%{which_user} perdeu as permissões de coordenador."
     user_added: "%{user_email_or_name} foi adicionado(a) ao grupo."
-    new_user_added: "%{user_email_or_name} será adicionado(a) ao grupo depois de criar uma conta Loomio."
+    new_user_added: "%{user_email_or_name} será adicionado(a) ao grupo depois de criar uma conta Diehard_Fund."
     member_removed: Membro retirado.
     membership_request_canceled: Pedido de adesão cancelado.
     membership_request_ignored: Pedido de adesão ignorado.

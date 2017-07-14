@@ -1,4 +1,4 @@
-angular.module('loomioApp').config ($provide) ->
+angular.module('diehard_fundApp').config ($provide) ->
   # a decorator to allow mentio to work within modals
   # https://github.com/jeff-collins/ment.io/issues/68#issuecomment-200746901
   $provide.decorator 'mentioMenuDirective', ($delegate) ->

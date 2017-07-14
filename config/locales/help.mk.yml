@@ -1,6 +1,6 @@
 mk:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Започни група
       invite_people_link: Покани луѓе
       start_discussion_link: Започни дискусија
@@ -25,5 +25,5 @@ mk:
     subgroups:
       title: Под-групи
     keeping_up_to_date:
-      yesterday_on_loomio:
-        title: Вчера на Loomio
+      yesterday_on_diehard_fund:
+        title: Вчера на Diehard_Fund

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'DidNotVoteRecordsInterface', (BaseRecordsInterface, DidNotVoteModel) ->
+angular.module('diehard_fundApp').factory 'DidNotVoteRecordsInterface', (BaseRecordsInterface, DidNotVoteModel) ->
   class DidNotVoteRecordsInterface extends BaseRecordsInterface
     model: DidNotVoteModel
 

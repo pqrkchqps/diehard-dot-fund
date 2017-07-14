@@ -20,7 +20,7 @@ module.exports = ->
       haml(),                                     # convert haml to html
       htmlmin(),                                  # minify html
       template(                                   # store html templates in angular cache
-        module: 'loomioApp',
+        module: 'diehard_fundApp',
         transformUrl: (url) ->
           if url.match /.+\/.+/
             "generated/components/#{url}"

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'StanceChoiceModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'StanceChoiceModel', (BaseModel, AppConfig) ->
   class StanceChoiceModel extends BaseModel
     @singular: 'stanceChoice'
     @plural: 'stanceChoices'

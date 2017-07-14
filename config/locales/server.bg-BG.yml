@@ -4,15 +4,15 @@ bg-BG:
       intro: '%{who} направи обявление в %{group}:'
     unsubscribe: 'Отписване или промяна на вашите e-mail предпочитания:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> за да се отпишете или смените e-mail предпочитаията си."
-    view_comment: Кликнете тук за да видите коментара в Loomio
+    view_comment: Кликнете тук за да видите коментара в Diehard_Fund
     view_discussion: Кликнете тук за да видите тази дискусия
     create_proposal:
-      intro: 'Създадено е ново предложение в Loomio група, на която сте член.'
+      intro: 'Създадено е ново предложение в Diehard_Fund група, на която сте член.'
       closes_in: Затваря след
     daily_activity:
-      heading: Вашата Loomio Активност
-      intro: Показва какво се е случило във вашите Loomio групи през последните 24 часа
-      subject: Loomio - Резюме на последните 24 часа
+      heading: Вашата Diehard_Fund Активност
+      intro: Показва какво се е случило във вашите Diehard_Fund групи през последните 24 часа
+      subject: Diehard_Fund - Резюме на последните 24 часа
     membership_request:
       intro: '%{name} (%{email}) е поискал достъп до една от вашите групи.'
       view_group: Можете да одобрите или не заявките тук

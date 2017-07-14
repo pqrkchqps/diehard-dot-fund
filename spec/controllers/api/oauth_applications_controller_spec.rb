@@ -6,7 +6,7 @@ describe API::OauthApplicationsController do
   let!(:my_app) { create(:application, owner: user) }
   let!(:other_app) { create(:application) }
   let(:access_token) { create(:access_token, resource_owner_id: user.id, application: other_app) }
-  let(:app_params) {{ name: "My new app", redirect_uri: "https://loomioapp.org/callback" }}
+  let(:app_params) {{ name: "My new app", redirect_uri: "https://diehard_fundapp.org/callback" }}
 
   before do
     sign_in user

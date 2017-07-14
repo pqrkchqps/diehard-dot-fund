@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'GroupRecordsInterface', (BaseRecordsInterface, GroupModel) ->
+angular.module('diehard_fundApp').factory 'GroupRecordsInterface', (BaseRecordsInterface, GroupModel) ->
   class GroupRecordsInterface extends BaseRecordsInterface
     model: GroupModel
 

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ThreadQueryService', (Records, AbilityService, Session) ->
+angular.module('diehard_fundApp').factory 'ThreadQueryService', (Records, AbilityService, Session) ->
   new class ThreadQueryService
 
     filterQuery: (filter, options = {}) ->

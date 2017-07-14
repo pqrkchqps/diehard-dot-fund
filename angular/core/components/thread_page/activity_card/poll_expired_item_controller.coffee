@@ -1,2 +1,2 @@
-angular.module('loomioApp').controller 'PollExpiredItemController', ($scope, Records) ->
+angular.module('diehard_fundApp').controller 'PollExpiredItemController', ($scope, Records) ->
   $scope.poll = Records.polls.find($scope.event.eventable.id)

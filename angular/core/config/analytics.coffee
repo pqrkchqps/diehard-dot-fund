@@ -1,3 +1,3 @@
-angular.module('loomioApp').config ($analyticsProvider) ->
+angular.module('diehard_fundApp').config ($analyticsProvider) ->
   $analyticsProvider.firstPageview(true)
   $analyticsProvider.withAutoBase(true)

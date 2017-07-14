@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'discussionsCard', ->
+angular.module('diehard_fundApp').directive 'discussionsCard', ->
   scope: {group: '=', pageWindow: '='}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/discussions_card/discussions_card.html'

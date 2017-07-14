@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'matrixChart', (AppConfig) ->
+angular.module('diehard_fundApp').directive 'matrixChart', (AppConfig) ->
   template: '<div class="matrix-chart"></div>'
   replace: true
   scope:

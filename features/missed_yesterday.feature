@@ -1,6 +1,6 @@
 Feature: Missed yesterday email
   Background:
-    Given I am an existing Loomio user
+    Given I am an existing Diehard_Fund user
     And I am a member of a group
     And I am subscribed to the missed yesterday email
 

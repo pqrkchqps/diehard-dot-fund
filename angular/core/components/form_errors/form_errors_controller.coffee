@@ -1,2 +1,2 @@
-angular.module('loomioApp').controller 'FormErrorsController', ->
+angular.module('diehard_fundApp').controller 'FormErrorsController', ->
 

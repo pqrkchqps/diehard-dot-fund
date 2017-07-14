@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'proposalsCard', ->
+angular.module('diehard_fundApp').directive 'proposalsCard', ->
   scope: {}
   bindToController: {discussion: '='}
   restrict: 'E'

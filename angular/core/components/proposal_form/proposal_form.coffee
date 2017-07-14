@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ProposalForm', ->
+angular.module('diehard_fundApp').factory 'ProposalForm', ->
   templateUrl: 'generated/components/proposal_form/proposal_form.html'
   controller: ($scope, $rootScope, proposal, FormService, MentionService, KeyEventService, ScrollService, EmojiService, UserHelpService, Records, AttachmentService) ->
     $scope.nineWaysArticleLink = ->

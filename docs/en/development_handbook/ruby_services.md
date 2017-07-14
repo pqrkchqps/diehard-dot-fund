@@ -1,4 +1,4 @@
-# Services in the Loomio rails app
+# Services in the Diehard_Fund rails app
 
 If you're new to service objects, the incredible blog post [7 Patterns to Refactor ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 explains that Service Objects encapsulate an action in the system.
@@ -17,4 +17,4 @@ You can write services however you like, but there is a specific pattern we tend
 
 Just to be clear: do not call `save!` or `update!` they raise error on validation which we don't want to do.
 
-Have a look around: https://github.com/loomio/loomio/tree/master/app/services
+Have a look around: https://github.com/diehard_fund/diehard_fund/tree/master/app/services

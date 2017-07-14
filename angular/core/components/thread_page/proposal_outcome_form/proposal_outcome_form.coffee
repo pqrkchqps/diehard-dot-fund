@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ProposalOutcomeForm', ->
+angular.module('diehard_fundApp').factory 'ProposalOutcomeForm', ->
   templateUrl: 'generated/components/thread_page/proposal_outcome_form/proposal_outcome_form.html'
   controller: ($scope, proposal, FormService, EmojiService) ->
     $scope.proposal = proposal.clone()

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ScrollService', ($timeout) ->
+angular.module('diehard_fundApp').factory 'ScrollService', ($timeout) ->
   new class ScrollService
 
   scrollTo: (target, options = {}) ->

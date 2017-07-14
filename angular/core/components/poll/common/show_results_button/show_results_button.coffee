@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'showResultsButton', ->
+angular.module('diehard_fundApp').directive 'showResultsButton', ->
   templateUrl: 'generated/components/poll/common/show_results_button/show_results_button.html'
   controller: ($scope) ->
     $scope.clicked = false

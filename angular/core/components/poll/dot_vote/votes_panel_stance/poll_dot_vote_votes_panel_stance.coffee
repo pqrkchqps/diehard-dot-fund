@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollDotVoteVotesPanelStance', (PollService, RecordLoader) ->
+angular.module('diehard_fundApp').directive 'pollDotVoteVotesPanelStance', (PollService, RecordLoader) ->
   scope: {stance: '='}
   templateUrl: 'generated/components/poll/dot_vote/votes_panel_stance/poll_dot_vote_votes_panel_stance.html'
   controller: ($scope) ->

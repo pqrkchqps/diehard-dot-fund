@@ -1,6 +1,6 @@
 uk:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Створити групу
       invite_people_link: Запросити людей
       start_discussion_link: Розпочати дискусію
@@ -69,8 +69,8 @@ uk:
           mute_title: Беззвучно
       email_settings:
         title: Налаштування електронної пошти
-      yesterday_on_loomio:
-        title: Вчора на Loomio
+      yesterday_on_diehard_fund:
+        title: Вчора на Diehard_Fund
     user_profile:
       account_deactivation:
         title: Деактивація облікового запису

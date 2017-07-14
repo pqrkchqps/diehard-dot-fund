@@ -9,7 +9,7 @@ namespace :locales do
   THRESHOLDS = { "Live" => 80 }
 
   task :update => :environment do
-    language_info = HTTParty.get('http://www.transifex.com/api/2/project/loomio-1/languages', LOGIN)
+    language_info = HTTParty.get('http://www.transifex.com/api/2/project/diehard_fund-1/languages', LOGIN)
     locales = locale_array(language_info)
     fixed_locales = locales.map {|l| l.gsub('_','-')}
 
@@ -17,7 +17,7 @@ namespace :locales do
     puts " UPDATING \n"
 
     # note we're only fetching stats on the Main resource
-    language_stats = HTTParty.get('http://www.transifex.com/api/2/project/loomio-1/resource/github-linked-version/stats', LOGIN)
+    language_stats = HTTParty.get('http://www.transifex.com/api/2/project/diehard_fund-1/resource/github-linked-version/stats', LOGIN)
 
 
     locales.each do |locale|
@@ -39,7 +39,7 @@ namespace :locales do
 
   task :check => :environment do
     #could be drier
-    language_info = HTTParty.get('http://www.transifex.com/api/2/project/loomio-1/languages', LOGIN)
+    language_info = HTTParty.get('http://www.transifex.com/api/2/project/diehard_fund-1/languages', LOGIN)
     locales = locale_array(language_info)
     fixed_locales = locales.map {|l| l.gsub('_','-')}
 
@@ -48,7 +48,7 @@ namespace :locales do
   end
 
   task :check_codelike_text, [:locales] => [:environment] do |t, args|
-    args.with_defaults(:locales => Loomio::I18n::SELECTABLE_LOCALES + Loomio::I18n::TEST_LOCALES )
+    args.with_defaults(:locales => Diehard_Fund::I18n::SELECTABLE_LOCALES + Diehard_Fund::I18n::TEST_LOCALES )
 
     print "\n"
 
@@ -78,7 +78,7 @@ namespace :locales do
             print "\n    #{locale.to_s}#{key}\n"
             print "\t\e[32m#{bolded_english}\e[0m\n"
             print "\t#{foreign_str}\n\n"
-            print "\t\e[30mhttps://www.transifex.com/projects/p/loomio-1/translate/##{transifex_locale}/#{RESOURCES.key(file)}/?key=#{key[1..-1]}\e[0m\n\n"
+            print "\t\e[30mhttps://www.transifex.com/projects/p/diehard_fund-1/translate/##{transifex_locale}/#{RESOURCES.key(file)}/?key=#{key[1..-1]}\e[0m\n\n"
           end
         end
 
@@ -94,7 +94,7 @@ namespace :locales do
             print "\n    #{locale.to_s}#{key}\n"
             print "\t\e[32m#{bolded_english}\e[0m\n"
             print "\t#{foreign_str}\n\n"
-            print "\t\e[30mhttps://www.transifex.com/projects/p/loomio-1/translate/##{transifex_locale}/#{RESOURCES.key(file)}/?key=#{key[1..-1]}\e[0m\n\n"
+            print "\t\e[30mhttps://www.transifex.com/projects/p/diehard_fund-1/translate/##{transifex_locale}/#{RESOURCES.key(file)}/?key=#{key[1..-1]}\e[0m\n\n"
           end
         end
       end
@@ -108,8 +108,8 @@ namespace :locales do
     # args.with_defaults(:locales => LocalesHelper::LOCALE_STRINGS + LocalesHelper::TEST_LOCALES)
 
     print "\n TEST_LOCALES = %i( "
-    pretty_l = (args[:locales].map(&:to_sym) - Loomio::I18n::SELECTABLE_LOCALES).map do |l|
-      if Loomio::I18n::TEST_LOCALES.include? l
+    pretty_l = (args[:locales].map(&:to_sym) - Diehard_Fund::I18n::SELECTABLE_LOCALES).map do |l|
+      if Diehard_Fund::I18n::TEST_LOCALES.include? l
         grey(l)
       else
         bold(green(l))
@@ -180,7 +180,7 @@ def update(locale, resource)
   fixed_locale = locale.gsub('_', '-')
   filename = RESOURCES[resource].chomp('en.yml') + "#{fixed_locale}.yml"
 
-  response = HTTParty.get("http://www.transifex.com/api/2/project/loomio-1/resource/#{resource}/translation/#{locale}", LOGIN)
+  response = HTTParty.get("http://www.transifex.com/api/2/project/diehard_fund-1/resource/#{resource}/translation/#{locale}", LOGIN)
 
   if response.present? && content = response['content']
     content = content.gsub(/^#{locale}:/, "#{fixed_locale}:")
@@ -215,7 +215,7 @@ def print_status(locale, language_stats)
 
   fixed_locale_str = cyan(fixed_locale_str)
 
-  if Loomio::I18n::SELECTABLE_LOCALES.include? fixed_locale
+  if Diehard_Fund::I18n::SELECTABLE_LOCALES.include? fixed_locale
     if perc_comp >= THRESHOLDS["Live"] - 5
       state         = bold('Live')
       perc_comp_str = grey(perc_comp_str)

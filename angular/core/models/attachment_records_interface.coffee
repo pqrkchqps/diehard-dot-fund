@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'AttachmentRecordsInterface', (BaseRecordsInterface, AttachmentModel) ->
+angular.module('diehard_fundApp').factory 'AttachmentRecordsInterface', (BaseRecordsInterface, AttachmentModel) ->
   class AttachmentRecordsInterface extends BaseRecordsInterface
     model: AttachmentModel
 

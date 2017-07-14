@@ -20,9 +20,9 @@ cs:
     newsletter: Zpravodaj
     twitter: Twitter
     facebook: Facebook
-    trademark_statement: © 2017 Loomio Cooperative Limited. Všechna práva vyhrazena. "Loomio" je registrovaná ochranná známka společnosti Loomio Cooperative Limited.
-    not_slack: Loomio není vytvořeno, přidruženo nebo podporováno společností Slack Technologies, Inc.
-    loomio_school: Škola Loomio
+    trademark_statement: © 2017 Diehard_Fund Cooperative Limited. Všechna práva vyhrazena. "Diehard_Fund" je registrovaná ochranná známka společnosti Diehard_Fund Cooperative Limited.
+    not_slack: Diehard_Fund není vytvořeno, přidruženo nebo podporováno společností Slack Technologies, Inc.
+    diehard_fund_school: Škola Diehard_Fund
   marketing2:
     ben_quote: "“Naše komunikace je efektivnější a efektivnější a vše je na jednom místě.”"
     tom_quote: "“Dostali jsme se k lidem, kteří by jinak do konverzace nepřispěli, včetně marginalizovaných skupin obyvatelstva a mládeže.”"
@@ -42,9 +42,9 @@ cs:
   about:
     purpose_and_values:
       independent_heading: Nezávislé a neutrální
-      independent_body: Loomio je odhodláno zůstat nezávislé, takže může poskytnout neutrální místo pro každou skupinu, která se bude scházet.
+      independent_body: Diehard_Fund je odhodláno zůstat nezávislé, takže může poskytnout neutrální místo pro každou skupinu, která se bude scházet.
       open_source_heading: Spolupráce s otevřeným zdrojovým kódem
-      open_source_body: Loomio si klade za cíl vyvinout open source nástroje, které zpřístupňují spolupráci všem.
+      open_source_body: Diehard_Fund si klade za cíl vyvinout open source nástroje, které zpřístupňují spolupráci všem.
       adaptive_heading: "Adaptivní, reflexní, uživatelsky řízený"
   titles:
     terms_of_service: Podmínky použití

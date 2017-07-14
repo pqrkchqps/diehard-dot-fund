@@ -1,6 +1,6 @@
 sr-RS:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Креирај групу
       invite_people_link: Позови људе
       start_discussion_link: Започни дискусију
@@ -68,7 +68,7 @@ sr-RS:
           mute_title: Искључено
       email_settings:
         title: Подешавања еПорука
-      yesterday_on_loomio:
+      yesterday_on_diehard_fund:
         title: Јуче на Лумију
     user_profile:
       account_deactivation:

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'IdentityRecordsInterface', (BaseRecordsInterface, IdentityModel) ->
+angular.module('diehard_fundApp').factory 'IdentityRecordsInterface', (BaseRecordsInterface, IdentityModel) ->
   class IdentityRecordsInterface extends BaseRecordsInterface
     model: IdentityModel
 

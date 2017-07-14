@@ -1,7 +1,7 @@
 .container#contact-message
   %section.first
     .inner-container
-      - if hosted_by_loomio? && !current_user.try(:angular_ui_enabled)
+      - if hosted_by_diehard_fund? && !current_user.try(:angular_ui_enabled)
         %h1= t(:"contact_page.contact_us")
         %p= t(:"contact_page.faq_prompt_html")
         %p= t(:"contact_page.contact_information")
@@ -18,6 +18,6 @@
             = f.input :message, label: t(:"contact_page.labels.message")
             = f.submit :submit, value: t(:"contact_page.labels.submit"), class: 'btn btn-info btn-lg', data: { disable_with: t(:"contact_page.labels.submit") }
         .col-md-5.offset1#direct-contact
-          - if hosted_by_loomio?
-            %p= t(:"contact_page.messages.email_html", email: "contact@loomio.org")
-            %p= t(:"contact_page.messages.social_html", facebook: "https://www.facebook.com/Loomio", twitter: "https://twitter.com/Loomio", google: "https://plus.google.com/+LoomioOrg")
+          - if hosted_by_diehard_fund?
+            %p= t(:"contact_page.messages.email_html", email: "contact@diehard_fund.org")
+            %p= t(:"contact_page.messages.social_html", facebook: "https://www.facebook.com/Diehard_Fund", twitter: "https://twitter.com/Diehard_Fund", google: "https://plus.google.com/+Diehard_FundOrg")

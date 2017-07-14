@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'VersionModel', (BaseModel) ->
+angular.module('diehard_fundApp').factory 'VersionModel', (BaseModel) ->
   class VersionModel extends BaseModel
     @singular: 'version'
     @plural: 'versions'

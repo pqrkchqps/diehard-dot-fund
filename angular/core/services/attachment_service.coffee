@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'AttachmentService', (Records) ->
+angular.module('diehard_fundApp').factory 'AttachmentService', (Records) ->
   new class AttachmentService
 
     listenForAttachments: (scope, model) ->

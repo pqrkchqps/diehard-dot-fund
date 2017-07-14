@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'translation', ->
+angular.module('diehard_fundApp').directive 'translation', ->
   scope: {translation: '=', field: '@'}
   restrict: 'E'
   templateUrl: 'generated/components/translation/translation.html'

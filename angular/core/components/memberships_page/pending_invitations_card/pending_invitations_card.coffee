@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pendingInvitationsCard', ->
+angular.module('diehard_fundApp').directive 'pendingInvitationsCard', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/memberships_page/pending_invitations_card/pending_invitations_card.html'

@@ -1,10 +1,10 @@
 zh-TW:
   new_help:
     title: 我們可以怎麼協助您呢？
-    how_loomio_works:
-      title: Loomio 是如何運作的
+    how_diehard_fund_works:
+      title: Diehard_Fund 是如何運作的
       start_group_link: 啟動群組
-      start_group_description: 與在 Loomio 上的人協同合作
+      start_group_description: 與在 Diehard_Fund 上的人協同合作
       invite_people_link: 邀請夥伴
       invite_people_description: 在您的群組中
       start_discussion_link: 啟動新的討論串
@@ -15,15 +15,15 @@ zh-TW:
       decide_together_description: 任何人可以同意、放棄、反對或凍結 — 這樣您可以了解每個人對提議的感覺。
     contents:
       title: 內容表格
-      what_is_loomio:
-        title: Loomio 是什麼
-      how_loomio_works:
-        title: Loomio 是如何運作的
+      what_is_diehard_fund:
+        title: Diehard_Fund 是什麼
+      how_diehard_fund_works:
+        title: Diehard_Fund 是如何運作的
       getting_started:
         title_html: 開始入門
-        starting_new_group_html: 當您需要開始一個新的 Loomio 群組
-        invited_into_group_html: 當您被邀請加入一個 Loomio 群組
-        joining_existing_group_html: 當您想要加入一個已經存在的 Loomio 群組
+        starting_new_group_html: 當您需要開始一個新的 Diehard_Fund 群組
+        invited_into_group_html: 當您被邀請加入一個 Diehard_Fund 群組
+        joining_existing_group_html: 當您想要加入一個已經存在的 Diehard_Fund 群組
         single_sign_on_html: 單獨登入
       group_settings:
         title_html: 群組設定
@@ -72,7 +72,7 @@ zh-TW:
       keeping_up_to_date:
         title_html: 跟進
         volume_html: 音量
-        yesterday_on_loomio_html: 「昨日 Loomio」
+        yesterday_on_diehard_fund_html: 「昨日 Diehard_Fund」
         email_settings_html: 電子郵件設定
       user_profile:
         title_html: 您的使用者簡歷
@@ -90,20 +90,20 @@ zh-TW:
       security:
         title_html: 隱私及安全性
       contributing:
-        title_html: 對 Loomio 進行貢獻
-      loomio_community:
-        title_html: Loomio 社群
-      loomio_development:
-        title_html: 隨時注意 Loomio 的開發
+        title_html: 對 Diehard_Fund 進行貢獻
+      diehard_fund_community:
+        title_html: Diehard_Fund 社群
+      diehard_fund_development:
+        title_html: 隨時注意 Diehard_Fund 的開發
       faq:
         title_html: 常見問題
     getting_started:
       title: 開始入門
-      intro: "當您第一次來到 Loomio，您可以以多種方式加入。\n這裡有一些關於每一個論點的資訊：\n"
+      intro: "當您第一次來到 Diehard_Fund，您可以以多種方式加入。\n這裡有一些關於每一個論點的資訊：\n"
       starting_new_group:
-        title: 當您需要開始一個新的 Loomio 群組
+        title: 當您需要開始一個新的 Diehard_Fund 群組
       invited_into_group:
-        title: 當您被邀請加入一個 Loomio 群組
+        title: 當您被邀請加入一個 Diehard_Fund 群組
       single_sign_on:
         title: 單獨登入
     group_settings:
@@ -209,8 +209,8 @@ zh-TW:
           mute_title: 靜音
       email_settings:
         title: 電子郵件設定
-      yesterday_on_loomio:
-        title: 昨日 Loomio
+      yesterday_on_diehard_fund:
+        title: 昨日 Diehard_Fund
     user_profile:
       title: 您的使用者簡歷
       language_settings:
@@ -234,13 +234,13 @@ zh-TW:
     security:
       title: 隱私及安全性
     contributing:
-      title: 對 Loomio 進行貢獻
+      title: 對 Diehard_Fund 進行貢獻
       body:
         translation:
           title_html: 翻譯
-        loomio_community:
-          title_html: Loomio 社群
-    loomio_community:
-      title: Loomio 社群
+        diehard_fund_community:
+          title_html: Diehard_Fund 社群
+    diehard_fund_community:
+      title: Diehard_Fund 社群
     faq:
       title: 常見問題

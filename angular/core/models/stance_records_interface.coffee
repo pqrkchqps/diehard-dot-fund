@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'StanceRecordsInterface', (AppConfig, BaseRecordsInterface, StanceModel) ->
+angular.module('diehard_fundApp').factory 'StanceRecordsInterface', (AppConfig, BaseRecordsInterface, StanceModel) ->
   class StanceRecordsInterface extends BaseRecordsInterface
     model: StanceModel
 

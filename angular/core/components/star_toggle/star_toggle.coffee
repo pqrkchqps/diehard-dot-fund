@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'starToggle', ->
+angular.module('diehard_fundApp').directive 'starToggle', ->
   scope: {thread: '='}
   restrict: 'E'
   templateUrl: 'generated/components/star_toggle/star_toggle.html'

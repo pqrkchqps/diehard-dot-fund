@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'UserModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'UserModel', (BaseModel, AppConfig) ->
   class UserModel extends BaseModel
     @singular: 'user'
     @plural: 'users'

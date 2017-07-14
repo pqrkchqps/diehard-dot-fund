@@ -1,4 +1,4 @@
-Given /^I have requested to start a loomio group$/ do
+Given /^I have requested to start a diehard_fund group$/ do
   @admin_email = @user ? @user.email : "test@example.org"
   @group_request = FactoryGirl.create :group_request, admin_email: @admin_email, status: 'verified'
   reset_mailer
@@ -52,7 +52,7 @@ When /^I click the old format invitation link to start a new group$/ do
 end
 
 Then /^I should be asked to create an account$/ do
-  page.should have_content("Your request to a start a new group on Loomio has been approved!")
+  page.should have_content("Your request to a start a new group on Diehard_Fund has been approved!")
 end
 
 Then /^I should become the admin of the group$/ do

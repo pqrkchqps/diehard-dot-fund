@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonAddOptionButton', (ModalService, PollCommonAddOptionModal) ->
+angular.module('diehard_fundApp').directive 'pollCommonAddOptionButton', (ModalService, PollCommonAddOptionModal) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/add_option/button/poll_common_add_option_button.html'
   replace: true

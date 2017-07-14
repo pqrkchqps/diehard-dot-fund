@@ -1,4 +1,4 @@
-When(/^I visit the Loomio home page$/) do
+When(/^I visit the Diehard_Fund home page$/) do
   visit root_path
 end
 

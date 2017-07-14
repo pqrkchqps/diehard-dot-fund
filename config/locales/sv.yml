@@ -30,7 +30,7 @@ sv:
       no_invitations_remaining: Inga fler inbjudningar återstår.
     mailer:
       invitation_instructions:
-        subject: Någon har bjudit in dig till sin Loomiogrupp.
+        subject: Någon har bjudit in dig till sin Diehard_Fundgrupp.
     registrations:
       sign_up: Skapa konto
   error:
@@ -70,7 +70,7 @@ sv:
     new_contacts_imported: Det lyckades! Du kan skriva namn i fältet nedanför och vi kommer att föreslå e-mailadressen.
     admin_rights_removed: "%{which_user} koordinatorrättigheter har tagits bort."
     user_added: "%{user_email_or_name} har lagts till denna gruppen."
-    new_user_added: "%{user_email_or_name} läggs till denna gruppen så fort de har skapat ett Loomiokonto."
+    new_user_added: "%{user_email_or_name} läggs till denna gruppen så fort de har skapat ett Diehard_Fundkonto."
     member_removed: Medlemmen är borttagen.
     membership_approved: Medlemskapet är godkänt.
     membership_request_canceled: medlemskapsförfrågan cancellerad.
@@ -164,7 +164,7 @@ sv:
         one: 1 år
         other: "%{count} år"
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: Byt navigation
   inbox:
@@ -201,15 +201,15 @@ sv:
   find_a_group_hint: För att utforska öppna grupper
   search_for_group: Leta efter en grupp...
   no_groups_found: Hittade ingen grupp med det namnet!
-  no_group_header: Välkommen till Loomio Beta
+  no_group_header: Välkommen till Diehard_Fund Beta
   empty_notifications: Du har inte fått några notifieringar ännu.
   see_all_notifications: Se alla notifieringar
   sign_out: Logga ut
   sign_in: Logga in
   honeypot_warning: Kunde inte skapa ditt konto. Om du använder en radläsare, se till att det sista (dolda) fältet är ett blanktecken.
   tagline: Skapa en värld där det är enkelt för vem som helst att delta i diskussioner som påverkar dem.
-  or_sign_in_html: Om du redan har ett Loomiokonto, <a href='%{link}' class='%{link_class}'>logga in här</a>
-  or_link_account_html: Om du redan har ett Loomiokonto, <a href='%{link}'>länka det till</a>
+  or_sign_in_html: Om du redan har ett Diehard_Fundkonto, <a href='%{link}' class='%{link_class}'>logga in här</a>
+  or_link_account_html: Om du redan har ett Diehard_Fundkonto, <a href='%{link}'>länka det till</a>
   click_to_dismiss: Klicka här för att avvisa detta meddelande
   generic_confirm: Är du säker?
   discussion_helper_text:
@@ -242,7 +242,7 @@ sv:
       info_title: Vad innebär det att avaktivera ditt konto?
       memberships: 'Du kommer inte längre vara listad som medlem i någon av grupperna du tillhör. '
       group_contributions: 'Alla kommentarer och förslag du kommit med kommer att fortsätta synas, men vi tar bort ditt namn från dem. '
-      emails: 'Vi komer att sluta skicka Loomio-relaterade mail. '
+      emails: 'Vi komer att sluta skicka Diehard_Fund-relaterade mail. '
   group_form:
     name: Gruppnamn
     description: Beskrivning
@@ -342,7 +342,7 @@ sv:
   confirm_leave_hidden_group: Är du säker på att du vill lämna %{which_group}? Du kommer även att tas bort från alla undergrupper.
   confirm_leave_group: Är du säker på att du vill lämna %{which_group}?
   deactivate_group: Deaktivera gruppen
-  confirm_deactivate_group: Vänta!!! Är du säker på att du vill deaktivera %{which_group}? Du kommer inte längre att kunna se gruppen. Men, om du skulle vilja ha gruppen tillbaka kan du be oss att återställa den genom att skicka ett email till contact@loomio.org.
+  confirm_deactivate_group: Vänta!!! Är du säker på att du vill deaktivera %{which_group}? Du kommer inte längre att kunna se gruppen. Men, om du skulle vilja ha gruppen tillbaka kan du be oss att återställa den genom att skicka ett email till contact@diehard_fund.org.
   invited_users: Inbjudna medlemmar
   members: Medlemmar
   confirm_remove_user: Är du säker på att du vill ta bort %{which_user} från gruppen?
@@ -409,7 +409,7 @@ sv:
       body_html: |+
         Vi har skickat ett email till dig med en inbjudan att starta din grupp.
 
-        Om du inte har fått något i din inbox inom några minuter, emaila oss på <a href='mailto:contact@loomio.org'>contact@loomio.org</a>.
+        Om du inte har fått något i din inbox inom några minuter, emaila oss på <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
 
   thread_item:
     user_agreed_on_proposal_html: "<strong>%{name}</strong> kom överens om förslaget."
@@ -537,16 +537,16 @@ sv:
     comment_changes: Kommentera förändringarna
     edit_comment: Edit kommentar
   help:
-    coordinating: Koordinera din Loomiogrupp
-    coordinating_details: "Som koordinator är du ansvarig att administrera din Loomiogrupp och bjuda in\nalla deltagare. Förutom att lära sig använda en ny mjukvara, kommer din grupp \natt lära sig nya processer att samarbeta mer effektivt samt att fatta bra beslut \ntillsammans. Här är några tips för att hjälpa din grupp att lyckas:\n"
-    different_ways: Olika sätt att använda Loomio
+    coordinating: Koordinera din Diehard_Fundgrupp
+    coordinating_details: "Som koordinator är du ansvarig att administrera din Diehard_Fundgrupp och bjuda in\nalla deltagare. Förutom att lära sig använda en ny mjukvara, kommer din grupp \natt lära sig nya processer att samarbeta mer effektivt samt att fatta bra beslut \ntillsammans. Här är några tips för att hjälpa din grupp att lyckas:\n"
+    different_ways: Olika sätt att använda Diehard_Fund
     engaging_html: |
       <h2>Tips för hur du engagerar din grupp</h2>
       <p> Deltagarna kommer att bli entusiastiska och vilja delta när det finns ett engagerande
       förslag på bordet. Ett bra förslag innehåller en handlingsplan för gruppen, så
       att det är direkt uppenbart vad det är ni ska bli överens eller inte överens om.
       Tänk på de nuvarande diskussioner/beslut som din grupp är engagerade i, på plats
-      eller per email, och hur mycket lättare det skulle kunna vara med Loomio.</p>
+      eller per email, och hur mycket lättare det skulle kunna vara med Diehard_Fund.</p>
       <p>Om din grupp just har startat, kan du börja med ett enkelt beslut att ge
       alla en chans att lära känna verktyget och se beslutsprocessen i handling.</p>
       <p>Ett annat bra sätt att få personer att engagera sig i en diskussion är att använda funktionen
@@ -563,7 +563,7 @@ sv:
     get_in_touch_description_html: Om du har någon fråga eller vill ge feedback, <a href='%{link}'>skriv till oss</a>.
     getting_started: Håller på att starta
     getting_started_description: Till vänster, diskuterar gruppen ett ämne, utbyter idéer och information. När gruppen kommer fram till ett beslut, dyker det upp till höger.
-    getting_the_most: Hur du får mesta möjliga ut av Loomio
+    getting_the_most: Hur du får mesta möjliga ut av Diehard_Fund
     have_your_say: Gör din röst hörd
     have_your_say_details_html: |
       <p>När du är redo att lämna en kommentar, klicka på en av de fyra beslutsknapparna.</p>
@@ -579,16 +579,16 @@ sv:
       <p>Den första frågan varje ny medlem får är 'vad är den här gruppen till för?'</p>
        <p>Tänk på det enklaste sättet du kan beskriva gruppen: Vad vill du att ni ska
       åstadkomma tillsammans? Vilka typer av beslut kommer ni att fatta? Vem kommer att delta?</p>
-      <p>Det kan vara en bra idé att prata med din grupp innan du bjuder in dem att gå med i Loomio.</p>
+      <p>Det kan vara en bra idé att prata med din grupp innan du bjuder in dem att gå med i Diehard_Fund.</p>
       <p>Folk vill gärna veta varför de har blivit inbjudna, vad som förväntas av dem,
       samt varför det ska vara värt tiden att lära sig använda ett nytt verktyg.</p>
     join_the_community: Gå med i communityn
-    join_the_community_description_html: Alla är välkomna i Loomio Community, där vi pratar om hur vi får ut mesta möjliga av verktyget samt även förslag till hur vi kan det ännu bättre.<br /><br /><a href='https://www.loomio.org/groups/3'>Klicka här för att gå till Loomio Community gruppen</a>.
+    join_the_community_description_html: Alla är välkomna i Diehard_Fund Community, där vi pratar om hur vi får ut mesta möjliga av verktyget samt även förslag till hur vi kan det ännu bättre.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Klicka här för att gå till Diehard_Fund Community gruppen</a>.
     images_and_text_formatting: Bild- och textformatering
     images_and_text_formatting_html: |
-      <p>Loomio använder ‘Markdown’ för bild- och textformatering.
+      <p>Diehard_Fund använder ‘Markdown’ för bild- och textformatering.
       Du kan markera Markdown på med den lilla grå ikonen under den kommentarboxen.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>Klicka här</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klicka här</a>
       för mer information om hur du använder Markdown.</p>
     keep_up_to_date: Håll informationen uppdaterad
     keep_up_to_date_html: |
@@ -611,7 +611,7 @@ sv:
     start_proposal_html: "<p>Om titeln är tydlig och kortfattad kommer deltagarna direkt att förstå \nvad det är ni ska bli överens eller inte överens om. </p>\n<p>Det gör inget att ett förslag inte skulle komma direkt till en tydlig överenskommelse.\nOm gruppen inte gillar det första förslaget, kan vem som helst komma med ett nytt förslag för att\nta med uppkomna invändningar och föra processen framåt. </p>\n<p>Genom denna dynamiska process kan gruppens kollektiva intelligens generera bättre idéer\nän någon skulle kunnat ha gjort på egen hand.</p>\n<p>Tidsfristen för ett förslag kan utökas när som helst, om det ser ut som beslutet skulle behöva mer tid.\nAlla kommer att få ett email 24 timmar innan ett förslag stängs.</p>\n"
     video_id: '52025402'
     video_tutorial: Videotutorial
-    video_tutorial_description: Se videon för en snabb demonstration av hur Loomio fungerar.
+    video_tutorial_description: Se videon för en snabb demonstration av hur Diehard_Fund fungerar.
   hint:
     context: Tips för att använda Context Panel
     discussion: Tips för att starta en engagerande diskussion
@@ -627,26 +627,26 @@ sv:
     tooltip: Lär mer om vår medlemsfinansieringsmodell
     thought_about_contributing: Din möjlighet att bidra
     thought_about_contributing_description: |
-      Loomio är ett socialt kooperativ som arbetar för att göra det enkelt för alla att delta i beslut som påverkar dem.
-      Pengar borde inte få vara ett hinder för att kunna fatta beslut tillsammans. Loomio finansieras genom bidrag från våra användare, samt abonnemang som betalas av etablerade organisationer som använder verktyget.
+      Diehard_Fund är ett socialt kooperativ som arbetar för att göra det enkelt för alla att delta i beslut som påverkar dem.
+      Pengar borde inte få vara ett hinder för att kunna fatta beslut tillsammans. Diehard_Fund finansieras genom bidrag från våra användare, samt abonnemang som betalas av etablerade organisationer som använder verktyget.
 
-      Ditt bidrag gör att vi kan hålla Loomio oberoende, fri från reklam, samt fritt tillgängligt för grupper som gör bra saker för samhället.
+      Ditt bidrag gör att vi kan hålla Diehard_Fund oberoende, fri från reklam, samt fritt tillgängligt för grupper som gör bra saker för samhället.
 
       Tack för att du gör detta möjligt!
-    thank_you_title: Tack för att du bidrar till Loomio!
+    thank_you_title: Tack för att du bidrar till Diehard_Fund!
     thank_you_body: |
       Ditt bidrag hjälper oss att utveckla enkla och bra verktyg för gemensamt beslutsfattande till nytta för världen.
 
       Du kommer att få ett kvitto på ditt bidrag per email.
 
-      Alla är välkomna att gå med i Loomios Community, där vi pratar om hur man får ut mesta möjliga av verktyget, samt hur det kan göra ännu bättre.
+      Alla är välkomna att gå med i Diehard_Funds Community, där vi pratar om hur man får ut mesta möjliga av verktyget, samt hur det kan göra ännu bättre.
 
-      <a href='https://www.loomio.org/groups/3'> Ta mig till gruppen Loomio Community &raquo;</a>
+      <a href='https://www.diehard_fund.org/groups/3'> Ta mig till gruppen Diehard_Fund Community &raquo;</a>
     making_a_donation: Gör en donation
     making_a_donation_description: |
-      Loomio är ett socialt kooperativ som arbetar för att göra det enkelt för alla att delta i beslut som påverkar dem.
+      Diehard_Fund är ett socialt kooperativ som arbetar för att göra det enkelt för alla att delta i beslut som påverkar dem.
 
-      Ditt bidrag gör det möjligt för oss att hålla Loomio oberoende, fri från reklam, samt fritt tillgängligt för grupper som vill göra bra saker för samhället.
+      Ditt bidrag gör det möjligt för oss att hålla Diehard_Fund oberoende, fri från reklam, samt fritt tillgängligt för grupper som vill göra bra saker för samhället.
 
       Tack för att du gör detta möjligt!
   resend_confirmation: Sänd konfirmationsinstruktionerna en gång till
@@ -670,15 +670,15 @@ sv:
   link_it_up_instead: Länka det istället till
   sign_up_via: Skriv in dig via
   or_fill_in_this_form: eller fyll i detta formulär
-  already_have_account: Har du redan ett Loomiokonto?
+  already_have_account: Har du redan ett Diehard_Fundkonto?
   confirm_your_details: Konfirmera dina uppgifter
   link_up_your_account: Länka ditt konto till
-  log_in_to_your_loomio_account: Logga in på ditt Loomiokonto och länka det till %{provider_name}.
-  now_that_your_logged_in: Nu när du har logga in med %{provider_name}, konfirmera dina uppgifter för att skapa ett Loomiokonto.
+  log_in_to_your_diehard_fund_account: Logga in på ditt Diehard_Fundkonto och länka det till %{provider_name}.
+  now_that_your_logged_in: Nu när du har logga in med %{provider_name}, konfirmera dina uppgifter för att skapa ett Diehard_Fundkonto.
   confirmation_not_received: Fick du inte instruktionerna för att kunna konfirmera?
   unlock_not_received: Fick du inte instruktionerna för att kunna låsa upp?
   inactive_html: Detta konto har avaktiverats. Om du har några frågor vänligen <a href='%{path_to_contact}'>kontakta oss</a>.
-  create_an_account_html: Skapa ett Loomio Betakonto
+  create_an_account_html: Skapa ett Diehard_Fund Betakonto
   log_in: Logga in
   join_group:
     log_in: Logga in för att gå med i %{group_name}
@@ -695,12 +695,12 @@ sv:
     invitation_already_used: Denna inbjudan har redan använts. Logga in för att fortsätta till din grupp.
     recipients: 'Ange emailadresser, åtskilda av kommatecken:'
     invitees_placeholder: Användarnamn <user1@example.com>, user2@example.com
-    subject: Gå med i vår nya Loomiogrupp, %{group}
+    subject: Gå med i vår nya Diehard_Fundgrupp, %{group}
     invite_people: Bjud in deltagare till din grupp
     invite_to_discussion: Bjud in deltagare till denna diskussion
     invite_to_discussion_info: När du lägger till deltagare till denna diskussionen kommer de att få en inbjudan till din grupp. När de accepterar hänvisas de till denna diskussionen.
     select_members: Lägg till medlemmar från %{group_name}
-    body_editable: 'Hallå där, kom med och fatta beslut med oss! Vi använder ett beslutsstödsverktyg som heter Loomio.
+    body_editable: 'Hallå där, kom med och fatta beslut med oss! Vi använder ett beslutsstödsverktyg som heter Diehard_Fund.
 
 '
     body_editable_discussion: 'Hallå där, kom med i diskussionen!
@@ -765,7 +765,7 @@ sv:
   group_setup:
     set_up_your_group: Starta din grupp
     desc_header: Du är nästan klar!
-    desc_html: 'Som gruppens koordinator är du ansvarig för att administrera din Loomiogrupp. När du har valt inställningar, kan du komma åt din nya grupp, starta diskussioner, samt skicka inbjudningar! <p>För att på enklast möjliga sätt beskriva din grupp, fråga dig själv: Vad vill ni uppnå tillsammans? Vilka typer av beslut kommer ni att fatta? Vem kommer att delta?</p>'
+    desc_html: 'Som gruppens koordinator är du ansvarig för att administrera din Diehard_Fundgrupp. När du har valt inställningar, kan du komma åt din nya grupp, starta diskussioner, samt skicka inbjudningar! <p>För att på enklast möjliga sätt beskriva din grupp, fråga dig själv: Vad vill ni uppnå tillsammans? Vilka typer av beslut kommer ni att fatta? Vem kommer att delta?</p>'
     submit: Ta mig till min grupp!
     payment_model:
       header: Lommio är till för alla!
@@ -812,14 +812,14 @@ sv:
       user:
         create: Skapa ett konto
         update: Uppdatera inställningar
-  about_loomio: Mer om Loomio
+  about_diehard_fund: Mer om Diehard_Fund
   ago: "%{quantity_of_time} sedan"
   approve: Godkänn
   author: Författare
   back: Tillbaka
   cancel: Ångra
   change: Ändra
-  change_language: Klicka här för att använda Loomio på %{language}
+  change_language: Klicka här för att använda Diehard_Fund på %{language}
   changing: Ändrar
   click_here: Klicka här
   close: Stäng
@@ -853,7 +853,7 @@ sv:
   pricing: Prissättning
   prev: Tidigare
   more: Mer...
-  translate: Hjälp oss att översätta Loomio!
+  translate: Hjälp oss att översätta Diehard_Fund!
   translate_field: Se översättning
   loading_translation: Laddar översättning...
   translate_this_string: Översätt till %{language}

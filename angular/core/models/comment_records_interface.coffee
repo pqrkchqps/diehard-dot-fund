@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'CommentRecordsInterface', (BaseRecordsInterface, CommentModel) ->
+angular.module('diehard_fundApp').factory 'CommentRecordsInterface', (BaseRecordsInterface, CommentModel) ->
   class CommentRecordsInterface extends BaseRecordsInterface
     model: CommentModel
 

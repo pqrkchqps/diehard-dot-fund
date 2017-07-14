@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonStanceChoice', (PollService) ->
+angular.module('diehard_fundApp').directive 'pollCommonStanceChoice', (PollService) ->
   scope: {stanceChoice: '='}
   templateUrl: 'generated/components/poll/common/stance_choice/poll_common_stance_choice.html'
   controller: ($scope) ->

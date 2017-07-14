@@ -1,7 +1,7 @@
 fa-IR:
   new_help:
     title: به چه صورت می‌توانیم به شما کمک کنیم؟
-    how_loomio_works:
+    how_diehard_fund_works:
       title: لومیو چگونه کار می‌کند
       start_group_link: راه اندازی گروه
       start_group_description: برای مشارکت با عموم در لومیو
@@ -15,9 +15,9 @@ fa-IR:
       decide_together_description: هر کسی می‌تواند موافق باشد، پرهیز کند، مخالفت نماید و یا مانع کار شود تا شما بتوانید احساس همه را درباره پیشنهاد خود دریابیدو
     contents:
       title: فهرست
-      what_is_loomio:
+      what_is_diehard_fund:
         title: لومیو چیست
-      how_loomio_works:
+      how_diehard_fund_works:
         title: لومیو چگونه کار می‌کند
       getting_started:
         title_html: شروع کار
@@ -72,7 +72,7 @@ fa-IR:
       keeping_up_to_date:
         title_html: به روز باشید
         volume_html: مقدار
-        yesterday_on_loomio_html: «دیروز در لومیو»
+        yesterday_on_diehard_fund_html: «دیروز در لومیو»
         email_settings_html: تنظیمات رایانامه
       user_profile:
         title_html: نمایه کاربری شما
@@ -91,9 +91,9 @@ fa-IR:
         title_html: حریم شخصی و امنیت
       contributing:
         title_html: همکاری در توسعه لومیو
-      loomio_community:
+      diehard_fund_community:
         title_html: جامعه لومیو
-      loomio_development:
+      diehard_fund_development:
         title_html: از توسعه لومیو مطلع باشید
       faq:
         title_html: سوالات متداول
@@ -208,9 +208,9 @@ fa-IR:
       body:
         translation:
           title_html: ترجمه
-        loomio_community:
+        diehard_fund_community:
           title_html: جامعه لومیو
-    loomio_community:
+    diehard_fund_community:
       title: جامعه لومیو
     faq:
       title: سوالات متداول

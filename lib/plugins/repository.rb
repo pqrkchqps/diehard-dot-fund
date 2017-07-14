@@ -61,7 +61,7 @@ module Plugins
     private_class_method :save_static_asset
 
     def self.save_route(route)
-      Loomio::Application.routes.prepend { get route[:path] => 'application#boot_angular_ui' }
+      Diehard_Fund::Application.routes.prepend { get route[:path] => 'application#boot_angular_ui' }
       active_routes.push route
     end
     private_class_method :save_route

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonPublishForm', (PollService, FlashService, LoadingService) ->
+angular.module('diehard_fundApp').directive 'pollCommonPublishForm', (PollService, FlashService, LoadingService) ->
   scope: {poll: '=', community: '=', back: '=?'}
   templateUrl: 'generated/components/poll/common/publish/form/poll_common_publish_form.html'
   controller: ($scope) ->

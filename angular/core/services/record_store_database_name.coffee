@@ -1,1 +1,1 @@
-angular.module('loomioApp').value('RecordStoreDatabaseName', 'default.db')
+angular.module('diehard_fundApp').value('RecordStoreDatabaseName', 'default.db')

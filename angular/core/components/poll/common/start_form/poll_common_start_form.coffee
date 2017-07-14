@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonStartForm', ->
+angular.module('diehard_fundApp').directive 'pollCommonStartForm', ->
   scope: {discussion: '=?', group: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/start_form/poll_common_start_form.html'

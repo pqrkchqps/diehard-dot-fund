@@ -4,7 +4,7 @@ ru:
       message_intro: "%{who} сказал(а):"
       link: Присоедениться к обсуждению
     missed_yesterday:
-      subject: Вчера на Loomio
+      subject: Вчера на Diehard_Fund
       mark_as_read: Отметить прочитанным
     proposal_closing_soon:
       closes_at: Закрывается в
@@ -25,7 +25,7 @@ ru:
     pricing: Цены
     public_groups: Oбщедоступные группы
     terms: Условия
-    independent_install_html: '%{hostname} работает с независимой копией Loomio: <a href="http://github.com/loomio/loomio">разузнать побольше</a>.'
+    independent_install_html: '%{hostname} работает с независимой копией Diehard_Fund: <a href="http://github.com/diehard_fund/diehard_fund">разузнать побольше</a>.'
   start_group_form:
     header: Создайте новую группу
     name: Ваше имя

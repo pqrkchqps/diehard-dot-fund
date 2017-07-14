@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ProposalModel', (BaseModel, AppConfig, DraftableModel) ->
+angular.module('diehard_fundApp').factory 'ProposalModel', (BaseModel, AppConfig, DraftableModel) ->
   class ProposalModel extends DraftableModel
     @singular: 'proposal'
     @plural: 'proposals'

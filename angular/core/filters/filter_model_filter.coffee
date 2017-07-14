@@ -1,4 +1,4 @@
-angular.module('loomioApp').filter 'filterModel', ->
+angular.module('diehard_fundApp').filter 'filterModel', ->
   (records = [], fragment) ->
     _.filter records, (record) ->
       _.some _.map record.constructor.searchableFields, (field) ->

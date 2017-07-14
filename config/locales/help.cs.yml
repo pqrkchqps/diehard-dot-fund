@@ -1,10 +1,10 @@
 cs:
   new_help:
     title: Jak vám můžeme pomoci?
-    how_loomio_works:
-      title: Jak Loomio funguje
+    how_diehard_fund_works:
+      title: Jak Diehard_Fund funguje
       start_group_link: Vytvořit skupinu
-      start_group_description: na Loomio pro spolupráci s lidmi
+      start_group_description: na Diehard_Fund pro spolupráci s lidmi
       invite_people_link: Pozvat další
       invite_people_description: do vaší skupiny
       start_discussion_link: Zahájit diskuzi
@@ -15,9 +15,9 @@ cs:
       title: Obsah
       getting_started:
         title_html: Jak začít
-        starting_new_group_html: Pokud chcete začít novou Loomio skupinu
-        invited_into_group_html: Pokud jste pozváni do skupiny Loomio
-        joining_existing_group_html: Pokud chcete připojit k existující Loomio skupině
+        starting_new_group_html: Pokud chcete začít novou Diehard_Fund skupinu
+        invited_into_group_html: Pokud jste pozváni do skupiny Diehard_Fund
+        joining_existing_group_html: Pokud chcete připojit k existující Diehard_Fund skupině
       group_settings:
         title_html: Nastavení skupiny
         group_profile_html: Profil skupiny
@@ -53,7 +53,7 @@ cs:
         title_html: Podskupiny
       keeping_up_to_date:
         volume_html: Hlasitost
-        yesterday_on_loomio_html: "\"Včera na Loomio\""
+        yesterday_on_diehard_fund_html: "\"Včera na Diehard_Fund\""
         email_settings_html: Nastavení emailu
       user_profile:
         title_html: Profil uživatele
@@ -71,17 +71,17 @@ cs:
       security:
         title_html: Bezpečnost a ochrana osobních údajů
       contributing:
-        title_html: Jak přispět k Loomio
-      loomio_community:
-        title_html: "společenství Loomio "
+        title_html: Jak přispět k Diehard_Fund
+      diehard_fund_community:
+        title_html: "společenství Diehard_Fund "
       faq:
         title_html: Často kladené otázky
     getting_started:
       title: Jak začít
       starting_new_group:
-        title: Když chcete začít novou Loomio skupinu
+        title: Když chcete začít novou Diehard_Fund skupinu
       invited_into_group:
-        title: Když jste pozváni do Loomio skupiny
+        title: Když jste pozváni do Diehard_Fund skupiny
     group_settings:
       title: Nastavení skupiny
       group_profile:
@@ -173,8 +173,8 @@ cs:
         title: Hlasitost
       email_settings:
         title: Nastavení emailu
-      yesterday_on_loomio:
-        title: Včera na Loomio
+      yesterday_on_diehard_fund:
+        title: Včera na Diehard_Fund
     user_profile:
       title: Profil uživatele
       language_settings:
@@ -198,38 +198,38 @@ cs:
     security:
       title: Bezpečnost a ochrana osobních údajů
     contributing:
-      title: Jak přispět k Loomio
+      title: Jak přispět k Diehard_Fund
       body:
         translation:
           title_html: Překlad
-        loomio_community:
-          title_html: Loomio společenství
-    loomio_community:
-      title: Loomio společenství
-    loomio_development:
-      twitter_html: Loomio na Twitteru
+        diehard_fund_community:
+          title_html: Diehard_Fund společenství
+    diehard_fund_community:
+      title: Diehard_Fund společenství
+    diehard_fund_development:
+      twitter_html: Diehard_Fund na Twitteru
     faq:
       title: Často kladené otázky
       confirmation_email:
         title: Kde je můj potvrzovací email?
       forgotten_password:
         title: "Zapomněl jsem heslo, co mám dělat?"
-      loomio_account:
-        title: Potřebuji účet Loomio k účasti na diskuzích?
+      diehard_fund_account:
+        title: Potřebuji účet Diehard_Fund k účasti na diskuzích?
       single_sign_on:
         title: "Mohu se přihlásit s pomocí účtu od Googlu, Facebooku nebo Twitteru?"
       functional_group_size:
-        title: Jak dobře fungují veliké skupiny na Loomio?
-        body: Loomio v současné době dobře funguje pro skupiny do asi 1000 lidí.
+        title: Jak dobře fungují veliké skupiny na Diehard_Fund?
+        body: Diehard_Fund v současné době dobře funguje pro skupiny do asi 1000 lidí.
       mobile_responsive:
-        title: Bude Loomio fungovat na mém mobilním zařízení?
+        title: Bude Diehard_Fund fungovat na mém mobilním zařízení?
       account_reactivation:
         title: Jak mohu opětovně aktivovat svůj účet?
-      loomio_api:
-        title: Existuje Loomio API?
+      diehard_fund_api:
+        title: Existuje Diehard_Fund API?
       subdomain:
-        title: Je možné mít Loomio subdoménu?
-        body_html: "Ano. Můžeme, například, nastavit <strong>[váš-název-skupiny] .loomio.org</strong> jako URL pro vaši skupinu. Pokud máte zájem, <a href='mailto:contact@loomio.org'> kontaktujte nás</a>."
+        title: Je možné mít Diehard_Fund subdoménu?
+        body_html: "Ano. Můžeme, například, nastavit <strong>[váš-název-skupiny] .diehard_fund.org</strong> jako URL pro vaši skupinu. Pokud máte zájem, <a href='mailto:contact@diehard_fund.org'> kontaktujte nás</a>."
       feedback_link: "Zapomněli jsme na něco? Dejte nám zpětnou vazbu >"
     back_to_top: ^ Zpět na začátek
     feedback_discussion: "Myslíte, že toto vysvětlení by mohlo být jasnější? Dejte nám zpětnou vazbu>"

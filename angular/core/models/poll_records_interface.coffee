@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PollRecordsInterface', (BaseRecordsInterface, PollModel) ->
+angular.module('diehard_fundApp').factory 'PollRecordsInterface', (BaseRecordsInterface, PollModel) ->
   class PollRecordsInterface extends BaseRecordsInterface
     model: PollModel
 

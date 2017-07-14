@@ -1,10 +1,10 @@
 pl:
   new_help:
     title: Jak możemy Ci pomóc?
-    how_loomio_works:
-      title: Jak działa Loomio
+    how_diehard_fund_works:
+      title: Jak działa Diehard_Fund
       start_group_link: Uruchomienie grupy
-      start_group_description: do współpracy z ludźmi w Loomio
+      start_group_description: do współpracy z ludźmi w Diehard_Fund
       invite_people_link: Zaproś ludzi
       invite_people_description: do twojej grupy
       start_discussion_link: Rozpocznij dyskusję
@@ -15,15 +15,15 @@ pl:
       decide_together_description: "każdy może się zgodzić, wstrzymać się, nie zgodzić się lub zablokować - w ten sposób możesz zobaczyć co inni sądzą o propozycji"
     contents:
       title: Spis treści
-      what_is_loomio:
-        title: Co to jest Loomio
-      how_loomio_works:
-        title: Jak działa Loomio
+      what_is_diehard_fund:
+        title: Co to jest Diehard_Fund
+      how_diehard_fund_works:
+        title: Jak działa Diehard_Fund
       getting_started:
         title_html: Rozpoczynanie
-        starting_new_group_html: Kiedy chcesz uruchomić nową grupę w Loomio
-        invited_into_group_html: Kiedy jesteś zaproszony do grupy Loomio
-        joining_existing_group_html: Kiedy chcesz dołączyć do istniejącej grupy w Loomio
+        starting_new_group_html: Kiedy chcesz uruchomić nową grupę w Diehard_Fund
+        invited_into_group_html: Kiedy jesteś zaproszony do grupy Diehard_Fund
+        joining_existing_group_html: Kiedy chcesz dołączyć do istniejącej grupy w Diehard_Fund
         single_sign_on_html: Single sign-on
       group_settings:
         title_html: Ustawienia grupy
@@ -72,7 +72,7 @@ pl:
       keeping_up_to_date:
         title_html: Informuj na bieżąco
         volume_html: Głośność
-        yesterday_on_loomio_html: "\"Wczoraj w Loomio\""
+        yesterday_on_diehard_fund_html: "\"Wczoraj w Diehard_Fund\""
         email_settings_html: Ustawienia poczty
       user_profile:
         title_html: Profil Twojego użytkownika
@@ -90,62 +90,62 @@ pl:
       security:
         title_html: Prywatność i bezpieczeństwo
       contributing:
-        title_html: Współpraca z Loomio
-      loomio_community:
-        title_html: Społeczność Loomio
-      loomio_development:
-        title_html: Informuj o rozwoju Loomio
+        title_html: Współpraca z Diehard_Fund
+      diehard_fund_community:
+        title_html: Społeczność Diehard_Fund
+      diehard_fund_development:
+        title_html: Informuj o rozwoju Diehard_Fund
       faq:
         title_html: Często Zadawane Pytania
     getting_started:
       title: Rozpoczynanie
-      intro: "Kiedy pierwszy raz wejdziesz do Loomio możesz dołączyć na kilka sposobów.\nOto kilka informacji:\n"
+      intro: "Kiedy pierwszy raz wejdziesz do Diehard_Fund możesz dołączyć na kilka sposobów.\nOto kilka informacji:\n"
       starting_new_group:
-        title: Kiedy chcesz uruchomić nową grupę w Loomio
-        body_html: "Jeśli nie masz konta Loomio możesz rozpocząc nową grupę z głownej strony Loomio klikając na przycisk <strong>“Spróbuj Loomio beta”</strong> .\nPoprowadzimy Cię przez proces uruchomienia grupy.\nCzęścią procesu uruchomienia grupy jest określenie jak chcesz aby Twoja grupa działała poprzez ustawienie jej opcji.\nMożesz przeczytać więcej o ustawieniach grupy w sekcji  <a href=\"#group-settings\">\"Ustawienia grupy\"</a> .\n"
+        title: Kiedy chcesz uruchomić nową grupę w Diehard_Fund
+        body_html: "Jeśli nie masz konta Diehard_Fund możesz rozpocząc nową grupę z głownej strony Diehard_Fund klikając na przycisk <strong>“Spróbuj Diehard_Fund beta”</strong> .\nPoprowadzimy Cię przez proces uruchomienia grupy.\nCzęścią procesu uruchomienia grupy jest określenie jak chcesz aby Twoja grupa działała poprzez ustawienie jej opcji.\nMożesz przeczytać więcej o ustawieniach grupy w sekcji  <a href=\"#group-settings\">\"Ustawienia grupy\"</a> .\n"
       invited_into_group:
-        title: Kiedy jesteś zaproszony do grupy Loomio
-        body_html: "Kiedy otrzymasz zaproszenie aby dołączyć do istniejącej grupy Loomio, wiadomość, którą otrzymasz będzie zawierać link.\nKiedy klikniesz na link, jeśli nie masz konta w Loomio bęziesz poproszony o utworzenie konta i podanie adresu email oraz hasła w Loomio.\nJeśli masz już konto w Loomio zostaniesz przeniesiony/a od razu do grupy.\n"
+        title: Kiedy jesteś zaproszony do grupy Diehard_Fund
+        body_html: "Kiedy otrzymasz zaproszenie aby dołączyć do istniejącej grupy Diehard_Fund, wiadomość, którą otrzymasz będzie zawierać link.\nKiedy klikniesz na link, jeśli nie masz konta w Diehard_Fund bęziesz poproszony o utworzenie konta i podanie adresu email oraz hasła w Diehard_Fund.\nJeśli masz już konto w Diehard_Fund zostaniesz przeniesiony/a od razu do grupy.\n"
       joining_existing_group:
-        title_html: "Jeśli chcesz dołączyć do istniejącej grupy Loomio  ( <a href=\"http://loomio.org/explore\">Przegląd grup</a>)"
+        title_html: "Jeśli chcesz dołączyć do istniejącej grupy Diehard_Fund  ( <a href=\"http://diehard_fund.org/explore\">Przegląd grup</a>)"
         body:
-          explore_page_html: "\n <a href=\"https://www.loomio.org/explore\">Strona przeglądu</a> pokazuje publiczne i aktywne grupy w Loomio.\nJest dostępna w Loomio poprzez link w stopce <strong>“Grupy publiczne”</strong>.\nNa stronie <a href=\"https://www.loomio.org/explore\">Przegląd grup</a> możesz szukać grup po słowach kluczowych, kategorii a klikając na grupę zobaczysz jej publiczną zawartość.\nUstawienia prywatności grupy określają w jaki sposób możesz zostać członkiem.\n"
-          open_to_join_html: "Niektóre grupy publiczne są <strong>otwarte</strong>, w tym przypadku zobaczysz przycisk <strong>\"Dołącz do grupy\"</strong> na stronie grupy.\nJeśli masz konto Loomio, kliknięcie na przycisk <strong>\"Dołączenie do grupy\"</strong>  doda Cię do grupy.\nJeśli nie masz konta w Loomio zostaniesz poproszony/a aby je założyć.\n"
+          explore_page_html: "\n <a href=\"https://www.diehard_fund.org/explore\">Strona przeglądu</a> pokazuje publiczne i aktywne grupy w Diehard_Fund.\nJest dostępna w Diehard_Fund poprzez link w stopce <strong>“Grupy publiczne”</strong>.\nNa stronie <a href=\"https://www.diehard_fund.org/explore\">Przegląd grup</a> możesz szukać grup po słowach kluczowych, kategorii a klikając na grupę zobaczysz jej publiczną zawartość.\nUstawienia prywatności grupy określają w jaki sposób możesz zostać członkiem.\n"
+          open_to_join_html: "Niektóre grupy publiczne są <strong>otwarte</strong>, w tym przypadku zobaczysz przycisk <strong>\"Dołącz do grupy\"</strong> na stronie grupy.\nJeśli masz konto Diehard_Fund, kliknięcie na przycisk <strong>\"Dołączenie do grupy\"</strong>  doda Cię do grupy.\nJeśli nie masz konta w Diehard_Fund zostaniesz poproszony/a aby je założyć.\n"
           by_request_html: "Inne grupy są dostępne <strong>tylko na żądanie</strong>, co oznacza, że niezbędni sa koordynatorzy aby zaakceptować (lub zignorować) żądania członkowstwa.\nWówczas zobaczysz przycisk <strong>\"Poproś o dołączenie do grupy\"</strong> na stronie.\nPo kliknięciu na przycisk <strong>\"Poproś o dołączenie do grupy\"</strong> zostaniesz poproszony/a o wprowadzenie, po którym Twoja prośba o dołączenie zostanie wysłane a koordynatorzy grupy zostana powiadomieni.\n"
           invitation_only_html: "Niektóre publiczne grupy dołączają nowych członków <strong>tylko na zaproszenie</strong>, w tym przypadku będziesz mógł/a zobaczyć grupę ale nie będzie przycisku do dołączenia.\n"
       single_sign_on:
         title: Single sign-on
-        body_html: "<p>Loomio pozwala zapisać się za pomocą kont w Facebook, Google lub Persona.\nJeśli nie masz konta w Loomio możesz się zalogować używają kont innych serwisów poprzez kliknięcie na przycisk <a href=\"http://loomio.org/sign_in\">Logowanie do strony</a>.\nJeśli jesteś właśnie zalogowany/a do Google, Facebook lub Persona konto to zostanie wykryte.\nW przeciwnym wypadku zostaniesz poproszony o zalogowanie. Jeśli Loomio rozpozna istniejące konto innego serwisu zostaniesz poproszony/a o założenie konta w Loomio.<p>\n<p>Możesz powiązać istniejące konto Google, Facebook lub Persona z istniejącym kontem Loomio.\nUpewnij się, że jesteś wylogowany/a i wejdź na stronę\n <a href=\"https://www.loomio.org/users/sign_in\">Strona logowania</a> i wybierz preferowaną platformę.\nLoomio spyta Cię czy chesz utworzyć nowe konto z istniejącym kontem w wybranej platformie czy połącyć je do istniejącego konta Loomio.</p>\n"
+        body_html: "<p>Diehard_Fund pozwala zapisać się za pomocą kont w Facebook, Google lub Persona.\nJeśli nie masz konta w Diehard_Fund możesz się zalogować używają kont innych serwisów poprzez kliknięcie na przycisk <a href=\"http://diehard_fund.org/sign_in\">Logowanie do strony</a>.\nJeśli jesteś właśnie zalogowany/a do Google, Facebook lub Persona konto to zostanie wykryte.\nW przeciwnym wypadku zostaniesz poproszony o zalogowanie. Jeśli Diehard_Fund rozpozna istniejące konto innego serwisu zostaniesz poproszony/a o założenie konta w Diehard_Fund.<p>\n<p>Możesz powiązać istniejące konto Google, Facebook lub Persona z istniejącym kontem Diehard_Fund.\nUpewnij się, że jesteś wylogowany/a i wejdź na stronę\n <a href=\"https://www.diehard_fund.org/users/sign_in\">Strona logowania</a> i wybierz preferowaną platformę.\nDiehard_Fund spyta Cię czy chesz utworzyć nowe konto z istniejącym kontem w wybranej platformie czy połącyć je do istniejącego konta Diehard_Fund.</p>\n"
     group_settings:
       title: Ustawienia Grupy
-      intro_html: "W każdym czasie można utworzyć nową grupę w Loomio.\nPodczas tworzenia grupy będziesz mieć możliwość określenia jak grupa ma funkcjonować poprzez wypełnienie trzech formularzy odnoszących się do różnych aspektów ustawień grupy; <strong>Profil</strong>, <strong>Prywatność</strong> oraz <strong>Uprawnienia</strong>.\nUstawienia te opisano poniżej.\nJeśli chcesz zmienić ustawienia grupy możesz to zrobić klikając na przycisk  <strong>“Opcje”</strong> w prawym, górnym rogu strony grupy oraz wybranie opcji  <strong>“Edycja ustawień grupy”</strong>.\nBędą one widoczne tylko dla koordynatorów grupy.\n"
+      intro_html: "W każdym czasie można utworzyć nową grupę w Diehard_Fund.\nPodczas tworzenia grupy będziesz mieć możliwość określenia jak grupa ma funkcjonować poprzez wypełnienie trzech formularzy odnoszących się do różnych aspektów ustawień grupy; <strong>Profil</strong>, <strong>Prywatność</strong> oraz <strong>Uprawnienia</strong>.\nUstawienia te opisano poniżej.\nJeśli chcesz zmienić ustawienia grupy możesz to zrobić klikając na przycisk  <strong>“Opcje”</strong> w prawym, górnym rogu strony grupy oraz wybranie opcji  <strong>“Edycja ustawień grupy”</strong>.\nBędą one widoczne tylko dla koordynatorów grupy.\n"
       group_profile:
         title: Profil grupy
-        body_html: "Ustawienia profilu grupy wymaga wybrania nazwy grupy oraz jej opisu.\nOpisz cel tworzonej grupy, na przykład  \"Publiczna grupa koordynatorów galerii dla akceptacji wykorzystania miejsca w galerii\" lub \"Przestrzeń dla członków rady dla rozważenia propozycji budżetowych\".\nCel grupy może być zmieniany w czasie lecz jest pomocne jeśli opis pozwala nowym członkom łatwo zrozumieć po co jest grupa.\nMożliwe jest również wybór kategorii grupy.\nJeśli jest jesteście grupą publiczną i chcesz aby osoby mogły przyłączać się do konwersacji, dobrze jest wybrać taką kategorię aby inni mogli ją wyszukać na stronie <a href=\"http://loomio.org/explore\">Przegląd grup</a>.\n"
+        body_html: "Ustawienia profilu grupy wymaga wybrania nazwy grupy oraz jej opisu.\nOpisz cel tworzonej grupy, na przykład  \"Publiczna grupa koordynatorów galerii dla akceptacji wykorzystania miejsca w galerii\" lub \"Przestrzeń dla członków rady dla rozważenia propozycji budżetowych\".\nCel grupy może być zmieniany w czasie lecz jest pomocne jeśli opis pozwala nowym członkom łatwo zrozumieć po co jest grupa.\nMożliwe jest również wybór kategorii grupy.\nJeśli jest jesteście grupą publiczną i chcesz aby osoby mogły przyłączać się do konwersacji, dobrze jest wybrać taką kategorię aby inni mogli ją wyszukać na stronie <a href=\"http://diehard_fund.org/explore\">Przegląd grup</a>.\n"
       group_privacy:
         title: Prywatność grupy
         intro_html: "Ustawienia Twojej prywatności określają kto może widzieć co robisz w grupie oraz kto może otrzymać członkowstwo w Twojej grupie.\nKonfigurując grupę będziesz musiał/a wybrać spośród kilku opcji.\n"
         who_can_find_this_group:
           title: Kto może znaleźć tę grupę?
           body:
-            anyone_html: "Jeśli wybierzesz <strong>“Każdy”</strong>, grupa będzie listowana na publicznie dostępnej do wyszukiwania stronie  <a href=\"http://loomio.org/explore\">Przegląd grup</a>, i na innych narzędziach wyszukujących.\nPowoduje to, że grupa jest łatwa do znalezienia i nie wymaga wysłania zaproszenia. \nTo jest pomocne jeśli chce się zgromadzić dużą liczbę osób, które nie znają się na wzajem.\n"
+            anyone_html: "Jeśli wybierzesz <strong>“Każdy”</strong>, grupa będzie listowana na publicznie dostępnej do wyszukiwania stronie  <a href=\"http://diehard_fund.org/explore\">Przegląd grup</a>, i na innych narzędziach wyszukujących.\nPowoduje to, że grupa jest łatwa do znalezienia i nie wymaga wysłania zaproszenia. \nTo jest pomocne jeśli chce się zgromadzić dużą liczbę osób, które nie znają się na wzajem.\n"
             members_only_html: "Jeśli wybierzesz <strong>“Tylko członkowie”</strong> grupy nie będzie można wyszukać.\nTylko członkowie grupy będą mieli do niej dostęp.\nWybór tej opcji wpływa również na to w jaki sposób ludzie będą mogli dołączyć do grupy oraz kto może oglądać dyskusje.\nWybór <strong>“Tylko członkowie”</strong> gwarantuje, że członkowstwo jest tylko na zaproszenie oraz, że możliwe będą tylko prywatne dyskusje w grupie.\n"
         how_do_people_join:
           title: Jak ludzie będą dołączać?
           body:
-            open_html: "Wybór opcji <strong>“Otwarta”</strong> oznacza, że każdy kto ma konto w Loomio może dołąćzyć do grupy.\nLudzie będą widzieć przycisk <strong>\"Dołącz do grupy\"</strong> po prawej na stronie grupy.\nJeśli ktoś posiadający konto w Loomio kliknie na ten przycisk zostanie dodany do grupy.\nJeśli kliknie na niego ktoś bez konta w Loomio, zostanie poproszony o założenie konta zanim będzie mógł/a dołączyć do grupy.\n(Uwaga: opcja <strong>“Otwarta”</strong> nie jest aktywna jest wybrano opcję <strong>“Tylko członkowie”</strong> w sekcji <strong>“Kto może znaleźć grupę?”</strong> )\n"
+            open_html: "Wybór opcji <strong>“Otwarta”</strong> oznacza, że każdy kto ma konto w Diehard_Fund może dołąćzyć do grupy.\nLudzie będą widzieć przycisk <strong>\"Dołącz do grupy\"</strong> po prawej na stronie grupy.\nJeśli ktoś posiadający konto w Diehard_Fund kliknie na ten przycisk zostanie dodany do grupy.\nJeśli kliknie na niego ktoś bez konta w Diehard_Fund, zostanie poproszony o założenie konta zanim będzie mógł/a dołączyć do grupy.\n(Uwaga: opcja <strong>“Otwarta”</strong> nie jest aktywna jest wybrano opcję <strong>“Tylko członkowie”</strong> w sekcji <strong>“Kto może znaleźć grupę?”</strong> )\n"
             by_request_html: "Wybór opcji <strong>“Na żądanie”</strong> oznacza, że każdy może poprosić o dołączenie do grupy.\n\nLudzie będą widzieć przycisk <strong>\"Poproś o dołączenie do grupy\"</strong> po prawej na stronie grupy.\nKiedy przycisk zostanie kliknięty, osoba będzie mieć możliwość zaprezentowania siebie pozostałym oraz żądanie dołączenia do grupy zostanie wysłane do koordynatorów grupy.\n"
             membership_requests_html: "Zgłoszenia członkostwa mogą być akceptowane lub ignorowane.\n(Uwaga: opcja <strong>“Na żądanie”</strong> jest nieaktywna jeśli wybrano opcję <strong>“Tylko dla członków”</strong> w sekcji <strong>“Kto może znaleźć grupę?”</strong>.)\n"
             invitation_only_html: "Jeśli wybierzesz <strong>“Tylko na zaproszenie”</strong>, nikt nie może dołączyć do grupy bez specjalnego zaproszenia.\nZaproszenia są wysyłane ze strony <a href=\"#inviting-members\">\"Zaproszenie osób”</a>.\n"
         who_can_see_discussions:
           title: Kto może widzieć dyskusje?
           body:
-            public_only_html: "Wybór opcji <strong>“Tylko dyskusje publiczne”</strong> oznacza, że zawartość wszystkich dyskusji będzie widoczna publicznie.\nOsoby nie zalogowane do Loomio będą mogły widzieć zawartość, choć nie będą mogły pisać komentarzy i brać udziału w dyskusji.\nOpcja jest przydatna jeśli chcesz prowadzić otwartą dyskusję i zachęcić ludzi do udziału.\n(Uwaga: opcja <strong>“Tylko dyskusje publiczne”</strong> nie jest aktywna jeśli wybrano  opcję <strong>“Tylko dla członków”</strong> w sekcji <strong>“Kto może dołączyć do grupy?”</strong>.)\n"
+            public_only_html: "Wybór opcji <strong>“Tylko dyskusje publiczne”</strong> oznacza, że zawartość wszystkich dyskusji będzie widoczna publicznie.\nOsoby nie zalogowane do Diehard_Fund będą mogły widzieć zawartość, choć nie będą mogły pisać komentarzy i brać udziału w dyskusji.\nOpcja jest przydatna jeśli chcesz prowadzić otwartą dyskusję i zachęcić ludzi do udziału.\n(Uwaga: opcja <strong>“Tylko dyskusje publiczne”</strong> nie jest aktywna jeśli wybrano  opcję <strong>“Tylko dla członków”</strong> w sekcji <strong>“Kto może dołączyć do grupy?”</strong>.)\n"
             public_and_private_html: "Wybór opcji <strong>“Pozwalaj na publiczne i prywatne dyskusje”</strong> ocznacza, że członkowie grupy będą mogli wybrać czy dyskusje, które będą uruchamiać będa p obliczne czy prywatne.\nMożna to wykorzystać w sytuacji wymagającej dyskrecji, wokół wrażliwych tematów, jeśli chcesz aby tylko osoby będące w grupie mogły czytać treść dyskusji.\n(Uwaga: opcja <strong>“Pozwalaj na publiczne i prywatne dyskusje”</strong> jest nieaktywna jeśli wybrano opcję <strong>“Tylko dla członków”</strong> w sekcji <strong>“Kto może znależć tę grupę?”</strong>.)\n"
             private_only_html: "Jeśli wybierzesz <strong>“Tylko prywatne dyskusje”</strong>, nikt z poza grupy nie będzie w stanie oglądać treści dyskusji."
       group_permissions:
         title: Uprawnienia grupy
-        body_html: "<p>Uprawnienia Twojej grupy określają, które funkcje Loomio są dostępne dla członków grupy.\nKiedy uruchomisz swoją grupę, będziesz musiał/a rozważyć czy członkowie grupy mają posiadać władzę decyzyjną, czy mogą zgłaszać zagadnienia czy tylko komentować etc. \nŁatwiej jest zarządzać grupą, mając możliowść regulowania jakie akcje członkowie Twojej grupy mogą wykonywać, oznacza, że konsultacje, nadzór, raportowanie i inne sytuacje w których możesz potrzebować dzielić członków na uczestników i obserwatorów. </p>\n<p>Jeśli chcesz ograniczyć możliwość głosowania, komentowania i rozpoczynania dyskusji do okreśłonych osób nadaj im funkcję koordynatora oraz usuń zaznaczenie tak aby osoby nie będące koordynatorami nie miały tych uprawnień.</p>\n"
+        body_html: "<p>Uprawnienia Twojej grupy określają, które funkcje Diehard_Fund są dostępne dla członków grupy.\nKiedy uruchomisz swoją grupę, będziesz musiał/a rozważyć czy członkowie grupy mają posiadać władzę decyzyjną, czy mogą zgłaszać zagadnienia czy tylko komentować etc. \nŁatwiej jest zarządzać grupą, mając możliowść regulowania jakie akcje członkowie Twojej grupy mogą wykonywać, oznacza, że konsultacje, nadzór, raportowanie i inne sytuacje w których możesz potrzebować dzielić członków na uczestników i obserwatorów. </p>\n<p>Jeśli chcesz ograniczyć możliwość głosowania, komentowania i rozpoczynania dyskusji do okreśłonych osób nadaj im funkcję koordynatora oraz usuń zaznaczenie tak aby osoby nie będące koordynatorami nie miały tych uprawnień.</p>\n"
         what_can_members_do:
           title: Co mogą robić członkowie?
           invite_and_approve_new_members:
@@ -153,7 +153,7 @@ pl:
             body_html: "Chcesz aby osoby w Twojej grupie mogły  <a href=\"#inviting-members\">zapraszać innych do dołączenia do grupy</a>, oraz, w zależności od ustawień prywatności akceptować zgłoszenia członkostwa?\nKiedy ten znacznik jest włączony wszyscy w Twojej grupie mogą zapraszać nowe osoby oraz akceptować zgłoszenia członkostwa.\nJeśli jest wyłączony tylko grupa koordynatorów może zapraszać i akceptować nowych członków.\n"
           create_subgroups:
             title: Tworzenie podgrup
-            body_html: "Czy chcesz aby członkowie mogli tworzyć nowe  <a href=\"#subgroups\">podgrupy</a> w ramach Twoje grupy Loomio?\nKiedy ten znacznik jest włączony wszyscy w grupie mogą tworzyć podgrupy.\nKiedy jest wyłączony tylko grupa koordynatorów może tworzyć podgrupy.\n"
+            body_html: "Czy chcesz aby członkowie mogli tworzyć nowe  <a href=\"#subgroups\">podgrupy</a> w ramach Twoje grupy Diehard_Fund?\nKiedy ten znacznik jest włączony wszyscy w grupie mogą tworzyć podgrupy.\nKiedy jest wyłączony tylko grupa koordynatorów może tworzyć podgrupy.\n"
           start_discussions:
             title: Uruchamiać dyskusje
             body_html: "Czy chesz aby wszyscy w grupie mogli uruchamiać <a href=\"#starting-discussions\">nowe dyskusje</a>?\nJeśli ten znacznik jest włączony każdy w Twojej grupie może uruchamiać dyskusje.\nJeśli jest wyłączony tylko grupa koordynatorów może uruchamiać dyskusje.\n"
@@ -174,7 +174,7 @@ pl:
           body_html: "Po wysłaniu formularza z konfiguracją grupy zostaniesz przekierowany/a do strony Twojej grupy.\nWięcej o zaproszeniach możesz przeczytać w sekcji  <a href=\"#inviting-members\">\"Zapraszanie nowych członków\"</a>.\n"
     coordination:
       title: Koordynuje Twoją grupę
-      intro_html: "Jako koordynator grupy Loomio jesteś odpowiedzialny/a za przeprowadzenie grupy przez proces nauki sposobu wykorzystania tego nowego narzędzia, oraz za naukę nowego procesu współpracy i wspólnego podejmowania decyzji.\nZadania wyszczególnione poniżej są dostępne tylko dla koordynatorów grupy.\n"
+      intro_html: "Jako koordynator grupy Diehard_Fund jesteś odpowiedzialny/a za przeprowadzenie grupy przez proces nauki sposobu wykorzystania tego nowego narzędzia, oraz za naukę nowego procesu współpracy i wspólnego podejmowania decyzji.\nZadania wyszczególnione poniżej są dostępne tylko dla koordynatorów grupy.\n"
       adding_cover_photo:
         title: Dodanie zdjęcia
         body_html: "<p>Kiedy grupa jest uruchomiona możesz dodać zdjęcie okładki dla grupy.\nTo pomaga członkom grupy czuć się trochę bardziej jak w domu.</p>\n<p>Kiedy najedziesz myszą na szare pole na górze strony grupy w prawym-górnym roku pojawi się ikona ołówka.\nKliknij ikonę ołówka w wówczas będziesz mógł/a wybrać plik do przesłania.\nOptymalny rozmiar zdjęcia okładki dla grupy to 970 x 200 pixeli.\nMożesz zmienić zdjęcie okładki w każdym czasie przesyłając inne.</p>\n"
@@ -270,14 +270,14 @@ pl:
     security:
       title: Prywatność i bezpieczeństwo
     contributing:
-      title: Współpraca z Loomio
+      title: Współpraca z Diehard_Fund
       body:
         translation:
           title_html: Tłumaczenie
-        loomio_community:
-          title_html: Społeczność Loomio
-    loomio_community:
-      title: Społeczność Loomio
+        diehard_fund_community:
+          title_html: Społeczność Diehard_Fund
+    diehard_fund_community:
+      title: Społeczność Diehard_Fund
     faq:
       title: Często Zadawane Pytania
       search_for_private_group:

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ContactRecordsInterface', (BaseRecordsInterface, ContactModel) ->
+angular.module('diehard_fundApp').factory 'ContactRecordsInterface', (BaseRecordsInterface, ContactModel) ->
   class ContactRecordsInterface extends BaseRecordsInterface
     model: ContactModel
 

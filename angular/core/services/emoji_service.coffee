@@ -1,8 +1,8 @@
-angular.module('loomioApp').factory 'EmojiService', ($timeout) ->
+angular.module('diehard_fundApp').factory 'EmojiService', ($timeout) ->
   new class EmojiService
-    source: window.Loomio.emojis.source
-    render: window.Loomio.emojis.render
-    defaults: window.Loomio.emojis.defaults
+    source: window.Diehard_Fund.emojis.source
+    render: window.Diehard_Fund.emojis.render
+    defaults: window.Diehard_Fund.emojis.defaults
 
     listen: (scope, model, field, target) ->
       scope.$on 'emojiSelected', (event, emoji, selector) ->

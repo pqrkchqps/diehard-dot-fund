@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'positionButtonsPanel', ->
+angular.module('diehard_fundApp').directive 'positionButtonsPanel', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/position_buttons_panel/position_buttons_panel.html'

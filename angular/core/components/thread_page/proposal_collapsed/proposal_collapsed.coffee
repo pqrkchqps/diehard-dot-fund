@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'proposalCollapsed', ->
+angular.module('diehard_fundApp').directive 'proposalCollapsed', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/proposal_collapsed/proposal_collapsed.html'

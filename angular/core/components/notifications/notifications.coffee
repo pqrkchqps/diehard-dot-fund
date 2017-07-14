@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'notifications', ->
+angular.module('diehard_fundApp').directive 'notifications', ->
   scope: {}
   restrict: 'E'
   templateUrl: 'generated/components/notifications/notifications.html'

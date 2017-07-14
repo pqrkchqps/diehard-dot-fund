@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'Records', (RecordStore,
+angular.module('diehard_fundApp').factory 'Records', (RecordStore,
                                                 RecordStoreDatabaseName,
                                                 AttachmentRecordsInterface,
                                                 CommentRecordsInterface,

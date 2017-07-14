@@ -282,7 +282,7 @@ sr:
   proposal_position_no: 'Nesaglasnost'
   proposal_position_block: 'Blokiranje'
   legacy_trial_expired_modal:
-    heading: "Hvala što ste koristili Loomio ove godine!"
+    heading: "Hvala što ste koristili Diehard_Fund ove godine!"
     body: |
       <p>Zaista cenimo Vašu podršku tokom godine i totalno smo uzbuđeni oko toga da učinimo Lumio još boljim u 2016.</p>
       <p>Da li je Lumio koristan Vašoj grupi? Upravo smo objavili plan cena i pitamo grupe koje već koriste Lumio neko vreme da odaberu plan koji im odgovara.</p>
@@ -383,7 +383,7 @@ sr:
     select: Odaberi
   subscription_success_modal:
     contact_link: molimo kontaktirajte nas.
-    sign_off: ❤ od Loomio tima
+    sign_off: ❤ od Diehard_Fund tima
     ok_got_it: U redu, shvatam!
   group_form:
     start_group_heading: 'Kreiraj grupu'
@@ -435,8 +435,8 @@ sr:
     manage_requests_with_count: Upravljanje zahtevima ({{count}})
   group_help_card:
     title: Pomoć
-    ten_tips_article_title: 10 saveta za pravljenje sjajnih diskusija na Loomio
-    nine_ways_to_use_proposals: 9 načina da koristite Loomio predloge da preokrenete konverzaciju u akciju
+    ten_tips_article_title: 10 saveta za pravljenje sjajnih diskusija na Diehard_Fund
+    nine_ways_to_use_proposals: 9 načina da koristite Diehard_Fund predloge da preokrenete konverzaciju u akciju
   membership_requests_page:
     heading: Zahtevi
     approve: Odobri
@@ -457,7 +457,7 @@ sr:
     group_placeholder: 'Odaberi grupu'
     shareable_link: 'Deljivi link'
     email_addresses: 'Adrese ePošte'
-    email_addresses_placeholder: 'kao helperbot@loomio.org, friendlybot@loomio.org'
+    email_addresses_placeholder: 'kao helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
     email_explanation: 'Alternativno, unesi adrese ePošte ispod i Lumio će im poslati ePoruku sa pozivnicom.'
     add_custom_message: 'Učini svoje poziv ličnim,'
     add_custom_message_link: 'dodaj svoju poruku.'
@@ -743,12 +743,12 @@ sr:
       <p>Ljudi će želeti da znaju zbog čega su pozvani, šta se od njih očekuje
       i zbog čega će im značiti da ulože svoje vreme u izučavanje toga kako Lumio radi.</p>
     join_the_community: "Pridruži se zajednici"
-    join_the_community_description_html: "Svako je dobrodošao da se priključi Lumio zajednici, gde razgovaramo o tome kako napraviti veći deo alata i kako on može butu unapređen.<br /><br /><a href='https://www.loomio.org/g/WmPCB3IR'>Škljocni ovde da odeš u Lumio Zajednica grupu</a>."
+    join_the_community_description_html: "Svako je dobrodošao da se priključi Lumio zajednici, gde razgovaramo o tome kako napraviti veći deo alata i kako on može butu unapređen.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Škljocni ovde da odeš u Lumio Zajednica grupu</a>."
     images_and_text_formatting: "Uređivanje slika i teksta"
     images_and_text_formatting_html: |
       <p>Lumio koristi ‘Markdown’ za ubacivanje slika i formatiranje teksta.
       Možete uključiti sa malom sivom ikonom ispod polja za komentar.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>Škljocni ovde</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Škljocni ovde</a>
       za informacije o tome kako koristiti Markdown.</p>
     keep_up_to_date: "Budite u toku"
     keep_up_to_date_html: |
@@ -798,8 +798,8 @@ sr:
     give_feedback: 'Objasnite nam'
     collapse: Sakrij
     enable:
-      invite: 'Probaj novi Loomio!'
-      title: 'Probaj novi Loomio'
+      invite: 'Probaj novi Diehard_Fund!'
+      title: 'Probaj novi Diehard_Fund'
       intro: "Reizgradili smo Lumio i potrebna nam je tvoja pomoć da sigurno bude fenomenalan!"
       body_html: |
         <p></p>
@@ -810,19 +810,19 @@ sr:
         <ul>
         <li>Sve se prikazuje uživo na stranici odmah kada se dogodi</li>
         <li>Dizajniran je za sve Vaše uređaje, od pametnog telefona do ličnog računara</li>
-        <li>Pristupačan je slabovidim i slepim osobama, i preveden je na <a href="https://www.loomio.org/translation">mnoštvo jezika</a>
+        <li>Pristupačan je slabovidim i slepim osobama, i preveden je na <a href="https://www.diehard_fund.org/translation">mnoštvo jezika</a>
         </ul>
         </p>
 
         <p>Koristi istu bazu podataka kao i stari interfejs, što znači da će zadržati sve Vaše postojeće grupe i diskusije.</p>
         <p>Tu je i funkcija "Javite nam" u donjem levom uglu. Takođe, videćete i "Vrati stari Lumio", što će ostati na raspolaganju još neko vreme.</p>
         <p>Zaista očekujemo da nam javite, hvala na Vašem vremenu i podršci.</p>
-      button_text: 'Omogući novi Loomio'
+      button_text: 'Omogući novi Diehard_Fund'
     disable:
-      title: 'Hvala što probate novi Loomio'
-      body_html: "<p>Ups, da li smo uradili nešto pogrešno? Žao nam je što ste imali neprijatnost na novoj Loomio verziji.</p>"
-      give_feedback: "Pre nego odete, molimo Vas razmislite o tome da podelite sa nama vaše utiske kako bi mogli da unapredimo Loomio."
-      button_text: 'Prebaci na stari Loomio'
+      title: 'Hvala što probate novi Diehard_Fund'
+      body_html: "<p>Ups, da li smo uradili nešto pogrešno? Žao nam je što ste imali neprijatnost na novoj Diehard_Fund verziji.</p>"
+      give_feedback: "Pre nego odete, molimo Vas razmislite o tome da podelite sa nama vaše utiske kako bi mogli da unapredimo Diehard_Fund."
+      button_text: 'Prebaci na stari Diehard_Fund'
   global:
     messages:
       app_update: 'Nova verzija Lumija je takođe dostupna'

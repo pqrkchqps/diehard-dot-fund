@@ -30,7 +30,7 @@ eo:
       no_invitations_remaining: Ne restas pliaj invitoj
     mailer:
       invitation_instructions:
-        subject: Iu invitis vin aliĝi al Loomio
+        subject: Iu invitis vin aliĝi al Diehard_Fund
     registrations:
       sign_up: Krei konton
   error:
@@ -73,7 +73,7 @@ eo:
     new_contacts_imported: Tio funkciis! Vi povas tajpi nomojn en la kampo malsupre kaj ni sugestos la retpoŝtadreson.
     admin_rights_removed: La kunordigaj rajtoj de %{which_user} estas forigitaj.
     user_added: "%{user_email_or_name} aldoniĝis al la grupo."
-    new_user_added: "%{user_email_or_name} aldoniĝos al la grupo post ties kreo de Loomio-konto."
+    new_user_added: "%{user_email_or_name} aldoniĝos al la grupo post ties kreo de Diehard_Fund-konto."
     member_removed: Membro forigita
     membership_approved: Membreco aprobita.
     membership_request_canceled: Peto de membreco nuligita.
@@ -167,7 +167,7 @@ eo:
         one: 1 jaro
         other: "%{count} jaroj"
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: Transŝalti navigadon
   inbox:
@@ -200,15 +200,15 @@ eo:
   find_a_group_hint: Por esplori publikajn grupojn
   search_for_group: Serĉi grupon...
   no_groups_found: Ne troviĝis grupoj kun tiu nomo!
-  no_group_header: Bonvenon al Loomio Beta
+  no_group_header: Bonvenon al Diehard_Fund Beta
   empty_notifications: Vi ankoraŭ ne havas ajnan sciigon.
   see_all_notifications: Vidi ĉiujn sciigojn
   sign_out: Eliri
   sign_in: Ensaluti
   honeypot_warning: Ne eblis krei vian konton. Se vi uzas ekranlegilon, bonvolu certigi ke la lasta (kaŝita) kampo de la formularo estu sen enhavo.
   tagline: Ni kreas mondon kie estas facile por ĉiuj partopreni la decidojn kiuj gravas por ili.
-  or_sign_in_html: Se vi jam havas Loomio-konton, <a href='%{link}' class='%{link_class}'>ensalutu ĉi tie</a>
-  or_link_account_html: Se vi jam havas Loomio-konton, <a href='%{link}'>ligu ĝin</a>
+  or_sign_in_html: Se vi jam havas Diehard_Fund-konton, <a href='%{link}' class='%{link_class}'>ensalutu ĉi tie</a>
+  or_link_account_html: Se vi jam havas Diehard_Fund-konton, <a href='%{link}'>ligu ĝin</a>
   click_to_dismiss: Alklaku ĉi tie por forigi tiun ĉi mesaĝon
   generic_confirm: Ĉu vi certas?
   discussion_helper_text:
@@ -241,7 +241,7 @@ eo:
       info_title: Kion signifos malaktivigon de via konto?
       memberships: Vi ne plu estos listigita kiel membro en ajna grupo al kiu vi nun apartenas.
       group_contributions: La komentoj, proponoj kaj diskutoj kiujn vi faris en grupoj restos tie, sed ni forviŝos vian nomon de ili.
-      emails: Ni ne plu sendos retpoŝtaĵojn rilatajn al Loomio.
+      emails: Ni ne plu sendos retpoŝtaĵojn rilatajn al Diehard_Fund.
   group_form:
     name: Grupnomo
     description: Priskribo
@@ -341,7 +341,7 @@ eo:
   confirm_leave_hidden_group: Ĉu vi certas ke vi volas forlasi %{which_group}? Vi ankaŭ estos forigata el eventualaj subgrupoj.
   confirm_leave_group: Ĉu vi certas, ke vi volas elriri la grupon %{which_group}?
   deactivate_group: Malaktivigi grupon
-  confirm_deactivate_group: Atendu!!! Ĉu vi certas, ke vi volas malaktivigi la grupon %{which_group}? Post tio, vi ne plu povos vidi la grupon. Tamen, se vi volas rehavi la grupon, vi povas peti de ni ke ni reaktivigu ĝin por vi per sendado de retmesaĝo al contact@loomio.org.
+  confirm_deactivate_group: Atendu!!! Ĉu vi certas, ke vi volas malaktivigi la grupon %{which_group}? Post tio, vi ne plu povos vidi la grupon. Tamen, se vi volas rehavi la grupon, vi povas peti de ni ke ni reaktivigu ĝin por vi per sendado de retmesaĝo al contact@diehard_fund.org.
   invited_users: Invititiaj membroj
   members: Membroj
   confirm_remove_user: Ĉu vi certas, ke vi volas forigi %{which_user} el tiu ĉi grupo?
@@ -408,7 +408,7 @@ eo:
       body_html: |
         Ni sendis retpoŝtaĵon kun invito por komenci vian grupon.
 
-        Se vi nenion vidas en via poŝtkesto en kelkaj minutoj, retpoŝtu nin je <a href='mailto:contact@loomio.org'>contact@loomio.org</a>.
+        Se vi nenion vidas en via poŝtkesto en kelkaj minutoj, retpoŝtu nin je <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
   volume:
     volume: Laŭteco
   discussion_items:
@@ -528,20 +528,20 @@ eo:
     comment_changes: Komentŝanĝoj
     edit_comment: Redakti komenton
   help:
-    coordinating: Kunordigante vian Loomio-grupon
+    coordinating: Kunordigante vian Diehard_Fund-grupon
     coordinating_details: |
-      Kiel kunordiganto vi respondecas pri konfigurado de via Loomio-grupo kaj invito
+      Kiel kunordiganto vi respondecas pri konfigurado de via Diehard_Fund-grupo kaj invito
       de ĉiuj al ĝi. Kune kun la lernado de nova programo, via grupo ankaŭ lernos novajn
       procesojn por kunlabori pli efike kaj fari bonajn decidojn kune. Jen kelkaj konsiloj
       por helpi vian grupon sukcesi:
-    different_ways: Malsamaj manieroj por uzi Loomion
+    different_ways: Malsamaj manieroj por uzi Diehard_Fundn
     engaging_html: |
       <h2>Konsiloj por engaĝigi vian grupon</h2>
       <p>Oni ekscitiĝos ensalti kaj komenci partopreni se estas engaĝiga propono sur la
       tablo. Bona propono enhavas agoplanon por la grupo, por ke tuj estu klare kion
       signifas konsenti aŭ malkonsenti. Pripensu kiel vi povas identigi diskutojn/decidojn
       pri kiuj la grupo nun interkonsentiĝas persone aŭ retpoŝte por kiuj pli facilus se ili
-      estus en Loomio.</p>
+      estus en Diehard_Fund.</p>
       <p>Se via grupo ĵus komenciĝis, vi povus komenci per facilanima decido, por doni
       al ĉiuj la ŝancon ludi per la ilo kaj mem vidi la decidadon dum ĝi okazas.</p>
       <p>Alia simpla maniero por kuraĝigi personojn engaĝiĝi en diskuto estas uzi la eblo
@@ -562,7 +562,7 @@ eo:
     get_in_touch_description_html: Se vi havas ajnajn demandojn aŭ retrokuplon, <a href='%{link}'>kontaktu nin</a>
     getting_started: Ekkomenci
     getting_started_description: Maldekstre, la grupo diskutas pri temo, interŝanĝas ideojn kaj informojn. Kiam la grupo devos decidi pri io, aperos dekstre.
-    getting_the_most: Fari kiel eble plej per Loomio
+    getting_the_most: Fari kiel eble plej per Diehard_Fund
     have_your_say: Donu vian opinion
     have_your_say_details_html: |
       <p>Se vi pretas por montri vian opinion, alklaku unu el la kvar decidbutonojn.</p>
@@ -576,16 +576,16 @@ eo:
       <h2>Verki bonegan inviton</h2>
       <p>La unua demando kiun ĉiu nova membro al si faros estas 'por kio uziĝas ĉi tiu grupo?'</p>
       <p>Pensu pri la plej simpla maniero priskribi la grupon: Kion vi volas kune atingi? Kiajn decidojn vi faros? Kiuj envolviĝos?</p>
-      <p>Povas esti bona ideo unue paroli al via grupo antaŭ ol inviti ilin aliĝi al Loomio.</p>
+      <p>Povas esti bona ideo unue paroli al via grupo antaŭ ol inviti ilin aliĝi al Diehard_Fund.</p>
       <p>Oni volas scii kial ili estis invititaj, kion oni atendas de ili, kaj kial indas ilia tempo por lerni
       kiel uzi la novan ilon.</p>
     join_the_community: Aliĝi al la komunumo
-    join_the_community_description_html: Ĉiuj bonvenas aliĝi al la komunumo de Loomio, kie ni parolas pri kiel plej bonigi la ilon, kaj kiel ĝi povas esti plibonigata.<br /><br /><a href='https://www.loomio.org/groups/3'>Klaku ĉi tie por iri al la grupo de la Loomio-komunumo</a>.
+    join_the_community_description_html: Ĉiuj bonvenas aliĝi al la komunumo de Diehard_Fund, kie ni parolas pri kiel plej bonigi la ilon, kaj kiel ĝi povas esti plibonigata.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Klaku ĉi tie por iri al la grupo de la Diehard_Fund-komunumo</a>.
     images_and_text_formatting: Bildoj kaj teksta formatado
     images_and_text_formatting_html: |
-      <p>Loomio uzas 'Markdown' por bildenmetado kaj tekstformatado.
+      <p>Diehard_Fund uzas 'Markdown' por bildenmetado kaj tekstformatado.
       Vi povas enŝalti Markdown per la malgranda griza emblemo sub la komentkesto.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>Klaku ĉi tie</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klaku ĉi tie</a>
       por informiĝi kiel uzi Markdown.</p>
     keep_up_to_date: Resti ĝisdata
     keep_up_to_date_html: |
@@ -616,7 +616,7 @@ eo:
       por la decido. Ĉiuj ricevos retpoŝtan sciigon 24 horojn antaŭ la fino de la propono.</p>
     video_id: '52025402'
     video_tutorial: Video-klarigo
-    video_tutorial_description: Vidu la filmeton por rapida elmontro kiel uzi Loomion.
+    video_tutorial_description: Vidu la filmeton por rapida elmontro kiel uzi Diehard_Fundn.
   hint:
     context: Konsiloj por uzo de la kunteksto-panelo
     discussion: Konsiloj por komenci engaĝigan diskuton
@@ -632,27 +632,27 @@ eo:
     tooltip: Eksciu pli pri nia komunuma monsubteno-modelo
     thought_about_contributing: Via eblo kontribui
     thought_about_contributing_description: |
-      Loomio estas kunlabora socia entrepreno laboranta por faciligi al ĉiuj partopreni en decidoj kiuj afektas ilin.
+      Diehard_Fund estas kunlabora socia entrepreno laboranta por faciligi al ĉiuj partopreni en decidoj kiuj afektas ilin.
 
-      Mono ne estu limigo de kunlabora decidado. Loomio estas monsubtenata de kontribuoj el nia uzantaro, kaj abonoj pagataj de formalaj organizoj kiuj uzas ĝin.
+      Mono ne estu limigo de kunlabora decidado. Diehard_Fund estas monsubtenata de kontribuoj el nia uzantaro, kaj abonoj pagataj de formalaj organizoj kiuj uzas ĝin.
 
-      Via kontribuo signifas ke Loomio povas resti sendependa, senreklama kaj libere disponebla por ke grupoj faru grandajn aferojn en iliaj komunumoj.
+      Via kontribuo signifas ke Diehard_Fund povas resti sendependa, senreklama kaj libere disponebla por ke grupoj faru grandajn aferojn en iliaj komunumoj.
 
       Dankon por ebligi ĉi tion!
-    thank_you_title: Dankon por kontribui al Loomio!
+    thank_you_title: Dankon por kontribui al Diehard_Fund!
     thank_you_body: |
       Via kontribuo helpos al ni liveri facilan kunlaboran decidadon al la mondo.
 
       Vi baldaŭ ricevos retpoŝtaĵon kun kalkulo de via kontribuo.
 
-      Ĉiuj estas bonvenaj aliĝi al la Loomio-komunumo, kie ni parolas pri kiel plej taŭge uzi la ilon, kaj kiel plibonigi.
+      Ĉiuj estas bonvenaj aliĝi al la Diehard_Fund-komunumo, kie ni parolas pri kiel plej taŭge uzi la ilon, kaj kiel plibonigi.
 
-      <a href='https://www.loomio.org/groups/3'>Iri al la Loomio-komunumo &raquo;</a>
+      <a href='https://www.diehard_fund.org/groups/3'>Iri al la Diehard_Fund-komunumo &raquo;</a>
     making_a_donation: Fari mondonon
     making_a_donation_description: |
-      Loomio estas kunlabora socia entrepreno laboranta por faciligi al ĉiuj partopreni en decidoj rilataj al ili.
+      Diehard_Fund estas kunlabora socia entrepreno laboranta por faciligi al ĉiuj partopreni en decidoj rilataj al ili.
 
-      Via kontribuo signifas ke ni povas teni Loomion sendependa, senreklama kaj libere havebla al grupoj kiuj faras grandajn aferojn en iliaj komunumoj.
+      Via kontribuo signifas ke ni povas teni Diehard_Fundn sendependa, senreklama kaj libere havebla al grupoj kiuj faras grandajn aferojn en iliaj komunumoj.
 
       Dankon por ebligi ĉi tion!
   resend_confirmation: Resendi konfirmajn instrukciojn
@@ -676,15 +676,15 @@ eo:
   link_it_up_instead: Anstataŭe ligi ĝin
   sign_up_via: Aliĝi per
   or_fill_in_this_form: aŭ plenigante ĉi tiun formularon
-  already_have_account: Ĉu vi jam havas Loomio-konton?
+  already_have_account: Ĉu vi jam havas Diehard_Fund-konton?
   confirm_your_details: Konfirmu viajn detalojn
   link_up_your_account: Ligi vian konton
-  log_in_to_your_loomio_account: Ensaluti al via Loomio-konto por ligi ĝin kun %{provider_name}.
-  now_that_your_logged_in: Ensalutinte per %{provider_name}, bonvolu konfirmi viajn detalojn por fari Loomio-konton.
+  log_in_to_your_diehard_fund_account: Ensaluti al via Diehard_Fund-konto por ligi ĝin kun %{provider_name}.
+  now_that_your_logged_in: Ensalutinte per %{provider_name}, bonvolu konfirmi viajn detalojn por fari Diehard_Fund-konton.
   confirmation_not_received: Ĉu vi ne ricevis la konfirmajn instrukciojn?
   unlock_not_received: Ĉu vi ne ricevis la malŝlosajn instrukciojn?
   inactive_html: Ĉi tiu konto malaktiviĝis. Se vi havas ajnajn demandojn, bonvolu <a href='%{path_to_contact}'>kontakti nin</a>.
-  create_an_account_html: Krei Loomio-Beta-konton
+  create_an_account_html: Krei Diehard_Fund-Beta-konton
   log_in: Ensaluti
   join_group:
     log_in: Ensalutu por aliĝi al %{group_name}
@@ -701,12 +701,12 @@ eo:
     invitation_already_used: Ĉi tiu invito jam uziĝis. Bonvolu ensaluti por pluiri al via grupo.
     recipients: 'Enigu retpoŝtadresojn, disigitajn per komoj:'
     invitees_placeholder: Uzantnomo <user1@example.com>, user2@example.com
-    subject: Bonvolu aliĝi al nia nova Loomio-grupo, %{group}
+    subject: Bonvolu aliĝi al nia nova Diehard_Fund-grupo, %{group}
     invite_people: Inviti personojn al via grupo
     invite_to_discussion: Inviti personojn al ĉi tiu diskuto
     invite_to_discussion_info: Aldonante personojn al ĉi tiu grupo, ili ricevos inviton por aliĝi al via grupo. Kiam ili akceptos, ili estos redirektataj al ĉi tiu diskuto.
     select_members: Aldoni membrojn de %{group_name}
-    body_editable: 'Saluton, venu decidadi kun ni! Ni uzas kunlaboran decidadilon kiu nomiĝas Loomio.
+    body_editable: 'Saluton, venu decidadi kun ni! Ni uzas kunlaboran decidadilon kiu nomiĝas Diehard_Fund.
 
 '
     body_editable_discussion: 'Saluton, venu kaj aliĝu al la diskuto!
@@ -771,10 +771,10 @@ eo:
   group_setup:
     set_up_your_group: Konfiguri vian grupon
     desc_header: Vi preskaŭ estas tie!
-    desc_html: 'Estante kunordiganto de la grupo, vi estas respondeca pri konfigurado kaj prizorgado de via Loomio-grupo. Post elekti kelkajn konfigurojn, vi povas eniri vian novan grupon, komenci unu aŭ du diskutojn, kaj elsendi kelkajn invitojn! <p>Pensante pri la plej facila maniero priskribi vian grupon, demandu vim: Kion vi kune volas atingi? Kiajn decidojn vi faros? Kiuj enestos?</p>'
+    desc_html: 'Estante kunordiganto de la grupo, vi estas respondeca pri konfigurado kaj prizorgado de via Diehard_Fund-grupo. Post elekti kelkajn konfigurojn, vi povas eniri vian novan grupon, komenci unu aŭ du diskutojn, kaj elsendi kelkajn invitojn! <p>Pensante pri la plej facila maniero priskribi vian grupon, demandu vim: Kion vi kune volas atingi? Kiajn decidojn vi faros? Kiuj enestos?</p>'
     submit: Portu min al la grupo!
     payment_model:
-      header: Loomio estas por ĉiuj!
+      header: Diehard_Fund estas por ĉiuj!
       info: Ni havas pagmodelon taŭgan por ĉiuj grupoj, eĉ tiuj sen mono :).
       link: Eltrovu pli
   simple_form:
@@ -817,14 +817,14 @@ eo:
       user:
         create: Krei konton
         update: Ĝisdatigi agordojn
-  about_loomio: Pri Loomio
+  about_diehard_fund: Pri Diehard_Fund
   ago: antaŭ %{quantity_of_time}
   approve: Aprobi
   author: Aŭtoro
   back: Reen
   cancel: Nuligi
   change: Ŝanĝi
-  change_language: Klaku ĉi tie por uzi Loomion en %{language}
+  change_language: Klaku ĉi tie por uzi Diehard_Fundn en %{language}
   changing: Ŝanĝiĝas
   click_here: Klaku ĉi tie
   close: Fermi
@@ -858,7 +858,7 @@ eo:
   pricing: Prezo
   prev: Reen
   more: Pli...
-  translate: Helpu traduki Loomion!
+  translate: Helpu traduki Diehard_Fundn!
   translate_field: Vidi tradukon
   loading_translation: Ŝargiĝas traduko...
   translate_this_string: Traduki al %{language}

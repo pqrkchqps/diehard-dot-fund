@@ -53,7 +53,7 @@ pt-BR:
       uploading: Carregando
     formatting_help:
       label: Ajuda para formatação
-      title: Aprenda como utilizar Remarcação -- Markdown -- para formatar seu texto no Loomio
+      title: Aprenda como utilizar Remarcação -- Markdown -- para formatar seu texto no Diehard_Fund
   devise:
     failure:
       inactive: 'Há uma conta desativada associada com esse endereço de email. Caso deseje reativar sua conta, entre em contato conosco.'
@@ -154,7 +154,7 @@ pt-BR:
     closing_in: Encerrando
   sign_in_form:
     aria_label: Formulário de entrada
-    title: Entre no Loomio
+    title: Entre no Diehard_Fund
     email_label: 'E-mail:'
     email_placeholder: you@example.com
     password_label: 'Senha:'
@@ -169,7 +169,7 @@ pt-BR:
       github: Entre com o Github
   sign_up_form:
     aria_label: Formulário de cadastro
-    title: 'Bem-vindo ao Loomio! Vamos deixar tudo certo para você'
+    title: 'Bem-vindo ao Diehard_Fund! Vamos deixar tudo certo para você'
     name_label: 'Seu nome:'
     name_placeholder: Jane Doe
     email_label: 'Email:'
@@ -182,7 +182,7 @@ pt-BR:
   signed_out_modal:
     aria_label: Sessão encerrada
     title: Sua sessão foi encerrada
-    message: 'Você foi desconectado do Loomio por outra janela. Por favor, entre outra vez para continuar.'
+    message: 'Você foi desconectado do Diehard_Fund por outra janela. Por favor, entre outra vez para continuar.'
     ok: Ok
   comment_form:
     aria_label: Adicionar um comentário
@@ -217,7 +217,7 @@ pt-BR:
     edit_profile: Editar perfil
     email_settings: Configurações de e-mail
     help: Ajuda
-    contact: Contate Loomio
+    contact: Contate Diehard_Fund
     sign_out: Sair
     aria_labels:
       heading: Barra lateral
@@ -309,7 +309,7 @@ pt-BR:
     edit_proposal: Editar proposta
     what_does_a_proposal_do: Propostas permitem que você veja como todos se sentem sobre um determinado curso de ação.
     proposal_ideas: Precisa de ideias para escrever uma boa proposta?
-    proposal_ideas_title: 9 maneiras de usar uma proposta no Loomio para transformar conversa em ação
+    proposal_ideas_title: 9 maneiras de usar uma proposta no Diehard_Fund para transformar conversa em ação
     editing_title_and_description_forbidden: 'Você não pode alterar o título ou a descrição de uma proposta depois que pessoas votaram. Se os detalhes foram alterados, por favor, feche a proposta e inicie outra.'
     title_placeholder: 'E. g.: Vamos pra lua'
     title_label: Título
@@ -354,21 +354,21 @@ pt-BR:
   proposal_position_no: Discordar
   proposal_position_block: Bloquear
   legacy_trial_expired_modal:
-    heading: 'Obrigado por usar o Loomio este ano!'
+    heading: 'Obrigado por usar o Diehard_Fund este ano!'
     body: >
       <p>Nós realmente agradecemos o seu apoio ao longo do ano, e estamos muito
-      animados para fazer Loomio ainda melhor em 2016.</p>
+      animados para fazer Diehard_Fund ainda melhor em 2016.</p>
 
-      <p>O Loomio é útil para o seu grupo? Acabamos de lançar nossa planos de
-      preços e estamos pedindo grupos que tenham usado Loomio por um tempo para
+      <p>O Diehard_Fund é útil para o seu grupo? Acabamos de lançar nossa planos de
+      preços e estamos pedindo grupos que tenham usado Diehard_Fund por um tempo para
       escolher um plano que lhes for convieniente.</p>
     submit: Mostre-me os planos
   group_welcome_modal:
     aria_label: Bem-vindo
     creator_heading: Bem-vindo ao seu novo grupo
-    member_heading: Bem-vindo ao Loomio
+    member_heading: Bem-vindo ao Diehard_Fund
     creator_info: 'Você é o <strong>coordenador</strong> do grupo, que é como ser um anfitrião. Assista ao vídeo e confira os exemplos de assuntos.'
-    member_info: 'Assista esse vídeo para uma visão geral de como o Loomio funciona. Em seguida, tente postar um comentário em uma discussão ou iniciar uma!'
+    member_info: 'Assista esse vídeo para uma visão geral de como o Diehard_Fund funciona. Em seguida, tente postar um comentário em uma discussão ou iniciar uma!'
     creator_footer: 'Quando estiver pronto, <strong>convide pessoas</strong>.'
     ok_got_it: 'OK, entendi!'
   cover_photo_form:
@@ -486,12 +486,12 @@ pt-BR:
     submit: 'Sim, Desative este grupo'
   confirm_gift_plan_modal:
     heading: Grupos gratuitos são suportados por doações
-    body: Doações tornam possível que grupos utilizem o Loomio gratuitamente. Vamos ocasionalmente pedir que usuários de grupos gratuitos façam uma contribuição voluntária.
+    body: Doações tornam possível que grupos utilizem o Diehard_Fund gratuitamente. Vamos ocasionalmente pedir que usuários de grupos gratuitos façam uma contribuição voluntária.
     got_it: Permanecer no gratuito
     go_back: Atualização
   donation_modal:
-    heading: Fazer uma doação para o Loomio?
-    body: Loomio é uma empresa social. Nossa missão é criar um mundo onde seja fácil para as pessoas participarem nas decisões que as afetem.
+    heading: Fazer uma doação para o Diehard_Fund?
+    body: Diehard_Fund é uma empresa social. Nossa missão é criar um mundo onde seja fácil para as pessoas participarem nas decisões que as afetem.
     contribute: Faça uma contribuição
     got_to_group: 'Agora não, obrigado.'
   gift_card:
@@ -499,9 +499,9 @@ pt-BR:
     make_a_contribution: Faça uma contribuição
   upgrade_plan_card:
     heading: Atualização para recursos premium
-    slack_html: '<strong>Slack integration</strong>: Loomio e Slack funcionam muito bem juntos! Conecte-os.'
-    domain_html: '<strong>Domínio personalizado</strong>: Torne seu grupo fácil de ser encontrado seunome.loomio.org'
-    help_html: '<strong>Ajuda de um expert</strong>: Os consultores colaboradores do Loomio farão seu grupo sussurrar'
+    slack_html: '<strong>Slack integration</strong>: Diehard_Fund e Slack funcionam muito bem juntos! Conecte-os.'
+    domain_html: '<strong>Domínio personalizado</strong>: Torne seu grupo fácil de ser encontrado seunome.diehard_fund.org'
+    help_html: '<strong>Ajuda de um expert</strong>: Os consultores colaboradores do Diehard_Fund farão seu grupo sussurrar'
     analytics_html: '<strong>Relatórios analíticos</strong>: Obtenha informações sobre o engajamento do seu grupo'
     donations: Os membros do seu grupo não receberão mais solicitações de doações.
     more: ... e muito mais.
@@ -509,8 +509,8 @@ pt-BR:
     donate: Doe
   trial_card:
     choose_plan: Escolha seu plano de pagamento
-    in_progress_body: 'Obrigado por experimentar Loomio com <strong>{{name}}</strong>. Você pode escolher um plano de preços que se adapte ao seu grupo a qualquer momento.'
-    expired_body_html: '<strong>{{name}}</strong> chegou ao fim do teste no Loomio. Para continuar utilizando, você precisa escolher um plano de preços que se adapte ao seu grupo.'
+    in_progress_body: 'Obrigado por experimentar Diehard_Fund com <strong>{{name}}</strong>. Você pode escolher um plano de preços que se adapte ao seu grupo a qualquer momento.'
+    expired_body_html: '<strong>{{name}}</strong> chegou ao fim do teste no Diehard_Fund. Para continuar utilizando, você precisa escolher um plano de preços que se adapte ao seu grupo.'
   choose_plan_modal:
     aria_label: Escolha um plano
     heading: 'Por favor, escolha um plano para o seu grupo'
@@ -542,7 +542,7 @@ pt-BR:
     receipt: 'Você receberá um email com o seu comprovante, incluindo um link para o portal do cliente, onde você poderá modificar, atualizar ou cancelar a sua assinatura, e acessar seu histórico de pagamentos.'
     change_subscription: 'Se você quiser configurar integração com o Slack ou personalizar o seu domínio,'
     contact_link: 'por favor, entre em contato conosco.'
-    sign_off: ❤ da equipe Loomio
+    sign_off: ❤ da equipe Diehard_Fund
     ok_got_it: 'Ok, entendi!'
   group_form:
     aria_label: Formulário do grupo
@@ -604,8 +604,8 @@ pt-BR:
     manage_requests_with_count: 'Gerenciar solicitações ({{count}})'
   group_help_card:
     title: Ajuda
-    ten_tips_article_title: 10 dicas para fazer grandes decisões com Loomio
-    nine_ways_to_use_proposals: 9 maneiras de usar uma proposta no Loomio para transformar uma conversa em ação
+    ten_tips_article_title: 10 dicas para fazer grandes decisões com Diehard_Fund
+    nine_ways_to_use_proposals: 9 maneiras de usar uma proposta no Diehard_Fund para transformar uma conversa em ação
   membership_requests_page:
     heading: Solicitações para inclusão de membros
     approve: Aprovar
@@ -628,9 +628,9 @@ pt-BR:
     shareable_link: Link compartilhável
     copy_link: Copiar link
     email_addresses: Endereço de e-mail
-    email_addresses_placeholder: 'e.g. helperbot@loomio.org, friendlybot@loomio.org'
+    email_addresses_placeholder: 'e.g. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
     shareable_link_explanation: Copie o link e envie para todos que queiram participar do grupo. Isso permitirá que eles tenham acesso a todos os tópicos do grupo.
-    email_explanation: 'Como alternativa, introduza endereços de e-mail abaixo e o Loomio irá enviar os convites por e-mail.'
+    email_explanation: 'Como alternativa, introduza endereços de e-mail abaixo e o Diehard_Fund irá enviar os convites por e-mail.'
     add_custom_message: 'Faça seu convite pessoal,'
     add_custom_message_link: adicionar uma mensagem personalizada.
     custom_message: Mensagem personalizada
@@ -724,7 +724,7 @@ pt-BR:
     aria_label: Confirmação de desativação da conta
     title: Desativar conta
     question: Você se importaria em nos dizer o porquê de estar desativando a sua conta?
-    placeholder: 'Responder esta pergunta é opcional. Qualquer informação que você compartilhar nos ajudará a melhorar o Loomio :)'
+    placeholder: 'Responder esta pergunta é opcional. Qualquer informação que você compartilhar nos ajudará a melhorar o Diehard_Fund :)'
     submit: Desativar conta
   only_coordinator_modal:
     aria_label: Não foi possível desativar a conta
@@ -734,7 +734,7 @@ pt-BR:
     header: Configurações de e-mail
     all_groups: Configurações para todos os grupos
     daily_summary_label: E-mail de resumo diário
-    daily_summary_description: 'Todas as manhãs, você receberá um e-mail com qualquer atividade que você perdeu no dia anterior. Este e-mail fornece uma rotina fácil para manter-se atualizado com a atividade no Loomio.'
+    daily_summary_description: 'Todas as manhãs, você receberá um e-mail com qualquer atividade que você perdeu no dia anterior. Este e-mail fornece uma rotina fácil para manter-se atualizado com a atividade no Diehard_Fund.'
     on_participation_label: Inscrever-se na participação
     on_participation_description: 'Quando você participar de uma discussão, todas as atividades serão enviadas por e-mail para você imediatamente.'
     mentioned_label: Menções
@@ -941,10 +941,10 @@ pt-BR:
     send_message: Enviar Mensagem
     new_contact_message: 'Obrigado por sua mensagem; estaremos em contato em breve!'
   help_page:
-    coordinating: Coordenando o seu grupo do Loomio
+    coordinating: Coordenando o seu grupo do Diehard_Fund
     coordinating_details: >
       Como coordenador(a), você é responsável por configurar o seu grupo do
-      Loomio e
+      Diehard_Fund e
 
       convidar as pessoas para entrar. Além de aprender a usar uma nova
       plataforma, o seu grupo
@@ -954,7 +954,7 @@ pt-BR:
 
       em conjunto. Seguem abaixo algumas dicas para ajudar o seu grupo a dar
       certo:
-    different_ways: Diferentes formas de usar o Loomio
+    different_ways: Diferentes formas de usar o Diehard_Fund
     example1_html: >
       <h3>Você precisa que o grupo discuta um tema amplo e desenvolva uma solução
       em conjunto</h3>
@@ -972,7 +972,7 @@ pt-BR:
     get_in_touch_description_html: "Se tiver qualquer pergunta ou sugestão, <a href='%{link}'>fale conosco</a>."
     getting_started: Primeiros passos
     getting_started_description: 'Na esquerda, o grupo discute um assunto, trocando ideias e informações. Quando há uma decisão a ser tomada pelo grupo, ela aparece na direita.'
-    getting_the_most: Aproveitando ao máximo o Loomio
+    getting_the_most: Aproveitando ao máximo o Diehard_Fund
     have_your_say: Dê a sua opinião
     have_your_say_details_html: >
       <p>Quando estiver pronto para dar sua posição, clique em um dos quatro
@@ -1005,7 +1005,7 @@ pt-BR:
       envolvido?</p>
 
       <p>Pode ser uma boa ideia conversar com seu grupo antes de enviar os
-      convites para o Loomio.</p>
+      convites para o Diehard_Fund.</p>
 
       <p>As pessoas vão querer saber por que foram convidadas, o que se espera
       delas,
@@ -1013,16 +1013,16 @@ pt-BR:
       e por que valeria a pena passar um tempo aprendendo a usar uma nova
       ferramenta.</p>
     join_the_community: Faça parte da comunidade
-    join_the_community_description_html: "Todos estão convidados a se juntar à Comunidade Loomio, onde falamos sobre como tirar o máximo da ferramenta e como ela pode ser melhorada.<br /><br /><a href='https://www.loomio.org/g/WmPCB3IR'>Clique aqui para ir ao grupo da Comunidade Loomio</a>."
+    join_the_community_description_html: "Todos estão convidados a se juntar à Comunidade Diehard_Fund, onde falamos sobre como tirar o máximo da ferramenta e como ela pode ser melhorada.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Clique aqui para ir ao grupo da Comunidade Diehard_Fund</a>."
     images_and_text_formatting: Formatação de imagens e texto
     images_and_text_formatting_html: >
-      <p>Loomio utiliza o código 'Markdown' -- Remarcação -- para formatação de
+      <p>Diehard_Fund utiliza o código 'Markdown' -- Remarcação -- para formatação de
       texto e inserção de imagens.
 
       Você pode ativar a Remarcação pelo pequeno ícone cinza embaixo da caixa de
       comentários.</p>
 
-      <p><a href='https://www.loomio.org/discussions/1124'>Clique aqui</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Clique aqui</a>
 
       para informações sobre como utilizar Remarcação.</p>
     keep_up_to_date: Manter atualizado
@@ -1080,7 +1080,7 @@ pt-BR:
       antes de uma proposta fechar.</p>
     video_id: '52025402'
     video_tutorial: Vídeo-tutorial
-    video_tutorial_description: Assista ao vídeo para uma rápida demonstração de como usar o Loomio.
+    video_tutorial_description: Assista ao vídeo para uma rápida demonstração de como usar o Diehard_Fund.
   hint:
     context: Dicas para usar o painel de contexto
     discussion: Dicas para iniciar uma discussão envolvente
@@ -1088,19 +1088,19 @@ pt-BR:
     proposal: Dicas para escrever uma proposta clara
     vote: Você pode mudar sua posição a qualquer momento
   explore_page:
-    header: Conheça grupos no Loomio
-    search_placeholder: Procure por grupo público no Loomio
+    header: Conheça grupos no Diehard_Fund
+    search_placeholder: Procure por grupo público no Diehard_Fund
     single_search_result: '1 grupo público que corresponde a <strong>{{searchTerm}}:</strong>'
     multiple_search_results: '{{resultCount}} grupos públicos correspondentes <strong>{{searchTerm}}:</strong>'
     no_results_found: '<strong>Não é possível localizar o grupo que você está procurando?</strong> Se a privacidade de um grupo está definida como "secreto", não vai aparecer aqui. Se você conhece quem coordena o grupo, você poderia pedir um convite.'
   angular:
-    switch_back: Mude de volta para o antigo Loomio
+    switch_back: Mude de volta para o antigo Diehard_Fund
     give_feedback: Dê suas opiniões
     collapse: Colapsar
     enable:
-      invite: 'Experimente o novo Loomio!'
-      title: Experimente o novo Loomio
-      intro: 'Nós reconstruímos o Loomio e precisamos da sua ajuda para nos certificarmos de que está impressionante!'
+      invite: 'Experimente o novo Diehard_Fund!'
+      title: Experimente o novo Diehard_Fund
+      intro: 'Nós reconstruímos o Diehard_Fund e precisamos da sua ajuda para nos certificarmos de que está impressionante!'
       body_html: >
         <p></p>
 
@@ -1120,7 +1120,7 @@ pt-BR:
         desktop</li>
 
         <li>É acessível para pessoas cegas e traduzido para <a
-        href="https://www.loomio.org/translation">um monte de idiomas</a>
+        href="https://www.diehard_fund.org/translation">um monte de idiomas</a>
 
         </ul>
 
@@ -1133,20 +1133,20 @@ pt-BR:
         existentes.</p>
 
         <p>Há um link para "Fornecer Retorno" no canto inferior esquerdo. Você
-        também verá um link lá para "Voltar para o Loomio antigo", que
+        também verá um link lá para "Voltar para o Diehard_Fund antigo", que
         permanecerá disponível por pouco tempo.</p>
 
         <p>Nós estamos realmente ansiosos para ouvir o seu feedback, obrigado
         pelo seu tempo e apoio.</p>
-      button_text: Ative o novo Loomio
+      button_text: Ative o novo Diehard_Fund
     disable:
-      title: Obrigado por experimentar o novo Loomio
-      body_html: '<p>Êita, nós fizemos algo errado? Lamentamos se você teve um mau momento no novo Loomio.</p>'
+      title: Obrigado por experimentar o novo Diehard_Fund
+      body_html: '<p>Êita, nós fizemos algo errado? Lamentamos se você teve um mau momento no novo Diehard_Fund.</p>'
       give_feedback: 'Antes de ir, por favor, considere compartilhar suas opiniões para que possamos melhorar.'
-      button_text: Mude de volta para o antigo Loomio
+      button_text: Mude de volta para o antigo Diehard_Fund
   global:
     messages:
-      app_update: Uma nova versão do Loomio está disponível
+      app_update: Uma nova versão do Diehard_Fund está disponível
       reload: Recarregar
   emoji_picker:
     search: Encontre um emoji...
@@ -1170,7 +1170,7 @@ pt-BR:
     name_label: Nome
     name_placeholder: Como se chama o seu aplicativo?
     redirect_uri_label: Redirecionar Uris
-    redirect_uri_placeholder: 'O URI de retorno de chamada para o seu aplicativo, e.g.: https://myapplication.com/loomio/callback'
+    redirect_uri_placeholder: 'O URI de retorno de chamada para o seu aplicativo, e.g.: https://myapplication.com/diehard_fund/callback'
     redirect_uri_note: "(uma linha por URI, use 'urn:ietf:wg:oauth:2.0:oob' para testes locais)"
     new_application_submit: Criar Aplicativo
     edit_application_submit: Atualizar Aplicativo

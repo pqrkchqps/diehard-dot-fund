@@ -1,4 +1,4 @@
-Loomio::Application.routes.draw do
+Diehard_Fund::Application.routes.draw do
 
   use_doorkeeper do
     skip_controllers :applications, :authorized_applications
@@ -314,5 +314,5 @@ Loomio::Application.routes.draw do
     post :initiate,                       to: 'identities/slack#initiate',    as: :slack_initiate
   end
 
-  get '/donate', to: redirect('https://loomio-donation.chargify.com/subscribe/9wnjv4g2cc9t/donation')
+  get '/donate', to: redirect('https://diehard_fund-donation.chargify.com/subscribe/9wnjv4g2cc9t/donation')
 end

@@ -127,7 +127,7 @@ cmn:
   confirm_leave_hidden_group: "你确定你要离开%{which_group}吗？同时你也会被其他小组给移除的"
   confirm_leave_group: "你确定你想要离开 %{which_group}？"
   deactivate_group: 取消团队
-  confirm_deactivate_group: "等等！！！你确定你想要取消%{which_group}？那你就再也查不到这个组了，但是，如果你想要重新激活这个组，你可以通过发送邮件到contact@loomio.org"
+  confirm_deactivate_group: "等等！！！你确定你想要取消%{which_group}？那你就再也查不到这个组了，但是，如果你想要重新激活这个组，你可以通过发送邮件到contact@diehard_fund.org"
   invited_users: 邀请成员
   members: 成员
   confirm_remove_user: "你确定你要从这个组中删除%{which_user}吗？"
@@ -226,7 +226,7 @@ cmn:
     start_proposal: 写一个很清晰的提议
     video_id: "52025402"
     video_tutorial: 视频教育
-    video_tutorial_description: 看看使用Loomio的示范视频
+    video_tutorial_description: 看看使用Diehard_Fund的示范视频
   hint:
     vote: 任何时候你都可以更改位置
   resend_confirmation: 重新发送确认指令
@@ -273,7 +273,7 @@ cmn:
   group_setup:
     submit: 把我放到我的组里
     payment_model:
-      header: 每个人都可以用Loomio
+      header: 每个人都可以用Diehard_Fund
       link: 找出更多
   simple_form:
     "yes": 是的
@@ -308,13 +308,13 @@ cmn:
         create: 创建账户
         update: 更新设置
   email:
-    view_comment: 点击这里查看Loomio的评论
+    view_comment: 点击这里查看Diehard_Fund的评论
     view_discussion: 点击这里查看讨论
-    view_group: 点击这里查看Loomio的组队
+    view_group: 点击这里查看Diehard_Fund的组队
     create_proposal:
       closes_in: 将要关闭
     daily_activity:
-      intro: 展示上一个24小时你的Loomio所发生的事情
+      intro: 展示上一个24小时你的Diehard_Fund所发生的事情
     invitation:
       hi: "您好%{name}"
     proposal_closing_soon:

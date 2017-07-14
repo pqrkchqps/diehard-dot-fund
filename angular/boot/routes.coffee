@@ -1,4 +1,4 @@
-window.Loomio.routes = [
+window.Diehard_Fund.routes = [
   {path: '/dashboard', component: 'dashboardPage' },
   {path: '/dashboard/:filter', component: 'dashboardPage'},
   {path: '/polls', component: 'pollsPage'},

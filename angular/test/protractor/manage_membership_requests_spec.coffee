@@ -26,7 +26,7 @@ describe 'Managing membership requests', ->
       membershipRequestsHelper.clickApproveButton()
       membershipRequestsHelper.clickApproveButton()
       emailHelper.openLastEmail()
-      expect(emailHelper.lastEmailSubject().getText()).toContain('Your request to join Dirty Dancing Shoes on Loomio has been approved')
+      expect(emailHelper.lastEmailSubject().getText()).toContain('Your request to join Dirty Dancing Shoes on Diehard_Fund has been approved')
 
     it 'displays the correct flash message', ->
       membershipRequestsHelper.clickApproveButton()

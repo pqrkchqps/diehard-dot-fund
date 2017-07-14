@@ -34,3 +34,4 @@ public/uploads
 
 angular/node_modules
 angular/tasks/config/plugins.yml
+/build/

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'AttachmentModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'AttachmentModel', (BaseModel, AppConfig) ->
   class AttachmentModel extends BaseModel
     @singular: 'attachment'
     @plural: 'attachments'

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'activityCard', ->
+angular.module('diehard_fundApp').directive 'activityCard', ->
   scope: {discussion: '=', loading: '=', activeCommentId: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/activity_card/activity_card.html'

@@ -1,27 +1,27 @@
-This page is a guide for people who would like to contribute translations to Loomio.
+This page is a guide for people who would like to contribute translations to Diehard_Fund.
 
-_If you're a developer, check out the [code guide](https://github.com/loomio/loomio/wiki/Translation-for-Developers)_
+_If you're a developer, check out the [code guide](https://github.com/diehard_fund/diehard_fund/wiki/Translation-for-Developers)_
 
 ## Contents
 
-1. [**Getting Started**](https://github.com/loomio/loomio/wiki/Translation#getting-started)
+1. [**Getting Started**](https://github.com/diehard_fund/diehard_fund/wiki/Translation#getting-started)
   1. join an existing language
   2. create a new language
   3. set a fall-back language (optional) 
-2. [**How to translate**](https://github.com/loomio/loomio/wiki/Translation#how-to-translate)
+2. [**How to translate**](https://github.com/diehard_fund/diehard_fund/wiki/Translation#how-to-translate)
   1. the basics
   2. more advanced translation
   3. working within a community of translators
-3. [How to get translations up on Loomio.org](https://github.com/loomio/loomio/wiki/Translation#how-to-get-translations-up-on-loomioorg)
-4. [Improving processes, giving feedback](https://github.com/loomio/loomio/wiki/Translation#improving-processes-giving-feedback)
+3. [How to get translations up on Diehard_Fund.org](https://github.com/diehard_fund/diehard_fund/wiki/Translation#how-to-get-translations-up-on-diehard_fundorg)
+4. [Improving processes, giving feedback](https://github.com/diehard_fund/diehard_fund/wiki/Translation#improving-processes-giving-feedback)
 
 ---
 
 **Links** - - {
-[Email us](mailto: contact@loomio.org) } - {
-[Loomio group](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) } - {
-[Transifex](https://www.transifex.com/projects/p/loomio-1/)  } - { 
-[Twitter updates](https://twitter.com/search?f=realtime&q=%40loomio%20%23translation) } - -
+[Email us](mailto: contact@diehard_fund.org) } - {
+[Diehard_Fund group](https://www.diehard_fund.org/g/cpaM3Hsv/diehard_fund-community-translation) } - {
+[Transifex](https://www.transifex.com/projects/p/diehard_fund-1/)  } - { 
+[Twitter updates](https://twitter.com/search?f=realtime&q=%40diehard_fund%20%23translation) } - -
 
 ---
 
@@ -31,11 +31,11 @@ We use Transifex to manage our translation process (an excellent service that's 
 
 ### + join an existing language
 
-You can see the full list of languages underway on the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/)
-Click "Help Translate Loomio" and ask to join a translation **[this needs some more detail]**
+You can see the full list of languages underway on the [Diehard_Fund Transifex page](https://www.transifex.com/projects/p/diehard_fund-1/)
+Click "Help Translate Diehard_Fund" and ask to join a translation **[this needs some more detail]**
 
 NB: Make sure you click 'Display all Languages' :  
-[![image](https://cloud.githubusercontent.com/assets/2665886/4144368/73d5762a-33de-11e4-9c47-56838886b741.png)](https://www.transifex.com/projects/p/loomio-1/)
+[![image](https://cloud.githubusercontent.com/assets/2665886/4144368/73d5762a-33de-11e4-9c47-56838886b741.png)](https://www.transifex.com/projects/p/diehard_fund-1/)
 
 
 ### + create a new language
@@ -43,15 +43,15 @@ NB: Make sure you click 'Display all Languages' :
 Please check whether your language has been started before requesting a new one! (see above). 
 Feel free to request a new language or dialect if it doesn't exist. 
 
-If you're not sure or need help, please [email us](mailto:nati@loomio.org)
+If you're not sure or need help, please [email us](mailto:nati@diehard_fund.org)
 
 
 ### + set a fall-back language (optional)
 
-If a translation is missing in your language Loomio will 'fall back' to using English in that location (so that there is at least some text present).
-If you would like to recommend a better fall-back language please [let us know](mailto:nati@loomio.org).
+If a translation is missing in your language Diehard_Fund will 'fall back' to using English in that location (so that there is at least some text present).
+If you would like to recommend a better fall-back language please [let us know](mailto:nati@diehard_fund.org).
 
-You can see Loomio's current fall-back settings at the bottom of this page : www.loomio.org/translation 
+You can see Diehard_Fund's current fall-back settings at the bottom of this page : www.diehard_fund.org/translation 
 
 
 ***
@@ -62,7 +62,7 @@ Make sure you have either joined/ created a language (and have a Transifex accou
 
 ### + the basics
 
-1. visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/), and click on your language
+1. visit the [Diehard_Fund Transifex page](https://www.transifex.com/projects/p/diehard_fund-1/), and click on your language
 ![image](https://cloud.githubusercontent.com/assets/2665886/4144134/84c438c2-33d9-11e4-9267-91e429e50409.png)
 
 2. select the resource you want to translate
@@ -83,7 +83,7 @@ Ignore anything in angle brackets or curly braces. E.g.:
 ```
 <h2>Welcome</h2>
 <p>
-%{who} invited you to Loomio! 
+%{who} invited you to Diehard_Fund! 
 <a href='%{link}'>Click here to visit %{group_name}!</a>
 </p>
 ```
@@ -95,7 +95,7 @@ The text inside the `%{curly braces}` will get replaced by the software, so it's
 ### + more advanced translation
 
 **- language style guide**
-www.loomio.org/d/xDUZJPrp/language-style-guide-for-translators
+www.diehard_fund.org/d/xDUZJPrp/language-style-guide-for-translators
 
 
 ### + working within a community of translators
@@ -112,23 +112,23 @@ We are currently working with the community to figure out how best to support te
 
 ***
 
-## How to get translations up on Loomio.org 
+## How to get translations up on Diehard_Fund.org 
 
 We deploy language updates at least once a week. <br/>
-Watch [twitter @loomio #translation](https://twitter.com/search?f=realtime&q=%40loomio%20%23translation) for updates.
+Watch [twitter @diehard_fund #translation](https://twitter.com/search?f=realtime&q=%40diehard_fund%20%23translation) for updates.
 
-If you would like to see translations up faster, please tweet us or email [Nati](mailto:nati@loomio.org)
+If you would like to see translations up faster, please tweet us or email [Nati](mailto:nati@diehard_fund.org)
 
 ### + overview of whole translation process
 
 ![image](https://cloud.githubusercontent.com/assets/2665886/4211018/ab080ed2-387f-11e4-93f4-f53f673bad50.png)
 
-context: [Github](https://github.com/loomio/loomio) is where the working code of Loomio is managed and deployed from.
+context: [Github](https://github.com/diehard_fund/diehard_fund) is where the working code of Diehard_Fund is managed and deployed from.
  
 1. Transifex grabs a copy of all the English phrases from Github (auotmatic)
 2. Amazing community uses Transifex to translate all these phrases.
 3. Mix imports all the new translations into Github, and checks to make sure nothing is broken.
-4. We deploy translations to Loomio.org
+4. We deploy translations to Diehard_Fund.org
 
 
 ![image](https://cloud.githubusercontent.com/assets/2665886/4201265/5b931404-381c-11e4-93ce-85339dd6761d.png)
@@ -141,4 +141,4 @@ context: [Github](https://github.com/loomio/loomio) is where the working code of
 
 ## Improving processes, giving feedback
 
-If you would like to suggest an improvement, or have some feedback on the translation process, please feel free to start a discussion in the [Loomio group](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation), or email Nati at nati@loomio.org  
+If you would like to suggest an improvement, or have some feedback on the translation process, please feel free to start a discussion in the [Diehard_Fund group](https://www.diehard_fund.org/g/cpaM3Hsv/diehard_fund-community-translation), or email Nati at nati@diehard_fund.org  

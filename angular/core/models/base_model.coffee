@@ -1,2 +1,2 @@
-angular.module('loomioApp').factory 'BaseModel', ->
+angular.module('diehard_fundApp').factory 'BaseModel', ->
   AngularRecordStore.BaseModelFn()

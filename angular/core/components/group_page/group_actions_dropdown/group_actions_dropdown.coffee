@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'groupActionsDropdown', ->
+angular.module('diehard_fundApp').directive 'groupActionsDropdown', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/group_actions_dropdown/group_actions_dropdown.html'

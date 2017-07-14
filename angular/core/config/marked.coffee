@@ -1,4 +1,4 @@
-angular.module('loomioApp').config (markedProvider) ->
+angular.module('diehard_fundApp').config (markedProvider) ->
   customRenderer = (opts) ->
     _super   = new marked.Renderer(opts)
     renderer = _.clone(_super)

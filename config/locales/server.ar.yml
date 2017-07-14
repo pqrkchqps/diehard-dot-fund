@@ -79,7 +79,7 @@ ar:
     pricing: تسعير
     public_groups: المجموعات العامة
     terms: شروط الخدمة
-    independent_install_html: '%{hostname} يقوم بتشغيل نسخة مستقلة من لوميو:  <a href="http://github.com/loomio/loomio">قم بمعرفة المزيد</a>.'
+    independent_install_html: '%{hostname} يقوم بتشغيل نسخة مستقلة من لوميو:  <a href="http://github.com/diehard_fund/diehard_fund">قم بمعرفة المزيد</a>.'
   start_group_form:
     enable_angular:
       header: مجموعات جديدة تبدأ في لوميو 1.0

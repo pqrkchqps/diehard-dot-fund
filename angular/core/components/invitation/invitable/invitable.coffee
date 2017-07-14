@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'invitable', ->
+angular.module('diehard_fundApp').directive 'invitable', ->
   scope: { invitable: '=' }
   restrict: 'E'
   templateUrl: 'generated/components/invitation/invitable/invitable.html'

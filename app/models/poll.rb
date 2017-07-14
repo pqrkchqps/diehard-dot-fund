@@ -59,7 +59,7 @@ class Poll < ActiveRecord::Base
   define_counter_cache(:visitors_count)          { |poll| poll.visitors.count }
   define_counter_cache(:undecided_visitor_count) { |poll| Visitor.undecided_for(poll).count }
   define_counter_cache(:undecided_user_count)   do |poll|
-    if community = poll.community_of_type(:loomio_users) || poll.group&.community
+    if community = poll.community_of_type(:diehard_fund_users) || poll.group&.community
       community.members
     else
       User.where(id: poll.author_id)
@@ -190,8 +190,8 @@ class Poll < ActiveRecord::Base
     super.tap { self.group_id = self.discussion&.group_id }
   end
 
-  def build_loomio_group_community
-    poll_communities.find_by(community: community_of_type(:loomio_group))&.destroy
+  def build_diehard_fund_group_community
+    poll_communities.find_by(community: community_of_type(:diehard_fund_group))&.destroy
     poll_communities.build(community: self.group.community) if self.group
   end
 

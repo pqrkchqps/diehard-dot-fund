@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'OauthApplicationModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'OauthApplicationModel', (BaseModel, AppConfig) ->
   class OauthApplicationModel extends BaseModel
     @singular: 'oauthApplication'
     @plural: 'oauthApplications'

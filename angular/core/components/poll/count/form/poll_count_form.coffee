@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCountForm', ->
+angular.module('diehard_fundApp').directive 'pollCountForm', ->
   scope: {poll: '=', back: '=?'}
   templateUrl: 'generated/components/poll/count/form/poll_count_form.html'
   controller: ($scope, FormService, AttachmentService, PollService, KeyEventService) ->

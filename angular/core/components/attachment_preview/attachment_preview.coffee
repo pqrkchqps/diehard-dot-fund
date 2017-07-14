@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'attachmentPreview', ->
+angular.module('diehard_fundApp').directive 'attachmentPreview', ->
   scope: { attachment: '=', mode: '@'}
   restrict: 'E'
   templateUrl: 'generated/components/attachment_preview/attachment_preview.html'

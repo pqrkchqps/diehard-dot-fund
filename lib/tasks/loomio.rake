@@ -1,6 +1,6 @@
-namespace :loomio do
+namespace :diehard_fund do
   task :version do
-    puts Loomio::Version.current
+    puts Diehard_Fund::Version.current
   end
 
   task daily_tasks: :environment do
@@ -84,7 +84,7 @@ namespace :loomio do
   end
 
   task update_blog_stories: :environment do
-    rss = SimpleRSS.parse open('http://blog.loomio.org/category/stories/feed/')
+    rss = SimpleRSS.parse open('http://blog.diehard_fund.org/category/stories/feed/')
     BlogStory.destroy_all
     rss.items.each do |item|
       BlogStory.create(title: item[:title],
@@ -95,6 +95,6 @@ namespace :loomio do
   end
 
   task notify_clients_of_update: :environment do
-    MessageChannelService.publish({ version: Loomio::Version.current }, to: GlobalMessageChannel.instance)
+    MessageChannelService.publish({ version: Diehard_Fund::Version.current }, to: GlobalMessageChannel.instance)
   end
 end

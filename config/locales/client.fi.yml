@@ -51,7 +51,7 @@ fi:
       upload: 'Lataa'
       uploading: 'Lataaminen'
     formatting_help:
-      title: 'Opi, kuinka muotoilla tekstiäsi Loomiossa'
+      title: 'Opi, kuinka muotoilla tekstiäsi Diehard_Fundssa'
   error_page:
     forbidden: 'Sinulla ei ole oikeutta tehdä tätä.'
     page_not_found: 'Emme voineet löytää tätä. Se voi olla poistettu tai siirretty.'

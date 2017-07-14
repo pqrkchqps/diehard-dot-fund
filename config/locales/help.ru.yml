@@ -1,6 +1,6 @@
 ru:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Создать группу
       invite_people_link: Пригласите людей
       start_discussion_link: Начать дискуссию
@@ -63,8 +63,8 @@ ru:
           mute_title: Заглушен
       email_settings:
         title: Настройки Email
-      yesterday_on_loomio:
-        title: Вчера на Loomio
+      yesterday_on_diehard_fund:
+        title: Вчера на Diehard_Fund
     user_profile:
       account_deactivation:
         title: Деактивация учетной записи

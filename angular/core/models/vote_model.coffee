@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'VoteModel', (BaseModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'VoteModel', (BaseModel, AppConfig) ->
   class VoteModel extends BaseModel
     @singular: 'vote'
     @plural: 'votes'

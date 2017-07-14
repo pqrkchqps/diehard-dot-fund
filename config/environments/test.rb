@@ -1,4 +1,4 @@
-Loomio::Application.configure do
+Diehard_Fund::Application.configure do
   config.cache_classes = true
   config.serve_static_files = true
 

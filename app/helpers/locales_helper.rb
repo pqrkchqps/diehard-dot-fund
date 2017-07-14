@@ -2,15 +2,15 @@
 
 module LocalesHelper
   def selectable_locales
-    Loomio::I18n::SELECTABLE_LOCALES
+    Diehard_Fund::I18n::SELECTABLE_LOCALES
   end
 
   def detectable_locales
-    Loomio::I18n::DETECTABLE_LOCALES
+    Diehard_Fund::I18n::DETECTABLE_LOCALES
   end
 
   def rtl_locales
-    Loomio::I18n::RTL_LOCALES
+    Diehard_Fund::I18n::RTL_LOCALES
   end
 
   def angular_locales

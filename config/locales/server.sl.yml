@@ -25,7 +25,7 @@ sl:
     daily_activity:
       heading: Tvoja aktivnost na Loomiu
       intro: Prikazuje dogajanja v tvojih skupinah na Loomiu v zadnjih 24 urah
-      subject: Loomio - Povzetek zadnjih 24 ur
+      subject: Diehard_Fund - Povzetek zadnjih 24 ur
     missed_yesterday:
       subject: Včeraj na Loomiu
       headlines: Razprave
@@ -72,7 +72,7 @@ sl:
     pricing: Cene
     public_groups: Javne skupine
     terms: Pogoji
-    independent_install_html: '%{hostname} uporablja neodvisno kopijo Loomia: <a href="http://github.com/loomio/loomio">več informacij</a>.'
+    independent_install_html: '%{hostname} uporablja neodvisno kopijo Loomia: <a href="http://github.com/diehard_fund/diehard_fund">več informacij</a>.'
   start_group_form:
     header: Ustvari novo skupino
     name: Tvoje ime

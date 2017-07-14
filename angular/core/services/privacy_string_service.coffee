@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'PrivacyString', ($translate) ->
+angular.module('diehard_fundApp').factory 'PrivacyString', ($translate) ->
   new class PrivacyString
     groupPrivacyStatement: (group) ->
       if group.isSubgroup() && group.parent().privacyIsSecret()

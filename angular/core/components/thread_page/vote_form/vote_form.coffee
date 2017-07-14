@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'VoteForm', ->
+angular.module('diehard_fundApp').factory 'VoteForm', ->
   templateUrl: 'generated/components/thread_page/vote_form/vote_form.html'
   controller: ($scope, vote, Session, FlashService, FormService, KeyEventService, EmojiService) ->
     $scope.vote = vote.clone()

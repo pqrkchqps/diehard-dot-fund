@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonCalendarInvite', (Records, PollService, TimeService) ->
+angular.module('diehard_fundApp').directive 'pollCommonCalendarInvite', (Records, PollService, TimeService) ->
   scope: {outcome: '='}
   templateUrl: 'generated/components/poll/common/calendar_invite/poll_common_calendar_invite.html'
   controller: ($scope) ->

@@ -1,10 +1,10 @@
 it:
   new_help:
     title: Come possiamo aiutarti?
-    how_loomio_works:
-      title: Come funziona Loomio
+    how_diehard_fund_works:
+      title: Come funziona Diehard_Fund
       start_group_link: Crea un gruppo
-      start_group_description: Per collaborare con altre persone in Loomio
+      start_group_description: Per collaborare con altre persone in Diehard_Fund
       invite_people_link: Invita persone
       invite_people_description: nel tuo gruppo
       start_discussion_link: Comincia discussione
@@ -13,10 +13,10 @@ it:
       decide_together_description: "Chiunque può dichiararsi d'accordo, contrario o bloccare la decisione. In questo modo, puoi vedere l'opinione di tutti su una certa proposta."
     contents:
       title: Indice
-      what_is_loomio:
-        title: "Cos'è Loomio?"
-      how_loomio_works:
-        title: Come funziona Loomio
+      what_is_diehard_fund:
+        title: "Cos'è Diehard_Fund?"
+      how_diehard_fund_works:
+        title: Come funziona Diehard_Fund
       getting_started:
         title_html: Per cominciare
         single_sign_on_html: Single sign-on
@@ -64,7 +64,7 @@ it:
         title_html: La tua bacheca
       keeping_up_to_date:
         volume_html: Volume
-        yesterday_on_loomio_html: Ieri su Loomio
+        yesterday_on_diehard_fund_html: Ieri su Diehard_Fund
         email_settings_html: Impostazioni Email
       user_profile:
         title_html: Il tuo profilo utente
@@ -82,11 +82,11 @@ it:
       security:
         title_html: Privacy e sicurezza
       contributing:
-        title_html: Contribuire allo sviluppo di Loomio
-      loomio_community:
-        title_html: La community di Loomio
-      loomio_development:
-        title_html: Essere aggiornati sullo sviluppo di Loomio
+        title_html: Contribuire allo sviluppo di Diehard_Fund
+      diehard_fund_community:
+        title_html: La community di Diehard_Fund
+      diehard_fund_development:
+        title_html: Essere aggiornati sullo sviluppo di Diehard_Fund
       faq:
         title_html: Domande frequenti - FAQ
     getting_started:
@@ -190,8 +190,8 @@ it:
           mute_title: Silenzioso
       email_settings:
         title: Impostazioni Email
-      yesterday_on_loomio:
-        title: Ieri su Loomio
+      yesterday_on_diehard_fund:
+        title: Ieri su Diehard_Fund
     user_profile:
       title: Il tuo profilo utente
       language_settings:
@@ -215,13 +215,13 @@ it:
     security:
       title: Privacy e sicurezza
     contributing:
-      title: Contribuire allo sviluppo di Loomio
+      title: Contribuire allo sviluppo di Diehard_Fund
       body:
         translation:
           title_html: Traduzione
-        loomio_community:
-          title_html: La community di Loomio
-    loomio_community:
-      title: La community di Loomio
+        diehard_fund_community:
+          title_html: La community di Diehard_Fund
+    diehard_fund_community:
+      title: La community di Diehard_Fund
     faq:
       title: Domande frequenti (FAQ)

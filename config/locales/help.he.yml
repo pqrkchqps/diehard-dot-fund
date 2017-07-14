@@ -1,6 +1,6 @@
 he:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: יצירת קבוצה
       invite_people_link: הזמינו אנשים
       start_discussion_link: התחילו בדיון
@@ -51,8 +51,8 @@ he:
     keeping_up_to_date:
       email_settings:
         title: הגדרות דוא״ל
-      yesterday_on_loomio:
-        title: אתמול בLoomio
+      yesterday_on_diehard_fund:
+        title: אתמול בDiehard_Fund
     user_profile:
       account_deactivation:
         title: משהה חשבון

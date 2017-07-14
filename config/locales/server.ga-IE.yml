@@ -3,23 +3,23 @@ ga-IE:
     by_who: 'ag %{person}'
     reply_to_this_discussion: Freagraigh an plé seo
     to_join_discussion:
-      subject: 'Ba mhaith le %{who} go gcuirfeá do ladar i bplé ar Loomio'
+      subject: 'Ba mhaith le %{who} go gcuirfeá do ladar i bplé ar Diehard_Fund'
       content: 'Tugadh cuireadh duit bheith rannpháirteach sa phlé seo: %{discussion}'
       message_intro: 'Deireann %{who}:'
       link: Bí istigh sa phlé
     to_start_group:
-      subject: 'Cuir do bhaicle Loomio nua ar bun: %{group_name}'
+      subject: 'Cuir do bhaicle Diehard_Fund nua ar bun: %{group_name}'
     view_discussion: Brúigh anseo chun an plé seo a fheiceáil
-    view_proposal: Féach an togra seo ar Loomio
+    view_proposal: Féach an togra seo ar Diehard_Fund
     create_proposal:
       closes_in: Dúnann sé i gceann
       subject: 'Togra nua: %{which}'
     daily_activity:
-      heading: Do Ghníomhaíocht Loomio
-      intro: Ag léiriú cad a bhí ar siúil sna baiclí Loomio agatsa sa 24 uair anuas
-      subject: Loomio - Achoimre ar an 24 uair is déanaí
+      heading: Do Ghníomhaíocht Diehard_Fund
+      intro: Ag léiriú cad a bhí ar siúil sna baiclí Diehard_Fund agatsa sa 24 uair anuas
+      subject: Diehard_Fund - Achoimre ar an 24 uair is déanaí
     missed_yesterday:
-      subject: Inné ar Loomio
+      subject: Inné ar Diehard_Fund
       mark_as_read: Rianaigh mar léite
       thanks_for_reading: 'Go raibh maith agat as ucht é a léamh. Bíodh lá den scoth agat!'
     membership_request:
@@ -49,7 +49,7 @@ ga-IE:
     pricing: Praghsáil
     public_groups: Baiclí poiblí
     terms: Coinníollacha
-    independent_install_html: 'Tá leagan neamhspleách de Loomio á rith ag %{hostname}: <a href="http://github.com/loomio/loomio">find out more</a>.'
+    independent_install_html: 'Tá leagan neamhspleách de Diehard_Fund á rith ag %{hostname}: <a href="http://github.com/diehard_fund/diehard_fund">find out more</a>.'
   start_group_form:
     header: Cuir baicle nua ar bun
     form_error: Tá cuid den bhfaisnéis ar iarraidh nó mícheart.
@@ -64,7 +64,7 @@ ga-IE:
       header: 'Tá beagnach críochnaithe agat! Féach do ríomhphoist.'
       email_delivered: 'Seoladh ríomhphost chuig %{email}. Lean an nasc istigh ann chun do bhaicle nua a chur ar bun.'
       email_not_arrived: Nár bhfuair tú an ríomhphost?
-    start_making_decisions: 'Chun tosú ag déanamh cinntí le chéile ar Loomio, cuir baicle ar bun saor in aisce:'
+    start_making_decisions: 'Chun tosú ag déanamh cinntí le chéile ar Diehard_Fund, cuir baicle ar bun saor in aisce:'
   pricing_page:
     gift: Saor in aisce
     standard: Caighdeánach

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'TimeService', (AppConfig, $translate) ->
+angular.module('diehard_fundApp').factory 'TimeService', (AppConfig, $translate) ->
   new class TimeService
     nameForZone: (zone) ->
       if AppConfig.timeZone == zone

@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'KeyEventService', ($rootScope) ->
+angular.module('diehard_fundApp').factory 'KeyEventService', ($rootScope) ->
   new class KeyEventService
 
     keyboardShortcuts:

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCountChartPanel', (AppConfig, Records) ->
+angular.module('diehard_fundApp').directive 'pollCountChartPanel', (AppConfig, Records) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/count/chart_panel/poll_count_chart_panel.html'
   controller: ($scope) ->

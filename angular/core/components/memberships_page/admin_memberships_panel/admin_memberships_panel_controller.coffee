@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'AdminMembershipsPanelController', ($scope, Session, AbilityService, ModalService, Records, FlashService, RemoveMembershipForm, InvitationModal, $filter) ->
+angular.module('diehard_fundApp').controller 'AdminMembershipsPanelController', ($scope, Session, AbilityService, ModalService, Records, FlashService, RemoveMembershipForm, InvitationModal, $filter) ->
 
   $scope.canRemoveMembership = (membership) ->
     AbilityService.canRemoveMembership(membership)

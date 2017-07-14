@@ -258,7 +258,7 @@ FactoryGirl.define do
   factory :application, class: OauthApplication do
     name "More like BROAuth, am I right?"
     association :owner, factory: :user
-    redirect_uri "https://www.loomio.org"
+    redirect_uri "https://www.diehard_fund.org"
   end
 
   factory :access_token, class: Doorkeeper::AccessToken do
@@ -320,7 +320,7 @@ FactoryGirl.define do
   factory :facebook_community, class: Communities::Facebook
   factory :slack_community, class: Communities::Slack
 
-  factory :loomio_group_community, class: Communities::LoomioGroup do
+  factory :diehard_fund_group_community, class: Communities::Diehard_FundGroup do
     group
   end
 

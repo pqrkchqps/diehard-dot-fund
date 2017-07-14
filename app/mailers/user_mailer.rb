@@ -43,7 +43,7 @@ class UserMailer < BaseMailer
     @message = message
 
     send_single_mail to: @user.email,
-                     from: from_user_via_loomio(@inviter),
+                     from: from_user_via_diehard_fund(@inviter),
                      reply_to: @inviter.try(:name_and_email),
                      subject_key: "email.user_added_to_group.subject",
                      subject_params: { which_group: @group.full_name, who: @inviter.name },

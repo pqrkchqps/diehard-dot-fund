@@ -1,4 +1,4 @@
-module Loomio
+module Diehard_Fund
   module Version
     def self.current
       [major, minor, patch].join('.')

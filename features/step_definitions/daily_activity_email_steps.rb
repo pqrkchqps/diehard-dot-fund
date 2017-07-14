@@ -37,7 +37,7 @@ Then /^"(.*?)" should get the daily activity email$/ do |arg1|
   user = User.find_by_name(arg1)
   found_email = false
   ActionMailer::Base.deliveries.each do |delivery|
-    if (delivery.to.last.include?(user.email) && delivery.subject.include?("Loomio - Summary of the last 24 hours"))
+    if (delivery.to.last.include?(user.email) && delivery.subject.include?("Diehard_Fund - Summary of the last 24 hours"))
       found_email = true
     end
   end
@@ -48,7 +48,7 @@ Then /^"(.*?)" should not get the daily activity email$/ do |arg1|
   user = User.find_by_name(arg1)
   found_email = false
   ActionMailer::Base.deliveries.each do |delivery|
-    if (delivery.to.last.include?(user.email) && delivery.subject.include?("Loomio - Summary of the last 24 hours"))
+    if (delivery.to.last.include?(user.email) && delivery.subject.include?("Diehard_Fund - Summary of the last 24 hours"))
       found_email = true
     end
   end

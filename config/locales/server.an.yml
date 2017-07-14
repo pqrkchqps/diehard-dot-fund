@@ -5,34 +5,34 @@ an:
     by_who: por %{person}
     reply_to_this_discussion: Contestar a ista discusión
     to_join_discussion:
-      subject: "%{who} deseya que t'unas a una discusión en Loomio"
+      subject: "%{who} deseya que t'unas a una discusión en Diehard_Fund"
       content: 'Has estau convidau/a a participar en a discusión: %{discussion}'
       message_intro: "%{who} diz:"
       link: Unir a la discusión
     to_join_group:
-      subject: "%{member} t'ha convidau a unir-te a %{group_name} en Loomio"
+      subject: "%{member} t'ha convidau a unir-te a %{group_name} en Diehard_Fund"
     to_start_group:
-      subject: "Configura o tuyo nuevo grupo en Loomio: %{group_name}"
+      subject: "Configura o tuyo nuevo grupo en Diehard_Fund: %{group_name}"
     unsubscribe: 'Da de baixa u cambea as preferencias d''o tuyo correu electronico:   '
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> ta dar de baixa u cambiar as preferencias de correu electronico."
-    view_comment: Fe clic aquí ta veyer o comentario en Loomio
+    view_comment: Fe clic aquí ta veyer o comentario en Diehard_Fund
     view_discussion: 'Fe clic aquí ta veyer ista discusión '
-    view_proposal: Veyer ista propuesta en Loomio
+    view_proposal: Veyer ista propuesta en Diehard_Fund
     create_proposal:
-      intro: Una nueva propuesta estió creada en un grupo de Loomio a lo qual perteneixes.
+      intro: Una nueva propuesta estió creada en un grupo de Diehard_Fund a lo qual perteneixes.
       closes_in: Se zarrará en
       subject: 'Nueva propuesta: %{which}'
     daily_activity:
-      heading: A tuya actividat en Loomio
-      intro: Isto ye o que ha pasau en as zagueras 24 horas en os tuyos grupos de Loomio
-      subject: Loomio - Resumen d'as zagueras 24 horas
+      heading: A tuya actividat en Diehard_Fund
+      intro: Isto ye o que ha pasau en as zagueras 24 horas en os tuyos grupos de Diehard_Fund
+      subject: Diehard_Fund - Resumen d'as zagueras 24 horas
     missed_yesterday:
-      subject: Ahiere en Loomio
+      subject: Ahiere en Diehard_Fund
       mark_as_read: Marcar como leyiu
       thanks_for_reading: Gracias por leyer, que tiengas un buen día!
       marked_as_read_success: Tot o conteniu d''o correu ha estau marcau como leyiu
     membership_request:
-      intro: "%{name} (%{email}) ha pediu acceso a un d''os tuyos grupos de Loomio."
+      intro: "%{name} (%{email}) ha pediu acceso a un d''os tuyos grupos de Diehard_Fund."
       subject: "%{who} ha pediu acceso a %{which_group}"
       view_group: Puetz acceptar u refusar a petición aquí
     new_motion_created:
@@ -57,7 +57,7 @@ an:
       specify_outcome: ' A tuya propuesta ha zarrau. Especifica un resultau ta que totz en sigan sabedors:'
       you_agreed: '%{past_tense_position}'
   footer:
-    about: Sobre Loomio
+    about: Sobre Diehard_Fund
     blog: Blog
     contact: Contacto
     help: Aduya

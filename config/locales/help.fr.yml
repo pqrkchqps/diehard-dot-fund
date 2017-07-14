@@ -1,10 +1,10 @@
 fr:
   new_help:
     title: "Besoin d'aide ?"
-    how_loomio_works:
-      title: Comment Loomio fonctionne
+    how_diehard_fund_works:
+      title: Comment Diehard_Fund fonctionne
       start_group_link: Créer un groupe
-      start_group_description: pour collaborer sur Loomio
+      start_group_description: pour collaborer sur Diehard_Fund
       invite_people_link: Inviter des personnes
       invite_people_description: dans votre groupe
       start_discussion_link: Démarrer une discussion
@@ -41,7 +41,7 @@ fr:
         title_html: Votre tableau de bord
       keeping_up_to_date:
         volume_html: Niveau de notification
-        yesterday_on_loomio_html: "\"Hier sur Loomio\""
+        yesterday_on_diehard_fund_html: "\"Hier sur Diehard_Fund\""
         email_settings_html: Paramètres de courrier électronique
       user_profile:
         title_html: Votre profil utilisateur
@@ -57,9 +57,9 @@ fr:
       translation:
         title_html: Traduction
       contributing:
-        title_html: Contribuer à Loomio
-      loomio_community:
-        title_html: La communauté Loomio
+        title_html: Contribuer à Diehard_Fund
+      diehard_fund_community:
+        title_html: La communauté Diehard_Fund
       faq:
         title_html: FAQ
     getting_started:
@@ -132,8 +132,8 @@ fr:
           mute_title: Désactivé
       email_settings:
         title: Paramètres de courrier électronique
-      yesterday_on_loomio:
-        title: Hier sur Loomio
+      yesterday_on_diehard_fund:
+        title: Hier sur Diehard_Fund
     user_profile:
       title: Votre profil utilisateur
       language_settings:
@@ -155,14 +155,14 @@ fr:
     translation:
       title: Traduction
     contributing:
-      title: Contribuer à Loomio
+      title: Contribuer à Diehard_Fund
       body:
         translation:
           title_html: Traduction
-        loomio_community:
-          title_html: La communauté Loomio
-    loomio_community:
-      title: La communauté Loomio
+        diehard_fund_community:
+          title_html: La communauté Diehard_Fund
+    diehard_fund_community:
+      title: La communauté Diehard_Fund
     faq:
       title: FAQ
     back_to_top: ^ Retour en haut

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pieChart', (AppConfig) ->
+angular.module('diehard_fundApp').directive 'pieChart', (AppConfig) ->
   template: '<div class="pie-chart"></div>'
   replace: true
   scope:

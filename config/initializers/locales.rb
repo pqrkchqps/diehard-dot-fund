@@ -1,3 +1,3 @@
-require 'loomio_i18n'
+require 'diehard_fund_i18n'
 
-Loomio::Application.config.i18n.fallbacks = [:en, Loomio::I18n::FALLBACKS]
+Diehard_Fund::Application.config.i18n.fallbacks = [:en, Diehard_Fund::I18n::FALLBACKS]

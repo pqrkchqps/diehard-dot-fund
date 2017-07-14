@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pieWithPosition', ->
+angular.module('diehard_fundApp').directive 'pieWithPosition', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/pie_with_position/pie_with_position.html'

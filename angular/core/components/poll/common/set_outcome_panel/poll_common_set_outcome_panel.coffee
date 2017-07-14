@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonSetOutcomePanel', (Records, ModalService, PollCommonOutcomeModal, AbilityService) ->
+angular.module('diehard_fundApp').directive 'pollCommonSetOutcomePanel', (Records, ModalService, PollCommonOutcomeModal, AbilityService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/set_outcome_panel/poll_common_set_outcome_panel.html'
   controller: ($scope) ->

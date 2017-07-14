@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'ChangeVolumeForm', ->
+angular.module('diehard_fundApp').factory 'ChangeVolumeForm', ->
   templateUrl: 'generated/components/change_volume_form/change_volume_form.html'
   controller: ($scope, model, FormService, Session, FlashService) ->
     $scope.model = model.clone()

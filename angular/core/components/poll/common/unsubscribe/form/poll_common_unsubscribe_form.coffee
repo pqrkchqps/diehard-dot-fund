@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonUnsubscribeForm', (FormService) ->
+angular.module('diehard_fundApp').directive 'pollCommonUnsubscribeForm', (FormService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/unsubscribe/form/poll_common_unsubscribe_form.html'
   controller: ($scope) ->

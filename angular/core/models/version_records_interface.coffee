@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'VersionRecordsInterface', (BaseRecordsInterface, VersionModel) ->
+angular.module('diehard_fundApp').factory 'VersionRecordsInterface', (BaseRecordsInterface, VersionModel) ->
   class VersionRecordsInterface extends BaseRecordsInterface
     model: VersionModel
 

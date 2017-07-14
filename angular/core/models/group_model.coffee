@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'GroupModel', (DraftableModel, AppConfig) ->
+angular.module('diehard_fundApp').factory 'GroupModel', (DraftableModel, AppConfig) ->
   class GroupModel extends DraftableModel
     @singular: 'group'
     @plural: 'groups'

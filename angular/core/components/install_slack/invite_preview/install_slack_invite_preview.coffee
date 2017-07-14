@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'installSlackInvitePreview', (Session, $timeout) ->
+angular.module('diehard_fundApp').directive 'installSlackInvitePreview', (Session, $timeout) ->
   templateUrl: 'generated/components/install_slack/invite_preview/install_slack_invite_preview.html'
   controller: ($scope) ->
     $timeout ->

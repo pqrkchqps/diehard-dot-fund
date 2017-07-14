@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'authSignupForm', ($translate, AppConfig, AuthService, KeyEventService) ->
+angular.module('diehard_fundApp').directive 'authSignupForm', ($translate, AppConfig, AuthService, KeyEventService) ->
   scope: {user: '='}
   templateUrl: 'generated/components/auth/signup_form/auth_signup_form.html'
   controller: ($scope) ->

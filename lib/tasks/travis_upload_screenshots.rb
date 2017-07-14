@@ -14,4 +14,4 @@ S3Uploader.upload_directory('angular/screenshots/', ENV['ARTIFACTS_BUCKET'],
     :metadata => { 'Cache-Control' => 'max-age=315576000' }
     })
 
-puts "report available at https://s3-us-east-1.amazonaws.com/loomio-travis2/#{destination_dir}/index.html"
+puts "report available at https://s3-us-east-1.amazonaws.com/diehard_fund-travis2/#{destination_dir}/index.html"

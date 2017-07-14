@@ -122,7 +122,7 @@ fa-IR:
   leave_group: ترک گروه
   confirm_leave_group: "مطمئن هستید گروه %{which_group} را ترک می کنید؟"
   deactivate_group: غیر فعال کردن گروه
-  confirm_deactivate_group: "صبر کنید! مطمئن هستید که می خواهید %{which_group} را غیر فعال کنید؟ دیگر نخواهید توانست این گروه را ببینید اما به هر حال هر زمان تمایل داشتید، می توانید با ارسال رایانامه به contact@loomio.org درخواست کنید تا گروه شما بازگردانده شود."
+  confirm_deactivate_group: "صبر کنید! مطمئن هستید که می خواهید %{which_group} را غیر فعال کنید؟ دیگر نخواهید توانست این گروه را ببینید اما به هر حال هر زمان تمایل داشتید، می توانید با ارسال رایانامه به contact@diehard_fund.org درخواست کنید تا گروه شما بازگردانده شود."
   invited_users: درعوت اعضا
   members: اعضا
   confirm_remove_user: "مطمئن هستید %{which_user} را از گروه حذف می کنید؟"
@@ -170,7 +170,7 @@ fa-IR:
   discussion_form:
     new:
       header: راه انداختن یک بحث
-  about_loomio: درباره لومیو
+  about_diehard_fund: درباره لومیو
   start_a_group: راه اندازی گروه
   common:
     email_settings: تنظیمات رایانامه

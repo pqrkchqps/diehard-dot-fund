@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'progressChart', (AppConfig) ->
+angular.module('diehard_fundApp').directive 'progressChart', (AppConfig) ->
   template: '<div class="progress-chart"></div>'
   replace: true
   scope:

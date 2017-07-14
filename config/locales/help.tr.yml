@@ -1,6 +1,6 @@
 tr:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Bir grup başlat
       invite_people_link: Kişileri davet et
       start_discussion_link: Bir müzakere başlat
@@ -68,8 +68,8 @@ tr:
           normal_title: Normal
       email_settings:
         title: E-posta ayarları
-      yesterday_on_loomio:
-        title: "Loomio'da dün"
+      yesterday_on_diehard_fund:
+        title: "Diehard_Fund'da dün"
     user_profile:
       account_deactivation:
         title: Hesabınızın devre dışı bırakılması

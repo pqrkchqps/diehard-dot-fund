@@ -1,4 +1,4 @@
-angular.module('loomioApp').config ($translateProvider) ->
+angular.module('diehard_fundApp').config ($translateProvider) ->
   $translateProvider.useUrlLoader("/api/v1/translations")
                     .useSanitizeValueStrategy('escapeParameters')
-                    .preferredLanguage(window.Loomio.currentUserLocale)
+                    .preferredLanguage(window.Diehard_Fund.currentUserLocale)

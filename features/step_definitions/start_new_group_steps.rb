@@ -67,7 +67,7 @@ Then(/^the example content should be present$/) do
   expect(@group.motions.first.name).to eq I18n.t('first_proposal.name')
 end
 
-When(/^I click 'Try Loomio' from the front page$/) do
+When(/^I click 'Try Diehard_Fund' from the front page$/) do
   visit '/'
   click_on :'try-it-main'
 end

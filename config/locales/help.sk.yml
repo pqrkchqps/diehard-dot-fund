@@ -1,6 +1,6 @@
 sk:
   new_help:
-    how_loomio_works:
+    how_diehard_fund_works:
       start_group_link: Vytvoriť skupinu
       invite_people_link: Pozvať ďalších
       start_discussion_link: Zahájiť diskusiu
@@ -56,8 +56,8 @@ sk:
     keeping_up_to_date:
       email_settings:
         title: Nastavenia emailu
-      yesterday_on_loomio:
-        title: Včera na Loomio
+      yesterday_on_diehard_fund:
+        title: Včera na Diehard_Fund
     user_profile:
       account_deactivation:
         title: Deaktivácia vášho účtu

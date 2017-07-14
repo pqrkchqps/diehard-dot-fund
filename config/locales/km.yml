@@ -26,7 +26,7 @@ km:
       no_invitations_remaining: គ្មានលិខិតអញ្ចើញនៅសល់
     mailer:
       invitation_instructions:
-        subject: 'មាននរណាម្នាក់បានអញ្ជើញឱ្យចូលរួមក្នុងក្រុមរបស់ពួកគេ Loomio '
+        subject: 'មាននរណាម្នាក់បានអញ្ជើញឱ្យចូលរួមក្នុងក្រុមរបស់ពួកគេ Diehard_Fund '
     registrations:
       sign_up: 'បង្កើតគណនី '
   error:
@@ -65,7 +65,7 @@ km:
   notice:
     admin_rights_removed: "%{which_user} សិទ្ធរបស់អ្នកសម្របសម្រួលត្រូវបានយកចេញ "
     user_added: "%{user_email_or_name}​ត្រូវបានបន្ថែមទៀតទៅក្រុម"
-    new_user_added: "%{user_email_or_name} នឹងត្រូវបានបន្ថែមទៅក្រុមនេះបន្ទាប់ពីពួកគេបានបង្កើតគណនី Loomio "
+    new_user_added: "%{user_email_or_name} នឹងត្រូវបានបន្ថែមទៅក្រុមនេះបន្ទាប់ពីពួកគេបានបង្កើតគណនី Diehard_Fund "
     member_removed: សមាជិកយកចេញ
     membership_approved: ការអនុម័ត្តសមាជិកភាព
     membership_request_canceled: សំណើសមាជិកភាពត្រូវបានលុបចោល
@@ -158,8 +158,8 @@ km:
   sign_in: ចូលក្នុង
   honeypot_warning: មិនអាចបង្កើតគណនីរបស់អ្នក​ ​ប្រសិនបើអ្នកកំពុងប្រើកម្មវិធីអានអេក្រង់មួយសូមធ្វើឱ្យប្រាកដថាចុងក្រោយ (hidden)វាលនៅលើសំណុំបែបបទគឺទទេ។
   tagline: ការបង្កើតពិភពលោកមួយគឺវាមានភាពងាយស្រួលសម្រាប់នរណាម្នាក់ ដើម្បីចូលរួមក្នុងការសម្រេចចិត្តដែលប៉ះពាល់ដល់ពួកគេ
-  or_sign_in_html: ប្រសិនបើអ្នកមានគណនី Loomio រួចទៅហើយ<a href='%{link}' class='%{link_class}'>ចូលនៅទីនេះ</a>
-  or_link_account_html: ប្រសិនបើអ្នកមានគណនី Loomio រួចទៅហើយ​<a href='%{link}'>link it up</a>
+  or_sign_in_html: ប្រសិនបើអ្នកមានគណនី Diehard_Fund រួចទៅហើយ<a href='%{link}' class='%{link_class}'>ចូលនៅទីនេះ</a>
+  or_link_account_html: ប្រសិនបើអ្នកមានគណនី Diehard_Fund រួចទៅហើយ​<a href='%{link}'>link it up</a>
   click_to_dismiss: សូមចុចទីនេះដើម្បីច្រានចោលសារនេះ
   generic_confirm: តើអ្នកប្រាកដទេ?
   discussion_helper_text:
@@ -198,7 +198,7 @@ km:
   leave_group: ចាកចេញពីក្រុម
   confirm_leave_group: 'តើអ្នកប្រាកដអ្នកមានបំណងចាកចេញទៅ %{which_group}? '
   deactivate_group: ក្រុមសកម្ម
-  confirm_deactivate_group: "ចាំ!!! តើអ្នកប្រាកដថាអ្នកចង់លុបសកម្មភាពនេះ%{which_group}?អ្នកនឹងមិនអាចទៀតទេដើម្បីមើលទៅក្រុមនោះ។ទោះជាយ៉ាងណា ប្រសិនបើអ្នកចង់ទទួលបាននូវ\nក្រុមត្រឡប់មកវិញអ្នកអាចសួរយើងឱ្យសកម្មឡើងវិញវាសម្រាប់អ្នកដោយការផ្ញើសារអេឡិចត្រូនិកទៅ \ncontact@loomio.org ។"
+  confirm_deactivate_group: "ចាំ!!! តើអ្នកប្រាកដថាអ្នកចង់លុបសកម្មភាពនេះ%{which_group}?អ្នកនឹងមិនអាចទៀតទេដើម្បីមើលទៅក្រុមនោះ។ទោះជាយ៉ាងណា ប្រសិនបើអ្នកចង់ទទួលបាននូវ\nក្រុមត្រឡប់មកវិញអ្នកអាចសួរយើងឱ្យសកម្មឡើងវិញវាសម្រាប់អ្នកដោយការផ្ញើសារអេឡិចត្រូនិកទៅ \ncontact@diehard_fund.org ។"
   invited_users: សមាជិកបានអញ្ចើញ
   members: សមាជិក
   confirm_remove_user: តើអ្នកប្រាកដថាអ្នកចង់យកចេញ%{which_user}  ពីក្រុមនេះ?
@@ -326,24 +326,24 @@ km:
       abstain: វៀរចាក​
       block: បានរារាំង
   help:
-    coordinating: សម្របសម្រួលក្រុម Loomio របស់អ្នក
+    coordinating: សម្របសម្រួលក្រុម Diehard_Fund របស់អ្នក
     coordinating_details: |
-      ក្នុងនាមជាអ្នកសម្របសម្រួលនេះ អ្នកទទួលខុសត្រូវចំពោះការបង្កើតក្រុម Loomio របស់អ្នក
+      ក្នុងនាមជាអ្នកសម្របសម្រួលនេះ អ្នកទទួលខុសត្រូវចំពោះការបង្កើតក្រុម Diehard_Fund របស់អ្នក
       និងការអញ្ចើញមនុស្សសគ្រប់គ្នានៅក្នុងក៏ដូចជាការរៀនពីរបៀបប្រើកម្មវិធីថ្មីនៃSoftware ក្រុមរបស់អ្នកនឹងត្រូវរៀនតំណើរការថ្មីសម្រាប់ការសហការគ្នាកាន់តែមានប្រសិទ្ធិភាពនិងធ្វើការសម្រេចចិត្តមួយដ៏ល្អជាមួយគ្នាខាងក្រោមនេះគឺជាគន្លឹះមួយចំនួនសម្រាប់គាំទ្រដល់ក្រុមរបស់អ្នកដើម្បី
       ជោគជ័យ:
-    different_ways: វិធីផ្សេងគ្នាក្នុងការប្រើ Loomio
+    different_ways: វិធីផ្សេងគ្នាក្នុងការប្រើ Diehard_Fund
     get_in_touch: ទទួលក្នុងការប៉ះ
     get_in_touch_description_html: ប្រសិនបើអ្នកមានសំណួរឬមតិអ្នកប្រើណាមួយ <a href='%{link}'> ទម្លាក់មួយបន្ទាត់ </a>
     getting_started: ការចាប់ផ្តើម​
     getting_started_description: នៅខាងឆ្វេង ក្រុមនេះពិភាក្សាពីប្រធានបទមួយ ការផ្លាស់ប្តូរគំនិតនិងព័ត៌មាន ពេលណាដែលមានការសម្រេចចិត្តសម្រាប់ក្រុមនេះ​ វាឡើងមកនៅខាងស្តាំ។
-    getting_the_most: ទទួលបានច្រើនបំផុតពីLoomio
+    getting_the_most: ទទួលបានច្រើនបំផុតពីDiehard_Fund
     have_your_say: ការនិយាយរបស់អ្នក
     have_a_discussion: 'មានការពិភាក្សាមួយ '
     have_a_discussion_description: ប្រធានបទនិងព័ត៌មានខាងក្រោយណាមួយដែលពាក់ព័ន្ធនៅផ្នែកខាងលើនៃទំព័រនេះ ដោយប្រើប្រអប់សេចក្តីអធិប្បាយដើម្បីបន្ថែមសំឡេងរបស់អ្នកដើម្បីការពិភាក្សានេះ។
     help: ជួយ
     how_it_works: របៀបដែលវាធ្វើការ​
     join_the_community: ចូលរួមសហគមន៍​​
-    join_the_community_description_html: 'មនុស្សគ្រប់រូបគឺជាការស្វាគមន៍ដើម្បីចូលរួម Loomio សហគមន៍ដែលជាកន្លែងដែលយើងនិយាយអំពីរបៀបដើម្បីធ្វើឱ្យបានច្រើនបំផុតនៃឧបករណ៍និងរបៀបវាអាចត្រូវបានធ្វើឱ្យប្រសើរឡើង។ <br /><br /><a href=''https://www.loomio.org/groups/3''> សូមចុចទីនេះដើម្បីចូលទៅកាន់ក្រុម Loomio សហគមន៍ </a> '
+    join_the_community_description_html: 'មនុស្សគ្រប់រូបគឺជាការស្វាគមន៍ដើម្បីចូលរួម Diehard_Fund សហគមន៍ដែលជាកន្លែងដែលយើងនិយាយអំពីរបៀបដើម្បីធ្វើឱ្យបានច្រើនបំផុតនៃឧបករណ៍និងរបៀបវាអាចត្រូវបានធ្វើឱ្យប្រសើរឡើង។ <br /><br /><a href=''https://www.diehard_fund.org/groups/3''> សូមចុចទីនេះដើម្បីចូលទៅកាន់ក្រុម Diehard_Fund សហគមន៍ </a> '
     images_and_text_formatting: រូបភាពនិងការធ្វើទ្រង់ទ្រាយអត្ថបទ
     keep_up_to_date: រក្សារហូតដល់ការបរិឆ្ឆេទ
     make_a_decision: 'ធ្វើការសម្រេចចិត្ត '
@@ -357,7 +357,7 @@ km:
     start_proposal: សរសេរសំណើរច្បាស់លាស់
     video_id: '52025402'
     video_tutorial: ឯកសារបង្រៀនវីដេអូ​
-    video_tutorial_description: មើលវីដេអូសម្រាប់ការបង្ហាញនៃរបៀបប្រើប្រាស់ Loomio
+    video_tutorial_description: មើលវីដេអូសម្រាប់ការបង្ហាញនៃរបៀបប្រើប្រាស់ Diehard_Fund
   hint:
     context: ពត៏មានជំនួយសម្រាប់ការប្រើបន្ទះបរិបទនេះ
     discussion: គន្លឹះសម្រាប់ការចាប់ផ្តើមជាមួយការពិភាក្សារដ៏គួរឲ្យចាប់ចិត្ត
@@ -372,7 +372,7 @@ km:
     submit: រួមចំណែក
     tooltip: 'រៀនអំពីការផ្តល់មូលនិធិគំរូនៃសហគមន៍របស់យើង '
     thought_about_contributing: ឱកាសរបស់អ្នកក្នុងការរួមចំណែក​
-    thank_you_title: សូមអរគុណអ្នកសម្រាប់ការរួមចំណែកដល់ការ Loomio!​​
+    thank_you_title: សូមអរគុណអ្នកសម្រាប់ការរួមចំណែកដល់ការ Diehard_Fund!​​
     making_a_donation: ការធ្វើអំណោយ
   resend_confirmation: មូលហេតុ សេចក្ដីណែនាំ ការអះអាង
   new_password: លេខសម្ងាត់ថ្មី
@@ -401,7 +401,7 @@ km:
     invitation_already_used: ការអញ្ជើញនេះត្រូវបានប្រើរួចហើយ។ សូមចូលក្នុងដើម្បីបន្តទៅក្រុមរបស់អ្នក។
     recipients: បញ្ចូលអាស័យដ្ឋានអ៊ីម៉ែលដែលបំបែកដោយសញ្ញាក្បៀស
     invitees_placeholder: 'ឈ្មោះអ្នកប្រើ  <user1@example.com>, user2@example.com '
-    subject: 'សូមចូលរួមជាមួយក្រុមថ្មីLoomioជាក្រុុមថ្មីរបស់យើង %{group} '
+    subject: 'សូមចូលរួមជាមួយក្រុមថ្មីDiehard_Fundជាក្រុុមថ្មីរបស់យើង %{group} '
     invite_people: 'អញ្ចើញមនុស្សទៅក្រុមរបស់អ្នក '
     message_body: ការអញ្ជើញសារ​
     invites_more_help2: "<p>អ្នកអាចអញ្ចើញមនុស្សទៅក្រុមរបស់អ្នកនៅពេលណាមួយ</p><p>អ្នកប្រហែលជាចង់អញ្ចើញសមាជិករបស់អ្នកទាំងអស់នៅខាងស្ដាំឆ្ងាយ​  ឬអ្នកអាចចាប់ផ្តើមដោយអញ្ចើញតែមនុស្សដែរអ្នកធ្វើការជាមួយយ៉ាងជិតស្និទ្ធ</p>"
@@ -471,14 +471,14 @@ km:
       user:
         create: 'បង្កើតគណនី '
         update: 'ការកំណត់ធ្វើឱ្យទាន់សម័យ '
-  about_loomio: អំពី Loomio
+  about_diehard_fund: អំពី Diehard_Fund
   ago: "%{quantity_of_time} កន្លងទៅ "
   approve: 'អនុម័ត '
   author: អ្នកនិពន្ធ​
   back: 'ត្រឡប់ក្រោយ '
   cancel: លុបចោល
   change: ផ្លាស់ប្ដូរ
-  change_language: ចុចទីនេះដើម្បីប្រើ Loomio នៅក្នុង%{language}
+  change_language: ចុចទីនេះដើម្បីប្រើ Diehard_Fund នៅក្នុង%{language}
   changing: 'ការផ្លាស់ប្តូរ '
   click_here: ចុចទីនេះ
   close: បិទ
@@ -509,7 +509,7 @@ km:
   password: លេខសម្ងាត់
   pricing: តម្លៃ
   prev: មុន
-  translate: ជួយបកប្រែLoomio!
+  translate: ជួយបកប្រែDiehard_Fund!
   options: 'ជម្រើស '
   ok_got_it: មិនអីទេ, បានទទួលវា!​
   remove: យក

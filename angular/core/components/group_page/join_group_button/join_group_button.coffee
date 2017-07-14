@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'joinGroupButton', ->
+angular.module('diehard_fundApp').directive 'joinGroupButton', ->
   scope: {group: '=', block: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/join_group_button/join_group_button.html'

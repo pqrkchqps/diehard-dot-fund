@@ -30,7 +30,7 @@ he:
       no_invitations_remaining: לא נותרו הזמנות
     mailer:
       invitation_instructions:
-        subject: מישהו הזמין אותך להצטרף לקבוצת הLoomio שלו
+        subject: מישהו הזמין אותך להצטרף לקבוצת הDiehard_Fund שלו
     registrations:
       sign_up: יצירת חשבון
   error:
@@ -72,7 +72,7 @@ he:
     new_contacts_imported: זה עבד! ניתן להזין שמות לשדה ואנחנו נציע כתובת דוא״ל.
     admin_rights_removed: זכויות המתאם של %{which_user} הוסרו.
     user_added: "%{user_email_or_name} כבר בקבוצה"
-    new_user_added: "%{user_email_or_name} יתווסף/תתווסף לקבוצה אחרי שהם ייצרו חשבון בLoomio."
+    new_user_added: "%{user_email_or_name} יתווסף/תתווסף לקבוצה אחרי שהם ייצרו חשבון בDiehard_Fund."
     member_removed: המתשתמש הוסר.
     membership_approved: השתייכות אושרה.
     membership_request_canceled: בקשת השתייכות בוטלה.
@@ -166,7 +166,7 @@ he:
         one: 1 שנה
         other: "%{count} שנים"
   organisation:
-    name: Loomio
+    name: Diehard_Fund
   sr:
     toggle_navigation: הסתרת/הצגת ניווט
   inbox:
@@ -203,15 +203,15 @@ he:
   find_a_group_hint: לגלות קבוצות ציבוריות
   search_for_group: חפשו קבוצה...
   no_groups_found: אין קבוצות בשם זה!
-  no_group_header: ברוכים הבאים לLoomio Beta
+  no_group_header: ברוכים הבאים לDiehard_Fund Beta
   empty_notifications: אין לך התרעות כרגע.
   see_all_notifications: צפו בכל ההתרעות
   sign_out: התנתקות
   sign_in: התחברות
   honeypot_warning: לא ניתן לייצר חשבון. עבור קוראי-מסך, יש לוודא שהשדה האחרון (הנסתר) נשאר ריק.
   tagline: יוצרים עולם בו קל לכל אחד ליטול חלק בהחלטות שמשפיעות עליו.
-  or_sign_in_html: אם כבר יש לכם חשבון בLoomio, <a href='%{link}' class='%{link_class}'>התחברו כאן</a>
-  or_link_account_html: אם כבר יש לכם חשבון בLoomio, <a href='%{link}'>קשרו אליו</a>
+  or_sign_in_html: אם כבר יש לכם חשבון בDiehard_Fund, <a href='%{link}' class='%{link_class}'>התחברו כאן</a>
+  or_link_account_html: אם כבר יש לכם חשבון בDiehard_Fund, <a href='%{link}'>קשרו אליו</a>
   click_to_dismiss: לחצו כאן לביטול ההודעה
   generic_confirm: בטוחים?
   discussion_helper_text:
@@ -244,7 +244,7 @@ he:
       info_title: מה משמעות השהיית החשבון?
       memberships: הרישום לכל הקבוצות להן אתם רשומים יבוטל.
       group_contributions: ההערות, ההצעות והשיחות שהוספת לקבוצה לא ימחקו, אבל נסיר את שמך מהם.
-      emails: נפסיק לשלוח לך דוא״ל הקשור ל Loomio.
+      emails: נפסיק לשלוח לך דוא״ל הקשור ל Diehard_Fund.
   group_form:
     name: שם הקבוצה
     description: תיאור
@@ -532,7 +532,7 @@ he:
     set_up_your_group: הגדרת קבוצה
     desc_header: כמעט סיימתם!
     payment_model:
-      header: Loomio הוא לכולם!
+      header: Diehard_Fund הוא לכולם!
   simple_form:
     'yes': כן
     'no': לא
@@ -565,7 +565,7 @@ he:
       user:
         create: יצירת חשבון
         update: עדכון הגדרות
-  about_loomio: אודות Loomio
+  about_diehard_fund: אודות Diehard_Fund
   ago: לפני %{quantity_of_time}
   approve: אישור
   author: מחבר
@@ -606,7 +606,7 @@ he:
   pricing: תמחור
   prev: קודם
   more: עוד...
-  translate: עזרו בתרגום Loomio!
+  translate: עזרו בתרגום Diehard_Fund!
   translate_field: ראו תרגום
   loading_translation: טוען תרגום...
   translate_this_string: תרגם ל%{language}

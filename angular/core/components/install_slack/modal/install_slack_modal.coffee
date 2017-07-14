@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'InstallSlackModal', ->
+angular.module('diehard_fundApp').factory 'InstallSlackModal', ->
   templateUrl: 'generated/components/install_slack/modal/install_slack_modal.html'
   controller: ($scope, preventClose) ->
 

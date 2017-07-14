@@ -16,13 +16,13 @@ describe UserService do
       #they create a spam discussion in the spam group
       DiscussionService.create(discussion: discussion_in_spam_group, actor: spam_user)
 
-      # they join an innocent group such as loomio commune
+      # they join an innocent group such as diehard_fund commune
       innocent_group.add_member! spam_user
 
-      # spam the loomio commune group with a discussion
+      # spam the diehard_fund commune group with a discussion
       DiscussionService.create(discussion: spam_discussion_in_innocent_group, actor: spam_user.reload)
 
-      # spam the loomio communie discussion with comments
+      # spam the diehard_fund communie discussion with comments
       CommentService.create(comment: spam_comment, actor: spam_user)
 
       UserService.delete_spam(spam_user)

@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'pollCommonShareGroupForm', (Session, AbilityService, PollService) ->
+angular.module('diehard_fundApp').directive 'pollCommonShareGroupForm', (Session, AbilityService, PollService) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/share/group_form/poll_common_share_group_form.html'

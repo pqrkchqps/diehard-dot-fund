@@ -18,7 +18,7 @@ describe GroupMailer do
       expect(@mail.to).to eq [@admin.email]
     end
 
-    context "requestor is an existing loomio user" do
+    context "requestor is an existing diehard_fund user" do
       it 'renders the sender email' do
         expect(@mail.from).to include BaseMailer::NOTIFICATIONS_EMAIL_ADDRESS
       end
@@ -32,6 +32,6 @@ describe GroupMailer do
       end
     end
 
-    context "requestor is not a loomio user"
+    context "requestor is not a diehard_fund user"
   end
 end

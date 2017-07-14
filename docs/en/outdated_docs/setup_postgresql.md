@@ -1,6 +1,6 @@
-This guide assumes you are setting up Loomio using Dokku-alt and want to run PostgreSQL on the same host, installed directly with the default Ubuntu packages. IE: Loomio is inside a Docker container (managed by Dokku), and it's talking to a PostgreSQL server installed on the host operating system.
+This guide assumes you are setting up Diehard_Fund using Dokku-alt and want to run PostgreSQL on the same host, installed directly with the default Ubuntu packages. IE: Diehard_Fund is inside a Docker container (managed by Dokku), and it's talking to a PostgreSQL server installed on the host operating system.
 
-You'll need to [add a `deploy` user](https://github.com/loomio/loomio/wiki/Add-a-deploy-user-to-your-host) to the VPS.
+You'll need to [add a `deploy` user](https://github.com/diehard_fund/diehard_fund/wiki/Add-a-deploy-user-to-your-host) to the VPS.
 
 Login to your VPS as your `deploy` user and run the following commands:
 
@@ -8,8 +8,8 @@ Login to your VPS as your `deploy` user and run the following commands:
 sudo apt-get install postgresql postgresql-contrib postgresql-client
 sudo -i -u postgres
 createuser -P -d deploy
-createdb loomio
-psql loomio
+createdb diehard_fund
+psql diehard_fund
 create extension hstore;
 ```
 
@@ -35,8 +35,8 @@ sudo service postgresql restart
 Back on your local machine, set the DATABASE_URL config variable and setup the database
 
 ```
-$ dokkuhost config:set loomio DATABASE_URL=postgresql://deploy:YOURPASSWORD@172.17.42.1/loomio
-$ dokkuhost run loomio rake db:setup
+$ dokkuhost config:set diehard_fund DATABASE_URL=postgresql://deploy:YOURPASSWORD@172.17.42.1/diehard_fund
+$ dokkuhost run diehard_fund rake db:setup
 
 ```
 

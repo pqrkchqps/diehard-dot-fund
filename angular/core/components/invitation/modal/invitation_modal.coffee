@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'InvitationModal', ->
+angular.module('diehard_fundApp').factory 'InvitationModal', ->
   templateUrl: 'generated/components/invitation/modal/invitation_modal.html'
   controller: ($scope, group) ->
     $scope.group = group.clone()

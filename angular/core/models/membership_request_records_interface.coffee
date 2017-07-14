@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'MembershipRequestRecordsInterface', (BaseRecordsInterface, MembershipRequestModel) ->
+angular.module('diehard_fundApp').factory 'MembershipRequestRecordsInterface', (BaseRecordsInterface, MembershipRequestModel) ->
   class MembershipRequestRecordsInterface extends BaseRecordsInterface
     model: MembershipRequestModel
 

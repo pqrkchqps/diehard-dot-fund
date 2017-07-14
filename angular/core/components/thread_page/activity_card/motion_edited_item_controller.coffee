@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'MotionEditedItemController', ($scope, Records) ->
+angular.module('diehard_fundApp').controller 'MotionEditedItemController', ($scope, Records) ->
   version = Records.versions.find($scope.event.eventable.id)
 
   $scope.closingAt =

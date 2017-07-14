@@ -1,4 +1,4 @@
-angular.module('loomioApp').directive 'threadPreview', ->
+angular.module('diehard_fundApp').directive 'threadPreview', ->
   scope: {thread: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_preview/thread_preview.html'

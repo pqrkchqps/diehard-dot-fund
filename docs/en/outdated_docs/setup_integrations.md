@@ -1,7 +1,7 @@
-# Setup Loomio integrations
+# Setup Diehard_Fund integrations
 File upload support.
 
-Loomio uses an s3 bucket to store attachements and image uploads.
+Diehard_Fund uses an s3 bucket to store attachements and image uploads.
 Create an s3 bucket and put it's name into the AWS_BUCKET config variable.
 Use IAM to generate a AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY
 
@@ -10,7 +10,7 @@ On your bucket you will need to add a CORS policy like this:
 <?xml version="1.0" encoding="UTF-8"?>
 <CORSConfiguration xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
     <CORSRule>
-        <AllowedOrigin>https://*.loomio.org</AllowedOrigin>
+        <AllowedOrigin>https://*.diehard_fund.org</AllowedOrigin>
         <AllowedMethod>POST</AllowedMethod>
         <AllowedMethod>GET</AllowedMethod>
         <MaxAgeSeconds>3000</MaxAgeSeconds>
@@ -32,7 +32,7 @@ and a bucket policy like this:
 				"AWS": "*"
 			},
 			"Action": "s3:GetObject",
-			"Resource": "arn:aws:s3:::loomio-attachments/*"
+			"Resource": "arn:aws:s3:::diehard_fund-attachments/*"
 		}
 	]
 }

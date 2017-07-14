@@ -75,7 +75,7 @@ sr_RS:
     pricing: Ценовник
     public_groups: Јавне групе
     terms: Услови
-    independent_install_html: '%{hostname} користи једну независну копију Лумија: <a href="http://github.com/loomio/loomio">сазнај више</a>.'
+    independent_install_html: '%{hostname} користи једну независну копију Лумија: <a href="http://github.com/diehard_fund/diehard_fund">сазнај више</a>.'
   start_group_form:
     enable_angular:
       header: Нове групе се покрећу у Лумио 1.0

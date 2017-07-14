@@ -1,4 +1,4 @@
-angular.module('loomioApp').controller 'RootController', ($scope, $timeout, $location, $router, $mdMedia, AuthModal, KeyEventService, MessageChannelService, IntercomService, ScrollService, Session, AppConfig, Records, ModalService, GroupModal, AbilityService, AhoyService, ViewportService, HotkeyService) ->
+angular.module('diehard_fundApp').controller 'RootController', ($scope, $timeout, $location, $router, $mdMedia, AuthModal, KeyEventService, MessageChannelService, IntercomService, ScrollService, Session, AppConfig, Records, ModalService, GroupModal, AbilityService, AhoyService, ViewportService, HotkeyService) ->
   $scope.isLoggedIn = AbilityService.isLoggedIn
   $scope.currentComponent = 'nothing yet'
 
@@ -36,7 +36,7 @@ angular.module('loomioApp').controller 'RootController', ($scope, $timeout, $loc
     $scope.forceSignIn() if AbilityService.requireLoginFor(options.page) or AppConfig.pendingIdentity?
 
   $scope.$on 'setTitle', (event, title) ->
-    document.querySelector('title').text = _.trunc(title, 300) + ' | Loomio'
+    document.querySelector('title').text = _.trunc(title, 300) + ' | Diehard_Fund'
 
   $scope.$on 'pageError', (event, error) ->
     $scope.pageError = error

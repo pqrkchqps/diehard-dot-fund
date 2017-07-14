@@ -41,7 +41,7 @@ sr:
       start_group: "Pokreni moju grupu"
       closing_message: "Ako Vam treba pomoć ili imate pitanje, samo odgovorite na ovu ePoruku."
       thanks: "Hvala,"
-      loomio_team: "Lumio Tim"
+      diehard_fund_team: "Lumio Tim"
     user_added_to_group:
       subject: "%{who} Vas je dodao/la u %{which_group} na Lumiju"
       content: "%{who} Vas je dodao/la u %{which_group}."
@@ -148,7 +148,7 @@ sr:
     pricing: Cenovnik
     public_groups: Javne grupe
     terms: Uslovi
-    independent_install_html: '%{hostname} koristi jednu nezavisnu kopiju Lumija: <a href="http://github.com/loomio/loomio">saznaj više</a>.'
+    independent_install_html: '%{hostname} koristi jednu nezavisnu kopiju Lumija: <a href="http://github.com/diehard_fund/diehard_fund">saznaj više</a>.'
   start_group_form:
     enable_angular:
       header: Nove grupe pokrenute u Lumio 1.0
@@ -166,7 +166,7 @@ sr:
     group_description_placeholder: Opiši svrhu svoje grupe tako da tvoji članovi grupe znaju zašto su ovde.
     group_name_error: Naziv grupe je neophodan
     pricing_html: Kroz 30 dana, pitaćemo te da odabereš <a href='%{link}' target='_blank'>cenovni plan</a>.
-    terms_html: Pokretanjem grupe, slažete se sa Loomio <a href='%{link}' target='_blank'>pravilima korišćenja</a>.
+    terms_html: Pokretanjem grupe, slažete se sa Diehard_Fund <a href='%{link}' target='_blank'>pravilima korišćenja</a>.
     success:
       header: Još malo pa gotovo! Proverite ePoštu.
       email_delivered: Poslata Vam je jedna ePoruka na %{email}. Molim pratite vezu u njoj da postavite svoju novu grupu.
@@ -189,11 +189,11 @@ sr:
     premium_support: premijum podrška
     custom_subdomain_html: |
       namenski poddomen,<br />
-      npr. <strong>vašagrupa</strong>.loomio.org
+      npr. <strong>vašagrupa</strong>.diehard_fund.org
     usage_statistics: statistika korišćenja
   password_reset:
     email_guidelines_html: |
-      <p>Unesite adresu ePošte za svoj Loomio nalog u polje ispod i poslaćemo Vam vezu za resetovanje lozinke.</p>
+      <p>Unesite adresu ePošte za svoj Diehard_Fund nalog u polje ispod i poslaćemo Vam vezu za resetovanje lozinke.</p>
       <p>Ako se normalno prijavljujete preko Facebook, Google, Twitter ili Persona, unesite adresu ePošte koja je povezana sa tim nalogom.</p>
     reset_email_timeframe: Molim sačekajte do 5 minuta da ePoruka stigne. Ako se ne pojavi, uverite se da ste proverili i svoj spam direktorijum.
     length_restriction: Lozinke moraju biti najmanje 8 znakova duge.
@@ -254,13 +254,13 @@ sr:
 
         Uglaste zagrade za ime, a zatim normalne za URL. Nema razmaka između zagrada.
 
-        [Lumio Početna](https://www.loomio.org/)
+        [Lumio Početna](https://www.diehard_fund.org/)
 
         Za slike važi isto pravilo, samo se koristi uzvičnik kao prefiks.
 
         ![lumio logo](https://i.imgur.com/Fvtworb.png)
   beta_banner:
-    new_loomio_html: |
+    new_diehard_fund_html: |
       <strong>Novi Lumio je brži, zgodniji i bolji!</strong> Prebacujemo sve tamo.
     upgrade_browser_html: |
       Podržavamo samo novije verzije Internet Explorer-a (10+). Moraš <a href='http://outdatedbrowser.com/en' target='_blank'>ažurirati svoj pretrazivač</a> kako bi nastavio koristiti Lumio.

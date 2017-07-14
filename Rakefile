@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Loomio::Application.load_tasks
+Diehard_Fund::Application.load_tasks

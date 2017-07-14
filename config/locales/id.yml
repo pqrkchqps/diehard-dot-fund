@@ -26,7 +26,7 @@ id:
       no_invitations_remaining: Tidak ada undangan
     mailer:
       invitation_instructions:
-        subject: Seseorang telah mengundang Anda untuk bergabung ke dalam kelompok Loomio
+        subject: Seseorang telah mengundang Anda untuk bergabung ke dalam kelompok Diehard_Fund
     registrations:
       sign_up: Buat akun
   error:
@@ -64,7 +64,7 @@ id:
   notice:
     admin_rights_removed: Hak koordinator %{which_user} telah dihapus.
     user_added: "%{user_email_or_name} telah ditambahkan ke dalam kelompok."
-    new_user_added: "%{user_email_or_name} akan ditambahkan ke dalam kelompok setelah membuat akun Loomio."
+    new_user_added: "%{user_email_or_name} akan ditambahkan ke dalam kelompok setelah membuat akun Diehard_Fund."
     member_removed: Anggota dihapus.
     membership_approved: Keanggotaan diterima.
     membership_request_canceled: Permintaan keanggotaan dibatalkan.
@@ -158,8 +158,8 @@ id:
   sign_in: Masuk log
   honeypot_warning: Tidak dapat membuat akun. Apabila Anda menggunakan pembaca layar, pastikan kolom terakhir (tersembunyi) dalam formulir dikosongkan.
   tagline: Menjadi wadah yang mempermudah setiap orang berpartisipasi dalam keputusan yang mempengaruhi mereka.
-  or_sign_in_html: Apabila Anda telah memiliki akun Loomio, <a href='%{link}' class='%{link_class}'>masuk log di sini</a>
-  or_link_account_html: Apabila Anda telah memiliki akun Loomio, <a href='%{link}'>tautkan</a>
+  or_sign_in_html: Apabila Anda telah memiliki akun Diehard_Fund, <a href='%{link}' class='%{link_class}'>masuk log di sini</a>
+  or_link_account_html: Apabila Anda telah memiliki akun Diehard_Fund, <a href='%{link}'>tautkan</a>
   click_to_dismiss: Klik di sini untuk menghilangkan pesan ini
   generic_confirm: Apakah Anda yakin?
   discussion_helper_text:
@@ -197,7 +197,7 @@ id:
   confirm_leave_hidden_group: Apakah Anda yakin untuk keluar dari %{which_group}? Anda juga akan dikeluarkan dari setiap kelompok kecil di dalam kelompok ini.
   confirm_leave_group: Apakah Anda ingin keluar dari %{which_group}?
   deactivate_group: Non-aktifkan kelompok
-  confirm_deactivate_group: Tunggu!!! Apakah Anda yakin ingin menonaktifkan %{which_group}? Anda tidak dapat memuat kelompok ini lagi. Namun, Anda dapat menghubungi kami apabila Anda ingin kelompok ini diaktifkan kembali dengan mengirimkan surel kepada contact@loomio.org.
+  confirm_deactivate_group: Tunggu!!! Apakah Anda yakin ingin menonaktifkan %{which_group}? Anda tidak dapat memuat kelompok ini lagi. Namun, Anda dapat menghubungi kami apabila Anda ingin kelompok ini diaktifkan kembali dengan mengirimkan surel kepada contact@diehard_fund.org.
   invited_users: Anggota yang diundang
   members: Anggota
   confirm_remove_user: Apakah Anda ingin menghapus %{which_user} dari kelompok ini?
@@ -249,7 +249,7 @@ id:
       body_html: |
         Kami telah mengirimkan surel dengan undangan untuk memulai kelompok Anda.
 
-        Apabila Anda tidak mendapatkannya dalam beberapa menit, hubungi kami melalui <a href='mailto:contact@loomio.org'>contact@loomio.org</a>.
+        Apabila Anda tidak mendapatkannya dalam beberapa menit, hubungi kami melalui <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
   discussion_items:
     new_discussion: membuat diskusi ini
     new_motion: membuat usulan baru
@@ -333,14 +333,14 @@ id:
       abstain: abstain
       block: diblokir
   help:
-    coordinating: Mengatur kelompok Loomio Anda
-    coordinating_details: 'Sebagai koordinator, Anda bertanggung jawab atas setelan kelompok Loomio Anda dan mengundang orang lain untuk masuk. Selain mempelajari penggunaan piranti lunak baru, kelompok Anda akan mempelajari proses baru untuk berkolaborasi lebih efektif dan membuat keputusan yang baik bersama-sama. Berikut beberapa tips agar tujuan kelompok Anda tercapai:
+    coordinating: Mengatur kelompok Diehard_Fund Anda
+    coordinating_details: 'Sebagai koordinator, Anda bertanggung jawab atas setelan kelompok Diehard_Fund Anda dan mengundang orang lain untuk masuk. Selain mempelajari penggunaan piranti lunak baru, kelompok Anda akan mempelajari proses baru untuk berkolaborasi lebih efektif dan membuat keputusan yang baik bersama-sama. Berikut beberapa tips agar tujuan kelompok Anda tercapai:
 
 '
-    different_ways: Cara lain menggunakan Loomio
+    different_ways: Cara lain menggunakan Diehard_Fund
     engaging_html: |
       <h2>Tips untuk berinteraksi dengan kelompok Anda</h2>
-      <p>Anggota kelompok akan tertarik untuk masuk dan berpartisipasi apabila ada usulan yang menarik. Usulan yang baik memiliki usulan tindakan untuk kelompok, sehingga anggota kelompok dapat dengan jelas menyetujui atau menolak. Pikirkan bagaimana Anda identifikasi diskusi/keputusan yang dilakukan kelompok secara langsung atau melalui surel dapat lebih mudah dilakukan melalui Loomio.</p>
+      <p>Anggota kelompok akan tertarik untuk masuk dan berpartisipasi apabila ada usulan yang menarik. Usulan yang baik memiliki usulan tindakan untuk kelompok, sehingga anggota kelompok dapat dengan jelas menyetujui atau menolak. Pikirkan bagaimana Anda identifikasi diskusi/keputusan yang dilakukan kelompok secara langsung atau melalui surel dapat lebih mudah dilakukan melalui Diehard_Fund.</p>
       <p>Apabila kelompok Anda baru memulai, Anda dapat membuat keputusan yang singkat, memberikan kesempatan kepada yang lain untuk mencoba alat ini dan melihat proses pengambilan keputusan.</p>
       <p>Cara mudah lainnya untuk memancing anggota untuk berinteraksi dalam diskusi adalah dengan menggunakan fitur @sebut untuk mengabari pihak tertentu; fitur ini akan mengirimkan surel yang mengabari bahwa nama mereka disebutkan di dalam komentar.</p>
     example1_html: |
@@ -356,7 +356,7 @@ id:
     get_in_touch_description_html: Apabila Anda memiliki pertanyaan atau masukan, <a href='%{link}'>silakan hubungi kami</a>.
     getting_started: Memulai
     getting_started_description: Di sebelah kiri, kelompok dapat mendiskusikan sebuah topik, bertukar pikiran dan informasi. Apabila ada keputusan yang harus diambil, keputusan akan muncul di sebelah kanan.
-    getting_the_most: Gunakan Loomio sebaik mungkin
+    getting_the_most: Gunakan Diehard_Fund sebaik mungkin
     have_your_say: Berikan pendapat Anda
     have_your_say_details_html: |
       <p>Apabila Anda ingin memberikan pendapat, klik salah satu dari empat tombol keputusan.</p>
@@ -369,15 +369,15 @@ id:
       <h2>Menulis undangan yang baik</h2>
       <p>Pertanyaan penting yang akan diajukan anggota baru adalah 'kelompok apakah ini?'</p>
       <p>Pikirkan cara singkat untuk mendeskripsikan kelompok: Apa yang ingin Anda peroleh bersama? Apa jenis keputusan yang akan diambil? Siapa saja yang akan terlibat?</p>
-      <p>Anda dapat berdiskusi dengan kelompok terlebih dulu sebelum meminta mereka bergabung ke dalam Loomio.</p>
+      <p>Anda dapat berdiskusi dengan kelompok terlebih dulu sebelum meminta mereka bergabung ke dalam Diehard_Fund.</p>
       <p>Mereka ingin tahu mengapa mereka diundang, apa yang Anda harapkan dari mereka, dan mengapa alat ini penting untuk mereka.</p>
     join_the_community: Gabung ke dalam komunitas
-    join_the_community_description_html: Semua orang dapat bergabung ke dalam Komunitas Loomio, di mana kita membicarakan penggunaan alat secara maksimal, dan bagaimana alat ini dapat dibuat lebih baik lagi.<br /><br /><a href='https://www.loomio.org/groups/3'>Klik di sini untuk masuk kelompok Komunitas Loomio</a>.
+    join_the_community_description_html: Semua orang dapat bergabung ke dalam Komunitas Diehard_Fund, di mana kita membicarakan penggunaan alat secara maksimal, dan bagaimana alat ini dapat dibuat lebih baik lagi.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Klik di sini untuk masuk kelompok Komunitas Diehard_Fund</a>.
     images_and_text_formatting: Format gambar dan teks
     images_and_text_formatting_html: |
-      <p>Loomio menggunakan ‘Penanda’ untuk memunculkan gambar dan format teks.
+      <p>Diehard_Fund menggunakan ‘Penanda’ untuk memunculkan gambar dan format teks.
       Anda dapat mengaktifkan Penanda melalui tombol kecil abu-abu di bawah kotak komentar.</p>
-      <p><a href='https://www.loomio.org/discussions/1124'>Klik di sini</a>
+      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klik di sini</a>
       untuk informasi penggunaan Penanda.</p>
     keep_up_to_date: Pantau perubahan
     keep_up_to_date_html: "<p>Klik nama kelompok Anda di atas untuk menuju ke Laman Kelompok, dan Anda dapat melihat daftar seluruh diskusi dan \nkeputusan. Apabila Anda berada di dalam lebih dari satu kelompok, Anda dapat melihat seluruh aktivitas semua kelompok pada Laman Beranda.</p>\n<p>Anda akan mendapatkan surel notifikasi saat ada hal penting yang terjadi di dalam kelompok.\nAnda dapat mengubah preferensi surel <a href=\"%{link}\"\">di sini</a>.</p>\n"
@@ -407,7 +407,7 @@ id:
       <p>Tenggat waktu sebuah usulan dapat diperpanjang kapapun, apabila dirasa perlu. Setiap anggota akan mendapatkan surel pemberitahuan 24 jam sebelum usulan ditutup.</p>
     video_id: '52025402'
     video_tutorial: Video tutorial
-    video_tutorial_description: Simak video untuk petunjuk singkat penggunaan Loomio.
+    video_tutorial_description: Simak video untuk petunjuk singkat penggunaan Diehard_Fund.
   hint:
     context: Tips menggunakan panel konteks
     discussion: Tips memulai diskusi yang menarik
@@ -423,27 +423,27 @@ id:
     tooltip: Pelajari model pendanaan komunitas kami
     thought_about_contributing: Kesempatan Anda untuk menyumbang
     thought_about_contributing_description: |
-      Loomio adalah usaha kerja sama sosial untuk mempermudah setiap orang berpartisipasi dalam keputusan yang mempengaruhi mereka.
+      Diehard_Fund adalah usaha kerja sama sosial untuk mempermudah setiap orang berpartisipasi dalam keputusan yang mempengaruhi mereka.
 
-      Uang tidak seharusnya menjadi penghalang pengambilan keputusan bersama. Loomio dibiayai oleh sumbangan dari komunitas pengguna, serta biaya langganan dari organisasi formal.
+      Uang tidak seharusnya menjadi penghalang pengambilan keputusan bersama. Diehard_Fund dibiayai oleh sumbangan dari komunitas pengguna, serta biaya langganan dari organisasi formal.
 
-      Sumbangan Anda akan membuat Loomio tetap independen, bebas iklan, dan gratis untuk kelompok mendiskusikan hal-hal yang baik untuk komunitas mereka.
+      Sumbangan Anda akan membuat Diehard_Fund tetap independen, bebas iklan, dan gratis untuk kelompok mendiskusikan hal-hal yang baik untuk komunitas mereka.
 
       Terima kasih telah membantu!
-    thank_you_title: Terima kasih telah menyumbang untuk Loomio!
+    thank_you_title: Terima kasih telah menyumbang untuk Diehard_Fund!
     thank_you_body: |
       Sumbangan Anda membantu kami mempermudah pengambilan keputusan bersama.
 
       Anda akan menerima surel dengan tanda terima sumbangan Anda.
 
-      Semua orang dapat bergabung ke dalam Komunitas Loomio, di mana kita membicarakan penggunaan alat secara maksimal, dan bagaimana alat ini dapat dibuat lebih baik lagi.
+      Semua orang dapat bergabung ke dalam Komunitas Diehard_Fund, di mana kita membicarakan penggunaan alat secara maksimal, dan bagaimana alat ini dapat dibuat lebih baik lagi.
 
-      <a href='https://www.loomio.org/groups/3'>Bawa saya ke kelompok Komunitas Loomio</a>
+      <a href='https://www.diehard_fund.org/groups/3'>Bawa saya ke kelompok Komunitas Diehard_Fund</a>
     making_a_donation: Berikan donasi
     making_a_donation_description: |
-      Loomio adalah usaha kerja sama sosial untuk mempermudah setiap orang berpartisipasi dalam keputusan yang mempengaruhi mereka.
+      Diehard_Fund adalah usaha kerja sama sosial untuk mempermudah setiap orang berpartisipasi dalam keputusan yang mempengaruhi mereka.
 
-      Sumbangan Anda akan membuat Loomio tetap independen, bebas iklan, dan gratis untuk kelompok mendiskusikan hal-hal yang baik untuk komunitas mereka.
+      Sumbangan Anda akan membuat Diehard_Fund tetap independen, bebas iklan, dan gratis untuk kelompok mendiskusikan hal-hal yang baik untuk komunitas mereka.
 
       Terima kasih telah membantu!
   resend_confirmation: Kirim kembali instruksi konfirmasi
@@ -475,10 +475,10 @@ id:
     invitation_already_used: Undangan ini telah digunakan. Masuk log untuk lanjut ke kelompok Anda.
     recipients: 'Masukkan alamat surel, dipisahkan dengan koma:'
     invitees_placeholder: Nama Pengguna <user1@example.com>, user2@example.com
-    subject: Mari bergabung ke dalam kelompok Loomio kami, %{group}
+    subject: Mari bergabung ke dalam kelompok Diehard_Fund kami, %{group}
     invite_people: Undang teman ke dalam kelompok Anda
     select_members: Tambah anggota dari %{group_name}
-    body_editable: 'Mari buat keputusan dengan kami! Kami menggunakan alat pembuat keputusan bersama yaitu Loomio.
+    body_editable: 'Mari buat keputusan dengan kami! Kami menggunakan alat pembuat keputusan bersama yaitu Diehard_Fund.
 
 '
     message_body: Pesan undangan
@@ -517,10 +517,10 @@ id:
   group_setup:
     set_up_your_group: Buat kelompok Anda
     desc_header: Anda hampir selesai!
-    desc_html: 'Sebagai koordinator, Anda bertanggung jawab atas setelan dan pengelolaan kelompok Loomio Anda. Setelah Anda memilih setelan, Anda dapat mengunjungi kelompok Anda, memulai diskusi, dan mengirim undangan! <p>Untuk mendeskripsikan kelompok Anda, pikirkan: Apa yang ingin Anda peroleh bersama? Apa jenis keputusan yang akan diambil? Siapa saja yang akan terlibat?</p>'
+    desc_html: 'Sebagai koordinator, Anda bertanggung jawab atas setelan dan pengelolaan kelompok Diehard_Fund Anda. Setelah Anda memilih setelan, Anda dapat mengunjungi kelompok Anda, memulai diskusi, dan mengirim undangan! <p>Untuk mendeskripsikan kelompok Anda, pikirkan: Apa yang ingin Anda peroleh bersama? Apa jenis keputusan yang akan diambil? Siapa saja yang akan terlibat?</p>'
     submit: Bawa ke kelompok saya!
     payment_model:
-      header: Loomio adalah untuk semuanya!
+      header: Diehard_Fund adalah untuk semuanya!
       info: Kami memiliki model pembayaran yang cocok untuk kelompok manapun, bahkan mereka yang tidak memiliki uang :)
       link: Ketahui lebih lanjut
   simple_form:
@@ -563,14 +563,14 @@ id:
       user:
         create: Buat akun
         update: Perbarui setelan
-  about_loomio: Tentang Loomio
+  about_diehard_fund: Tentang Diehard_Fund
   ago: "%{quantity_of_time} yang lalu"
   approve: Setuju
   author: Penulis
   back: Kembali
   cancel: Batal
   change: Ganti
-  change_language: Klik di sini untuk menggunakan Loomio dalam bahasa %{language}
+  change_language: Klik di sini untuk menggunakan Diehard_Fund dalam bahasa %{language}
   changing: Mengganti
   click_here: Klik di sini
   close: Tutup
@@ -602,7 +602,7 @@ id:
   pricing: Harga
   prev: Sebelumnya
   more: Selanjutnya...
-  translate: Bantu terjemahkan Loomio!
+  translate: Bantu terjemahkan Diehard_Fund!
   options: Pilihan
   ok_got_it: Oke, mengerti!
   remove: Hapus

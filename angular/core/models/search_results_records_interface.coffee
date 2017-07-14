@@ -1,4 +1,4 @@
-angular.module('loomioApp').factory 'SearchResultRecordsInterface', (BaseRecordsInterface, SearchResultModel) ->
+angular.module('diehard_fundApp').factory 'SearchResultRecordsInterface', (BaseRecordsInterface, SearchResultModel) ->
   class SearchResultRecordsInterface extends BaseRecordsInterface
     model: SearchResultModel
 
