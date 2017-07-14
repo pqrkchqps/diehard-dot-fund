@@ -405,7 +405,7 @@ There are also several other plugins which have been developed, which you can re
 
 - [Fire off webhooks when events happen](https://github.com/diehard_fund/diehard_fund_webhooks)
 - [Allow proposal creators to specify what different positions mean on their propoosal](https://github.com/gdpelican/position_specific)
-- [Code specific to diehard.fund](https://github.com/diehard_fund/diehard_fund_org_plugin)
+- [Code specific to diehard.fund](https://github.com/diehard_fund/diehard-dot-fund_org_plugin)
 - [Make a doge appear!](https://github.com/gdpelican/peking_doge)
 
 I'm hoping that this is enough to get you started on your own plugins; I'd love to hear about some of the ideas you have. Feel free to get in touch at james@diehard.fund
