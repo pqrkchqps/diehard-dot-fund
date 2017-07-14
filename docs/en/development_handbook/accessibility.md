@@ -1,8 +1,8 @@
-## We're developing Diehard_Fund to be accessible to people who are blind.
+## We're developing DiehardFund to be accessible to people who are blind.
 
-Recently we started a collaboration with [David Best](http://davidbest.ca/), whose experience as a web developer and a blind individual has been invaluable in teaching us how to make Diehard_Fund work for people how are navigating the web without vision.
+Recently we started a collaboration with [David Best](http://davidbest.ca/), whose experience as a web developer and a blind individual has been invaluable in teaching us how to make DiehardFund work for people how are navigating the web without vision.
 
-We're developing guidelines specifically for the Diehard_Fund codebase. Please note none of this has been verified yet: while it may be a useful resource for your development project, please consult with a professional if you want to guarantee accessibility.
+We're developing guidelines specifically for the DiehardFund codebase. Please note none of this has been verified yet: while it may be a useful resource for your development project, please consult with a professional if you want to guarantee accessibility.
 
 ## Guidelines
 
@@ -43,7 +43,7 @@ Where possible, we also try to exclude HTML elements that add unnecessary confus
 
 There’s some debate over the most accessibility strategy for handling headings in web apps. Ideally, every page should have a single H1, with nested H2’s, H3’s, H4’s underneath it in a logical tree structure.
 
-This is easy to do on a static document, but more complex in a web app because we want to distinguish chrome from content. We're still settling on the best solution for Diehard_Fund.
+This is easy to do on a static document, but more complex in a web app because we want to distinguish chrome from content. We're still settling on the best solution for DiehardFund.
 
 At a bare minimum standard, every page must have an H1. When a user jumps to the H1, they should know what page they are on, and be positioned at the top of the main content.
 
@@ -81,13 +81,13 @@ Modals should have a header with an h1. When a modal or popup is launched, the f
 
 The WCAG standards specify the required contrast ratio to ensure your text is legible.
 
-In Diehard_Fund there are two background colors, one for the page (we’re using a light grey #ebebeb), and one for the cards (we’re using white #fff). Our primary text color is near black (#262626), which has a really high contrast.
+In DiehardFund there are two background colors, one for the page (we’re using a light grey #ebebeb), and one for the cards (we’re using white #fff). Our primary text color is near black (#262626), which has a really high contrast.
 
 However, there are parts of the app where we want text to be de-emphasised, e.g. on a timestamp. This lower-priority text still needs to be legible, so we used the [WebAIM contrast checker](http://webaim.org/resources/contrastchecker/) to find the right colors. In the end we settled on one grey to be used on the white card background and a slightly darker grey to be used on the light grey page background.
 
 We have these colors defined in mixins.scss.
 
-![Colors used in Diehard_Fund](http://i.imgur.com/dRFmrET.png)
+![Colors used in DiehardFund](http://i.imgur.com/dRFmrET.png)
 
 ### Everything interactive should probably be a form
 ### Links + Buttons

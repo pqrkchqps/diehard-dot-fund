@@ -1,7 +1,7 @@
 !!!
 %html{locale: I18n.locale}
   %head
-    - title = @title ? @title : "Diehard_Fund | Collaborative Decision-Making"
+    - title = @title ? @title : "DiehardFund | Collaborative Decision-Making"
     %meta{content: "width=device-width, initial-scale=1", name: "viewport"}/
     %meta{content: "IE=Edge", "http-equiv" => "X-UA-Compatible"}/
     %title= title
@@ -17,7 +17,7 @@
       .navbar-inner
         .navbar-container
           .pull-left
-            = link_to " ", root_path, class: 'pages-nav-logo', title: 'Go to Diehard_Fund home page'
+            = link_to " ", root_path, class: 'pages-nav-logo', title: 'Go to DiehardFund home page'
           .pull-right
             = link_to t(:"frontpage.link.log_in"), new_user_session_path, class: 'btn btn-orange' if show_login_button?
           .clearfix

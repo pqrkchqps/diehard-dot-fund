@@ -39,7 +39,7 @@ eo:
       loading: 'Ŝargiĝas'
       uploading: 'Alŝutiĝas'
     formatting_help:
-      title: 'Lerni kiel uzi Markdown por formatigi vian tekston en Diehard_Fund'
+      title: 'Lerni kiel uzi Markdown por formatigi vian tekston en DiehardFund'
   error_page:
     forbidden: 'Vi ne havas permeson fari ĉi tion'
   proposal_outcome_panel:
@@ -156,13 +156,13 @@ eo:
     email_label: 'Via retpoŝtadreso'
     message_label: 'Via mesaĝo'
   help_page:
-    coordinating: 'Kunordigante vian Diehard_Fund-grupon'
+    coordinating: 'Kunordigante vian DiehardFund-grupon'
     coordinating_details: |
-      Kiel kunordiganto vi respondecas pri konfigurado de via Diehard_Fund-grupo kaj invito
+      Kiel kunordiganto vi respondecas pri konfigurado de via DiehardFund-grupo kaj invito
       de ĉiuj al ĝi. Kune kun la lernado de nova programo, via grupo ankaŭ lernos novajn
       procesojn por kunlabori pli efike kaj fari bonajn decidojn kune. Jen kelkaj konsiloj
       por helpi vian grupon sukcesi:
-    different_ways: 'Malsamaj manieroj por uzi Diehard_Fundn'
+    different_ways: 'Malsamaj manieroj por uzi DiehardFundn'
     example1_html: |
       <h3>Vi bezonas ke la grupo diskutu larĝan temon kaj kune pripensu solvon</h3>
       <p>Strategio: diskutu temon dum iom da tempo antaŭ ol krei proponon.</p>
@@ -172,7 +172,7 @@ eo:
     get_in_touch_description_html: "Se vi havas ajnajn demandojn aŭ retrokuplon, <a href='%{link}'>kontaktu nin</a>"
     getting_started: "Ekkomenci"
     getting_started_description: "Maldekstre, la grupo diskutas pri temo, interŝanĝas ideojn kaj informojn. Kiam la grupo devos decidi pri io, aperos dekstre."
-    getting_the_most: 'Fari kiel eble plej per Diehard_Fund'
+    getting_the_most: 'Fari kiel eble plej per DiehardFund'
     have_your_say: "Donu vian opinion"
     have_your_say_details_html: |
       <p>Se vi pretas por montri vian opinion, alklaku unu el la kvar decidbutonojn.</p>
@@ -186,13 +186,13 @@ eo:
       <h2>Verki bonegan inviton</h2>
       <p>La unua demando kiun ĉiu nova membro al si faros estas 'por kio uziĝas ĉi tiu grupo?'</p>
       <p>Pensu pri la plej simpla maniero priskribi la grupon: Kion vi volas kune atingi? Kiajn decidojn vi faros? Kiuj envolviĝos?</p>
-      <p>Povas esti bona ideo unue paroli al via grupo antaŭ ol inviti ilin aliĝi al Diehard_Fund.</p>
+      <p>Povas esti bona ideo unue paroli al via grupo antaŭ ol inviti ilin aliĝi al DiehardFund.</p>
       <p>Oni volas scii kial ili estis invititaj, kion oni atendas de ili, kaj kial indas ilia tempo por lerni
       kiel uzi la novan ilon.</p>
     join_the_community: "Aliĝi al la komunumo"
     images_and_text_formatting: "Bildoj kaj teksta formatado"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund uzas 'Markdown' por bildenmetado kaj tekstformatado.
+      <p>DiehardFund uzas 'Markdown' por bildenmetado kaj tekstformatado.
       Vi povas enŝalti Markdown per la malgranda griza emblemo sub la komentkesto.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Klaku ĉi tie</a>
       por informiĝi kiel uzi Markdown.</p>
@@ -224,7 +224,7 @@ eo:
       por la decido. Ĉiuj ricevos retpoŝtan sciigon 24 horojn antaŭ la fino de la propono.</p>
     video_id: "52025402"
     video_tutorial: "Video-klarigo"
-    video_tutorial_description: "Vidu la filmeton por rapida elmontro kiel uzi Diehard_Fundn."
+    video_tutorial_description: "Vidu la filmeton por rapida elmontro kiel uzi DiehardFundn."
   hint:
     context: 'Konsiloj por uzo de la kunteksto-panelo'
     discussion: 'Konsiloj por komenci engaĝigan diskuton'

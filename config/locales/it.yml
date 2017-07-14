@@ -30,7 +30,7 @@ it:
       no_invitations_remaining: Hai finito gli inviti
     mailer:
       invitation_instructions:
-        subject: Qualcuno ti ha invitato a far parte del suo gruppo di Diehard_Fund.
+        subject: Qualcuno ti ha invitato a far parte del suo gruppo di DiehardFund.
     registrations:
       sign_up: Crea account
   error:
@@ -70,7 +70,7 @@ it:
     new_contacts_imported: Funziona! Puoi digitare i nomi nel campo sottostante e noi suggeriremo gli indirizzi email.
     admin_rights_removed: I permessi di coordinatore di %{which_user} sono stati rimossi.
     user_added: "%{user_email_or_name} è stato aggiunto al gruppo."
-    new_user_added: "%{user_email_or_name} sarà aggiunto al gruppo appena avrà creato il suo account Diehard_Fund."
+    new_user_added: "%{user_email_or_name} sarà aggiunto al gruppo appena avrà creato il suo account DiehardFund."
     member_removed: Membro rimosso.
     membership_approved: Iscrizione approvata.
     membership_request_canceled: Richiesta di iscrizione cancellata.
@@ -166,7 +166,7 @@ it:
         one: 1 anno
         other: "%{count} anni"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Navigazione a menù
   inbox:
@@ -203,15 +203,15 @@ it:
   find_a_group_hint: Esplorare gruppi pubblici
   search_for_group: Cerca un gruppo...
   no_groups_found: Non è stato trovato alcun gruppo con questo nome!
-  no_group_header: Benvenuto su Diehard_Fund Beta
+  no_group_header: Benvenuto su DiehardFund Beta
   empty_notifications: Non hai ancora notifiche.
   see_all_notifications: Guarda tutte le notifiche
   sign_out: Esci
   sign_in: Accedi
   honeypot_warning: Non siamo riusciti a creare il tuo account. Se stai usando uno "screen reader", per favore assicurati che l'ultimo campo (nascosto) sia vuoto.
   tagline: Creare un mondo in cui chiunque possa prendere facilmente parte a decisioni che lo riguardano.
-  or_sign_in_html: Se hai già un account Diehard_Fund <a href='%{link}' class='%{link_class}'>accedi qui</a>
-  or_link_account_html: Se hai già un account Diehard_Fund, <a href='%{link}'>collegalo</a>
+  or_sign_in_html: Se hai già un account DiehardFund <a href='%{link}' class='%{link_class}'>accedi qui</a>
+  or_link_account_html: Se hai già un account DiehardFund, <a href='%{link}'>collegalo</a>
   click_to_dismiss: Clicca qui per ignorare questo messaggio
   generic_confirm: Sei sicuro?
   discussion_helper_text:
@@ -244,7 +244,7 @@ it:
       info_title: Cosa comporterà la disattivazione del tuo account?
       memberships: Non sarai più elencato tra i membri dei gruppi a cui attualmente appartieni.
       group_contributions: I commenti, le proposte e le discussioni che hai creato nei gruppi rimarranno, ma rimuoveremo il tuo nome da questi elementi.
-      emails: Smetteremo di mandarti mail riguardo Diehard_Fund.
+      emails: Smetteremo di mandarti mail riguardo DiehardFund.
   group_form:
     name: Nome gruppo
     description: Descrizione
@@ -554,20 +554,20 @@ it:
     comment_changes: Cambiamenti ai commenti
     edit_comment: Modifica commento
   help:
-    coordinating: Coordinazione del tuo gruppo Diehard_Fund
+    coordinating: Coordinazione del tuo gruppo DiehardFund
     coordinating_details: |
-      In quanto coordinatore sei responsabile della costruzione tuo gruppo Diehard_Fund e degli inviti
+      In quanto coordinatore sei responsabile della costruzione tuo gruppo DiehardFund e degli inviti
       al gruppo. Oltre a imparare a utilizzare un nuovo software, il tuo gruppo
       imparerà nuovi processi per una collaborazione più efficace e farà migliori decisioni
       collettive. Ecco alcuni consigli su come guidare il tuo gruppo verso il successo:
-    different_ways: Diversi modi di utilizzare Diehard_Fund
+    different_ways: Diversi modi di utilizzare DiehardFund
     engaging_html: |
       <h2>Consigli per coinvolgere il tuo gruppo</h2>
       <p>Le persone saranno felici di buttarsi nell'attività del gruppo e di cominciare a partecipare se c'è una proposta
       interessante da discutere. Una buona proposta comprende un piano d'azione per il gruppo, di modo che
       sia immediatamente chiaro cosa significhi essere d'accordo o meno. Pensa a come puoi identificare
       discussioni/decisioni che il gruppo attualmente sta prendendo dal vivo o via email e che potrebbe
-      essere facilitate dall'uso di Diehard_Fund.</p>
+      essere facilitate dall'uso di DiehardFund.</p>
       <p>Se il tuo gruppo ha appena cominciato, potresti partire da una decisione scherzosa, per dare
       a tutti un'opportunità di giocare con il tool e vedere il processo di decision-making in azione.</p>
       <p> Un altro modo per incoraggiare con semplicità le persone a partecipare a una discussione è utilizzare
@@ -589,7 +589,7 @@ it:
     get_in_touch_description_html: Se hai qualsiasi domanda o feedback, <a href='%{link}'>scrivici due righe</a>.
     getting_started: Per cominciare
     getting_started_description: Sulla sinistra, il gruppo discute un argomento, scambiandosi idee e informazioni. Quando il gruppo deve prendere una decisione, questa viene visualizzata sulla destra.
-    getting_the_most: Ottenere il massimo da Diehard_Fund
+    getting_the_most: Ottenere il massimo da DiehardFund
     have_your_say: Dite la vostra
     have_your_say_details_html: |
       <p>Quando sei pronto a dire la tua, clicca su uno dei quattro bottoni di decisione.</p>
@@ -605,14 +605,14 @@ it:
       <h2>Scrivere un ottimo invito</h2>
       <p>La prima domanda che ogni nuovo membro del gruppo si farà è ‘a cosa serve questo gruppo?’</p>
       <p>Pensa al modo più semplice in cui puoi descrivere il tuo gruppo: Cosa volete fare assieme? Che tipo di decisioni prenderete? Chi sarà coinvolto?</p>
-      <p>Può essere una buona idea parlare al gruppo prima di invitarli a Diehard_Fund</p>
+      <p>Può essere una buona idea parlare al gruppo prima di invitarli a DiehardFund</p>
       <p>Le persone vorranno sapere perché sono state invitate, che cosa dovrebbero fare,
       e perché dovrebbero spendere del tempo a imparare a usare un nuovo tool.</p>
     join_the_community: Unisciti alla community
-    join_the_community_description_html: Chiunque è benvenuto nella Community di Diehard_Fund, nella quale parliamo di come utilizzare al meglio il tool e di come il tool può essere migliorato.<br /><br /><a href='https://www.diehard.fund/groups/3'>Clicca qui per andare al gruppo della Community di Diehard_Fund</a>.
+    join_the_community_description_html: Chiunque è benvenuto nella Community di DiehardFund, nella quale parliamo di come utilizzare al meglio il tool e di come il tool può essere migliorato.<br /><br /><a href='https://www.diehard.fund/groups/3'>Clicca qui per andare al gruppo della Community di DiehardFund</a>.
     images_and_text_formatting: Formattazione immagini e testo
     images_and_text_formatting_html: |
-      <p>Diehard_Fund usa ‘Markdown’ per l'embed di immagini e la formattazione del testo.
+      <p>DiehardFund usa ‘Markdown’ per l'embed di immagini e la formattazione del testo.
       Puoi attivare o disattivare il Markdown cliccando sulla piccola icona grigia sotto il box per i commenti</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Clicca qui</a>
       per informazioni su come usare Markdown.</p>
@@ -648,8 +648,8 @@ it:
       Ognuno riceverà una email di notifica 24 ore prima che la proposta sia chiusa.</p>
     video_id: '52025402'
     video_tutorial: Tutorial video
-    video_tutorial_description: Guarda il video per una dimostrazione veloce di come funziona Diehard_Fund.
-    what_is_diehard_fund: Cos'è Diehard_Fund?
+    video_tutorial_description: Guarda il video per una dimostrazione veloce di come funziona DiehardFund.
+    what_is_diehard_fund: Cos'è DiehardFund?
   hint:
     context: Consigli per utilizzare il pannello contestuale
     discussion: Consigli per iniziare una discussione coinvolgente
@@ -665,24 +665,24 @@ it:
     tooltip: Conosci il nostro modello per il finanziamento della comunità
     thought_about_contributing: La tua occasione per contribuire
     thought_about_contributing_description: |
-      Diehard_Fund é una cooperativa sociale che lavora per rendere facile a chinque la partecipazione riguardo le decisioni da prendere.
+      DiehardFund é una cooperativa sociale che lavora per rendere facile a chinque la partecipazione riguardo le decisioni da prendere.
 
-      Il denaro non deve essere una barriera al metodo collaborativo di prendere decisioni. Diehard_Fund é fondato con i contributi della nostra comunità di utenti, e le sottoscrizioni pagate dalle organizzazioni formali che lo usano.
+      Il denaro non deve essere una barriera al metodo collaborativo di prendere decisioni. DiehardFund é fondato con i contributi della nostra comunità di utenti, e le sottoscrizioni pagate dalle organizzazioni formali che lo usano.
 
-      Il Vostro contributo fa sì che Diehard_Fund sia indipendente, senza pubblicità, e disponibile liberamente per i gruppi che fanno ottime cose nelle loro comunità.
+      Il Vostro contributo fa sì che DiehardFund sia indipendente, senza pubblicità, e disponibile liberamente per i gruppi che fanno ottime cose nelle loro comunità.
 
       Grazie per rendere possibile questo!
-    thank_you_title: Grazie per aver contribuito a Diehard_Fund!
+    thank_you_title: Grazie per aver contribuito a DiehardFund!
     thank_you_body: |
       Il tuo contributo ci aiuta a consegnare al mondo uno strumento decisionale collaborativo.
 
       Riceverai un'email a breve con una ricevuta per il tuo contributo.
 
-      Ognuno é benvenuto ad unirsi alla Comunità di Diehard_Fund, dove discutiamo su come realizzare questo strumento, e come può essere migliorato.
+      Ognuno é benvenuto ad unirsi alla Comunità di DiehardFund, dove discutiamo su come realizzare questo strumento, e come può essere migliorato.
 
-      <a href='https://www.diehard.fund/groups/3'>Portami al gruppo della Comunità di Diehard_Fund &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Portami al gruppo della Comunità di DiehardFund &raquo;</a>
     making_a_donation: Fare una donazione
-    making_a_donation_description: "Diehard_Fund è una società cooperativa sociale che lavora per rendere più facile per chiunque di partecipare alle decisioni che li riguardano.\n\nIl tuo contributo ci permetterà di mantenere Diehard_Fund indipendente, privo di pubblicità, e liberamente a disposizione di gruppi che fanno grandi cose nelle loro comunità. \n\nGrazie per aver reso possibile tutto questo! \n"
+    making_a_donation_description: "DiehardFund è una società cooperativa sociale che lavora per rendere più facile per chiunque di partecipare alle decisioni che li riguardano.\n\nIl tuo contributo ci permetterà di mantenere DiehardFund indipendente, privo di pubblicità, e liberamente a disposizione di gruppi che fanno grandi cose nelle loro comunità. \n\nGrazie per aver reso possibile tutto questo! \n"
   resend_confirmation: Rimanda le istruzioni per la conferma
   new_password: Nuova password
   confirm_new_password: Conferma la nuova password
@@ -705,15 +705,15 @@ it:
   link_it_up_instead: crea un link, invece
   sign_up_via: Accedi tramite
   or_fill_in_this_form: o compila questo modulo
-  already_have_account: Hai già un account Diehard_Fund?
+  already_have_account: Hai già un account DiehardFund?
   confirm_your_details: Conferma i tuoi dettagli
   link_up_your_account: Crea un link con il tuo account
-  log_in_to_your_diehard_fund_account: Esegui il log-in al tuo account Diehard_Fund con %{provider_name}.
-  now_that_your_logged_in: Ora che che sei collegato con %{provider_name}, per favore conferma i tuoi dettagli per creare un account Diehard_Fund.
+  log_in_to_your_diehard_fund_account: Esegui il log-in al tuo account DiehardFund con %{provider_name}.
+  now_that_your_logged_in: Ora che che sei collegato con %{provider_name}, per favore conferma i tuoi dettagli per creare un account DiehardFund.
   confirmation_not_received: Non hai ricevuto le istruzioni per la conferma?
   unlock_not_received: Non hai ricevuto le istruzioni per lo sblocco?
   inactive_html: Questo account è stato disattivato. Se hai domande <a href='%{path_to_contact}'>contattaci</a>.
-  create_an_account_html: Crea un Beta Diehard_Fund account
+  create_an_account_html: Crea un Beta DiehardFund account
   log_in: Log-in
   join_group:
     log_in: Effettua il log-in per unirti a %{group_name}
@@ -730,12 +730,12 @@ it:
     invitation_already_used: Questo invito è già stato usato. Accedi per andare al tuo gruppo.
     recipients: 'Inserire indirizzi email, separati con virgole:'
     invitees_placeholder: Nome utente <utente1@esempio.it>, utente2@esempio.it
-    subject: Unisciti al nostro nuovo gruppo Diehard_Fund, %{group}
+    subject: Unisciti al nostro nuovo gruppo DiehardFund, %{group}
     invite_people: Invita qualcuno al tuo gruppo
     invite_to_discussion: Invita persone a questa discussione
     invite_to_discussion_info: Aggiungendo persone a questa discussione, verranno mandati inviti al tuo gruppo. quando loro accetteranno, saranno diretti a questa discussione.
     select_members: Aggiungi membri da %{group_name}
-    body_editable: 'Hey ciao, vieni a prendere delle decisioni con noi! Stiamo usando un tool per il decision-making collaborativo che si chiama Diehard_Fund.
+    body_editable: 'Hey ciao, vieni a prendere delle decisioni con noi! Stiamo usando un tool per il decision-making collaborativo che si chiama DiehardFund.
 
 '
     body_editable_discussion: 'Ciao! unisciti alla discussione
@@ -800,10 +800,10 @@ it:
   group_setup:
     set_up_your_group: Imposta il tuo gruppo
     desc_header: Ci siamo quasi!
-    desc_html: 'Come coordinatore del gruppo, tu sei responsabile per le impostazioni e la gestione del tuo gruppo su Diehard_Fund. dopo aver scelto alcune impostazioni, puoi entrare nel tuo nuovo gruppo, iniziare una o due discussioni, e mandare qualche invito! <p>Quando pensi al modo più semplice per descrivere il tuo gruppo, domandati: Cosa vogliamo ottenere insieme? Che tipo di decisione vorremmo prendere? Chi sarà coinvolto?</p>'
+    desc_html: 'Come coordinatore del gruppo, tu sei responsabile per le impostazioni e la gestione del tuo gruppo su DiehardFund. dopo aver scelto alcune impostazioni, puoi entrare nel tuo nuovo gruppo, iniziare una o due discussioni, e mandare qualche invito! <p>Quando pensi al modo più semplice per descrivere il tuo gruppo, domandati: Cosa vogliamo ottenere insieme? Che tipo di decisione vorremmo prendere? Chi sarà coinvolto?</p>'
     submit: Portami al mio gruppo!
     payment_model:
-      header: Diehard_Fund é per tutti!
+      header: DiehardFund é per tutti!
       info: abbiamo un metodo di pagamento che soddisfa ogni gruppo, perfino quelli senza soldi ;)
       link: Cerca altro
   simple_form:
@@ -848,16 +848,16 @@ it:
         create: Crea un account
         update: Aggiorna impostazioni
   meta_tags:
-    default_title: Diehard_Fund | Decision-Making Collaborativo
-    default_description: Diehard_Fund è uno strumento online semplice da usare per facilitare il decision-making di gruppo. Consente a gruppi sparsi di prendere decisioni velocemente e agire in maniera costruttiva.
-  about_diehard_fund: Informazioni su Diehard_Fund
+    default_title: DiehardFund | Decision-Making Collaborativo
+    default_description: DiehardFund è uno strumento online semplice da usare per facilitare il decision-making di gruppo. Consente a gruppi sparsi di prendere decisioni velocemente e agire in maniera costruttiva.
+  about_diehard_fund: Informazioni su DiehardFund
   ago: "%{quantity_of_time} fa"
   approve: Approva
   author: Autore
   back: Indietro
   cancel: Annulla
   change: Cambia
-  change_language: Clicca qui per usar Diehard_Fund in %{language}
+  change_language: Clicca qui per usar DiehardFund in %{language}
   changing: Cambiamento
   click_here: Clicca qui
   close: Chiudi
@@ -891,7 +891,7 @@ it:
   pricing: Prezzo
   prev: Prec
   more: Altro...
-  translate: Aiuta tradurre Diehard_Fund
+  translate: Aiuta tradurre DiehardFund
   translate_field: Mostra traduzioni
   loading_translation: Traduzione in caricamento...
   translate_this_string: Traduci in %{language}

@@ -44,7 +44,7 @@ ro:
       no_invitations_remaining: Nici o invitatie disponibila.
     mailer:
       invitation_instructions:
-        subject: Cineva te-a invitat sa te alaturi grupului sau Diehard_Fund
+        subject: Cineva te-a invitat sa te alaturi grupului sau DiehardFund
     registrations:
       sign_up: Creeaza cont
   error:
@@ -88,7 +88,7 @@ ro:
     new_contacts_imported: A functionat! Poti introduce un nume in campul de mai jos, iti sugeram adresa de email.
     admin_rights_removed: "%{which_user} - drepturile de administrare au fost retrase."
     user_added: "%{user_email_or_name} a fost adaugat grupului."
-    new_user_added: "%{user_email_or_name}  va fi adaugat grupului dupa ce isi seteaza un cont pe Diehard_Fund."
+    new_user_added: "%{user_email_or_name}  va fi adaugat grupului dupa ce isi seteaza un cont pe DiehardFund."
     member_removed: Membru eliminat.
     membership_approved: Cererea de intrare in grup aprobata.
     membership_request_canceled: Cerere de intrare in grup anulata.
@@ -199,7 +199,7 @@ ro:
         few: "%{count} ani"
         other: "%{count} ani"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Buton de comutare
   inbox:
@@ -240,15 +240,15 @@ ro:
   find_a_group_hint: Pentru a explora grupurile publice
   search_for_group: Cauta un grup...
   no_groups_found: Nu s-a gasit nici un grup dupa acest nume!
-  no_group_header: Bine ai venit la Diehard_Fund Beta
+  no_group_header: Bine ai venit la DiehardFund Beta
   empty_notifications: Nu ai inca nici o notificare.
   see_all_notifications: Vezi toate notificarile
   sign_out: Iesire
   sign_in: Autentificare
   honeypot_warning: Nu se poate crea contul. Daca utilizezi un screen reader, te rog sa te asiguri ca ultimul camp (ascuns) de pe formular este gol.
   tagline: Creand o lume in care este posibil pentru toti sa participe in deciziile care-i afecteaza.
-  or_sign_in_html: Daca ai deja un cont Diehard_Fund, <a href='%{link}' class='%{link_class}'>autentifica-te aici</a>
-  or_link_account_html: Daca ai deja un cont Diehard_Fund, <a href='%{link}'>interconectează-l</a>
+  or_sign_in_html: Daca ai deja un cont DiehardFund, <a href='%{link}' class='%{link_class}'>autentifica-te aici</a>
+  or_link_account_html: Daca ai deja un cont DiehardFund, <a href='%{link}'>interconectează-l</a>
   click_to_dismiss: Click aici pentru a ascunde acest mesaj
   generic_confirm: Esti sigur?
   discussion_helper_text:
@@ -281,7 +281,7 @@ ro:
       info_title: Ce urmari are dezactivarea contului?
       memberships: Nu vei mai fi listat in niciunul dintre grupurile la care apartii acum.
       group_contributions: Comentariile, propunerile si discutiile pe care le-ai facut in grupuri vor ramane dar numele tau va fi retras.
-      emails: Vom inceta sa-ti trimitem informari Diehard_Fund prin email.
+      emails: Vom inceta sa-ti trimitem informari DiehardFund prin email.
   group_form:
     name: Numele grupului
     description: Descrierea
@@ -456,7 +456,7 @@ ro:
     request_declined: Cerere de intrare in retea refuzata.
   group_request:
     header: Creaza un grup
-    desc: Formeaza un grup pentru a initia decizii in comunitatea ta Diehard_Fund.
+    desc: Formeaza un grup pentru a initia decizii in comunitatea ta DiehardFund.
     commercial_use_option: intr-o companie, organizatie sau loc de munca
     non_commercial_use_option: intr0o comunitate dau retea informala
     please_select_an_option: Selectati o optiune
@@ -613,14 +613,14 @@ ro:
     comment_changes: Schimbarea comentariului
     edit_comment: Editeaza comentariul
   help:
-    coordinating: Coordonarea grupului tau Diehard_Fund
+    coordinating: Coordonarea grupului tau DiehardFund
     coordinating_details: |
-      Ca coordonator, esti responsabil cu formarea grupului tau pe Diehard_Fund si invitarea
+      Ca coordonator, esti responsabil cu formarea grupului tau pe DiehardFund si invitarea
       celorlalti in el. In paralel cu invatarea acestui program grupul tau
       va invata noi procedee de colaborare efectiva si de adoptare a deciziilor.
       Aici sunt cateva sfaturi  care vor ajuta grupul tau sa reuseasca:
-    different_ways: Modalitati diferite de a folosi Diehard_Fund
-    engaging_html: "<h2>Sfaturi pentru implicarea grupului tau</h2>\n<p>Oamenii vor fi incantati sa se alature si sa  sa participe cand apare o propunere\ninteresanta pe masa. O propunere buna contine un plan de actiune pentru grup, incat \neste evident imediat ce inseamna sa fii de acord sau nu. Gandeste-te cum poti sa identifici\ndiscutii/decizii pe care grupul le ia in acest moment prin discutii fata in fata sau pe email\nsi care ar fi mai usor de luat pe Diehard_Fund.</p>\n<p>Daca grupul tau este in formare, poti sa incepi cu o decizie usoara pentru a da sansa tuturor\nsa se joaca cu instrumentul si sa observe procesul de luare a deciziilor in actiune.</p>\n<p>O alta metoda simpla sa incurajezi oamenii intr-o discutie este sa folosesti functia @mentiune\npentru a notifica oameni; aceasta le va trimite un email spunandu-le ca au fost mentionati intr-un comentariu.</p>\n"
+    different_ways: Modalitati diferite de a folosi DiehardFund
+    engaging_html: "<h2>Sfaturi pentru implicarea grupului tau</h2>\n<p>Oamenii vor fi incantati sa se alature si sa  sa participe cand apare o propunere\ninteresanta pe masa. O propunere buna contine un plan de actiune pentru grup, incat \neste evident imediat ce inseamna sa fii de acord sau nu. Gandeste-te cum poti sa identifici\ndiscutii/decizii pe care grupul le ia in acest moment prin discutii fata in fata sau pe email\nsi care ar fi mai usor de luat pe DiehardFund.</p>\n<p>Daca grupul tau este in formare, poti sa incepi cu o decizie usoara pentru a da sansa tuturor\nsa se joaca cu instrumentul si sa observe procesul de luare a deciziilor in actiune.</p>\n<p>O alta metoda simpla sa incurajezi oamenii intr-o discutie este sa folosesti functia @mentiune\npentru a notifica oameni; aceasta le va trimite un email spunandu-le ca au fost mentionati intr-un comentariu.</p>\n"
     example1_html: "<h3>Ai nevoie ca grupul sa discute o tema mai larga si sa ajunga la o solutie comuna</h3>\n<p>Strategie: discuta o tema pentru un timp inainte sa lansezi o propunere.</p>\n<p>Discutiile adesea ajung la cel mai bun rezultat daca dezvolta o intelegere comuna despre\nproblema inainte de a sari la o anumita solutie. Cand oamenii ajung sa participe in acest proces, \neste mai probabil ca vor fi de acord cu rezultatul lui.</p>\n"
     example2_html: |
       <h3>Ai deja o propunere in minte, si vrei sa obtii acordul grupului pentru a merge mai departe.</h3>
@@ -632,19 +632,19 @@ ro:
     get_in_touch_description_html: Daca ai intrebari sau feedback, <a href='%{link}'>trimite-ne un mesaj</a>.
     getting_started: Pregatit pentru a incepe
     getting_started_description: In partea stanga, grupul discuta o tema, schimband idei si informatii. Cand exista o decizie luata de grup, ea apare in partea dreapta.
-    getting_the_most: Obtine cat mai mult din folosirea Diehard_Fund
+    getting_the_most: Obtine cat mai mult din folosirea DiehardFund
     have_your_say: Sa ai ceva de spus
     have_your_say_details_html: "<p>Cand esti pregatit sa-ti spui parerea, apasa pe unul dintre cele patru butoane de decizie.</p>\n<p>Cand iti exprimi parerea, introdu o scurta explicatie. Sub graficul Pie, poti sa vezi ce cred ceilalti. \nAceasta face rapida si usoara intelegerea discutiei. Cand apar noi informatii, poti sa-ti schimbi in orice moment pozitia.</p>\n"
     have_a_discussion: Poarta o discutie
     have_a_discussion_description: Tema si informatiile relevante sunt in partea de sus a paginii. Foloseste casuta de comentarii pentru a-ti face auzita vocea in discutie.
     help: Ajutor
     how_it_works: Cum functioneaza
-    invitation_html: "<h2>Cum sa scrii o invitatie eficienta</h2>\n<p>Prima intrebare pe care fiecare nou membru o va avea este 'pentru ce este creat acest grup?'</p>\n<p>Gandeste-te la cea mai simpla descriere a grupului: Ce vrei sa obtineti impreuna?\n Ce tipuri de decizii veti lua? Cine va fi implicat?</p><p>Poate fi o idee buna sa vorbesti cu grupul tau \ninainte de ai invita pe Diehard_Fund</p>\n<p> Oamenii vor voi sa stie de ce au fost invitati si ce se asteapta de la ei si de ce merita sa-si investeasca\ntimpul in a invata cum sa foloseasca un nou instrument.</p>\n"
+    invitation_html: "<h2>Cum sa scrii o invitatie eficienta</h2>\n<p>Prima intrebare pe care fiecare nou membru o va avea este 'pentru ce este creat acest grup?'</p>\n<p>Gandeste-te la cea mai simpla descriere a grupului: Ce vrei sa obtineti impreuna?\n Ce tipuri de decizii veti lua? Cine va fi implicat?</p><p>Poate fi o idee buna sa vorbesti cu grupul tau \ninainte de ai invita pe DiehardFund</p>\n<p> Oamenii vor voi sa stie de ce au fost invitati si ce se asteapta de la ei si de ce merita sa-si investeasca\ntimpul in a invata cum sa foloseasca un nou instrument.</p>\n"
     join_the_community: Alatura-te comunitatii
-    join_the_community_description_html: Toata lumea este binevenita in Comunitatea Diehard_Fund, unde discutam cum sa obtinem cat mai mult din folosirea acestui instrument, si cum poate fi imbunatatit.<br /><br /><a href='https://www.diehard.fund/groups/3'>Apasa aici ca sa intri in grupul Comunitatii Diehard_Fund</a>.
+    join_the_community_description_html: Toata lumea este binevenita in Comunitatea DiehardFund, unde discutam cum sa obtinem cat mai mult din folosirea acestui instrument, si cum poate fi imbunatatit.<br /><br /><a href='https://www.diehard.fund/groups/3'>Apasa aici ca sa intri in grupul Comunitatii DiehardFund</a>.
     images_and_text_formatting: Formatarea imaginilor si a textului
     images_and_text_formatting_html: |
-      <p>Diehard_Fund foloseste ‘Markdown' pentru a adauga imagini si formatarea textului.
+      <p>DiehardFund foloseste ‘Markdown' pentru a adauga imagini si formatarea textului.
       Poti porni Markdown prin icoana mica gri de sub casuta de comentarii</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Apasa aici</a> pentru informatii
       despre folosirea Markdown</p>
@@ -671,11 +671,11 @@ ro:
     start_proposal_html: "<p>Daca ai un titlu clar si succint, oamenii vor sti imediat ce inseamna sa fii de acord sau impotriva.</p>\n<p>Nu este sfarsitul lumii daca o propunere nu obtine un punct de vedere comun imediat.\nDaca grupul nu iubeste prima propunere, oricine poate incepe o noua propunere pentru\na adresa rezervele ridicate, si a conduce mai departe procesul.</p>\n<p>Prin acest proces dinamic, inteligenta colectiva a grupului poate genera idei mai bune decat ar putea\ngenera oricine ar incerca sa o faca singur.</p>\n<p>Termenul limita al unei propuneri poate fi extins oricand, daca devine clar ca o decizie \nare nevoie de mai mult timp. Toata lumea va primi o notificare pe email cu 24 de ore inainta ca o propunere sa se inchida.</p>\n"
     video_id: '52025402'
     video_tutorial: Tutorial video
-    video_tutorial_description: Urmareste acest video pentru o scurta demonstratie despre cum sa folosesti Diehard_Fund.
-    what_is_diehard_fund: Ce este Diehard_Fund?
+    video_tutorial_description: Urmareste acest video pentru o scurta demonstratie despre cum sa folosesti DiehardFund.
+    what_is_diehard_fund: Ce este DiehardFund?
     what_is_diehard_fund_description_html: |
-      <p>Diehard_Fund este un instrument online usor de folosit la luarea deciziilor.
-      Diehard_Fund iti pemite sa gazduiesti discutii online si sa inviti persoanele dorite sa participe,
+      <p>DiehardFund este un instrument online usor de folosit la luarea deciziilor.
+      DiehardFund iti pemite sa gazduiesti discutii online si sa inviti persoanele dorite sa participe,
       sa participe programat la luarea deciziilor si la transformarea deliberarilor in actiuni reale. </p>
   hint:
     context: Sfaturi pentru folosirea panel-ului context
@@ -692,24 +692,24 @@ ro:
     tooltip: Afla mai mult despre modelul nostru de finantare a comunitatii
     thought_about_contributing: Sansa ta sa contribui
     thought_about_contributing_description: |
-      Diehard_Fund este o companie cooperativa sociala care lucreaza pentru a usura partiparea fiecaruia in deciziile care ii afecteaza.
+      DiehardFund este o companie cooperativa sociala care lucreaza pentru a usura partiparea fiecaruia in deciziile care ii afecteaza.
 
       Noi credem ca banii nu trebuie sa fie o bariera, asa ca dezvoltam un model de venit care da fiecaruia posibilitatea sa decida cat poate sa contribuie.
 
-       Contributia ta ne ajuta sa dezvoltam Diehard_Fund intr-un mod independent, fara publicitate, si pe baza dorintelor comunitatii de utilizatori.
+       Contributia ta ne ajuta sa dezvoltam DiehardFund intr-un mod independent, fara publicitate, si pe baza dorintelor comunitatii de utilizatori.
 
       Multumim ca faci acest lucru posibil.
-    thank_you_title: Multumim pentru contributia catre Diehard_Fund!
+    thank_you_title: Multumim pentru contributia catre DiehardFund!
     thank_you_body: |
       Contributia ta ne ajuta sa oferim un mod usor de luare a deciziilor in mod colaborativ in lume.
 
       Vei primi curand un email cu o chitanta pentru contributia ta.
 
-      Toata lumea este binevenita sa se alature comunitatii Diehard_Fund, unde discutam despre cum sa utilizam la maxim acest mediu, si cum poate fi imbunatatit.
+      Toata lumea este binevenita sa se alature comunitatii DiehardFund, unde discutam despre cum sa utilizam la maxim acest mediu, si cum poate fi imbunatatit.
 
-      <a href='https://www.diehard.fund/groups/3'>Du-ma la grupul comunitatii Diehard_Fund &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Du-ma la grupul comunitatii DiehardFund &raquo;</a>
     making_a_donation: Donatii
-    making_a_donation_description: "Diehard_Fund este o companie cooperativa sociala care lucreaza pentru a facilita partiparea fiecaruia la luarea unor decizii care il afecteaza. \n\nContributia ta ne ajuta sa dezvoltam Diehard_Fund intr-un mod independent, fara publicitate, si pe baza dorintelor comunitatii de utilizatori.\n\nMultumim ca faci acest lucru posibil.\n"
+    making_a_donation_description: "DiehardFund este o companie cooperativa sociala care lucreaza pentru a facilita partiparea fiecaruia la luarea unor decizii care il afecteaza. \n\nContributia ta ne ajuta sa dezvoltam DiehardFund intr-un mod independent, fara publicitate, si pe baza dorintelor comunitatii de utilizatori.\n\nMultumim ca faci acest lucru posibil.\n"
   resend_confirmation: Retrimite instructiunile de confirmare
   new_password: Parola noua
   confirm_new_password: Confirma noua parola
@@ -732,15 +732,15 @@ ro:
   link_it_up_instead: Mai bine ataseaza-i un link
   sign_up_via: Fa-ti un cont via
   or_fill_in_this_form: sau completeaza acest formular
-  already_have_account: Ai deja un cont Diehard_Fund?
+  already_have_account: Ai deja un cont DiehardFund?
   confirm_your_details: Confirma datele tale
   link_up_your_account: Ataseaza un link contului tau
-  log_in_to_your_diehard_fund_account: 'Autentifica-te în contul tau Diehard_Fund pentru a atasa linkul spre %{provider_name}. '
-  now_that_your_logged_in: Acum te-ai autentificat cu %{provider_name}, ca urmare te rugam confirma datele tale pentru a crea contul Diehard_Fund.
+  log_in_to_your_diehard_fund_account: 'Autentifica-te în contul tau DiehardFund pentru a atasa linkul spre %{provider_name}. '
+  now_that_your_logged_in: Acum te-ai autentificat cu %{provider_name}, ca urmare te rugam confirma datele tale pentru a crea contul DiehardFund.
   confirmation_not_received: Nu ai primit instructiunile de confirmare?
   unlock_not_received: Nu ai primit instructiunile de deblocare?
   inactive_html: Acest cont a fost deactivat. Daca ai intrebari te rugam <a href='%{path_to_contact}'>contacteaza-ne</a>.
-  create_an_account_html: Creaza un cont Diehard_Fund
+  create_an_account_html: Creaza un cont DiehardFund
   log_in: Autentificare
   join_group:
     log_in: Autentifica-te ca sa intri in %{group_name}
@@ -757,12 +757,12 @@ ro:
     invitation_already_used: Aceasta invitatie a fost deja utilizata. Autentifica-te pentru a ajunge la grupul tau.
     recipients: 'Introduceti adresele de email, separate prin virgula:'
     invitees_placeholder: Nume utilizator <user1@example.com>, user2@example.com
-    subject: Alatura-te noului grup Diehard_Fund,  %{group}
+    subject: Alatura-te noului grup DiehardFund,  %{group}
     invite_people: Invita oameni in grupul tau
     invite_to_discussion: Invita persoane la aceasta discutie
     invite_to_discussion_info: Pentru a adauga persoane la aceasta discutie trebuie sa trimiti invitatii la grupul tau. Cand invitatiile vor fi acceptate, persoanele vor fi directionate spre discutie.
     select_members: 'Adauga membrii din %{group_name} '
-    body_editable: 'Salut, vino si ia decizii impreuna cu noi! Noi folosim un instrument pentru luarea de decizii in mod colaborativ numit Diehard_Fund.
+    body_editable: 'Salut, vino si ia decizii impreuna cu noi! Noi folosim un instrument pentru luarea de decizii in mod colaborativ numit DiehardFund.
 
 '
     body_editable_discussion: 'Hei, vino alaturi de noi la o dezbatere!
@@ -827,10 +827,10 @@ ro:
   group_setup:
     set_up_your_group: Creeaza grupul tau
     desc_header: Aproape ai reusit!
-    desc_html: 'In calitate de coordonator, esti responsabil de crearea si administrarea grupului tau Diehard_Fund. După ce ai ales cateva setari începe o discuție sau două, și trimite invitații! <p> Daca vei incerca sa descrii simplu grupul tau, intreaba-te: Ce vreau să realizam împreună? Ce tipuri de decizii vom lua? Cine va fi implicat?</p>'
+    desc_html: 'In calitate de coordonator, esti responsabil de crearea si administrarea grupului tau DiehardFund. După ce ai ales cateva setari începe o discuție sau două, și trimite invitații! <p> Daca vei incerca sa descrii simplu grupul tau, intreaba-te: Ce vreau să realizam împreună? Ce tipuri de decizii vom lua? Cine va fi implicat?</p>'
     submit: Du-ma la grupul meu!
     payment_model:
-      header: Diehard_Fund e pentru toţi!
+      header: DiehardFund e pentru toţi!
       info: Oricine isi permite serviciul nostru, chiar si grupurile fara bani!
       link: Afla mai multe
   simple_form:
@@ -875,9 +875,9 @@ ro:
         create: Creeaza cont
         update: Actualizeaza setarile
   meta_tags:
-    default_title: Diehard_Fund | Elaborator de Decizii Colaborative
-    default_description: Diehard_Fund este un instrument online usor de folosit la luarea deciziilor. El permite grupurilor dispersate să ajunga rapid la decizii care sa duca la actiuni constructive.
-  about_diehard_fund: Despre Diehard_Fund
+    default_title: DiehardFund | Elaborator de Decizii Colaborative
+    default_description: DiehardFund este un instrument online usor de folosit la luarea deciziilor. El permite grupurilor dispersate să ajunga rapid la decizii care sa duca la actiuni constructive.
+  about_diehard_fund: Despre DiehardFund
   ago: 'acum %{quantity_of_time} '
   approve: Aproba
   attachments: 'Ataseaza fisiere:'
@@ -885,7 +885,7 @@ ro:
   back: Inapoi
   cancel: Anuleaza
   change: Modifica
-  change_language: Apasa aici pentru a utiliza Diehard_Fund in %{language}
+  change_language: Apasa aici pentru a utiliza DiehardFund in %{language}
   changing: Modificarea
   click_here: Apasa aici
   close: Inchide
@@ -919,7 +919,7 @@ ro:
   pricing: Tarif
   prev: Anterior
   more: Mai mult..
-  translate: Ajuta la traducerea Diehard_Fund!
+  translate: Ajuta la traducerea DiehardFund!
   translate_field: Vezi traducerea
   loading_translation: Se incarca traducerea...
   translate_this_string: Traducere in %{language}

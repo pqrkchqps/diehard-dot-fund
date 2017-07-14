@@ -140,7 +140,7 @@ class Group < ActiveRecord::Base
   belongs_to :category
   belongs_to :theme
   belongs_to :cohort
-  belongs_to :community, class_name: 'Communities::Diehard_FundGroup', touch: true
+  belongs_to :community, class_name: 'Communities::DiehardFundGroup', touch: true
   belongs_to :default_group_cover
 
   has_many :subgroups,
@@ -217,7 +217,7 @@ class Group < ActiveRecord::Base
   end
 
   def community
-    update(community: Communities::Diehard_FundGroup.create(group: self)) unless self[:community_id]
+    update(community: Communities::DiehardFundGroup.create(group: self)) unless self[:community_id]
     super
   end
 

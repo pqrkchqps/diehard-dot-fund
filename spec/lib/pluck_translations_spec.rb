@@ -27,7 +27,7 @@ describe "Pluck translations" do
 
 
   it "copys a set of strings from one place to another" do
-    Diehard_FundI18n.pluck_translations(
+    DiehardFundI18n.pluck_translations(
       en_source_filename: 'input.en.yml',
       source_key: 'b',
       en_destination_filename: 'output.en.yml',
@@ -45,7 +45,7 @@ describe "Pluck translations" do
   end
 
   it "copys a set of strings to a nested place" do
-    Diehard_FundI18n.pluck_translations(
+    DiehardFundI18n.pluck_translations(
       en_source_filename: 'input.en.yml',
       source_key: 'b',
       en_destination_filename: 'output.en.yml',
@@ -63,7 +63,7 @@ describe "Pluck translations" do
   end
 
   it 'deletes source keys after the copy' do
-    Diehard_FundI18n.pluck_translations(
+    DiehardFundI18n.pluck_translations(
       en_source_filename: 'input.en.yml',
       source_key: 'b',
       en_destination_filename: 'output.en.yml',

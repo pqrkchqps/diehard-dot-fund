@@ -69,7 +69,7 @@ tr:
       email_settings:
         title: E-posta ayarları
       yesterday_on_diehard_fund:
-        title: "Diehard_Fund'da dün"
+        title: "DiehardFund'da dün"
     user_profile:
       account_deactivation:
         title: Hesabınızın devre dışı bırakılması

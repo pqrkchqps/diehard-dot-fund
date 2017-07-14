@@ -1,8 +1,8 @@
-# Using the Diehard_Fund API
+# Using the DiehardFund API
 
-Interested in interacting with Diehard_Fund from outside of Diehard_Fund? Awesome, you're in the right place!
+Interested in interacting with DiehardFund from outside of DiehardFund? Awesome, you're in the right place!
 
-This is intended to be a comprehensive reference of what's possible with the Diehard_Fund API. It's very much a work in progress at the moment.
+This is intended to be a comprehensive reference of what's possible with the DiehardFund API. It's very much a work in progress at the moment.
 
 NB: All of the curl commands in this document have been shortened for readability. IE, a curl command like this:
 
@@ -19,7 +19,7 @@ Happy cUrling and bashing!
 
 ## Using the Public API
 
-Data in public discussions is freely available via the Diehard_Fund API. Certain endpoints (marked with a 🔓 in the [API Endpoints](#api_endpoints) section below) are accessible even while logged out. For example, you can view a list of the most recently created public discussions on (diehard.fund)[http://www.diehard.fund] like so:
+Data in public discussions is freely available via the DiehardFund API. Certain endpoints (marked with a 🔓 in the [API Endpoints](#api_endpoints) section below) are accessible even while logged out. For example, you can view a list of the most recently created public discussions on (diehard.fund)[http://www.diehard.fund] like so:
 
 ```bash
   curl /discussions.json
@@ -33,7 +33,7 @@ Need access to private user data? You'll need to set up an OAuth application to 
 
 #### Side loading
 
-Responses from the Diehard_Fund API all utilize a strategy known as [side loading](https://www.netguru.co/blog/active-model-serializers-ember) (also known as 'compound document')
+Responses from the DiehardFund API all utilize a strategy known as [side loading](https://www.netguru.co/blog/active-model-serializers-ember) (also known as 'compound document')
 
 This means that instead of loading all records in a nested structure, like this:
 
@@ -120,7 +120,7 @@ Check that your application has the correct permissions and try again.
 The requested resource could not be found; it may have been deleted or moved.
 
 **418 - I'm a Teapot**
-Something has gone horribly wrong and you have [confused Diehard_Fund with a teapot](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#418).
+Something has gone horribly wrong and you have [confused DiehardFund with a teapot](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#418).
 
 **422 - Unprocessable Entity**
 The form values submitted with this request could not be properly processed
@@ -192,7 +192,7 @@ These can also be combined:
   curl "/discussions.json?from=10per=10&timeframe_for=updated_at&since=Thu Jan 1 2011&until=Fri Jan 1 2012"
 ```
 
-These options are further documented in the [README](http://github.com/diehard_fund/snorlax) for the snorlax gem which Diehard_Fund uses to serve API requests
+These options are further documented in the [README](http://github.com/diehard_fund/snorlax) for the snorlax gem which DiehardFund uses to serve API requests
 
 #### Users
 **Example JSON for a user**:

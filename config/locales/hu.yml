@@ -44,7 +44,7 @@ hu:
       no_invitations_remaining: Nem maradt meghívó
     mailer:
       invitation_instructions:
-        subject: Valaki meghívott hogy csatlakozz a Diehard_Fund csoporjukhoz
+        subject: Valaki meghívott hogy csatlakozz a DiehardFund csoporjukhoz
     registrations:
       sign_up: Fiók létrehozása
   error:
@@ -184,7 +184,7 @@ hu:
         one: 1 év
         other: "%{count} év"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Navigáció váltó
   inbox:
@@ -224,15 +224,15 @@ hu:
   find_a_group_hint: Keresés a nyilvános csoportok között
   search_for_group: Keress csoportot ...
   no_groups_found: Nem találtunk ilyen nevű csoportot!
-  no_group_header: Üdvözlünk a Diehard_Fund Beta verzióján
+  no_group_header: Üdvözlünk a DiehardFund Beta verzióján
   empty_notifications: Még nincsenek értesítéseid.
   see_all_notifications: Az összes értesítés megtekintése
   sign_out: Kijelentkezés
   sign_in: Bejelentkezés
   honeypot_warning: Nem hozható létre a fiókod. Ha képernyő olvasót használsz, kérjük bizonyosodj meg arról hogy az utolsó (rejtett) mező az űrlapon üres.
   tagline: Olyan világot teremtünk, ahol mindenki részt vehet a döntésekben és alakíthatja is azokat.
-  or_sign_in_html: 'Ha már van Diehard_Fund fiókod, <a href=''%{link}'' class=''%{link_class}''>jelentkezz be itt</a> '
-  or_link_account_html: Ha már van Diehard_Fundm fiókod, <a href='%{link}'>kapcsold össze</a>
+  or_sign_in_html: 'Ha már van DiehardFund fiókod, <a href=''%{link}'' class=''%{link_class}''>jelentkezz be itt</a> '
+  or_link_account_html: Ha már van DiehardFundm fiókod, <a href='%{link}'>kapcsold össze</a>
   click_to_dismiss: Ide kattintva eltűnik ez az üzenet
   generic_confirm: Biztos?
   discussion_helper_text:
@@ -265,7 +265,7 @@ hu:
       info_title: Mit fog lejenteni a fiókod deaktiválása?
       memberships: Nem leszel tagja többé egyetlen csoportnak sem amelyhez most tartozol.
       group_contributions: A bejegyzéseid, javaslataid és vitáid megmaradnak a csoportban, de a neved nem jelenik meg majd mellettük.
-      emails: Nem fogunk további e-maileket küldeni a Diehard_Fund-val kapcsolatban.
+      emails: Nem fogunk további e-maileket küldeni a DiehardFund-val kapcsolatban.
   group_form:
     name: Csoport neve
     description: Leírás
@@ -439,7 +439,7 @@ hu:
     request_declined: Hálózat tagsági kérelem visszautasítva.
   group_request:
     header: Indíts egy csoportot
-    desc: 'Hozz létre egy csoportot a közös döntéshozatal megkezdéséhez a Diehard_Fundn:'
+    desc: 'Hozz létre egy csoportot a közös döntéshozatal megkezdéséhez a DiehardFundn:'
     commercial_use_option: egy cégnél, hivatalos szervezet vagy munkahely
     non_commercial_use_option: egy közösségi csoportban vagy nem formális hálózatban
     please_select_an_option: Válassz egy opciót
@@ -592,15 +592,15 @@ hu:
     comment_changes: Bejegyzések előzményei
     edit_comment: Hozzászólást módosít
   help:
-    coordinating: Koordináljuk a Diehard_Fund csoportodat
-    coordinating_details: 'Te vagy a koordinátor, te indítod el a csoportot és te hívod meg a többieket. A csoportnak nem csak a Diehard_Fund használatát kell megtanulnia, hanem azt is, hogy tud jól összedolgozni, hogyan tud közösen döntéseket hozni. Pár jótanács, hogy ez sikerüljön:
+    coordinating: Koordináljuk a DiehardFund csoportodat
+    coordinating_details: 'Te vagy a koordinátor, te indítod el a csoportot és te hívod meg a többieket. A csoportnak nem csak a DiehardFund használatát kell megtanulnia, hanem azt is, hogy tud jól összedolgozni, hogyan tud közösen döntéseket hozni. Pár jótanács, hogy ez sikerüljön:
 
 '
     different_ways: Többféleképpen használhatod a Loomiót
     engaging_html: |
       <h2>Hogyan vond be a csoportot</h2>
-      <p>Az emberek akkor fognak belevágni a közös gondolkodásba, ha már van valamilyen érdekes javaslat. A jó javaslat előre mutat, megmutatja, mit tegyen a csoport, így mindenkinek egyértelmű, hogy mit jelent, ha ellenzi vagy támogatja. Gondold át, milyen vitákat folytat le a csoport személyesen vagy e-mailben, amit megkönnyíthetne a Diehard_Fund használata.</p>
-      <p>Ha most alakult a csoport érdemes valami kisebb fajsúlyú témával kezdeni, hogy mindenki kipróbálhassa a Diehard_Fund lehetőségeit.</p>
+      <p>Az emberek akkor fognak belevágni a közös gondolkodásba, ha már van valamilyen érdekes javaslat. A jó javaslat előre mutat, megmutatja, mit tegyen a csoport, így mindenkinek egyértelmű, hogy mit jelent, ha ellenzi vagy támogatja. Gondold át, milyen vitákat folytat le a csoport személyesen vagy e-mailben, amit megkönnyíthetne a DiehardFund használata.</p>
+      <p>Ha most alakult a csoport érdemes valami kisebb fajsúlyú témával kezdeni, hogy mindenki kipróbálhassa a DiehardFund lehetőségeit.</p>
       <p>Úgy is bevonhatsz másokat a vitába, ha használod a @név eszközt és a megjegyzésekben megnevezel egyeseket, levelet fognak kapni róla, hogy te megemlítetted őket.</p>
     example1_html: |
       <h3>Azt szeretnéd, hogy a csoport tárgyaljon meg egy szerteágazó témát és dolgozzon ki rá megoldást</h3>
@@ -615,7 +615,7 @@ hu:
     get_in_touch_description_html: Ha bármilyen kérdésed van vagy visszajelzést szertnél küldeni, <a href='%{link}'>hívj minket fel</a>.
     getting_started: Kezdjük
     getting_started_description: Bal oldalon tárgyalja meg a csoport a témát. Ha döntési javaslat van, az a jobb oldalon jelenik meg.
-    getting_the_most: Hogyan használd ki a Diehard_Fund lehetőségeit
+    getting_the_most: Hogyan használd ki a DiehardFund lehetőségeit
     have_your_say: Szólj bele
     have_your_say_details_html: |
       <p>Ha kialakult az álláspontod kattints a négy döntés gomb egyikére.</p>
@@ -631,10 +631,10 @@ hu:
       <p>Érdemes beszélni a csoporttal, mielőtt kiküldöd a meghívókat, arról, hogy mi is ez.</p>
       <p>Tudni akarják majd, hogy miért hívtad meg őket, mit várnak el tőlük és miért érdemes időt és energiát fektetniük a diehard_fund használatába.</p>
     join_the_community: Csatlakozz a közösséghez
-    join_the_community_description_html: Mindenkit várunk a Diehard_Fund Community csoportba, ahol megbeszélhetjük, hogyan lehet még jobb ez az eszköz. <br /><br /><a href='https://www.diehard.fund/groups/3'>Ide kattintva juthatsz a Diehard_Fund Community csoportba.</a>
+    join_the_community_description_html: Mindenkit várunk a DiehardFund Community csoportba, ahol megbeszélhetjük, hogyan lehet még jobb ez az eszköz. <br /><br /><a href='https://www.diehard.fund/groups/3'>Ide kattintva juthatsz a DiehardFund Community csoportba.</a>
     images_and_text_formatting: Képek és szövegformázás
     images_and_text_formatting_html: |
-      <p>A Diehard_Fund a képek beillesztéséhez és a szöveg formázásához a "Markdown" rendszert használja. A hozzászólás ablak alatti kis szürke ikonnal kapcsolhatod be a Markdownt.</p>
+      <p>A DiehardFund a képek beillesztéséhez és a szöveg formázásához a "Markdown" rendszert használja. A hozzászólás ablak alatti kis szürke ikonnal kapcsolhatod be a Markdownt.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Ide kattintva</a> további információkat kaphatsz a Markdown rendszerről.</p>
     keep_up_to_date: Maradj naprakész
     keep_up_to_date_html: |
@@ -660,9 +660,9 @@ hu:
       <p>A javaslat határidejét bármikor meg lehet hosszabbítani, ha úgy tűnik a döntéshez több időre van szükség. 24 órával a javaslat lezárása előtt mindenki figyelmeztető e-mailt is kap erről.</p>
     video_id: '52025402'
     video_tutorial: Videóbemutató
-    video_tutorial_description: Nézd meg a rövid videóbemutatót a Diehard_Fund használatáról.
-    what_is_diehard_fund: Mi az a Diehard_Fund?
-    what_is_diehard_fund_description_html: "<p> A Diehard_Fund egy egyszerű, felhasználóbarát online eszköz a közösségi döntéshozatal számára. \nA Diehard_Fund megengedi a viták online kezelését, a megfelelő emberek meghívását a részvételre,\nkövetkezésképp a gyors döntéseket és az elhatározások valódi cselekvéssé alakítását. </p> \n"
+    video_tutorial_description: Nézd meg a rövid videóbemutatót a DiehardFund használatáról.
+    what_is_diehard_fund: Mi az a DiehardFund?
+    what_is_diehard_fund_description_html: "<p> A DiehardFund egy egyszerű, felhasználóbarát online eszköz a közösségi döntéshozatal számára. \nA DiehardFund megengedi a viták online kezelését, a megfelelő emberek meghívását a részvételre,\nkövetkezésképp a gyors döntéseket és az elhatározások valódi cselekvéssé alakítását. </p> \n"
   hint:
     context: Hogyan használd a téma leírását
     discussion: Hogyan kezdj izgalmas témát
@@ -678,21 +678,21 @@ hu:
     tooltip: Tudj meg többet a mi közösségünk finanszírozási modelljéről
     thought_about_contributing: Lehetőséged hogy hozzájárulj
     thought_about_contributing_description: |
-      Diehard_Fund egy kooperatív társadalmi vállalkozás mely azon dolgozik, hogy bárki könnyen részt vehessen az őket érintő kérdések döntésében
-      A pénz nem kellene akadálya legyen a közösségi döntéshozatalnak. Diehard_Fund finanszírozása a közösség tagjainak hozzájárulásaiból és a formális szervezetek bérletéből ered.
-      Hozzájárulásod azt jelenti, hogy a Diehard_Fund független marad, reklámmentes és ingyen elérhető azok számára akik csodálatos dolgokat művelnek a közösségeik javára.
+      DiehardFund egy kooperatív társadalmi vállalkozás mely azon dolgozik, hogy bárki könnyen részt vehessen az őket érintő kérdések döntésében
+      A pénz nem kellene akadálya legyen a közösségi döntéshozatalnak. DiehardFund finanszírozása a közösség tagjainak hozzájárulásaiból és a formális szervezetek bérletéből ered.
+      Hozzájárulásod azt jelenti, hogy a DiehardFund független marad, reklámmentes és ingyen elérhető azok számára akik csodálatos dolgokat művelnek a közösségeik javára.
       Köszönjük, hogy ezt lehetővé teszed!
     thank_you_title: Köszönjük hozzájárulásodat a Loomióhoz!
     thank_you_body: |
       Az adományod segít bennünket, hogy egyszerű együttműködésen alapuló döntéshozatalt tegyünk elérhetővé világszerte.
       Az adományodról hamarosan e-mailben nyugtát fogsz kapni.
-      Mindenkit szeretettel várunk, hogy bekapcsolódjon a Diehard_Fund Közösségbe, ahol arról beszélgetünk, hogy hogy tudjuk az eszközt minnél jobban kihasználni és hogy tudunk javítani rajta.
-      <a href='https://www.diehard.fund/groups/3'>Mutasd a Diehard_Fund Közösséget!</a>
+      Mindenkit szeretettel várunk, hogy bekapcsolódjon a DiehardFund Közösségbe, ahol arról beszélgetünk, hogy hogy tudjuk az eszközt minnél jobban kihasználni és hogy tudunk javítani rajta.
+      <a href='https://www.diehard.fund/groups/3'>Mutasd a DiehardFund Közösséget!</a>
     making_a_donation: Hozzájárulok
     making_a_donation_description: |
-      Diehard_Fund egy kooperatív társadalmi vállalkozás mely azon dolgozik, hogy bárki könnyen részt vehessen az őket érintő kérdések döntésében
+      DiehardFund egy kooperatív társadalmi vállalkozás mely azon dolgozik, hogy bárki könnyen részt vehessen az őket érintő kérdések döntésében
 
-      Hozzájárulásod azt jelenti, hogy a Diehard_Fund független marad, reklámmentes és ingyen elérhető azok számára akik csodálatos dolgokat művelnek a közösségeik javára.
+      Hozzájárulásod azt jelenti, hogy a DiehardFund független marad, reklámmentes és ingyen elérhető azok számára akik csodálatos dolgokat művelnek a közösségeik javára.
 
       Köszönjük, hogy ezt lehetővé teszed!
   resend_confirmation: Küld újra a megerősítő utasításokat
@@ -717,15 +717,15 @@ hu:
   link_it_up_instead: Inkább kösd össze
   sign_up_via: Bejelentkezés ezzel
   or_fill_in_this_form: vagy töltsd ki ezt az űrlapot
-  already_have_account: Már van egy Diehard_Fund fiókod?
+  already_have_account: Már van egy DiehardFund fiókod?
   confirm_your_details: Részletek megerősítése
   link_up_your_account: Kapcsold össze a fiókokat
-  log_in_to_your_diehard_fund_account: Lépj be a Diehard_Fund fiókodba a %{provider_name} kapcsolódáshoz.
-  now_that_your_logged_in: Most hogy beléptél a %{provider_name} fiókoddal, kérjük erősítsd meg az adataidat hogy létrehozd a Diehard_Fund fiókodat.
+  log_in_to_your_diehard_fund_account: Lépj be a DiehardFund fiókodba a %{provider_name} kapcsolódáshoz.
+  now_that_your_logged_in: Most hogy beléptél a %{provider_name} fiókoddal, kérjük erősítsd meg az adataidat hogy létrehozd a DiehardFund fiókodat.
   confirmation_not_received: Nem kaptad meg a megerősítő instrukciókat?
   unlock_not_received: Nem kaptad meg a feloldási instrukciókat?
   inactive_html: Eza fiók nem aktív. Ha bármilyen kérdésed van kérjük <a href='%{path_to_contact}'>jelezd</a>.
-  create_an_account_html: Hozz létre egy Diehard_Fund Beta fiókot
+  create_an_account_html: Hozz létre egy DiehardFund Beta fiókot
   log_in: Bejelentkezés
   join_group:
     log_in: Bejelentkezés a %{group_name} csoportba
@@ -742,7 +742,7 @@ hu:
     invitation_already_used: Ezt a meghívót már felhasználták. Jelentkezz be, hogy beléphess a csoportodba.
     recipients: 'Add meg az e-mail címeket, vesszővel elválasztva:'
     invitees_placeholder: Felhasználónév <egyik@pelda.com>, masik@pelda.com
-    subject: 'Csatlakozz az új Diehard_Fund csoportunkhoz: %{group}'
+    subject: 'Csatlakozz az új DiehardFund csoportunkhoz: %{group}'
     invite_people: Hívj meg másokat a csoportodba
     invite_to_discussion: Hívj meg másokat is erre a vitára
     invite_to_discussion_info: Ha tagokat adsz hozzá a vitához, meghívókat küld nekik hogy bekapcsolódjanak a csoportodba. Amikor elfogadják a meghívót, ehhez a megbeszéléshez lesznek irányítva.
@@ -812,10 +812,10 @@ hu:
   group_setup:
     set_up_your_group: Csoportod beállításai
     desc_header: Mindjárt kész!
-    desc_html: 'Mint csoport koordinátor, felelős vagy a Diehard_Fund csoportod felállításában és menedzselésében. Miután elvégeztél pár beállítást, beléphetsz a csoportodba, vitákat, megeszéléseket indíthatsz és meghívókat küldhetsz! <p>Amikor azon tűnődsz hogyan tudnád legegyszerűbben leírni a csoportodat, gondolkozz azon hogy: Mit szeretnél közösen elérni? Milyen típusú döntéseket hoznátok? Kit szeretnél hogy részt vegyen ebben?</p>'
+    desc_html: 'Mint csoport koordinátor, felelős vagy a DiehardFund csoportod felállításában és menedzselésében. Miután elvégeztél pár beállítást, beléphetsz a csoportodba, vitákat, megeszéléseket indíthatsz és meghívókat küldhetsz! <p>Amikor azon tűnődsz hogyan tudnád legegyszerűbben leírni a csoportodat, gondolkozz azon hogy: Mit szeretnél közösen elérni? Milyen típusú döntéseket hoznátok? Kit szeretnél hogy részt vegyen ebben?</p>'
     submit: Megnézem a csoportom!
     payment_model:
-      header: Diehard_Fund mindenkié!
+      header: DiehardFund mindenkié!
       info: Van egy olyan fizetési modellünk amely megfelel minden csoportnak, még azoknak is akiknek nincs pénzük :)
       link: Fedezz fel többet
   simple_form:
@@ -860,16 +860,16 @@ hu:
         create: Fiók létrehozása
         update: beállítások frissítése
   meta_tags:
-    default_title: Diehard_Fund | Közreműködéses Döntéshozatal
-    default_description: A Diehard_Fund egy könnyen használható online eszköz a csoportos döntéshozatalra. Elősegíti, szétszórt csoportokban is, a gyors döntéseket és a konstruktív cselekvést.
-  about_diehard_fund: A Diehard_Fund-ról
+    default_title: DiehardFund | Közreműködéses Döntéshozatal
+    default_description: A DiehardFund egy könnyen használható online eszköz a csoportos döntéshozatalra. Elősegíti, szétszórt csoportokban is, a gyors döntéseket és a konstruktív cselekvést.
+  about_diehard_fund: A DiehardFund-ról
   ago: 'az eltelt idő: %{quantity_of_time} '
   approve: Jóváhagyás
   author: Szerző
   back: Vissza
   cancel: Mégse
   change: Változtatás
-  change_language: Klikk ide hogy használd a Diehard_Fund-t %{language} nyelven
+  change_language: Klikk ide hogy használd a DiehardFund-t %{language} nyelven
   changing: Változtatom
   click_here: Kattints ide
   close: Bezárás
@@ -903,7 +903,7 @@ hu:
   pricing: Árak
   prev: Előző
   more: Tovább ...
-  translate: Segíts fordítani a Diehard_Fund-t!
+  translate: Segíts fordítani a DiehardFund-t!
   translate_field: Fordítás megtekintése
   loading_translation: Fordítás betöltése ...
   translate_this_string: 'Fordítsd erre: %{language}'

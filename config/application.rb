@@ -17,7 +17,7 @@ def lmo_asset_host
   parts.join('')
 end
 
-module Diehard_Fund
+module DiehardFund
   class Application < Rails::Application
     config.active_job.queue_adapter = :delayed_job
 

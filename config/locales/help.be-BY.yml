@@ -1,7 +1,7 @@
 be-BY:
   new_help:
     how_diehard_fund_works:
-      title: Як працуе Diehard_Fund
+      title: Як працуе DiehardFund
       start_group_link: Стварыць групу
       invite_people_link: Запрасіць людзей
       start_discussion_link: Распачаць абмеркаванне
@@ -9,9 +9,9 @@ be-BY:
       decide_together_link: "Вырашаць разам:"
     contents:
       what_is_diehard_fund:
-        title: Пра Diehard_Fund
+        title: Пра DiehardFund
       how_diehard_fund_works:
-        title: Як працуе Diehard_Fund
+        title: Як працуе DiehardFund
       getting_started:
         title_html: Першыя крокі
       group_settings:
@@ -88,7 +88,7 @@ be-BY:
       email_settings:
         title: Налады email
       yesterday_on_diehard_fund:
-        title: Учора на Diehard_Fund
+        title: Учора на DiehardFund
     user_profile:
       language_settings:
         title: Налады мовы

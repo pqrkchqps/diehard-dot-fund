@@ -1,4 +1,4 @@
-Diehard_Fund’s recently released a plugin architecture, which will allow you to quickly and easily add functionality to Diehard_Fund on your own instance. There are some good docs in [the plugin README](https://github.com/diehard_fund/diehard_fund/blob/master/plugins/README.md), but I thought it might be helpful to step through how we make plugins here.
+DiehardFund’s recently released a plugin architecture, which will allow you to quickly and easily add functionality to DiehardFund on your own instance. There are some good docs in [the plugin README](https://github.com/diehard_fund/diehard_fund/blob/master/plugins/README.md), but I thought it might be helpful to step through how we make plugins here.
 
 #### WHAT WE’LL BE MAKING:
 
@@ -10,9 +10,9 @@ It'll look like this:
 
 By the end of this article, we'll have:
 
-- Added a new database table and model to the Diehard_Fund rails app
+- Added a new database table and model to the DiehardFund rails app
 - Added a new controller, route, and serializer to expose an API endpoint
-- Modified existing Diehard_Fund classes to create model relationships
+- Modified existing DiehardFund classes to create model relationships
 - Added models and record stores for storing data on the client
 - Created an angular directive which shows our tags on the dashboard
 - Created an angular directive which displays our tags in the view
@@ -28,7 +28,7 @@ But, you can check out the repository for this plugin [on github](http://github.
 Let's get started!
 
 ### PART 1: Create a basic plugin.
-First off, we’re going to create a local plugin, and initialize it with a git repository so it’s separate from the Diehard_Fund core codebase. This guide assumes you have a local dev instance of Diehard_Fund up and running.
+First off, we’re going to create a local plugin, and initialize it with a git repository so it’s separate from the DiehardFund core codebase. This guide assumes you have a local dev instance of DiehardFund up and running.
 
 First, create a new folder in the `/plugins` folder with the name of your plugin:
 ```
@@ -47,7 +47,7 @@ Now, make a `plugin.rb` file in the `plugins/diehard_fund_tags` directory, and f
 ```
 # plugins/diehard_fund_tags/plugin.rb
 module Plugins
-  module Diehard_FundTags
+  module DiehardFundTags
     class Plugin < Plugins::Base
       setup! :diehard_fund_tags do |plugin|
         # our code will go here!
@@ -66,7 +66,7 @@ Unfortunately, it’s not a terribly useful plugin yet, but we can make it bette
 - Run `git init` in the `plugins/diehard_fund_tags` folder
 - git remote add origin `git@github.com:diehard_fund/diehard_fund_tags.git`
 - `git add . && git commit -m “initial commit” && git push origin master`
-- (important, don’t skip!) add a reference to `lib/plugins.yml`, telling Diehard_Fund where to find your plugin on github. That will look like this:
+- (important, don’t skip!) add a reference to `lib/plugins.yml`, telling DiehardFund where to find your plugin on github. That will look like this:
 
 ```yaml
   plugins:
@@ -93,7 +93,7 @@ and run a console again:
 rails c
 ```
 
-Which should result another friendly ‘Hello world’ message. Now we know Diehard_Fund can run our plugin from anywhere; woot!
+Which should result another friendly ‘Hello world’ message. Now we know DiehardFund can run our plugin from anywhere; woot!
 
 (NB: rake plugins:fetch can be a destructive action; it will delete all of the existing plugins on your local instance and replace them with those specified in `plugins.yml`. TL;DR you can easily lose your work if you skip step 5 above, don’t do it!)
 
@@ -101,9 +101,9 @@ Which should result another friendly ‘Hello world’ message. Now we know Dieh
 
 Alright, now we’ve got a working plugin, up on github. Time to make it do something a bit more useful! We’ll do this by issuing commands in our `setup!` method, which will either execute code on our instance directly, or reference other files which should be included in the app.
 
-##### 1. Tell Diehard_Fund to enable our plugin (important, don’t skip!)
+##### 1. Tell DiehardFund to enable our plugin (important, don’t skip!)
 
-We’ll need to tell Diehard_Fund when to run this plugin code, otherwise it’ll skip everything and the plugin will be ‘off’ all the time. To do this, we can either provide an ENV variable to look at (the plugin will be enabled if the ENV is present):
+We’ll need to tell DiehardFund when to run this plugin code, otherwise it’ll skip everything and the plugin will be ‘off’ all the time. To do this, we can either provide an ENV variable to look at (the plugin will be enabled if the ENV is present):
 
 ```
 # plugin.rb (within the `setup!` method)
@@ -270,7 +270,7 @@ Now that we’ve got some plumbing going, we can start displaying our hard work 
 The angular interface is comprised primarily of ‘components’. A component is a collection of a directive, a template, and a stylesheet. Then, we can slot these components into ‘outlets’ in the interface.
 
 ##### 1. Adding a client side model
-Just like on the server side, Diehard_Fund has client side models as well, which are stored in a client side data store called a 'RecordsInterface'. You can check out the existing models and RecordsInterfaces in [angular/core/models](https://github.com/diehard_fund/diehard_fund/tree/master/angular/core/models). We'll want to make a model and corresponding records interface for our new DiscussionTags.
+Just like on the server side, DiehardFund has client side models as well, which are stored in a client side data store called a 'RecordsInterface'. You can check out the existing models and RecordsInterfaces in [angular/core/models](https://github.com/diehard_fund/diehard_fund/tree/master/angular/core/models). We'll want to make a model and corresponding records interface for our new DiscussionTags.
 
 ```
 # plugins/components/discussion_tags/discussion_tag_model.coffee

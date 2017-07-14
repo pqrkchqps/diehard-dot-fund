@@ -52,7 +52,7 @@ hu:
       upload: 'Feltöltés'
       uploading: 'Feltöltés'
     formatting_help:
-      title: 'Tanuld meg, hogyan kell a Markdown-t használni szöveged formázásához a Diehard_Fundn'
+      title: 'Tanuld meg, hogyan kell a Markdown-t használni szöveged formázásához a DiehardFundn'
   error_page:
     forbidden: 'Ehhez nincs jogosultságod.'
     page_not_found: 'Ezt nem találjuk. Lehet, hogy törölték vagy áthelyezték.'
@@ -126,7 +126,7 @@ hu:
     unread: 'Olvasatlan'
     closing_in: 'Zárás'
   sign_up_form:
-    title: "Üdvözlünk a Diehard_Fund oldalán! Kezdjük a beállításokkal"
+    title: "Üdvözlünk a DiehardFund oldalán! Kezdjük a beállításokkal"
     name_label: 'Neved:'
     name_placeholder: 'Jane Doe'
     email_label: 'E-mail:'
@@ -137,7 +137,7 @@ hu:
     sign_in: 'Bejelentkezés'
     sign_up: 'Fiók létrehozása'
   signed_out_modal:
-    message: "Egy másik ablakban kilépett a Diehard_Fund portálról. A folytatáshoz, kérjük jelentkezzen be újra."
+    message: "Egy másik ablakban kilépett a DiehardFund portálról. A folytatáshoz, kérjük jelentkezzen be újra."
     ok: "Rendben"
   comment_form:
     aria_label: 'Hozzászólás'
@@ -315,9 +315,9 @@ hu:
     email_label: 'E-mail címed'
     message_label: 'Üzeneted'
   help_page:
-    coordinating: 'Koordináljuk a Diehard_Fund csoportodat'
+    coordinating: 'Koordináljuk a DiehardFund csoportodat'
     coordinating_details: |+
-      Te vagy a koordinátor, te indítod el a csoportot és te hívod meg a többieket. A csoportnak nem csak a Diehard_Fund használatát kell megtanulnia, hanem azt is, hogy tud jól összedolgozni, hogyan tud közösen döntéseket hozni. Pár jótanács, hogy ez sikerüljön:
+      Te vagy a koordinátor, te indítod el a csoportot és te hívod meg a többieket. A csoportnak nem csak a DiehardFund használatát kell megtanulnia, hanem azt is, hogy tud jól összedolgozni, hogyan tud közösen döntéseket hozni. Pár jótanács, hogy ez sikerüljön:
 
     different_ways: 'Többféleképpen használhatod a Loomiót'
     example1_html: |+
@@ -329,7 +329,7 @@ hu:
     get_in_touch_description_html: "Ha bármilyen kérdésed van vagy visszajelzést szertnél küldeni, <a href='%{link}'>hívj minket fel</a>."
     getting_started: "Kezdjük"
     getting_started_description: "Bal oldalon tárgyalja meg a csoport a témát. Ha döntési javaslat van, az a jobb oldalon jelenik meg."
-    getting_the_most: 'Hogyan használd ki a Diehard_Fund lehetőségeit'
+    getting_the_most: 'Hogyan használd ki a DiehardFund lehetőségeit'
     have_your_say: "Szólj bele"
     have_your_say_details_html: |+
       <p>Ha kialakult az álláspontod kattints a négy döntés gomb egyikére.</p>
@@ -349,7 +349,7 @@ hu:
     join_the_community: "Csatlakozz a közösséghez"
     images_and_text_formatting: "Képek és szövegformázás"
     images_and_text_formatting_html: |+
-      <p>A Diehard_Fund a képek beillesztéséhez és a szöveg formázásához a "Markdown" rendszert használja. A hozzászólás ablak alatti kis szürke ikonnal kapcsolhatod be a Markdownt.</p>
+      <p>A DiehardFund a képek beillesztéséhez és a szöveg formázásához a "Markdown" rendszert használja. A hozzászólás ablak alatti kis szürke ikonnal kapcsolhatod be a Markdownt.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Ide kattintva</a> további információkat kaphatsz a Markdown rendszerről.</p>
 
     keep_up_to_date: "Maradj naprakész"
@@ -374,7 +374,7 @@ hu:
       <p>A javaslat határidejét bármikor meg lehet hosszabbítani, ha úgy tűnik a döntéshez több időre van szükség. 24 órával a javaslat lezárása előtt mindenki figyelmeztető e-mailt is kap erről.</p>
     video_id: "52025402"
     video_tutorial: "Videóbemutató"
-    video_tutorial_description: "Nézd meg a rövid videóbemutatót a Diehard_Fund használatáról."
+    video_tutorial_description: "Nézd meg a rövid videóbemutatót a DiehardFund használatáról."
   hint:
     context: 'Hogyan használd a téma leírását'
     discussion: 'Hogyan kezdj izgalmas témát'

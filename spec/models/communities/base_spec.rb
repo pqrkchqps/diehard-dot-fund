@@ -7,14 +7,14 @@ require 'rails_helper'
 
    describe 'find' do
      it 'finds the correct classes for communities' do
-       expect(Communities::Base.find(group_community.id)).to be_a Communities::Diehard_FundGroup
+       expect(Communities::Base.find(group_community.id)).to be_a Communities::DiehardFundGroup
        expect(Communities::Base.find(discussion_community.id)).to be_a Communities::Email
      end
    end
 
    describe 'where' do
      it 'finds the correct classes for communities' do
-       expect(Communities::Base.where(id: group_community.id).first).to be_a Communities::Diehard_FundGroup
+       expect(Communities::Base.where(id: group_community.id).first).to be_a Communities::DiehardFundGroup
        expect(Communities::Base.where(id: discussion_community.id).first).to be_a Communities::Email
      end
    end

@@ -1,9 +1,9 @@
 # Summary
 
 ## Deploying
-* [Deploying Diehard_Fund](setup_diehard_fund_production.md)
+* [Deploying DiehardFund](setup_diehard_fund_production.md)
   1. [Basic VPS setup](basic_vps_setup.md)
-  2. [Setup Diehard_Fund with Dokku](install_diehard_fund_with_dokku.md)
+  2. [Setup DiehardFund with Dokku](install_diehard_fund_with_dokku.md)
   3. [Environment Variables](environment_variables.md)
   4. [Setup PostgreSQL](setup_postgresql.md)
   5. [Setup reply by email](setup_reply_by_email.md)

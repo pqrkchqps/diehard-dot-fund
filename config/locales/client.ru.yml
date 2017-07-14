@@ -362,7 +362,7 @@ ru:
     send_message: 'Отправить сообщение'
   help_page:
     coordinating: 'Координация вашей группы'
-    different_ways: 'Различные способы использовать Diehard_Fund'
+    different_ways: 'Различные способы использовать DiehardFund'
     get_in_touch: "Оставаться на связи"
     get_in_touch_description_html: "Если у Вас есть вопросы или отзыв, <a href='%{link}'>черкните нам пару строк</a>."
     getting_started: "С чего начать"
@@ -376,7 +376,7 @@ ru:
     start_discussion: "Начиная интересное обсуждение"
     start_proposal: "Написание понятного предложения"
     video_tutorial: "Видеоучебник"
-    video_tutorial_description: "Посмотрите видео, которое вкратце покажет, как использовать Diehard_Fund."
+    video_tutorial_description: "Посмотрите видео, которое вкратце покажет, как использовать DiehardFund."
   hint:
     context: 'Подсказки для использования контекстной панели'
     discussion: 'Подсказки для начала увлекательного обсуждения'
@@ -385,7 +385,7 @@ ru:
     vote: 'Вы можете изменить вашу позицию в любое время'
   global:
     messages:
-      app_update: 'Доступна новая версия Diehard_Fund'
+      app_update: 'Доступна новая версия DiehardFund'
   registered_apps_page:
     name: Имя
   registered_app_form:

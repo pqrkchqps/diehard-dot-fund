@@ -1,11 +1,11 @@
 cmn:
   email:
-    view_comment: 点击这里查看Diehard_Fund的评论
+    view_comment: 点击这里查看DiehardFund的评论
     view_discussion: 点击这里查看讨论
     create_proposal:
       closes_in: 将要关闭
     daily_activity:
-      intro: 展示上一个24小时你的Diehard_Fund所发生的事情
+      intro: 展示上一个24小时你的DiehardFund所发生的事情
     proposal_closing_soon:
       closes_in: 将要关闭
       summary: 总结

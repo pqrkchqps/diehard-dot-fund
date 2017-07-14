@@ -207,7 +207,7 @@ describe API::PollsController do
       expect(poll.title).to eq poll_params[:title]
       expect(poll.discussion).to eq discussion
       expect(poll.author).to eq user
-      expect(poll.communities.map(&:class)).to include Communities::Diehard_FundGroup
+      expect(poll.communities.map(&:class)).to include Communities::DiehardFundGroup
       expect(poll.communities.map(&:class)).to include Communities::Email
 
       json = JSON.parse(response.body)
@@ -372,8 +372,8 @@ describe API::PollsController do
       sign_in user
       PollService.create(poll: poll, actor: user)
       post :close, id: poll.key
-      expect(poll.reload.communities.map(&:class)).to_not include Communities::Diehard_FundGroup
-      expect(poll.communities.map(&:class)).to include Communities::Diehard_FundUsers
+      expect(poll.reload.communities.map(&:class)).to_not include Communities::DiehardFundGroup
+      expect(poll.communities.map(&:class)).to include Communities::DiehardFundUsers
     end
   end
 

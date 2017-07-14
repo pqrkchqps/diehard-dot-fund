@@ -5,37 +5,37 @@ ro:
     by_who: de catre %{person}
     reply_to_this_discussion: Raspunde acestei discutii
     to_join_discussion:
-      subject: "%{who} te invită la o discuţie pe Diehard_Fund."
+      subject: "%{who} te invită la o discuţie pe DiehardFund."
       content: 'Ai primit invitatie la discutia: %{discussion}'
       message_intro: "%{who} spune:"
       link: Alatura-te discutiei
     to_join_group:
-      subject: "%{member} te-a invitat sa te alaturi grupului %{group_name}  pe Diehard_Fund"
+      subject: "%{member} te-a invitat sa te alaturi grupului %{group_name}  pe DiehardFund"
     to_start_group:
-      subject: "Seteaza noul tau grup Diehard_Fund:  %{group_name}"
+      subject: "Seteaza noul tau grup DiehardFund:  %{group_name}"
     unsubscribe: 'Dezabonare sau schimbarea preferintelor de email:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> pentru dezabonare sau schimbarea preferintelor de email."
-    view_comment: Apasa aici pentru a vedea comentariul pe Diehard_Fund
+    view_comment: Apasa aici pentru a vedea comentariul pe DiehardFund
     view_discussion: Apasa aici pentru a vedea aceasta discutie
-    view_proposal: Vizualizeaza aceasta propunere pe Diehard_Fund
+    view_proposal: Vizualizeaza aceasta propunere pe DiehardFund
     create_proposal:
-      intro: 'O noua propunere a fost creata intr-un grup Diehard_Fund de care apartii. '
+      intro: 'O noua propunere a fost creata intr-un grup DiehardFund de care apartii. '
       closes_in: Se inchide in
       subject: 'Propunere noua: %{which}'
     daily_activity:
-      heading: Activitatea ta pe Diehard_Fund
-      intro: Iti aratam ce s-a intamplat in grupurile tale Diehard_Fund in ultimele 24 de ore
-      subject: Diehard_Fund - Sumarul ultimelor 24 de ore
+      heading: Activitatea ta pe DiehardFund
+      intro: Iti aratam ce s-a intamplat in grupurile tale DiehardFund in ultimele 24 de ore
+      subject: DiehardFund - Sumarul ultimelor 24 de ore
     missed_yesterday:
-      subject: Ieri pe Diehard_Fund
+      subject: Ieri pe DiehardFund
       headlines: Titluri
       mark_as_read: Marcheaza ca citit
       thanks_for_reading: Multumesc pentru lectura, o zi buna!
       marked_as_read_success: Tot continutul acestui email a fost marcat ca fiind citit
     comment_replied_to:
-      subject: "%{who} a raspuns comentariului tau in %{which} grup Diehard_Fund"
+      subject: "%{who} a raspuns comentariului tau in %{which} grup DiehardFund"
     membership_request:
-      intro: "%{name} (%{email}) a cerut acces in unul din grupurile tale Diehard_Fund."
+      intro: "%{name} (%{email}) a cerut acces in unul din grupurile tale DiehardFund."
       subject: "%{who} a cerut sa intre in %{which_group}"
       view_group: Aici poti aproba sau nu cererea
     new_motion_created:
@@ -75,7 +75,7 @@ ro:
     pricing: Tarif
     public_groups: Grupuri publice
     terms: Termeni
-    independent_install_html: '%{hostname} gazduieste o copie Diehard_Fund independenta: <a href="http://github.com/diehard_fund/diehard_fund">vezi mai mult</a>.'
+    independent_install_html: '%{hostname} gazduieste o copie DiehardFund independenta: <a href="http://github.com/diehard_fund/diehard_fund">vezi mai mult</a>.'
   start_group_form:
     header: Creare grup nou
     form_error: Unele informatii lipsesc sau sunt incorecte
@@ -86,7 +86,7 @@ ro:
     group_name: Numele grupului
     group_description: Descrierea grupului
     group_name_error: Numele grupului
-    terms_html: Lansand un grup Diehard_Fund esti de acord cu <a href='%{link}' target='_blank'>Termenii si Conditiile</a>.
+    terms_html: Lansand un grup DiehardFund esti de acord cu <a href='%{link}' target='_blank'>Termenii si Conditiile</a>.
     success:
       header: Aproape ai terminat! Verifica-ti mailul.
       email_delivered: Am trimis un email la %{email}. Te rugam acceseaza linkul indicat pentru a lansa noul tau grup.
@@ -101,7 +101,7 @@ ro:
     forbidden_passwords: Parole comune cum ar fi “parola” nu sunt permise, in vederea sigurantei contului tau.
   contact_page:
     contact_us: Contacteaza-ne
-    faq_prompt_html: Ai o intrebare pentru echipa Diehard_Fund? Inainte de a ne contacta, poate vei gasi raspunsul in Intrebari Frecvente.
+    faq_prompt_html: Ai o intrebare pentru echipa DiehardFund? Inainte de a ne contacta, poate vei gasi raspunsul in Intrebari Frecvente.
     contact_information: Daca nu gasesti raspunsul dorit gasesti informatiile de contact in josul paginii.
     contact_form: Formularul de contact
     labels:

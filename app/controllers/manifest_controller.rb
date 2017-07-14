@@ -3,8 +3,8 @@ class ManifestController < ApplicationController
 
   def show
     render json: {
-      name: ENV['SITE_NAME'] || 'Diehard_Fund',
-      short_name: ENV['SITE_NAME'] || 'Diehard_Fund',
+      name: ENV['SITE_NAME'] || 'DiehardFund',
+      short_name: ENV['SITE_NAME'] || 'DiehardFund',
       display: 'standalone',
       orientation: 'portrait',
       start_url: '/dashboard',

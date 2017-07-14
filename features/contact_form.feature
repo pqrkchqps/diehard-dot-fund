@@ -1,6 +1,6 @@
-Feature: Person contacts Diehard_Fund using contact form
+Feature: Person contacts DiehardFund using contact form
 
-Scenario: User contacts Diehard_Fund using contact form
+Scenario: User contacts DiehardFund using contact form
 Given I sign in
 When I visit the contact page
 Then I should see my name and email pre-filled

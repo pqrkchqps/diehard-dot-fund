@@ -283,7 +283,7 @@ describe Group do
 
   describe 'community' do
     it 'creates a new community if one does not exist' do
-      expect(group.community).to be_a Communities::Diehard_FundGroup
+      expect(group.community).to be_a Communities::DiehardFundGroup
       expect(group.community.group).to eq group
     end
   end

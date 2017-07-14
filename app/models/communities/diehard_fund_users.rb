@@ -1,4 +1,4 @@
-class Communities::Diehard_FundUsers < Communities::Base
+class Communities::DiehardFundUsers < Communities::Base
   include Communities::Notify::InApp
   include Communities::Notify::Users
   set_community_type :diehard_fund_users
@@ -7,7 +7,7 @@ class Communities::Diehard_FundUsers < Communities::Base
   alias :channel :slack_channel_id
 
   def to_group_community
-    Communities::Diehard_FundGroup.new(group_key: identifier)
+    Communities::DiehardFundGroup.new(group_key: identifier)
   end
 
   def members

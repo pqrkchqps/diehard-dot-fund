@@ -3,24 +3,24 @@ id:
     group_email:
       intro: "%{who} membuat pengumuman di dalam %{group}:"
     to_join_group:
-      subject: "%{member} mengundang Anda untuk bergabung ke dalam %{group_name} di Diehard_Fund"
+      subject: "%{member} mengundang Anda untuk bergabung ke dalam %{group_name} di DiehardFund"
     to_start_group:
-      subject: "Buat kelompok Diehard_Fund Anda yang baru: %{group_name}"
+      subject: "Buat kelompok DiehardFund Anda yang baru: %{group_name}"
     unsubscribe: 'Tidak ingin berlanggan atau ganti alamat surel:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> untuk ubah langganan atau ganti alamat surel."
     view_comment: Klik di sini untuk melihat komentar di Loomi
     view_discussion: Klik di sini untuk melihat diskusi ini
-    view_proposal: Lihat usulan ini di Diehard_Fund
+    view_proposal: Lihat usulan ini di DiehardFund
     create_proposal:
-      intro: Usulan baru telah dibuat di dalam kelompok Diehard_Fund Anda.
+      intro: Usulan baru telah dibuat di dalam kelompok DiehardFund Anda.
       closes_in: Ditutup dalam
       subject: 'Usulan baru: %{which}'
     daily_activity:
-      heading: Kegiatan Diehard_Fund Anda
-      intro: Menunjukkan apa yang terjadi pada kelompok Diehard_Fund Anda dalam 24 jam terakhir
-      subject: Diehard_Fund - Ringkasan 24 jam terakhir
+      heading: Kegiatan DiehardFund Anda
+      intro: Menunjukkan apa yang terjadi pada kelompok DiehardFund Anda dalam 24 jam terakhir
+      subject: DiehardFund - Ringkasan 24 jam terakhir
     membership_request:
-      intro: "%{name} (%{email}) mengirimkan permintaan untuk mengakses salah satu kelompok Diehard_Fund Anda."
+      intro: "%{name} (%{email}) mengirimkan permintaan untuk mengakses salah satu kelompok DiehardFund Anda."
       subject: "%{who} mengirimkan permintaan untuk bergabung ke dalam %{which_group}"
       view_group: Anda dapat menerima atau menolak permintaan di sini
     proposal_closed:

@@ -16,7 +16,7 @@ hi:
       no_invitations_remaining: कोई निमंत्रण नहीं बचा हुआ
     mailer:
       invitation_instructions:
-        subject: किसीने आपको आमंत्रित किया है उनके Diehard_Fund समूह में शामिल होने के लिए
+        subject: किसीने आपको आमंत्रित किया है उनके DiehardFund समूह में शामिल होने के लिए
     registrations:
       sign_up: खाता बनाएँ
   new_proposal: नया प्रस्ताव

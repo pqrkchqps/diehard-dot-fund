@@ -12,21 +12,21 @@ zh_TW:
       <p>您為您的群組 <a href="/g/%{group_key}">%{group}</a> 選擇了免費方案</p>
   email:
     login:
-      subject: 登入 Diehard_Fund
-      intro: '%{name}，您好，這是用來登入您的 Diehard_Fund 帳號的連結。'
-      login: 以 %{name} 的身份登入 Diehard_Fund
+      subject: 登入 DiehardFund
+      intro: '%{name}，您好，這是用來登入您的 DiehardFund 帳號的連結。'
+      login: 以 %{name} 的身份登入 DiehardFund
       resend: 這個連結將於 %{expires_at} 過期。如果過了這個時間，您可以從上面的連結取得另外的連結。
     reset_password:
       greeting: |
         嗨，%{name}
-        這是您用來重設您 Diehard_Fund 帳號之密碼的連結：
+        這是您用來重設您 DiehardFund 帳號之密碼的連結：
       link_text: 重設您的密碼
       signoff: |
         因為您的電子郵件在 %{hostname} 上被輸入到「忘記密碼」表單中，所以收到這份訊息。
         然而，您的密碼在您完成上面這個連結的表單前都不會被變更。
         若您還有登入上的問題，回覆這封電子郵件以連絡客服人員。
     start_decision:
-      subject: 在 Diehard_Fund 上啟動決策
+      subject: 在 DiehardFund 上啟動決策
       intro: 您好，<strong>%{name}</strong>！
       action: 您想要做什麼？
       proposal: 發起提案
@@ -40,73 +40,73 @@ zh_TW:
     by_who: '%{person}'
     reply_to_this_discussion: 回應此討論串
     to_join_discussion:
-      subject: "%{who} 希望您加入在 Diehard_Fund 上的討論串"
+      subject: "%{who} 希望您加入在 DiehardFund 上的討論串"
       content: '您被邀請參與討論：%{discussion}'
       message_intro: "%{who} 說："
       link: 加入討論串
-    value_proposition: "Diehard_Fund 是一個讓群組共同做出決策的地方"
+    value_proposition: "DiehardFund 是一個讓群組共同做出決策的地方"
     view_group: 檢視群組
     to_join_group:
-      subject: "%{member} 邀請您加入 Diehard_Fund 的 %{group_name} 群組"
+      subject: "%{member} 邀請您加入 DiehardFund 的 %{group_name} 群組"
       invitation_text: "%{member} 邀請您加入他們的 %{group_name} 群組。"
       invitation_text_html: "已經邀請您加入他們的群組"
       link_help: "點選下面的連結以接受邀請："
       accept_invitation: "接受邀請"
     resend_to_join_group:
-      subject: "%{member} 仍在等待您在 Diehard_Fund 上加入 %{group_name}"
+      subject: "%{member} 仍在等待您在 DiehardFund 上加入 %{group_name}"
     to_start_group:
-      subject: "設定您的新 Diehard_Fund 群組： %{group_name}"
+      subject: "設定您的新 DiehardFund 群組： %{group_name}"
       hi: "%{name} 您好，"
       intro: "點選以下連結以設定您的群組 %{group_name} ："
       intro_html: "在下面點選以設定您的群組："
       start_group: "建立我的群組"
       closing_message: "若您需要協助或是有問題，請回覆本電子郵件。"
       thanks: "謝謝，"
-      diehard_fund_team: "Diehard_Fund 團隊"
+      diehard_fund_team: "DiehardFund 團隊"
     user_added_to_group:
-      subject: "%{who} 將您加入至在 Diehard_Fund 上的 %{which_group}"
+      subject: "%{who} 將您加入至在 DiehardFund 上的 %{which_group}"
       content: "%{who} 將您加入至 %{which_group}。"
       content_html: "<strong>%{who}</strong> 將您加入到了 <strong>%{which_group}</strong>。"
       link_help: "點選以下的連結以前往該群組："
     unsubscribe: '取消訂閱或者變更您的電子郵件偏好設定：'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a>取消訂閱或者變更您的電子郵件偏好設定。"
-    view_comment: 點擊此處，您可以看到在 Diehard_Fund 上的意見。
+    view_comment: 點擊此處，您可以看到在 DiehardFund 上的意見。
     view_discussion: 點擊此處，您可以看到這條討論串。
-    view_proposal: 在 Diehard_Fund 上觀看這項提案。
+    view_proposal: 在 DiehardFund 上觀看這項提案。
     create_discussion:
       intro_html: "啟動討論串："
       intro: "%{who} 啟動了一個討論串："
     create_proposal:
-      intro: 在您所屬的 Diehard_Fund 群組中，有一個新的提案！
+      intro: 在您所屬的 DiehardFund 群組中，有一個新的提案！
       closes_in: 結束於
       subject: '新的提案：%{which}'
     daily_activity:
-      heading: 您的 Diehard_Fund 動態
-      intro: 顯示過去 24 小時內在您的 Diehard_Fund 群組中發生了甚麼新鮮事
-      subject: Diehard_Fund — 過去 24 小時的摘要
+      heading: 您的 DiehardFund 動態
+      intro: 顯示過去 24 小時內在您的 DiehardFund 群組中發生了甚麼新鮮事
+      subject: DiehardFund — 過去 24 小時的摘要
     missed_yesterday:
-      subject: 昨日 Diehard_Fund
+      subject: 昨日 DiehardFund
       do_not_reply: 請不要回覆此封電子郵件。
       headlines: 頭條
       mark_as_read: 設為已讀
       thanks_for_reading: 感謝您的閱讀，祝您有美好的一天！
-      heres_what_happened: "這裡是 Diehard_Fund 上昨天發生的事情。"
+      heres_what_happened: "這裡是 DiehardFund 上昨天發生的事情。"
       marked_as_read_success: 電子郵件所列的討論串現在設為已讀了
     comment_replied_to:
       context_html: '回覆您的意見在'
       context: '%{author_name} 在討論串 %{discussion_title} 回覆您的意見'
-      subject: "%{who} 在 Diehard_Fund %{which} 群組中回覆了您的意見"
+      subject: "%{who} 在 DiehardFund %{which} 群組中回覆了您的意見"
     new_comment:
       context: '意見在'
     group_membership_approved:
       intro: "您加入「%{group_name}」群組的申請已獲批准。"
       intro_html: "您加入 <strong>%{group_name}</strong> 群組的申請已獲批准。"
       link_help: "點選以下的連結以加入 %{group_name} 並開始："
-      subject: "您加入在 Diehard_Fund 上的 %{group_name} 的請求已獲批准。"
+      subject: "您加入在 DiehardFund 上的 %{group_name} 的請求已獲批准。"
       join_group: "加入群組"
-      view_group_text: "在下面點選以檢視在 Diehard_Fund 上的群組："
+      view_group_text: "在下面點選以檢視在 DiehardFund 上的群組："
     membership_request:
-      intro: "%{name} (%{email}) 申請加入您的 Diehard_Fund 群組。"
+      intro: "%{name} (%{email}) 申請加入您的 DiehardFund 群組。"
       intro_html: 申請加入您的其中一個群組。
       subject: "%{who} 申請加入 %{which_group}"
       view_group: 您可點此批准或拒絕申請
@@ -151,16 +151,16 @@ zh_TW:
       outcome_created: "%{who} 分享了一個提案結果："
       you_agreed: 您%{past_tense_position}
     analytics:
-      subject: "%{which_group} 在 Diehard_Fund 上的一週"
+      subject: "%{which_group} 在 DiehardFund 上的一週"
       title: "您的自 %{since} 起的週總結"
       table_header: "名稱 | 已建立的提案 | 已建立的討論 | 已建立的意見 | 已建立的投票"
       stats: "<strong>%{group_members}</strong> 中的 <strong>%{active_members}</strong> 在過去一週中在您的群組中相當活躍。您的群組提升了 <strong>%{motions}</strong> 並在<strong>%{discussions}</strong> 中做出了 <strong>%{comments}</strong>。"
       contact_us: "想看更多統計？<a href='%{contact_link}'>與我們聯絡</a>。"
-      no_activity: "想要與我們的其中一個協作教練討論關於更多 Diehard_Fund 的資訊？<a href='%{contact_link}'>與我們聯絡</a>"
+      no_activity: "想要與我們的其中一個協作教練討論關於更多 DiehardFund 的資訊？<a href='%{contact_link}'>與我們聯絡</a>"
       trial_subscription: "%{which_group} 目前<strong>免費試用</strong>結束於 <strong>%{expires_at}</strong>。您可以在<a href='%{subscription_link}'>這裡</a>選擇一個訂閱計畫。"
-      trial_expired: "%{which_group} 的 Diehard_Fund 免費試用已結束。"
-      heart: "從 Diehard_Fund 而來的 ❤"
-      unsubscribe: "這封電子郵件已經傳送給活躍的 Diehard_Fund 群組的協調者們。<br />若您不想收到這些電子郵件，<a href='%{contact_link}'>讓我們知道</a>。"
+      trial_expired: "%{which_group} 的 DiehardFund 免費試用已結束。"
+      heart: "從 DiehardFund 而來的 ❤"
+      unsubscribe: "這封電子郵件已經傳送給活躍的 DiehardFund 群組的協調者們。<br />若您不想收到這些電子郵件，<a href='%{contact_link}'>讓我們知道</a>。"
       user_table:
         motions_created: "提案"
         discussions_created: "討論"
@@ -175,13 +175,13 @@ zh_TW:
     pricing: 價格
     public_groups: 公開群組
     terms: 服務條款
-    independent_install_html: '%{hostname} 運作的是 Diehard_Fund 的獨立副本：<a href="http://github.com/diehard_fund/diehard_fund">詳細瞭解</a>。'
+    independent_install_html: '%{hostname} 運作的是 DiehardFund 的獨立副本：<a href="http://github.com/diehard_fund/diehard_fund">詳細瞭解</a>。'
   start_group_form:
     enable_angular:
-      header: 在 Diehard_Fund 1.0 中啟動的新群組
-      subtitle: '要啟動一個新群組，您將會需要切換到全新版本的 Diehard_Fund：'
-      switch_to_angular: 在新的 Diehard_Fund 中啟動群組
-      helptext: 我們已從頭開始重建 Diehard_Fund。您可以 <a href="/angular">在這裡</a> 閱讀有什麼新東西。<br/>您可以在任何時候切換回舊版的 Diehard_Fund。
+      header: 在 DiehardFund 1.0 中啟動的新群組
+      subtitle: '要啟動一個新群組，您將會需要切換到全新版本的 DiehardFund：'
+      switch_to_angular: 在新的 DiehardFund 中啟動群組
+      helptext: 我們已從頭開始重建 DiehardFund。您可以 <a href="/angular">在這裡</a> 閱讀有什麼新東西。<br/>您可以在任何時候切換回舊版的 DiehardFund。
     header: 啟動新的群組
     form_error: 有一些資訊遺失或不正確。
     name: 您的大名
@@ -193,13 +193,13 @@ zh_TW:
     group_description_placeholder: 描述群組的目的讓您的夥伴們知道他們為什麼在這裡。
     group_name_error: 群組名稱必填
     pricing_html: 在 30 天內，我們將會詢問您要選取哪一個 <a href='%{link}' target='_blank'>定價方案</a>。
-    terms_html: 要開始一個群組，您即同意遵守 Diehard_Fund 的<a href='%{link}' target='_blank'>服務條款</a>。
+    terms_html: 要開始一個群組，您即同意遵守 DiehardFund 的<a href='%{link}' target='_blank'>服務條款</a>。
     success:
       header: 您就快完成了！請確認您的電子郵件信箱。
       email_delivered: 我們已經寄出一封電子郵件到 %{email}。請跟隨裡面的連結設定您的群組。
       email_not_arrived: 電子郵件尚未抵達？
       please_hold: 請允許它在五分鐘內到達，並同時也請檢查您的垃圾信資料夾。
-    start_making_decisions: '要開始在 Diehard_Fund 上共同作出決策，先免費設定一個群組：'
+    start_making_decisions: '要開始在 DiehardFund 上共同作出決策，先免費設定一個群組：'
   invitation_form:
     error:
       too_many_pending: "您在此群組有多於最大 %{count} 個的待處理邀請"
@@ -245,7 +245,7 @@ zh_TW:
     plus_price_html: '<strong>$99</strong>／月'
   password_reset:
     email_guidelines_html: |
-      <p>在下面的欄位中填入您 Diehard_Fund 帳號的電子郵件地址，然後您將會收到一個密碼的重置連結。</p>
+      <p>在下面的欄位中填入您 DiehardFund 帳號的電子郵件地址，然後您將會收到一個密碼的重置連結。</p>
       <p>如果您是透過 Facebook、Google、Twitter 或是 Persona 登入的話，請輸入與這些帳號相關聯的電子郵件地址。</p>
     reset_email_timeframe: 這將會花費 5 分鐘的時間將電子郵件寄到。如果沒有出現，請務必檢查您的垃圾信資料夾。
     length_restriction: 密碼應至少 8 個字元長。
@@ -257,24 +257,24 @@ zh_TW:
 
       您在此群組中的角色是什麼？夥伴應該知道您從哪裡來嗎？
   how_it_works_thread:
-    title: 如何使用 Diehard_Fund
+    title: 如何使用 DiehardFund
     description: |
-      歡迎來到 Diehard_Fund，一個線上協同討論的地方。
+      歡迎來到 DiehardFund，一個線上協同討論的地方。
 
-      這是一個範例**討論串**。您可以在下面新增評論。討論串是用來討論特定主題的地方。這個討論串討論的是關於 Diehard_Fund 如何運作，所以在那裡貼出關於這個的問題吧。
+      這是一個範例**討論串**。您可以在下面新增評論。討論串是用來討論特定主題的地方。這個討論串討論的是關於 DiehardFund 如何運作，所以在那裡貼出關於這個的問題吧。
 
       您目前正在閱讀討論串**內容**，這是提供背景資訊的空間。您可以隨著討論進度更新它。
 
-      要入門 Diehard_Fund：
+      要入門 DiehardFund：
       1. 上傳[簡歷照片](/profile)
       2. 在[歡迎討論串](%{thread_url})中自我介紹
       3. 在已有的討論串中貼文，或是啟動一個新的
 
-      在 Diehard_Fund 上貼文的秘訣：
+      在 DiehardFund 上貼文的秘訣：
       * 要通知特定的人，在他們的名字前輸入 @
       * 點選迴紋針圖示來新增附件
 
-      若您有什麼問題，看看[Diehard_Fund 說明手冊](http://help.diehard.fund)。
+      若您有什麼問題，看看[DiehardFund 說明手冊](http://help.diehard.fund)。
   first_proposal:
     name: 提案範例
     description: |
@@ -289,7 +289,7 @@ zh_TW:
       **試著參與吧！點選四個按鈕的其中一個**。
   contact_page:
     contact_us: 聯絡我們
-    faq_prompt_html: 對 Diehard_Fund 團隊有任何問題？在聯絡我們之前，您應該先在我們的常見問題中找尋答案。
+    faq_prompt_html: 對 DiehardFund 團隊有任何問題？在聯絡我們之前，您應該先在我們的常見問題中找尋答案。
     contact_information: 如果您找不到您想找的東西，您可以在這個頁面的底部找到我們的聯絡資訊。
     contact_form: 聯絡表單
     labels:
@@ -352,24 +352,24 @@ zh_TW:
 
         方括號括住名稱而圓括號括住 URL。括號間並無空格。
 
-        [Diehard_Fund 首頁](https://www.diehard.fund/)
+        [DiehardFund 首頁](https://www.diehard.fund/)
 
         圖片也一樣，但要加驚嘆號前綴。
 
         ![diehard_fund logo](https://i.imgur.com/Fvtworb.png)
   beta_banner:
     new_diehard_fund_html: |
-      <strong>新的 Diehard_Fund 又快又漂亮，且更好用了！</strong> 我們正在將每個人都切換過去。
+      <strong>新的 DiehardFund 又快又漂亮，且更好用了！</strong> 我們正在將每個人都切換過去。
     upgrade_browser_html: |
-      我們只支援較現代的 Internet Explore (10+) 版本。您需要<a href='http://outdatedbrowser.com/en' target='_blank'>升級您的瀏覽器</a>以繼續使用 Diehard_Fund。
-      <strong>新的 Diehard_Fund 在這裡！</strong>它又快又漂亮，而且準備好給行動裝置使用了。
+      我們只支援較現代的 Internet Explore (10+) 版本。您需要<a href='http://outdatedbrowser.com/en' target='_blank'>升級您的瀏覽器</a>以繼續使用 DiehardFund。
+      <strong>新的 DiehardFund 在這裡！</strong>它又快又漂亮，而且準備好給行動裝置使用了。
     more_info: 更多資訊...
-    button_text: 切換到新的 Diehard_Fund
+    button_text: 切換到新的 DiehardFund
   poll_mailer:
     common:
       or: 或
       why_send_this: 因為 %{reason}，您收到了這封電子郵件
-      view_on_diehard_fund: 在 Diehard_Fund 上檢視
+      view_on_diehard_fund: 在 DiehardFund 上檢視
       unsubscribe: 取消訂閱
       results: 結果
       responses: 回應

@@ -4,9 +4,9 @@ fi:
       message_intro: "%{who} sanoo:"
       link: Liity keskusteluun
     to_join_group:
-      subject: "%{member} on kutsunut sinut liittymään ryhmään %{group_name} Diehard_Fundssa"
+      subject: "%{member} on kutsunut sinut liittymään ryhmään %{group_name} DiehardFundssa"
     to_start_group:
-      subject: "Aseta uusi Diehard_Fund-ryhmä: %{group_name}"
+      subject: "Aseta uusi DiehardFund-ryhmä: %{group_name}"
     unsubscribe: 'Lopeta tilaus tai muuta sinun sähköpostiasetuksia:'
   footer:
     blog: Blogi

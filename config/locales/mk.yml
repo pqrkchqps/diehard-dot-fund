@@ -42,7 +42,7 @@ mk:
   notice:
     admin_rights_removed: Координаторските права на %{which_user} се избришани.
     user_added: "%{user_email_or_name} беше додаден/а во групата."
-    new_user_added: "%{user_email_or_name} ќе биде додаден/а во групата откако ќе направи сметка на Diehard_Fund."
+    new_user_added: "%{user_email_or_name} ќе биде додаден/а во групата откако ќе направи сметка на DiehardFund."
     member_removed: Членот е избришан.
     membership_approved: Членството е прифатено.
     membership_request_canceled: Барањето за членство е откажано.
@@ -120,7 +120,7 @@ mk:
         one: 1 година
         other: "%{count} години"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   inbox:
     title: Сандаче
     dropdown-btn: Сандаче
@@ -142,7 +142,7 @@ mk:
   request_new_group: Започни група
   start_new_group: Започни нова група
   find_a_group: Пронајди група
-  no_group_header: Добре дојде во Diehard_Fund Beta
+  no_group_header: Добре дојде во DiehardFund Beta
   empty_notifications: Сѐ уште немате известувања.
   see_all_notifications: Види ги сите известувања
   sign_out: Одјави се
@@ -322,7 +322,7 @@ mk:
   edit_comment:
     edit_comment: Измени го коментарот
   help:
-    different_ways: Различни начини да го користиш Diehard_Fund
+    different_ways: Различни начини да го користиш DiehardFund
     get_in_touch: Останете во контакт
     getting_started: Започни
     have_your_say: Кажете што имате
@@ -336,7 +336,7 @@ mk:
     positions_abstain_description: "<span>Воздржан</span> значи дека сте несигурни или дека е во ред групата да одлучи без вас."
     video_id: '52025402'
     video_tutorial: Видео туторијал
-    video_tutorial_description: Провери го видеото за брза демонстрација како се користи Diehard_Fund.
+    video_tutorial_description: Провери го видеото за брза демонстрација како се користи DiehardFund.
   resend_confirmation: Испрати повторно инструкции за потврда
   new_password: Нова лозинка
   confirm_new_password: Потврди ја новата лозинка
@@ -356,11 +356,11 @@ mk:
   dont_have_an_account: Немаш акаунт?
   sign_up_via: Регистрирај се преку
   or_fill_in_this_form: или пополни ја формава
-  already_have_account: Веќе имаш Diehard_Fund акаунт?
+  already_have_account: Веќе имаш DiehardFund акаунт?
   confirm_your_details: Потврди ги твоите детали
   confirmation_not_received: Не примивте инструкции за потврда?
   unlock_not_received: Не добивте инструкции за отклучување?
-  create_an_account_html: Создај Diehard_Fund Beta акаунт
+  create_an_account_html: Создај DiehardFund Beta акаунт
   log_in: Најави се
   invitation:
     alternate: 'Алтернативно, споделете го овој линк и секој може да побара да се придружи:'
@@ -410,7 +410,7 @@ mk:
     desc_header: Речиси си готов/а!
     submit: Однеси ме во мојата група!
     payment_model:
-      header: Diehard_Fund е за сите!
+      header: DiehardFund е за сите!
       info: Имаме модел за плаќање кој им одговара на сите групи, дури и на оние без пари :)
       link: Дознај повеќе
   simple_form:
@@ -446,7 +446,7 @@ mk:
       user:
         create: Создај акаунт
         update: Ажурирај ги подесувањата
-  about_diehard_fund: За Diehard_Fund
+  about_diehard_fund: За DiehardFund
   ago: пред %{quantity_of_time}
   approve: Одобри
   author: Автор
@@ -485,7 +485,7 @@ mk:
   pricing: Ценовник
   prev: Претходно
   more: Повеќе...
-  translate: Помогни да се преведе Diehard_Fund!
+  translate: Помогни да се преведе DiehardFund!
   translate_field: Види превод
   loading_translation: Преводот се вчитува...
   translate_this_string: Преведи на %{language}

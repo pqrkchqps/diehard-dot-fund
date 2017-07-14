@@ -2,9 +2,9 @@ hu:
   new_help:
     title: Miben lehetünk a segítségedre?
     how_diehard_fund_works:
-      title: Hogyan működik a Diehard_Fund
+      title: Hogyan működik a DiehardFund
       start_group_link: Indíts egy csoportot
-      start_group_description: az emberekkel való együttműködésért a Diehard_Fundn
+      start_group_description: az emberekkel való együttműködésért a DiehardFundn
       invite_people_link: Hívj meg embereket
       invite_people_description: a csoportodba
       start_discussion_link: Kezdj egy megbeszélést
@@ -16,13 +16,13 @@ hu:
     contents:
       title: Tartalomjegyzék
       what_is_diehard_fund:
-        title: Mi a Diehard_Fund
+        title: Mi a DiehardFund
       how_diehard_fund_works:
-        title: Hogy működik a Diehard_Fund
+        title: Hogy működik a DiehardFund
       getting_started:
         title_html: Kezdjük
-        starting_new_group_html: Ha egy új Diehard_Fund csoportot akarsz indítani
-        invited_into_group_html: Ha meghívtak egy Diehard_Fund csoportba
+        starting_new_group_html: Ha egy új DiehardFund csoportot akarsz indítani
+        invited_into_group_html: Ha meghívtak egy DiehardFund csoportba
         joining_existing_group_html: Ha csatlakozni akarsz egy létező diehard_funds csoporthoz
         single_sign_on_html: Egyszeri felíratkozás
       group_settings:
@@ -72,7 +72,7 @@ hu:
       keeping_up_to_date:
         title_html: Napra készen maradás
         volume_html: Hangerő
-        yesterday_on_diehard_fund_html: "\"Tegnap a Diehard_Fund-n\""
+        yesterday_on_diehard_fund_html: "\"Tegnap a DiehardFund-n\""
         email_settings_html: Email beállítások
       user_profile:
         title_html: Felhasználói profilod
@@ -90,32 +90,32 @@ hu:
       security:
         title_html: Titkosság és biztonság
       contributing:
-        title_html: Hozzájárulás a Diehard_Fundhoz
+        title_html: Hozzájárulás a DiehardFundhoz
       diehard_fund_community:
-        title_html: A Diehard_Fund Közösség
+        title_html: A DiehardFund Közösség
       diehard_fund_development:
-        title_html: Lépést tartva a Diehard_Fund fejlesztéssel
+        title_html: Lépést tartva a DiehardFund fejlesztéssel
       faq:
         title_html: "Gyakran feltett kérdések:"
     getting_started:
       title: Kezdjük
-      intro: "Amikor először kerülcs kapcsolatba a Diehard_Fundval, több út is kínálkozik a csatlakozásra.\nIme néhány információ minden egyes belépési pontról:\n"
+      intro: "Amikor először kerülcs kapcsolatba a DiehardFundval, több út is kínálkozik a csatlakozásra.\nIme néhány információ minden egyes belépési pontról:\n"
       starting_new_group:
-        title: Ha egy új Diehard_Fund csoportot akarsz indítani
+        title: Ha egy új DiehardFund csoportot akarsz indítani
       invited_into_group:
-        title: Ha meghívtak egy Diehard_Fund csoportba
-        body_html: "Ha meghívást kapsz egy létező Diehard_Funds csoportba, az értesítő email tartalmazni fog egy egyedi meghívó hivatkozást.\nAmikor rákattintva követed a hivatkozást, de nincs érvényes Diehard_Fund felhasználói fiókod, jelzést fogsz kapni, hogy regisztrálj az email címeddel és egy jelszóval.\nHa már van Diehard_Fund fiókod, egyenesen a csoportba kerülsz.\n"
+        title: Ha meghívtak egy DiehardFund csoportba
+        body_html: "Ha meghívást kapsz egy létező DiehardFunds csoportba, az értesítő email tartalmazni fog egy egyedi meghívó hivatkozást.\nAmikor rákattintva követed a hivatkozást, de nincs érvényes DiehardFund felhasználói fiókod, jelzést fogsz kapni, hogy regisztrálj az email címeddel és egy jelszóval.\nHa már van DiehardFund fiókod, egyenesen a csoportba kerülsz.\n"
       joining_existing_group:
-        title_html: "Ha egy létező Diehard_Fund csoporthoz akarsz csatlakozni  (a <a href=\"http://diehard.fund/explore\">Felfedező lap</a>)"
+        title_html: "Ha egy létező DiehardFund csoporthoz akarsz csatlakozni  (a <a href=\"http://diehard.fund/explore\">Felfedező lap</a>)"
         body:
-          explore_page_html: "A <a href=\"https://www.diehard.fund/explore\">Felfedező lap</a> megmutatja neked az aktív nyilvános csoportokat a Diehard_Fundn.\nEz elérhető a Diehard_Fund alkalmazás láblécének <strong>“Nyilvános csoportok”</strong>  hivatkozásán keresztül. \nA <a href=\"https://www.diehard.fund/explore\">Felfedező lapon</a> kereshetsz a csoport neve vagy kulcsszavai vagy kategóriája alapján, majd rákattintva a csoportra láthatod annak nyilvános tartalmát.\nA csoport adatvédelmi beállításai határozzák meg miként válhatsz a csoport tagjává.\n"
-          open_to_join_html: "Néhány nyilvános csoport  <strong>nyitott a csatlakozáshoz</strong>,  amely esetben egy <strong>\"Csatlakozz a csoporthoz\"</strong> gombot látsz a csoport oldalán.\nHa már van Diehard_Fund fiókod kattints a <strong>\"Csatlakozz a csoporthoz\"</strong> gombra, ami hozzáad téged a csoporthoz.\nHa nincs érvényes Diehard_Fund fiókod, jelzést fogsz kapni, hogy létrehozz egyet.\n"
+          explore_page_html: "A <a href=\"https://www.diehard.fund/explore\">Felfedező lap</a> megmutatja neked az aktív nyilvános csoportokat a DiehardFundn.\nEz elérhető a DiehardFund alkalmazás láblécének <strong>“Nyilvános csoportok”</strong>  hivatkozásán keresztül. \nA <a href=\"https://www.diehard.fund/explore\">Felfedező lapon</a> kereshetsz a csoport neve vagy kulcsszavai vagy kategóriája alapján, majd rákattintva a csoportra láthatod annak nyilvános tartalmát.\nA csoport adatvédelmi beállításai határozzák meg miként válhatsz a csoport tagjává.\n"
+          open_to_join_html: "Néhány nyilvános csoport  <strong>nyitott a csatlakozáshoz</strong>,  amely esetben egy <strong>\"Csatlakozz a csoporthoz\"</strong> gombot látsz a csoport oldalán.\nHa már van DiehardFund fiókod kattints a <strong>\"Csatlakozz a csoporthoz\"</strong> gombra, ami hozzáad téged a csoporthoz.\nHa nincs érvényes DiehardFund fiókod, jelzést fogsz kapni, hogy létrehozz egyet.\n"
           invitation_only_html: "Néhány nyilvános csoport új tagokat  <strong>csak meghívással</strong> endgedélyez, amely esetben láthatod ugyan a csoportot, de nem lesz sem gomb, sem más lehetőség a csatlakozásra a csoportlapon.\n"
       single_sign_on:
         title: Egyszeri felíratkozás
     group_settings:
       title: Csoport beállítások
-      intro_html: "Új Diehard_Fund csoport indítása bármikor megtehető.\nAmikor újonnan indítasz csoportot, adva lesz egy lehetőség, hogy megadd hogyan működjön a csoportod kitöltve három űrlapot csoportod beállításainak különféle szempontjairól; <strong>Profil</strong>, <strong>Titkosság</strong> and <strong>Engedélyek</strong>.\nHa meg akarod változtatni a csoportod beállításait, megteheted azt rákattintva a <strong>“Lehetőségek”</strong> gombra a csoport lap jobb felső sarkában, majd kiválasztva a <strong>“Csoport beállítások szerkesztése”</strong> lehetőséget.\nEz csak a csoport koordinátotok számára látható.\n"
+      intro_html: "Új DiehardFund csoport indítása bármikor megtehető.\nAmikor újonnan indítasz csoportot, adva lesz egy lehetőség, hogy megadd hogyan működjön a csoportod kitöltve három űrlapot csoportod beállításainak különféle szempontjairól; <strong>Profil</strong>, <strong>Titkosság</strong> and <strong>Engedélyek</strong>.\nHa meg akarod változtatni a csoportod beállításait, megteheted azt rákattintva a <strong>“Lehetőségek”</strong> gombra a csoport lap jobb felső sarkában, majd kiválasztva a <strong>“Csoport beállítások szerkesztése”</strong> lehetőséget.\nEz csak a csoport koordinátotok számára látható.\n"
       group_profile:
         title: Csoport jellemzők
         body_html: "A csoport jellemzők beállítása megköveteli tőled, hogy válassz egy nevet a csoportod számára és írj egy csoport leírást.\nÍrd meg, hogy miért jött létre a csoport, például \"Ez egy nyilvános csoport kiállítás koordinátorok részére, a kiállítóhely használatra vonatkozó kérések érvényesítéséhez\" vagy \"Testületi tagok tere költségvetési javaslatok megfontolásához\".\nA csoportod célja idő közben változhat, de az segíthet, ha a leírás érthetővé teszi az új tagok számára, hogy miért is van az adott csoport.\nKiválaszthatod a csoport kategóriát is.\nHa ez egy nyilvános csoport és azt szeretnéd, hogy az emberek csatlakozni tudjanak a megbeszélésekhez, segíthet a kategória választás, így mások használhatják azt a kereséshez a  <a href=\"http://diehard.fund/explore\">Felfedező lapon</a>.\n"
@@ -144,7 +144,7 @@ hu:
             body_html: "Szeretnéd, hogy a csoportod tagjai <a href=\"#inviting-members\">meghívhassanak személyeket</a> csatlakozásra, és - a csoportod adatvédelmi beállításaitól függően - érvényesítsenek tagsági kérelmeket?\nHa ezt a lehetőséget választod a csoportod minden tagja meghívhat új embereket és érvényesíthet tagsági kérelmeket.\nHa ezek nincsenek kiválasztva, akkor csak a koordinátor lesz képes meghívni és érvényesíteni új tagokat.\n"
           create_subgroups:
             title: Alcsoport létrehozása
-            body_html: "Akarod, hogy a Diehard_Fund csoportod tagjai új <a href=\"#subgroups\">alcsoportot</a> hozhassanak létre?\nHa ez a lehetőség ki van választva, a csoportodban mindenki létre tud majd hozni alcsoportokat.\nHa nincs kiválasztva, akkor csak a csoport koordinátor hozhat létre alcsoportokat.\n"
+            body_html: "Akarod, hogy a DiehardFund csoportod tagjai új <a href=\"#subgroups\">alcsoportot</a> hozhassanak létre?\nHa ez a lehetőség ki van választva, a csoportodban mindenki létre tud majd hozni alcsoportokat.\nHa nincs kiválasztva, akkor csak a csoport koordinátor hozhat létre alcsoportokat.\n"
           start_discussions:
             title: Vitákat kezdeményez
             body_html: "Szeretnéd hogy a csoportban bárki képes legyen <a href=\"#starting-discussions\">új vitát kezdeményezni</a>?\nHa ez a lehetőség ki van választva, a csoportban mindenki indíthat vitát.\nHa nincs kiválasztva, akkor csak a csoport koordinátor tud megbeszélést kezdeni.\n"
@@ -165,7 +165,7 @@ hu:
         title: Borítókép hozzáadása
       manage_membership:
         title: Tagság menedzselése
-        body_html: "A csoport koordinátorok felelősek a csoportjaik tagságának menedzseléséért.\nEz jelenti a tagok hozzáadását és eltávolítását, koordinátori jogok megadását és megvonását.\nA koordinátorok emailt küldhetnek csoportjuk összes tagjának.\nEzek a tevékenységek végrehajthatók a <strong>\"Tagok\"</strong> oldalon.\nA Diehard_Fund csoport oldal jobb oldalán, van egy <strong>“Lehetőségek”</strong> gomb.\nA <strong>\"Tagok\"</strong> oldal eléréséhez kattints erre a gombra, és válaszd a <strong>“Tagok kezelése”</strong> lehetőséget.\nSzintén elérheted ezt az oldalt a <strong>\"Tovább...\"</strong> hivatkozásra kattintva a csoport lapod jobb oldalán található <strong>\"Tagok\"</strong> panelen.\n"
+        body_html: "A csoport koordinátorok felelősek a csoportjaik tagságának menedzseléséért.\nEz jelenti a tagok hozzáadását és eltávolítását, koordinátori jogok megadását és megvonását.\nA koordinátorok emailt küldhetnek csoportjuk összes tagjának.\nEzek a tevékenységek végrehajthatók a <strong>\"Tagok\"</strong> oldalon.\nA DiehardFund csoport oldal jobb oldalán, van egy <strong>“Lehetőségek”</strong> gomb.\nA <strong>\"Tagok\"</strong> oldal eléréséhez kattints erre a gombra, és válaszd a <strong>“Tagok kezelése”</strong> lehetőséget.\nSzintén elérheted ezt az oldalt a <strong>\"Tovább...\"</strong> hivatkozásra kattintva a csoport lapod jobb oldalán található <strong>\"Tagok\"</strong> panelen.\n"
         membership_requests:
           title: Tagsági kérelmek elfogadása/elvetése
           body:
@@ -193,7 +193,7 @@ hu:
     inviting_members:
       title: Új tagok meghívása
       body:
-        invitation_instructions_html: "Új emberek meghívásához a csoportodba, írd be email címeiket, vesszővel elválasztva.\nVálaszthatod a Diehard_Fund alapértelmezett üzenetét, vagy megfogalmazhatsz egy alkalmi üzenetet\n"
+        invitation_instructions_html: "Új emberek meghívásához a csoportodba, írd be email címeiket, vesszővel elválasztva.\nVálaszthatod a DiehardFund alapértelmezett üzenetét, vagy megfogalmazhatsz egy alkalmi üzenetet\n"
         invitation_link: "Amikor befejezed a meghívás űrlap kitöltését, egy-egy email megy majd minden általad megadott email címre a szövegeddel és egy egyedi meghívási hivatkozással:"
       importing_contacts:
         title: Kapcsolatok importálása
@@ -225,10 +225,10 @@ hu:
         title: Formázás
       attaching_files:
         title: Fájlok csatolása
-        body: "Diehard_Fund lehetővé teszi számodra, hogy fájlokat csatolj a hozzászólásodhoz egy vitában.\nCsatolhatsz egy fájlt egy hozzászóláshoz az iratkapocs ikonra kattintva a vitalap végén található hozzászólás doboz alatt majd kiválasztva a fájlt a saját eszközödről.\n"
+        body: "DiehardFund lehetővé teszi számodra, hogy fájlokat csatolj a hozzászólásodhoz egy vitában.\nCsatolhatsz egy fájlt egy hozzászóláshoz az iratkapocs ikonra kattintva a vitalap végén található hozzászólás doboz alatt majd kiválasztva a fájlt a saját eszközödről.\n"
       mentioning_group_members:
         title: "@csoporttagok megemlítése"
-        body_html: "Ha a csoportodban levő bizonyos személyek figyelmét szeretnéd felhívni, üsd be a <strong>‘@’</strong> jelet a hozzászólásodba, majd utána gépeld az illető nevét.\nA Diehard_Fund automatikusan felkínálja a felhasználóneveket.\nAz illető értesítést fog kapni arról, hogy megemlítetted őt egy hozzászólásban.\n"
+        body_html: "Ha a csoportodban levő bizonyos személyek figyelmét szeretnéd felhívni, üsd be a <strong>‘@’</strong> jelet a hozzászólásodba, majd utána gépeld az illető nevét.\nA DiehardFund automatikusan felkínálja a felhasználóneveket.\nAz illető értesítést fog kapni arról, hogy megemlítetted őt egy hozzászólásban.\n"
       editing_comments:
         title: Egy hozzászólás szerkesztése
       liking_comments:
@@ -241,7 +241,7 @@ hu:
         body_html: "Törölheted saját hozzászólásaidat bármikor a hozzászólás jobb felső sarkában található <strong>\"X\"</strong>-re kattintva.\nA csoport koordinátor bármelyik hozzászólást törölheti egy megbeszélésből, amelyet egy általa koordinált csoportban tettek.\n"
     proposals:
       title: Javaslatok
-      intro_html: "Javaslat tehető egy <a href=\"#discussion-threads\">megbeszélés folyamban</a>, ami magában foglalja a vitát és a döntési javaslatot.\nEgy egyszerű megbeszélés folyamban egyszerre csak egy aktív döntési javaslat lehet.\nA Diehard_Fund bátorítja a csoportokat, hogy indítsanak egy indító vitát a többféle vélemény kikristályosodására.\nA döntési javaslat egy olyan javasolt megoldás, amely természetesen merül fel és olyan ötletnek tűnik, amely elfogadást nyer.\n"
+      intro_html: "Javaslat tehető egy <a href=\"#discussion-threads\">megbeszélés folyamban</a>, ami magában foglalja a vitát és a döntési javaslatot.\nEgy egyszerű megbeszélés folyamban egyszerre csak egy aktív döntési javaslat lehet.\nA DiehardFund bátorítja a csoportokat, hogy indítsanak egy indító vitát a többféle vélemény kikristályosodására.\nA döntési javaslat egy olyan javasolt megoldás, amely természetesen merül fel és olyan ötletnek tűnik, amely elfogadást nyer.\n"
       starting_proposals:
         title: Javaslat tétel
         body:
@@ -267,7 +267,7 @@ hu:
     subgroups:
       title: Alcsoportok
       body:
-        intro_html: "Gyakran szükséged lehet több Diehard_Fund csoportra, melyek egy szervezethez tartoznak, de azt találhatod, hogy minden csoportnak eltérő igényei vannak a tagságra, titkosságra és jogosítványokra vonatkozóan.\nIlyenkor hasznosak az alcsoportok.\n"
+        intro_html: "Gyakran szükséged lehet több DiehardFund csoportra, melyek egy szervezethez tartoznak, de azt találhatod, hogy minden csoportnak eltérő igényei vannak a tagságra, titkosságra és jogosítványokra vonatkozóan.\nIlyenkor hasznosak az alcsoportok.\n"
       subgroup_privacy:
         title: Alcsoport titkosság
         body:
@@ -288,12 +288,12 @@ hu:
           quiet_description: "- ez minden emailt kikapcsol. Az új csoport eseményeket a Műszerfalon fogod látni."
           mute_title: Néma
           upon_joining_group_html: "Amikor új csoporthoz csatlakozol, hangerő beállításod erre a konkrét csoportra vonatkozóan <strong>Normál</strong> lesz.\nEz azt jelenti, hogy emailt fogsz kapni, amikor új vita indul, amikor egy döntési javaslat születik vagy amikor egy javaslat eredményét közzéteszik.\n"
-          reply_via_email_html: "Bármelyik hozzászólásra válaszolhatsz, amelyet emailben kaptál meg, és a válaszod a megfelelő Diehard_Funds vitában fog megjelenni.\nAlternatívaként választhatod, hogy a hozzászólást a Diehard_Fundn, a vita részeként tekinted meg a <strong>“megnézem a Diehard_Fundn”</strong> hivatkozásra kattintva az email láblécében.\n"
+          reply_via_email_html: "Bármelyik hozzászólásra válaszolhatsz, amelyet emailben kaptál meg, és a válaszod a megfelelő DiehardFunds vitában fog megjelenni.\nAlternatívaként választhatod, hogy a hozzászólást a DiehardFundn, a vita részeként tekinted meg a <strong>“megnézem a DiehardFundn”</strong> hivatkozásra kattintva az email láblécében.\n"
       email_settings:
         title: Email beállítások
         body_html: "Az <strong>Email beállítások</strong> oldalad lehetővé teszi számodra email értesítések létrehozását és beállítását azokra a csoportokra és megbeszélésekre, amelyekben részt veszel.\n<strong>Email beállítások</strong>  oldalad felkereséséhez kattints a saját nevedre a lap jobb felső sarkában, majd az <strong>“Email beállítások”</strong>-ra.\n"
       yesterday_on_diehard_fund:
-        title: Tegnap a Diehard_Fund-n
+        title: Tegnap a DiehardFund-n
     user_profile:
       title: Felhasználói profilod
       language_settings:
@@ -318,26 +318,26 @@ hu:
     security:
       title: Titkosság és biztonság
     contributing:
-      title: Hozzájárulás a Diehard_Fundhoz
+      title: Hozzájárulás a DiehardFundhoz
       body:
-        intro: "Pillanatnyilag számtalan út áll nyitva, amelyen az emberek közvetlenül vehetnek részt a Diehard_Fund munkáiban:"
+        intro: "Pillanatnyilag számtalan út áll nyitva, amelyen az emberek közvetlenül vehetnek részt a DiehardFund munkáiban:"
         open_source:
-          body_html: "Ha érdekel a részvétel a Diehard_Fund programozásában, először is nézz körül <a href=\"https://github.com/diehard_fund/diehard_fund\">Github tárhelyünkön</a>.\nMi a <a href=\"https://github.com/diehard_fund/diehard_fund/issues\">Github feladat kezelőjét</a> használjuk a munkák, fejlesztések és hibajavítások követésére és mindig örömmel fogadjuk külső közreműködők támogatását.!\nAz induláshoz találsz egy telepítési útmutatót a  <a href=\"https://github.com/diehard_fund/diehard_fund/wiki\">Github wikin</a> és egy nyilvános <a href=\"https://www.diehard.fund/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund\">Diehard_Fund Közösségi alcsoportot a telepítések támogatása és segítségnyújtás témákban</a>, melyben bármilyen, a problémád megoldását segítő kérdést feltehetsz.\n"
+          body_html: "Ha érdekel a részvétel a DiehardFund programozásában, először is nézz körül <a href=\"https://github.com/diehard_fund/diehard_fund\">Github tárhelyünkön</a>.\nMi a <a href=\"https://github.com/diehard_fund/diehard_fund/issues\">Github feladat kezelőjét</a> használjuk a munkák, fejlesztések és hibajavítások követésére és mindig örömmel fogadjuk külső közreműködők támogatását.!\nAz induláshoz találsz egy telepítési útmutatót a  <a href=\"https://github.com/diehard_fund/diehard_fund/wiki\">Github wikin</a> és egy nyilvános <a href=\"https://www.diehard.fund/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund\">DiehardFund Közösségi alcsoportot a telepítések támogatása és segítségnyújtás témákban</a>, melyben bármilyen, a problémád megoldását segítő kérdést feltehetsz.\n"
         translation:
           title_html: Fordítás
         diehard_fund_community:
-          title_html: A Diehard_Fund Közösség
+          title_html: A DiehardFund Közösség
     diehard_fund_community:
-      title: A Diehard_Fund Közösség
+      title: A DiehardFund Közösség
     diehard_fund_development:
-      title: Lépéstartás a Diehard_Fund fejlesztéssel
-      intro: "Számtalan módod van, hogy kövesd a Diehard_Fund fejlődését:"
-      github_repo_html: A fő Diehard_Fund fejlesztési tárhely
-      github_issues_html: Diehard_Fund esemény követő a Githubon
-      angular_html: Diehard_Fund 1.0 beta működésben
+      title: Lépéstartás a DiehardFund fejlesztéssel
+      intro: "Számtalan módod van, hogy kövesd a DiehardFund fejlődését:"
+      github_repo_html: A fő DiehardFund fejlesztési tárhely
+      github_issues_html: DiehardFund esemény követő a Githubon
+      angular_html: DiehardFund 1.0 beta működésben
       roadmap_html: A nyilvános ütemterv
-      twitter_html: Diehard_Fund a Twitteren
-      code_climate_html: Diehard_Fund Code Climate-je (automatikus kód ellenőrzője)
+      twitter_html: DiehardFund a Twitteren
+      code_climate_html: DiehardFund Code Climate-je (automatikus kód ellenőrzője)
     faq:
       title: "Gyakran feltett kérdések:"
       confirmation_email:
@@ -348,13 +348,13 @@ hu:
       forgotten_password:
         title: "Elfelejtettem a jelszavamat, mit csináljak?"
       diehard_fund_account:
-        title: Szükségem van Diehard_Fund fiókra egy vitában való részvételhez?
+        title: Szükségem van DiehardFund fiókra egy vitában való részvételhez?
       cost:
-        title: Kell fizetni a Diehard_Fund használatáért?
+        title: Kell fizetni a DiehardFund használatáért?
       single_sign_on:
         title: "Beléphetek Google-lal, Facebookkal vagy Twitterrel?"
       diehard_fund_instance:
-        title: Hogyan állíthatom be saját Diehard_Fund példányomat?
+        title: Hogyan állíthatom be saját DiehardFund példányomat?
       feature_idea:
         title: "Mit tegyek, ha új funkcióra van javaslatom?"
       feedback_link: "Kihagytunk valamit? Várjuk visszajelzését >"

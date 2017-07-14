@@ -72,7 +72,7 @@ ActiveAdmin.register Group do
     column :enable_experiments
     # TODO: This is a plugin-specific hack. Activeadmin does not take well to being customized.
     # I would rather leave this now and revisit when/if we upgrade our admin panel for more general use.
-    if Plugins.const_defined?("Diehard_FundBuyerExperience")
+    if Plugins.const_defined?("DiehardFundBuyerExperience")
       column("Subscription") { |group| group.subscription&.kind }
     end
     actions
@@ -80,7 +80,7 @@ ActiveAdmin.register Group do
 
   show do |group|
     attributes_table do
-      if Plugins.const_defined?("Diehard_FundBuyerExperience")
+      if Plugins.const_defined?("DiehardFundBuyerExperience")
         row :standard_plan_link do link_to("standard subscription link", ChargifyService.standard_plan_url(group), target: '_blank' ) end
         row :plus_plan_link do link_to("plus subscription link", ChargifyService.plus_plan_url(group), target: '_blank') end
         row :stats_report_link do link_to("Metabase!", "https://metabase.diehard_fund.io/dash/14?parent_group_id=" + group.id.to_s, target: '_blank') end
@@ -257,7 +257,7 @@ ActiveAdmin.register Group do
   member_action :move, method: :post do
     group = Group.friendly.find(params[:id])
     if parent = Group.find_by(key: params[:parent_id]) || Group.find_by(id: params[:parent_id].to_i)
-      group.subscription&.destroy if Plugins.const_defined?("Diehard_FundBuyerExperience")
+      group.subscription&.destroy if Plugins.const_defined?("DiehardFundBuyerExperience")
       group.update(parent: parent)
     end
     redirect_to admin_group_path(group)

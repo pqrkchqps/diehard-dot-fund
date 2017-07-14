@@ -22,7 +22,7 @@ ja:
       no_invitations_remaining: 残っている招待はありません
     mailer:
       invitation_instructions:
-        subject: 誰かがあなたをDiehard_Fundのグループに招待しました
+        subject: 誰かがあなたをDiehardFundのグループに招待しました
     registrations:
       sign_up: アカウントを作成します
   error:
@@ -64,7 +64,7 @@ ja:
   notice:
     admin_rights_removed: "%{which_user} のコーディネーター権限は削除されました"
     user_added: "%{user_email_or_name} がこのグループに追加されました"
-    new_user_added: "%{user_email_or_name} はDiehard_Fundのアカウントがセットアップされた後にグループに追加されます"
+    new_user_added: "%{user_email_or_name} はDiehardFundのアカウントがセットアップされた後にグループに追加されます"
     member_removed: メンバーは削除されました
     membership_approved: メンバーリクエストは承認されました
     membership_request_canceled: メンバーリクエストはキャンセルされました
@@ -134,7 +134,7 @@ ja:
       almost_x_years:
         other: "%{count} 年"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   inbox:
     title: 受信箱
     dropdown-btn: 受信箱
@@ -162,7 +162,7 @@ ja:
   start_new_group_hint: 意思決定を開始する
   find_a_group: グループを見つける
   find_a_group_hint: 公開グループを調査する
-  no_group_header: Diehard_Fund Betaにようこそ
+  no_group_header: DiehardFund Betaにようこそ
   empty_notifications: 通知はありません
   see_all_notifications: 全ての通知を見る
   sign_out: サインアウト
@@ -171,8 +171,8 @@ ja:
     あなたのアカウントを作成することができませんでした。
     スクリーンリーダーを使っている場合、フォームの最後の(非表示)フィールドが空白になっていることを確かめてください
   tagline: 影響がある決定に誰もが簡単に関わることができる世界へ
-  or_sign_in_html: すでにDiehard_Fundアカウントを持っている場合は、<a href='%{link}' class='%{link_class}'>ここからログイン</a>
-  or_link_account_html: もしあなたがすでにDiehard_Fundアカウントを持っている場合、<a href='%{link}'>つなげる</a>
+  or_sign_in_html: すでにDiehardFundアカウントを持っている場合は、<a href='%{link}' class='%{link_class}'>ここからログイン</a>
+  or_link_account_html: もしあなたがすでにDiehardFundアカウントを持っている場合、<a href='%{link}'>つなげる</a>
   click_to_dismiss: メッセージを閉じる
   generic_confirm: よろしいですか？
   discussion_helper_text:
@@ -403,17 +403,17 @@ ja:
       abstain: 棄権
       block: ブロック
   help:
-    coordinating: Diehard_Fundグループをコーディネートする
+    coordinating: DiehardFundグループをコーディネートする
     coordinating_details: |
-      コーディネーターとして、Diehard_Fundグループをセットアップし、メンバーを招待する責任があります。
+      コーディネーターとして、DiehardFundグループをセットアップし、メンバーを招待する責任があります。
       ソフトウェアの使い方を学ぶのと同様に、あなたのグループはより効率的に協力して意思決定を行う新しいプロセスについても学びます。
       これはあなたのグループが成功するためのアドバイスです：
-    different_ways: Diehard_Fundの様々な使い方
+    different_ways: DiehardFundの様々な使い方
     engaging_html: |
       <h2>あなたのグループに参加するためのアドバイス</h2>
       <p>卓上に魅力的な提案があれば、人はワクワクしながら飛び込んで参加し始めます。
       良い提案はグループに対する行動の計画が含まれています。それは、自分の意見が賛成か反対かすぐにわかってもらうためです。
-      グループが自分たちでまたはメールなどで現在取りかかっているディスカッションや決定を、Diehard_Fundで行った方が簡単ではないですか？</p>
+      グループが自分たちでまたはメールなどで現在取りかかっているディスカッションや決定を、DiehardFundで行った方が簡単ではないですか？</p>
       <p>グループがまだ始まったばかりの場合、皆にツールを使うチャンスを提供し意思決定プロセスが形になるのを見るために、
       気楽な決定から始めることもできます。</p>
       <p>ディスカッションにメンバー参加させるもう一つの簡単な方法は、特定の人を指定する@mention機能です；
@@ -433,7 +433,7 @@ ja:
     get_in_touch_description_html: 質問やフィードバックがアル場合は、<a href='%{link}'>お知らせください</a>
     getting_started: 始めるには
     getting_started_description: 左側では、グループがトピックについてディスカッションをしたり、アイディアや情報を交換したりします。グループが決定を行うとき、右側に現れます。
-    getting_the_most: Diehard_Fundを使いこなそう
+    getting_the_most: DiehardFundを使いこなそう
     have_your_say: 意見を言う
     have_your_say_details_html: |
       <p>意見を言う準備が整ったときに、４つの意見ボタンのうち一つをクリックしてください</p>
@@ -449,15 +449,15 @@ ja:
       <p>新メンバーが持つ最初の質問は"このグループは何のためにあるのだろう？"です。</p>
       <p>最もシンプルにグループを説明できる方法を考えてみてください：何を一緒に成し遂げたいですか？
       どのようなタイプの決定を行いたいですか？誰が参加しますか？</p>
-      <p>あなたがDiehard_Fundに参加するよう誰かを招待をする前に、始めにグループと相談するのがいいでしょう</p>
+      <p>あなたがDiehardFundに参加するよう誰かを招待をする前に、始めにグループと相談するのがいいでしょう</p>
       <p>メンバーはどうして自分たちが招待されたのか、何を期待されているのか、どうして新しいツールの使い方を学ぶ価値があるのか知りたいでしょう</p>
     join_the_community: コミュニティに参加する
     join_the_community_description_html: |-
-      ツールを有効化する方法や、改良する方法を話し合うDiehard_Fundコミュニティへの参加を誰でも歓迎します
-      <br /><br /><a href='https://www.diehard.fund/groups/3'>Diehard_Fundコミュニティに行くにはここをクリック</a>.
+      ツールを有効化する方法や、改良する方法を話し合うDiehardFundコミュニティへの参加を誰でも歓迎します
+      <br /><br /><a href='https://www.diehard.fund/groups/3'>DiehardFundコミュニティに行くにはここをクリック</a>.
     images_and_text_formatting: 画像とテキストのフォーマット
     images_and_text_formatting_html: |
-      <p>Diehard_Fundは画像組み込みとテキストフォーマットに"マークダウン"を使用します
+      <p>DiehardFundは画像組み込みとテキストフォーマットに"マークダウン"を使用します
       コメントボックスの下にある灰色の小さなアイコンでマークダウンをオンにできます</p>
       <p>マークダウンの使用法について知りたい場合は
       <a href='https://www.diehard.fund/discussions/1124'>ここをクリック</a>
@@ -494,7 +494,7 @@ ja:
       <p>この動的なプロセスを通して、あなたのグループの結集された知恵は、一人で考えつくよりもさらに良いアイディアを生み出すことができます。</p>
       <p>決定にもう少し余裕が必要だと思われる場合は、提案の締め切りはいつでも延長できます。提案が締め切られる24時間前に、全員にメールで通知されます。</p>
     video_tutorial: ビデオのチュートリアル
-    video_tutorial_description: Diehard_Fundの使い方の手短なデモンストレーションに関してはこのビデオを見てください。
+    video_tutorial_description: DiehardFundの使い方の手短なデモンストレーションに関してはこのビデオを見てください。
   hint:
     context: ディスカッション情報を使うアドバイス
     discussion: ディスカッションを開始するにあたってアドバイス
@@ -509,24 +509,24 @@ ja:
     tooltip: 私たちの地域資金提供モデルについてもっとよく知る
     thought_about_contributing: 寄付をするチャンス
     thought_about_contributing_description: |
-      Diehard_Fundは、影響を持つ決定に誰でも参加しやすくするために働いている社会事業組合です。
+      DiehardFundは、影響を持つ決定に誰でも参加しやすくするために働いている社会事業組合です。
 
-      お金は共同意思決定の障壁になるべきではありません。Diehard_Fundは、ユーザーのコミュニティからの寄付や、使用している公式の機関によって支払われている購読料によって資金を供給されています。
+      お金は共同意思決定の障壁になるべきではありません。DiehardFundは、ユーザーのコミュニティからの寄付や、使用している公式の機関によって支払われている購読料によって資金を供給されています。
 
-      あなたの寄付は、私たちが広告のないDiehard_Fundの独立を維持し、コミュニティの中で素晴らしいことを行っているグループに自由に利用可能になるということを意味しています。
+      あなたの寄付は、私たちが広告のないDiehardFundの独立を維持し、コミュニティの中で素晴らしいことを行っているグループに自由に利用可能になるということを意味しています。
 
       これを実現させていただいて、ありがとうございます！
-    thank_you_title: Diehard_Fundに貢献してくれてありがとう！
+    thank_you_title: DiehardFundに貢献してくれてありがとう！
     thank_you_body: |
       あなたの寄付は、容易な共同意思決定を世界へ届けることを助けてくれます。
 
       あなたの寄付の領収証のついたメールをすぐに受け取るでしょう。
 
-      誰でもDiehard_Fundコミュニティへの参加が歓迎されます。Diehard_Fundコミュニティは、そのツールを最大限に活かす方法、そしてどのように改良できるかについて話す場です。
+      誰でもDiehardFundコミュニティへの参加が歓迎されます。DiehardFundコミュニティは、そのツールを最大限に活かす方法、そしてどのように改良できるかについて話す場です。
 
-      <a href='https://www.diehard.fund/groups/3'>Diehard_Fundコミュニティグループ & raquoにジャンプする</a>
+      <a href='https://www.diehard.fund/groups/3'>DiehardFundコミュニティグループ & raquoにジャンプする</a>
     making_a_donation: 寄付をする
-    making_a_donation_description: "Diehard_Fundは、影響を持つ決定に誰でも参加しやすくするために働いている社会事業組合です。 \nあなたの寄付は、私たちが広告のないDiehard_Fundの独立を維持し、コミュニティの中で素晴らしいことを行っているグループに自由に利用可能になるということを意味しています。\n\n これを実現させていただいて、ありがとうございます！\n"
+    making_a_donation_description: "DiehardFundは、影響を持つ決定に誰でも参加しやすくするために働いている社会事業組合です。 \nあなたの寄付は、私たちが広告のないDiehardFundの独立を維持し、コミュニティの中で素晴らしいことを行っているグループに自由に利用可能になるということを意味しています。\n\n これを実現させていただいて、ありがとうございます！\n"
   new_password: 新しいパスワード
   confirm_new_password: 新しいパスワードを再入力してください
   change_your_password: パスワードを変更します
@@ -546,12 +546,12 @@ ja:
   link_it_up_instead: 代わりにつなげる
   sign_up_via: を通してサインアップしてください
   or_fill_in_this_form: またはこのフォームを埋めてください
-  already_have_account: すでにDiehard_Fundアカウントを持っていますか？
+  already_have_account: すでにDiehardFundアカウントを持っていますか？
   confirm_your_details: あなたの詳細情報を確認する
   link_up_your_account: アカウントをつなげる
-  log_in_to_your_diehard_fund_account: " %{provider_name} につなげるためにDiehard_Fundアカウントにログインする"
-  now_that_your_logged_in: 今、あなたは %{provider_name} でログインしています、Diehard_Fundアカウントを作成するにはあなたの詳細情報を確認してください
-  create_an_account_html: Diehard_Fund Betaのアカウントを作成する
+  log_in_to_your_diehard_fund_account: " %{provider_name} につなげるためにDiehardFundアカウントにログインする"
+  now_that_your_logged_in: 今、あなたは %{provider_name} でログインしています、DiehardFundアカウントを作成するにはあなたの詳細情報を確認してください
+  create_an_account_html: DiehardFund Betaのアカウントを作成する
   log_in: ログイン
   join_group:
     log_in: ログインして %{group_name} に参加する
@@ -568,14 +568,14 @@ ja:
     invitation_already_used: この招待はすでに使われています。あなたのグループにとどまるにはログインしてください
     recipients: コンマで区切って、メールアドレスを入力してください：
     invitees_placeholder: ユーザー名 <user1@example.com>, user2@example.com
-    subject: " %{group} という新しいDiehard_Fundのグループに参加してください"
+    subject: " %{group} という新しいDiehardFundのグループに参加してください"
     invite_people: グループにメンバーを招待する
     invite_to_discussion: このディスカッションにメンバーを招待する
     invite_to_discussion_info: |-
       このディスカッションにメンバーを追加すると、その人たちにあなたのグループへの招待を送ります。
       彼らが承認すると、このディスカッションに招かれます。
     select_members: "%{group_name}　からメンバーを追加する"
-    body_editable: 'どうも！一緒に考えて結論を出しましょう！私たちはDiehard_Fundという共同意思決定ツールを使っています
+    body_editable: 'どうも！一緒に考えて結論を出しましょう！私たちはDiehardFundという共同意思決定ツールを使っています
 
 '
     body_editable_discussion: 'どうも。ディスカッションに参加しましょう！
@@ -629,10 +629,10 @@ ja:
   group_setup:
     set_up_your_group: あなたのグループを立ち上げる
     desc_header: あともう少しです！
-    desc_html: グループのコーディネーターとして、Diehard_Fundグループを立ち上げて管理する責任があります。いくつかの設定を選択した後、あなたが作った新しいグループに入り、ディスカッションを始め、招待状を送ることができます。<p>あなたのグループを説明するのに一番シンプルな方法を考えるとき、自分に尋ねてみてください：何を一緒に成し遂げたいか？どのようなタイプの決定を行いたいか？誰が含まれるのか？</p>
+    desc_html: グループのコーディネーターとして、DiehardFundグループを立ち上げて管理する責任があります。いくつかの設定を選択した後、あなたが作った新しいグループに入り、ディスカッションを始め、招待状を送ることができます。<p>あなたのグループを説明するのに一番シンプルな方法を考えるとき、自分に尋ねてみてください：何を一緒に成し遂げたいか？どのようなタイプの決定を行いたいか？誰が含まれるのか？</p>
     submit: 私のグループのところに連れて行って！
     payment_model:
-      header: Diehard_Fundは皆のためのもの！
+      header: DiehardFundは皆のためのもの！
       info: どのグループにも適する支払いモデルがあります。お金がないグループも含みます (^^)
       link: 詳細を見る
   simple_form:
@@ -674,14 +674,14 @@ ja:
       user:
         create: アカウントを作成します
         update: 設定をアップデート
-  about_diehard_fund: Diehard_Fundについて
+  about_diehard_fund: DiehardFundについて
   ago: "%{quantity_of_time} 前"
   approve: 承認
   author: 作成者
   back: 戻る
   cancel: キャンセル
   change: 変更
-  change_language: " %{language} でDiehard_Fundを使うにはここをクリック"
+  change_language: " %{language} でDiehardFundを使うにはここをクリック"
   changing: 変更中
   click_here: ここをクリック
   close: 締め切り
@@ -712,7 +712,7 @@ ja:
   pricing: 価格設定
   prev: 前
   more: 更に詳細...
-  translate: Diehard_Fundの翻訳を手伝ってください！
+  translate: DiehardFundの翻訳を手伝ってください！
   translate_field: 翻訳を見る
   loading_translation: 翻訳をロード中...
   translate_this_string: " %{language} に訳す"

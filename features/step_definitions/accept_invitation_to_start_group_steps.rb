@@ -52,7 +52,7 @@ When /^I click the old format invitation link to start a new group$/ do
 end
 
 Then /^I should be asked to create an account$/ do
-  page.should have_content("Your request to a start a new group on Diehard_Fund has been approved!")
+  page.should have_content("Your request to a start a new group on DiehardFund has been approved!")
 end
 
 Then /^I should become the admin of the group$/ do

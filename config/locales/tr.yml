@@ -30,7 +30,7 @@ tr:
       no_invitations_remaining: Hiç davetiye kalmadı
     mailer:
       invitation_instructions:
-        subject: Birisi seni Diehard_Fund grubuna katılmaya davet etti
+        subject: Birisi seni DiehardFund grubuna katılmaya davet etti
     registrations:
       sign_up: Hesap oluştur
   error:
@@ -70,7 +70,7 @@ tr:
     new_contacts_imported: İşe yaradı! Aşağıdaki alana isimleri yazın ve biz e-posta adresini önerelim.
     admin_rights_removed: "%{which_user} kullanıcısının koordinatör hakları kaldırıldı. "
     user_added: "%{user_email_or_name} gruba eklendi."
-    new_user_added: "%{user_email_or_name}, Diehard_Fund hesabı açtıktan sonra gruba eklenecektir."
+    new_user_added: "%{user_email_or_name}, DiehardFund hesabı açtıktan sonra gruba eklenecektir."
     member_removed: Üye çıkarıldı.
     membership_approved: Üyelik onaylandı.
     membership_request_canceled: Üyelik isteği iptal edildi.
@@ -164,7 +164,7 @@ tr:
         one: 1 yıl
         other: "%{count} yıl"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Navigasyona geçiş
   inbox:
@@ -201,15 +201,15 @@ tr:
   find_a_group_hint: Genel grupları keşfetmek için
   search_for_group: Bir grup ara...
   no_groups_found: Bu isimle hiçbir grup bulunamadı!
-  no_group_header: Diehard_Fund Beta'ya hoşgeldiniz
+  no_group_header: DiehardFund Beta'ya hoşgeldiniz
   empty_notifications: Henüz herhangi bir bildiriminiz yok.
   see_all_notifications: Tüm bildirimleri gör
   sign_out: Oturumu kapat
   sign_in: Oturum aç
   honeypot_warning: Hesabınız oluşturulamadı. Eğer bir ekran okuyucusu kullanıyorsanız, form üzerindeki son (gizli) alanın boş olduğundan emin olun.
   tagline: Herkes için, kendisini etkileyen kararlara katılmanın kolay olduğu bir dünya yaratmak.
-  or_sign_in_html: Zaten bir Diehard_Fund hesabın varsa <a href='%{link}' class='%{link_class}'> buradan giriş yap.</a>
-  or_link_account_html: Zaten bir Diehard_Fund hesabınız varsa, <a href='%{link}'>bağlantı kurun</a>
+  or_sign_in_html: Zaten bir DiehardFund hesabın varsa <a href='%{link}' class='%{link_class}'> buradan giriş yap.</a>
+  or_link_account_html: Zaten bir DiehardFund hesabınız varsa, <a href='%{link}'>bağlantı kurun</a>
   click_to_dismiss: Bu iletiyi kapatmak için buraya tıklayın
   generic_confirm: Emin misiniz?
   discussion_helper_text:
@@ -242,7 +242,7 @@ tr:
       info_title: Hesabınızı devre dışı bırakmak ne demek?
       memberships: Şu anda dahil olduğunuz grupların herhangi birinde artık üye olarak listelenmeyeceksiniz.
       group_contributions: Gruplarda yaptığınız yorumlar, öneriler ve tartışmalar kalacak, ancak bunlardan adınızı kaldıracağız.
-      emails: Size Diehard_Fund ilgili e-posta göndermeyi durduracağız.
+      emails: Size DiehardFund ilgili e-posta göndermeyi durduracağız.
   group_form:
     name: Grup adı
     description: Açıklama
@@ -541,10 +541,10 @@ tr:
     comment_changes: Yorum değişiklikleri
     edit_comment: Yorumu düzenle
   help:
-    coordinating: Diehard_Fund grubunu koordine etmek
-    coordinating_details: "Koordinatör olarak, Diehard_Fund grubunu düzenlemek ve kişileri davet etmekten \nsen sorumlusun. Yeni bir yazılımın nasıl kullanıldığını öğrenmenin yanı sıra, grubun\ndaha etkili işbirliği ve birlikte iyi kararlar almak için yeni süreçler öğrenecek.\nİşte grubunun başarılı olmasını desteklemen için bazı ipuçları:\n"
-    different_ways: Diehard_Fund'yu kullanmanın çeşitli yolları
-    engaging_html: "<h2>Grubunla etkileşime girmen için ipuçları</h2>\n<p>Kişiler masada etkileşimli bir öneri olduğu zaman katkıda bulunmak için istekli olurlar. İyi bir öneri grup için bir eylem planı içerir, bu yüzden\ngrubun aynı fikirde olup olmadığı ve bunun ne anlama geldiği hemen belli olacaktır. Eğer kişilerin yüzyüze \nya da email aracılığıyla yürüttüğü müzakereler ve aldığı kararlar Diehard_Fund aracılığıyla yapılıyor olsaydı\nbunları tanımlamak çok daha kolay olurdu.</p>\n<p>Eğer grubun henüz yeni ise, herkesin Diehard_Fund aracıyla oynaması için bir şans vermek ve karar verme sürecini  görebilmesine olanak tanımak için endişe yaratmayacak bir karar ile işe başlayabilirsin.</p>\n<p>Kişilerin müzakerelere dahil olmasını teşvik etmenin diğer bir kolay yolu ise \n@bahset özelliğini kullanarak onları davet etmek; bu özellik kişilere bir yorumda onlardan bahsedildiğini haber veren\nbir e-posta gönderir.</p>\n"
+    coordinating: DiehardFund grubunu koordine etmek
+    coordinating_details: "Koordinatör olarak, DiehardFund grubunu düzenlemek ve kişileri davet etmekten \nsen sorumlusun. Yeni bir yazılımın nasıl kullanıldığını öğrenmenin yanı sıra, grubun\ndaha etkili işbirliği ve birlikte iyi kararlar almak için yeni süreçler öğrenecek.\nİşte grubunun başarılı olmasını desteklemen için bazı ipuçları:\n"
+    different_ways: DiehardFund'yu kullanmanın çeşitli yolları
+    engaging_html: "<h2>Grubunla etkileşime girmen için ipuçları</h2>\n<p>Kişiler masada etkileşimli bir öneri olduğu zaman katkıda bulunmak için istekli olurlar. İyi bir öneri grup için bir eylem planı içerir, bu yüzden\ngrubun aynı fikirde olup olmadığı ve bunun ne anlama geldiği hemen belli olacaktır. Eğer kişilerin yüzyüze \nya da email aracılığıyla yürüttüğü müzakereler ve aldığı kararlar DiehardFund aracılığıyla yapılıyor olsaydı\nbunları tanımlamak çok daha kolay olurdu.</p>\n<p>Eğer grubun henüz yeni ise, herkesin DiehardFund aracıyla oynaması için bir şans vermek ve karar verme sürecini  görebilmesine olanak tanımak için endişe yaratmayacak bir karar ile işe başlayabilirsin.</p>\n<p>Kişilerin müzakerelere dahil olmasını teşvik etmenin diğer bir kolay yolu ise \n@bahset özelliğini kullanarak onları davet etmek; bu özellik kişilere bir yorumda onlardan bahsedildiğini haber veren\nbir e-posta gönderir.</p>\n"
     example1_html: "<h3>Grubunun geniş bir konuyu müzakere ederek birlikte bir çözüm geliştirmesine ihtiyacın var</h3>\n<p>Strateji: Bir öneri oluşturmadan önce bir süre için konuyu tartışın.</p>\n<p>Eğer belirli bir çözüme varmadan önce grup içinde soruna karşı ortak bir anlayış geliştirirsen, \nmüzakereler genellikle en iyi sonuca ulaşır. Kişiler bu sürece\nkatılım gösterdileri sürece, sonuç hakkında fikir birliğinde olmaları daha olasıdır.</p>\n"
     example2_html: |
       <h3>Aklında bir fikir var ve gruptan onay alıp ilerlemek istiyorsun.</h3>
@@ -555,7 +555,7 @@ tr:
     get_in_touch_description_html: Herhangi bir sorunuz veya geri bildiriminiz varsa, <a href='%{link}'>bize yazın</a>.
     getting_started: Başlarken
     getting_started_description: Sol tarafta, grup bir konuyu tartışır, fikir ve bilgi alışverişinde bulunur. Grubun almasını gerektiren bir karar var olduğunda, sağ tarafta belirir.
-    getting_the_most: Diehard_Fund'dan en iyi şekilde yararlanmak
+    getting_the_most: DiehardFund'dan en iyi şekilde yararlanmak
     have_your_say: Söz sahibi ol
     have_your_say_details_html: |
       <p>Hazır olduğunda dört karar düğmesinden birisini tıkla</p>
@@ -570,15 +570,15 @@ tr:
       <p>Her yeni üyenin ilk sorusu 'Bu grup ne için?' olacaktır.</p>
       <p>Grubu tanımlaman için en basit yolu düşün. Birlikte neyi
       elde etmek istiyorsun? Ne tür kararşar alacaksınız? Kim dahil olacak?</p>
-      <p>Onlar Diehard_Fund'ya davet etmeden önce grubunla konuşmak iyi bir fikir olabilir.
+      <p>Onlar DiehardFund'ya davet etmeden önce grubunla konuşmak iyi bir fikir olabilir.
       </p>
       <p>İnsanlar neden davet edildiklerini ve onlardan nelerin beklendiğini,
       ve yeni bir aracı kullanmayı öğrenmek için zamanlarından harcamaya değip değimediğini bilmek isteyecek.</p>
     join_the_community: Topluluğa katıl
-    join_the_community_description_html: Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür. <br /><br /><a href='https://www.diehard.fund/groups/3'>Diehard_Fund Topluluğu grubuna gitmek için tıklayın.</a>.
+    join_the_community_description_html: DiehardFund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz DiehardFund Topluluğuna herkes katılmakta özgürdür. <br /><br /><a href='https://www.diehard.fund/groups/3'>DiehardFund Topluluğu grubuna gitmek için tıklayın.</a>.
     images_and_text_formatting: Resimler ve metin biçimlendirme
     images_and_text_formatting_html: |
-      <p>Diehard_Fund, resim gömme ve metin biçimlendirme amacıyla ‘Markdown’ dilini kullanıyor.
+      <p>DiehardFund, resim gömme ve metin biçimlendirme amacıyla ‘Markdown’ dilini kullanıyor.
       Markdown desteğini yorum kısmının üzerindeki ufak gri simge ile açıp kapayabilirsiniz.</p>
       <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.diehard.fund/discussions/1124'>burayı tıklayın.</a></p>
     keep_up_to_date: Güncel tutun
@@ -597,8 +597,8 @@ tr:
     start_proposal_html: "<p>Eğer başlığınız açık ve öz ise, kişiler katılıyorum ya da\nkatılmıyorum demenin tam olarak ne anlama geldiğini anında bilirler.</p>\n<p> Eğer bir öneride anında net bir anlaşma sağlanamazsa bu dünyanın sonu demek değil.\nEğer grup ilk öneriyi beğenmediyse, herhangi biri endişeleri \ngidermek için yeni bir öneri başlatabilir ve ilerleme süreci devam eder.</p>\n<p>Bu dinamik süreçte, grubunuzun ortak bilgeliği, kişilerin tek\nbaşına bulabileceğinden daha iyi fikirler üretir.</p>\n<p>Eğer kararın bulunması zaman alacak gibi görünüyorsa, önerinin teslim tarihi her an ileriye atılabilir.\nBir önerinin süresi dolmadan 24 saat önce herkes bir e-posta bildirimi alır.</p>\n\n"
     video_id: '52025402'
     video_tutorial: Eğitim videosu
-    video_tutorial_description: Diehard_Fund nasıl kullanılır tanıtım videosuna göz at.
-    what_is_diehard_fund: Diehard_Fund nedir?
+    video_tutorial_description: DiehardFund nasıl kullanılır tanıtım videosuna göz at.
+    what_is_diehard_fund: DiehardFund nedir?
   hint:
     context: İçerik panelini kullanmak için ipuçları
     discussion: İlgi çekici bir müzakere başlatmak için ipuçları
@@ -613,19 +613,19 @@ tr:
     submit: Katkıda bulun
     tooltip: Topluğumuzun finansman modeli hakkında bilgi alın
     thought_about_contributing: 'Katkı sunmak için fırsatın '
-    thought_about_contributing_description: "Diehard_Fund işbirliğine dayalı bir sosyal girişimdir ve herkesin kendilerini etkileyen kararlara kolayca katılabilmesini hedefler.\n\nPara işbirliğine dayalı karar verme süreci için bir engel teşkil etmemeli. Diehard_Fund, kullanıcı topluluklarının bağışları ve resmi organizasyonların ödedikleri abonelik ücretleri tarafından finanse edilmektedir.\n\nKatkılarınız; Loomiyo'yu bağımsız, reklamsız, ve kendi topluluklarında büyük işler başaran gruplara serbest ve erişilebilir tutmamız için bizlere olanak sağlıyor. \n\nBu mümkün kıldığınız için teşekkür ederiz!\n"
-    thank_you_title: Diehard_Fund'ya katkı sağladığınız için teşekkür ederiz!
+    thought_about_contributing_description: "DiehardFund işbirliğine dayalı bir sosyal girişimdir ve herkesin kendilerini etkileyen kararlara kolayca katılabilmesini hedefler.\n\nPara işbirliğine dayalı karar verme süreci için bir engel teşkil etmemeli. DiehardFund, kullanıcı topluluklarının bağışları ve resmi organizasyonların ödedikleri abonelik ücretleri tarafından finanse edilmektedir.\n\nKatkılarınız; Loomiyo'yu bağımsız, reklamsız, ve kendi topluluklarında büyük işler başaran gruplara serbest ve erişilebilir tutmamız için bizlere olanak sağlıyor. \n\nBu mümkün kıldığınız için teşekkür ederiz!\n"
+    thank_you_title: DiehardFund'ya katkı sağladığınız için teşekkür ederiz!
     thank_you_body: |
       Katkılarınız, dünyaya kolay ve işbirliğine dayalı karar verme sürecini iletmemize yardımcı oluyor.
 
       Kısa bir süre icinde yaptığınız katkı için bir makbuzun bulunduğu bir e-posta alacaksınız.
 
-      Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür.
+      DiehardFund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz DiehardFund Topluluğuna herkes katılmakta özgürdür.
 
-      <a href='https://www.diehard.fund/groups/3'>Beni Diehard_Fund Toplulugu grubuna götür &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Beni DiehardFund Toplulugu grubuna götür &raquo;</a>
     making_a_donation: Bağışta bulunmak
     making_a_donation_description: |
-      Diehard_Fund işbirliğine dayalı bir sosyal girişimdir ve herkesin kendilerini etkileyen kararlara kolayca katılabilmesini hedefler.
+      DiehardFund işbirliğine dayalı bir sosyal girişimdir ve herkesin kendilerini etkileyen kararlara kolayca katılabilmesini hedefler.
 
       Katkılarınız; Loomiyo'yu bağımsız, reklamsız, ve kendi topluluklarında büyük işler başaran gruplara serbest ve erişilebilir tutmamız için bizlere olanak sağlıyor.
 
@@ -651,15 +651,15 @@ tr:
   link_it_up_instead: Bunun yerine bağlantı kurun
   sign_up_via: Yoluyla üye ol
   or_fill_in_this_form: veya bu formu doldurun
-  already_have_account: Zaten bir Diehard_Fund hesabınız var mı?
+  already_have_account: Zaten bir DiehardFund hesabınız var mı?
   confirm_your_details: Bilgilerinizi onaylayın
   link_up_your_account: Hesabınızı birleştirin
-  log_in_to_your_diehard_fund_account: "%{provider_name} ile hesabınızı birleştirmek için Diehard_Fund hesabınıza giriş yapınız."
-  now_that_your_logged_in: "%{provider_name} ile giriş yaptınız, bir Diehard_Fund hesabı oluşturmak için lütfen bilgilerinizi onaylayınız."
+  log_in_to_your_diehard_fund_account: "%{provider_name} ile hesabınızı birleştirmek için DiehardFund hesabınıza giriş yapınız."
+  now_that_your_logged_in: "%{provider_name} ile giriş yaptınız, bir DiehardFund hesabı oluşturmak için lütfen bilgilerinizi onaylayınız."
   confirmation_not_received: Onay talimatları eline ulaşmadı mı?
   unlock_not_received: Yeniden açma talimatları eline ulaşmadı mı?
   inactive_html: Bu hesap devre dışı bırakılmıştır. Eğer, herhangi bir sorunuz var ise lütfen <a href='%{path_to_contact}'>buradan bağlantıya geçiniz</a>.
-  create_an_account_html: Bir Diehard_Fund Beta hesabı oluşturun
+  create_an_account_html: Bir DiehardFund Beta hesabı oluşturun
   log_in: Oturum aç
   join_group:
     log_in: "%{group_name}'a katılmak için oturum aç"
@@ -676,12 +676,12 @@ tr:
     invitation_already_used: Bu davetiye daha önce kullanılmış. Lütfen, gruba devam etmek için giriş yapın.
     recipients: 'E-posta adreslerini, birbirinden virgülle ayırarak yazın:'
     invitees_placeholder: Kullanıcı Adı <user1@example.com>, user2@example.com
-    subject: Lütfen yeni Diehard_Fund grubumuza katıl, %{group}
+    subject: Lütfen yeni DiehardFund grubumuza katıl, %{group}
     invite_people: Kişileri grubuna davet et
     invite_to_discussion: Bu müzakereye insanları davet edin
     invite_to_discussion_info: Bu tartışmaya kişi eklemek onlara grubunuza katılmanız için bir davet gönderecektir. Kabul ettiklerinde bu tartışmaya yönlendirilecekler.
     select_members: "%{group_name} grubundan üyeleri ekle"
-    body_editable: 'Hey oradaki, gel bizimle birlikte karar ver! Biz Diehard_Fund denilen işbirliğine dayalı bir karar verme aracı kullanıyoruz.
+    body_editable: 'Hey oradaki, gel bizimle birlikte karar ver! Biz DiehardFund denilen işbirliğine dayalı bir karar verme aracı kullanıyoruz.
 
 '
     body_editable_discussion: 'Hey oradaki, gel ve tartışmaya katıl!
@@ -746,10 +746,10 @@ tr:
   group_setup:
     set_up_your_group: Grubunu kur
     desc_header: Neredeyse geldik!
-    desc_html: 'Grup koordinatörü olarak, Diehard_Fund grubunuzu kurmaktan ve onun yönetiminden siz sorumlusunuz. Birkaç ayar seçtikten sonra, yeni grubunuza girebilir, bir veya daha fazla müzakere başlatabilir ve kişilere davet gönderebilirsiniz! <p>Eğer grubunuzu tanımlamanın en basit yolunu düşünüyorsanız kendinize şu soruları sorun: Birlikte neyi başarmak istiyorsunuz? Ne tür kararlar alacaksınız? Kimler dahil olacak?</p>'
+    desc_html: 'Grup koordinatörü olarak, DiehardFund grubunuzu kurmaktan ve onun yönetiminden siz sorumlusunuz. Birkaç ayar seçtikten sonra, yeni grubunuza girebilir, bir veya daha fazla müzakere başlatabilir ve kişilere davet gönderebilirsiniz! <p>Eğer grubunuzu tanımlamanın en basit yolunu düşünüyorsanız kendinize şu soruları sorun: Birlikte neyi başarmak istiyorsunuz? Ne tür kararlar alacaksınız? Kimler dahil olacak?</p>'
     submit: Beni grubuma götür!
     payment_model:
-      header: Diehard_Fund herkes için!
+      header: DiehardFund herkes için!
       info: Bizim her gruba uyan bir ödeme modelimiz bulunuyor, hatta hiç parası olmayanlar için bile :)
       link: Daha fazla bilgi
   simple_form:
@@ -794,16 +794,16 @@ tr:
         create: Hesap oluştur
         update: Ayarları güncelle
   meta_tags:
-    default_title: Diehard_Fund | İşbirliğine Dayalı Karar Verme
-    default_description: Diehard_Fund kullanımı kolay ve çevrimiçi bir grup içi karar verme aracıdır. Dağınık grupların kararlara çabuk ulaşmasına ve yapıcı eylemde bulunmasına olanak sağlar.
-  about_diehard_fund: Diehard_Fund Hakkında
+    default_title: DiehardFund | İşbirliğine Dayalı Karar Verme
+    default_description: DiehardFund kullanımı kolay ve çevrimiçi bir grup içi karar verme aracıdır. Dağınık grupların kararlara çabuk ulaşmasına ve yapıcı eylemde bulunmasına olanak sağlar.
+  about_diehard_fund: DiehardFund Hakkında
   ago: "%{quantity_of_time} önce"
   approve: Onayla
   author: Yazar
   back: Geri
   cancel: İptal et
   change: Değiştir
-  change_language: Diehard_Fund'yu %{language} kullanmak için burayı tıkla
+  change_language: DiehardFund'yu %{language} kullanmak için burayı tıkla
   changing: Değiştirmek
   click_here: Buraya tıkla
   close: Kapat
@@ -837,7 +837,7 @@ tr:
   pricing: Fiyatlandırma
   prev: Önceki
   more: Daha fazla...
-  translate: Diehard_Fund'nun çevirisine yardımcı ol!
+  translate: DiehardFund'nun çevirisine yardımcı ol!
   translate_field: Çeviriye bakın
   loading_translation: Çeviri yükleniyor...
   translate_this_string: "%{language} dilinde çeviri yap"

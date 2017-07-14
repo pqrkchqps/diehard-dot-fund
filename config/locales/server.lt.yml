@@ -1,7 +1,7 @@
 lt:
   email:
     daily_activity:
-      subject: Diehard_Fund - Paskutinių 24 valandų santrauka
+      subject: DiehardFund - Paskutinių 24 valandų santrauka
     missed_yesterday:
       mark_as_read: Žymėti kaip skaitytą
     proposal_closing_soon:

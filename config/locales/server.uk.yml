@@ -12,21 +12,21 @@ uk:
       <p>Ви вибрали безкоштовний план для вашої групи <a href="/g/%{group_key}">%{group}</a></p>
   email:
     login:
-      subject: Увійти до Diehard_Fund
-      intro: Вітаємо %{name}, посилання щоб увійти в свій обліковий запис Diehard_Fund.
-      login: Увійти до Diehard_Fund як %{name}
+      subject: Увійти до DiehardFund
+      intro: Вітаємо %{name}, посилання щоб увійти в свій обліковий запис DiehardFund.
+      login: Увійти до DiehardFund як %{name}
       resend: Це посилання діє до %{expires_at}. Якщо цей час минув, ви можете перейти за посиланням вище, аби отримати інше посилання.
     reset_password:
       greeting: |
         Вітаємо %{name}
-        Ось посилання щоб змінити пароль для свого облікового запису Diehard_Fund.
+        Ось посилання щоб змінити пароль для свого облікового запису DiehardFund.
       link_text: Скинути ваш пароль
       signoff: |
         Ваша електронна адреса була вказана в формі «Забули пароль» на %{hostname}.
         Аби змінити пароль перейдіть за посиланням вище і заповніть форму.
         Якщо проблеми з підключенням повторюються - напишіть у відповідь на цей лист щоб зв'язатися зі службою підтримки.
     start_decision:
-      subject: Розпочати обговорення в Diehard_Fund
+      subject: Розпочати обговорення в DiehardFund
       intro: Вітаємо, <strong>%{name}</strong>!
       action: Що б ви хотіли зробити?
       proposal: Внести пропозицію
@@ -40,73 +40,73 @@ uk:
     by_who: користувачем %{person}
     reply_to_this_discussion: Відповісти в цьому обговоренні
     to_join_discussion:
-      subject: "%{who} запрошує вас приєднатись до обговорення у Diehard_Fund"
+      subject: "%{who} запрошує вас приєднатись до обговорення у DiehardFund"
       content: 'Вас було запрошено до обговорення: %{discussion}'
       message_intro: "%{who} говорить:"
       link: Долучитись до обговорення
-    value_proposition: "Diehard_Fund це місце для спільного прийняття рішень в групах"
+    value_proposition: "DiehardFund це місце для спільного прийняття рішень в групах"
     view_group: Переглянути групу
     to_join_group:
-      subject: "%{member} запросив вас приєднатися до групи  %{group_name} в Diehard_Fund"
+      subject: "%{member} запросив вас приєднатися до групи  %{group_name} в DiehardFund"
       invitation_text: "%{member} запросив(ла) вас приєднатися до своєї групи  %{group_name}."
       invitation_text_html: "запросив(ла) вас приєднатися до своєї групи"
       link_help: "Натисніть на посилання нижче щоб прийняти запрошення:"
       accept_invitation: "Прийняти запрошення"
     resend_to_join_group:
-      subject: "%{member} чекає на ваше приєднання до %{group_name} в Diehard_Fund"
+      subject: "%{member} чекає на ваше приєднання до %{group_name} в DiehardFund"
     to_start_group:
-      subject: "Створіть вашу нову Diehard_Fund групу: %{group_name}"
+      subject: "Створіть вашу нову DiehardFund групу: %{group_name}"
       hi: "Вітаємо %{name},"
       intro: "Натисніть на посилання нижче щоб створити групу %{group_name}:"
       intro_html: "Натисніть на посилання нижче щоб створити групу:"
       start_group: "Створити мою групу"
       closing_message: "Якщо вам потрібна допомога або маєте запитання, просто надайте відповідь на цей лист."
       thanks: "Дякуємо,"
-      diehard_fund_team: "Команда Diehard_Fund"
+      diehard_fund_team: "Команда DiehardFund"
     user_added_to_group:
-      subject: "%{who} додав вас до %{which_group} в Diehard_Fund"
+      subject: "%{who} додав вас до %{which_group} в DiehardFund"
       content: "%{who} додав вас до %{which_group}."
       content_html: "<strong>%{who}</strong> додав вас до <strong>%{which_group}</strong>."
       link_help: "Натисніть на посилання нижче щоб перейти до групи:"
     unsubscribe: 'Відпісатися, або змінити Ваші налаштування електронної пошти:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> аби відписатися або змінити налаштування електронної пошти"
-    view_comment: Натисніть тут щоб переглянути коментар на Diehard_Fund
+    view_comment: Натисніть тут щоб переглянути коментар на DiehardFund
     view_discussion: Натисніть тут для перегляду обговорення
-    view_proposal: Переглянути цю пропозицію на Diehard_Fund
+    view_proposal: Переглянути цю пропозицію на DiehardFund
     create_discussion:
       intro_html: "почати тему:"
       intro: "%{who} почав тему:"
     create_proposal:
-      intro: В групі на Diehard_Fund, де ви є учасником, створено нову пропозицію.
+      intro: В групі на DiehardFund, де ви є учасником, створено нову пропозицію.
       closes_in: Буде закрито через
       subject: 'Нова пропозиція: %{which}'
     daily_activity:
-      heading: Ваші дії на Diehard_Fund
-      intro: Відображає, що відбулося у твоїй Diehard_Fund групі за останні 24 років
-      subject: Diehard_Fund - Підсумки останніх 24 годин
+      heading: Ваші дії на DiehardFund
+      intro: Відображає, що відбулося у твоїй DiehardFund групі за останні 24 років
+      subject: DiehardFund - Підсумки останніх 24 годин
     missed_yesterday:
-      subject: Вчора на Diehard_Fund
+      subject: Вчора на DiehardFund
       do_not_reply: Будь ласка не відповідайте на цей лист
       headlines: Останні новини
       mark_as_read: Відмітити як прочитане
       thanks_for_reading: Дякуємо за читання, гарного дня!
-      heres_what_happened: "Ось що відбулося у Diehard_Fund вчора."
+      heres_what_happened: "Ось що відбулося у DiehardFund вчора."
       marked_as_read_success: Все в листі було позначено як прочитане
     comment_replied_to:
       context_html: 'відповів(ла) на ваш коментар в'
       context: '%{author_name} відповів(ла) на ваш коментар в %{discussion_title}'
-      subject: "%{who} відповів(ла) на ваш коментар в групі %{which} Diehard_Fund"
+      subject: "%{who} відповів(ла) на ваш коментар в групі %{which} DiehardFund"
     new_comment:
       context: 'прокоментував в'
     group_membership_approved:
       intro: "Ваш запит на участь у групі %{group_name} було схвалено."
       intro_html: "Ваш запит на участь у групі <strong>%{group_name}</strong> було схвалено."
       link_help: "Натисніть на посилання нижче щоб долучитись до %{group_name} та розпочати:"
-      subject: "Ваш запит на участь у %{group_name} у Diehard_Fund було с.хвалено"
+      subject: "Ваш запит на участь у %{group_name} у DiehardFund було с.хвалено"
       join_group: "Приєднатись до групи"
-      view_group_text: "Натисніть ныжче щоб переглянути групу у Diehard_Fund"
+      view_group_text: "Натисніть ныжче щоб переглянути групу у DiehardFund"
     membership_request:
-      intro: "%{name} (%{email}) запросив доступ до однієї з Ваших груп на Diehard_Fund."
+      intro: "%{name} (%{email}) запросив доступ до однієї з Ваших груп на DiehardFund."
       intro_html: запросила доступ до однієї з ваших груп.
       subject: "%{who} зробив запит на приєднання до %{which_group}"
       view_group: Тут ви можете підтвердити або відхилити запит
@@ -151,23 +151,23 @@ uk:
       outcome_created: "%{who} поширив(ла) результат пропозиції:"
       you_agreed: Ви %{past_tense_position}
     analytics:
-      subject: "%{which_group} тижнів у Diehard_Fund"
+      subject: "%{which_group} тижнів у DiehardFund"
       title: "Ваш підсумок за тиждень, починаючи з %{since}"
       table_header: "Ім'я | Пропозицій створено | Обговорень створено | Коментарів створено | Голосувань створено"
       stats: "<strong>%{active_members}</strong> з <strong>%{group_members}</strong> учасників вашої групи були активні протягом останнього тижня. Ваша група підняла <strong>%{motions}</strong> і зробила <strong>%{comments}</strong> в <strong>%{discussions}</strong>."
       contact_us: "Потрібно більше статистики? <a href='%{contact_link}'>Зв'яжіться з нами</a>."
-      no_activity: "Хочете поговорити з одним з наших фахівців з фасілітації про те, як отримати більше від Diehard_Fund? <a href='%{contact_link}'>Зв'яжіться з нами</a>."
+      no_activity: "Хочете поговорити з одним з наших фахівців з фасілітації про те, як отримати більше від DiehardFund? <a href='%{contact_link}'>Зв'яжіться з нами</a>."
       trial_subscription: "%{which_group} використовує <strong>безкоштовний тріал</strong> що завершується <strong>%{expires_at}</strong>. Ви можете вибрати тарифний план <a href='%{subscription_link}'>за посиланням</a>."
-      trial_expired: "%{which_group} досягла завершення свого безкоштовного тріального періоду з Diehard_Fund."
-      heart: "З ❤ від команди Diehard_Fund"
-      unsubscribe: "Цей лист відправляється координаторам активних груп у Diehard_Fund. <br />Якщо ви не хочете отримувати ці листи, <a href='%{contact_link}'>повідомте нам</a>."
+      trial_expired: "%{which_group} досягла завершення свого безкоштовного тріального періоду з DiehardFund."
+      heart: "З ❤ від команди DiehardFund"
+      unsubscribe: "Цей лист відправляється координаторам активних груп у DiehardFund. <br />Якщо ви не хочете отримувати ці листи, <a href='%{contact_link}'>повідомте нам</a>."
       user_table:
         motions_created: "Пропозиції"
         discussions_created: "Обговорення"
         comments_created: "Коментарі"
         votes_created: "Голоси"
   footer:
-    about: Про Diehard_Fund
+    about: Про DiehardFund
     blog: Блог
     contact: Контакти
     help: Допомога
@@ -175,13 +175,13 @@ uk:
     pricing: Ціни
     public_groups: Публічні групи
     terms: Умови
-    independent_install_html: '%{hostname} використовує незалежну копію Diehard_Fund: <a href="http://github.com/diehard_fund/diehard_fund">дізнатись більше</a>.'
+    independent_install_html: '%{hostname} використовує незалежну копію DiehardFund: <a href="http://github.com/diehard_fund/diehard_fund">дізнатись більше</a>.'
   start_group_form:
     enable_angular:
-      header: Нові групи створені в Diehard_Fund 1.0
-      subtitle: 'Щоб почати нову групу, вам необхідно перейти до нової версії Diehard_Fund:'
-      switch_to_angular: Створити нову групу в новій Diehard_Fund
-      helptext: Ми перебудували Diehard_Fund з нуля. Ви можете прочитати про те, що нового <a href="/angular">тут</a>. <br/>Ви можете в будь-який час повернутися до старої версії.
+      header: Нові групи створені в DiehardFund 1.0
+      subtitle: 'Щоб почати нову групу, вам необхідно перейти до нової версії DiehardFund:'
+      switch_to_angular: Створити нову групу в новій DiehardFund
+      helptext: Ми перебудували DiehardFund з нуля. Ви можете прочитати про те, що нового <a href="/angular">тут</a>. <br/>Ви можете в будь-який час повернутися до старої версії.
     header: Створити нову групу
     form_error: Деяка інформація відсутня або не вірна.
     name: Ваше ім'я
@@ -193,13 +193,13 @@ uk:
     group_description_placeholder: Опишіть призначення вашої групи, щоб учасники групи розуміли, чому вони тут.
     group_name_error: Потрібне ім'я групи
     pricing_html: За 30 днів ми просимо вас вибрати <a href='%{link}' target='_blank'>тарифний план</a>.
-    terms_html: Починаючи групу, ви погоджуєтеся з <a href='%{link}' target='_blank'>умовами використання</a> Diehard_Fund.
+    terms_html: Починаючи групу, ви погоджуєтеся з <a href='%{link}' target='_blank'>умовами використання</a> DiehardFund.
     success:
       header: Ви майже закінчили! Перевірте Вашу електронну пошту.
       email_delivered: 'Ми відправили лист на %{email}. Будь ласка, перейдіть за посиланням в ньому для налаштування нової групи. '
       email_not_arrived: Лист не прийшов?
       please_hold: Будь ласка, зачекайте надходження листа п'ять хвилин і обов'язково перевірте папку зі спамом.
-    start_making_decisions: 'Щоб почати приймати рішення разом на Diehard_Fund, створіть групу безкоштовно:'
+    start_making_decisions: 'Щоб почати приймати рішення разом на DiehardFund, створіть групу безкоштовно:'
   invitation_form:
     error:
       too_many_pending: "Ви досягли більш ніж максимально можливих %{count} запрошень в очікуванні для цієї групи"
@@ -236,8 +236,8 @@ uk:
     custom_subdomain: піддомен користувача
     analytics_reports: аналітичні звіти
     free_is_for_community_and_evaluation_html: |
-      Безкоштовний план призначений для тимчасових користувачів, спільнот та тих, хто хоче оцінити використання Diehard_Fund в своїй організації. Ми покладаємось на платні плани для забезпечення підтримки та вдосконалення Diehard_Fund.<br/>
-      Ми поважаємо вашу конфіденційність і ніколи не продамо ваші дані стороннім особам, та не розміщуємо рекламу в Diehard_Fund.<br/>
+      Безкоштовний план призначений для тимчасових користувачів, спільнот та тих, хто хоче оцінити використання DiehardFund в своїй організації. Ми покладаємось на платні плани для забезпечення підтримки та вдосконалення DiehardFund.<br/>
+      Ми поважаємо вашу конфіденційність і ніколи не продамо ваші дані стороннім особам, та не розміщуємо рекламу в DiehardFund.<br/>
       Якщо ви неприбуткова організація, зв'яжіться з нами щодо знижки.
     contact_us_html: |
       Ціни вказані в доларах США; додатково нараховується податок з продажів у випадках, де він має бути застосованим. Потрібно щось ще? <a href="/contact">Давай поговоримо!</a>
@@ -248,7 +248,7 @@ uk:
     plus_price_html: '<strong>$99</strong>/на місяць'
   password_reset:
     email_guidelines_html: |
-      <p>Введіть адресу електронної пошти для облікового запису Diehard_Fund в поле нижче щоб отримати посилання для скидання пароля.</p>
+      <p>Введіть адресу електронної пошти для облікового запису DiehardFund в поле нижче щоб отримати посилання для скидання пароля.</p>
       <p>Якщо ви зазвичай входили через Facebook, Google, Twitter або Persona, введіть адресу електронної пошти, пов'язану з цим обліковим записом.</p>
     reset_email_timeframe: Надходження листа може зайняти до 5 хвилин. Якщо він не відображається, обов'язково перевірте папку зі спамом.
     length_restriction: Паролі повинні бути довжиною не менше 8 символів.
@@ -260,24 +260,24 @@ uk:
 
       Яка ваша роль або наміри участі в цій групі? Що людям поторібно знати про вас, аби зрозуміти звідкіля ви прийшли?
   how_it_works_thread:
-    title: Як використовувати Diehard_Fund
+    title: Як використовувати DiehardFund
     description: |
-      Ласкаво просимо до Diehard_Fund, онлайн майданчик для спільного прийняття рішень.
+      Ласкаво просимо до DiehardFund, онлайн майданчик для спільного прийняття рішень.
 
-      Ось приклад **теми** обговорення. Ви можете додати коментарі нижче. Тема це бесіда щодо окремого питання. Зокрема ця тема про те, як працює Diehard_Fund, тож можете задавати тут саме ці питання.
+      Ось приклад **теми** обговорення. Ви можете додати коментарі нижче. Тема це бесіда щодо окремого питання. Зокрема ця тема про те, як працює DiehardFund, тож можете задавати тут саме ці питання.
 
       Зараз ви читаєте **контекст** теми - місце для довідкової інформації. Ви можете оновлювати його відповідно тому, як просувається обговорення.
 
-      Щоб почати роботу з Diehard_Fund:
+      Щоб почати роботу з DiehardFund:
       1. Завантажте [зображення профілю](/profile)
       2. Представтесь у [темі Ласкаво просимо]%{thread_url}
       3. Зробіть допис в існуючій темі або почніть нову
 
-      Поради щодо дописів на Diehard_Fund:
+      Поради щодо дописів на DiehardFund:
       * Щоб повідомити конкретну людину, введіть @ та її ім'я.
       * Натисніть на значок скріпки щоб додати файли.
 
-      Якщо у вас виникли питання, пошукайте відповіді в [довіднику Diehard_Fund] (http://help.diehard.fund).
+      Якщо у вас виникли питання, пошукайте відповіді в [довіднику DiehardFund] (http://help.diehard.fund).
   first_proposal:
     name: Приклад пропозиції
     description: |
@@ -292,7 +292,7 @@ uk:
       **Спробуйте долучитись! Натисніть на одну з чотирьох кнопок**.
   contact_page:
     contact_us: Контакти
-    faq_prompt_html: Є питання до команди Diehard_Fund? Перш ніж зв'язатися з нами, ви можливо знайдите відповідь серед поширених запитань.
+    faq_prompt_html: Є питання до команди DiehardFund? Перш ніж зв'язатися з нами, ви можливо знайдите відповідь серед поширених запитань.
     contact_information: Якщо не можете знайти те, що шукаєте, - наша контактна інформація в нижній частині сторінки.
     contact_form: Форма для зв'язку
     labels:
@@ -355,24 +355,24 @@ uk:
 
         Квадратні дужки для імені, потім круглі дужки для URL. Без пробілу між дужками.
 
-        [Домашня сторінка Diehard_Fund](https://www.diehard.fund/)
+        [Домашня сторінка DiehardFund](https://www.diehard.fund/)
 
         Так само для зображень, але додавши на початку знак оклику.
 
-        ![Логотип Diehard_Fund](https://i.imgur.com/Fvtworb.png)
+        ![Логотип DiehardFund](https://i.imgur.com/Fvtworb.png)
   beta_banner:
     new_diehard_fund_html: |
-      <strong>Нова Diehard_Fund швидша, красивіша та зручніша!</strong> З часом ми переведено на неї всіх.
+      <strong>Нова DiehardFund швидша, красивіша та зручніша!</strong> З часом ми переведено на неї всіх.
     upgrade_browser_html: |
-      Ми підтримуємо тільки сучасні версії Internet Explore (10+). Вам потрібно <a href='http://outdatedbrowser.com/en' target='_blank'>оновити браузер</a> щоб продовжувати використовувати Diehard_Fund.
-      <strong>Нова Diehard_Fund вже тут!</strong> Вона швидша, красивіша та оптимізована для мобільних пристроїв.
+      Ми підтримуємо тільки сучасні версії Internet Explore (10+). Вам потрібно <a href='http://outdatedbrowser.com/en' target='_blank'>оновити браузер</a> щоб продовжувати використовувати DiehardFund.
+      <strong>Нова DiehardFund вже тут!</strong> Вона швидша, красивіша та оптимізована для мобільних пристроїв.
     more_info: Більше інформації....
-    button_text: Перейти на нову Diehard_Fund
+    button_text: Перейти на нову DiehardFund
   poll_mailer:
     common:
       or: або
       why_send_this: Ви отримали цей лист, тому що %{reason}
-      view_on_diehard_fund: Переглянути це на Diehard_Fund
+      view_on_diehard_fund: Переглянути це на DiehardFund
       unsubscribe: Відписатись
       results: Результати
       responses: Відповіді

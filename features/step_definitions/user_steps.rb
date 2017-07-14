@@ -8,7 +8,7 @@ Given /^"(.*?)" is an existing user$/ do |arg1|
                             angular_ui_enabled: false
 end
 
-Given /^I am an existing Diehard_Fund user$/ do
+Given /^I am an existing DiehardFund user$/ do
   @user = FactoryGirl.create :user, angular_ui_enabled: false
 end
 

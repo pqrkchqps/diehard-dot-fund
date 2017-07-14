@@ -2,9 +2,9 @@ es:
   new_help:
     title: ¿En qué podemos ayudarte?
     how_diehard_fund_works:
-      title: Cómo funciona Diehard_Fund
+      title: Cómo funciona DiehardFund
       start_group_link: Empieza un grupo
-      start_group_description: Para colaborar con gente en Diehard_Fund
+      start_group_description: Para colaborar con gente en DiehardFund
       invite_people_link: Invitar personas
       invite_people_description: a tu grupo
       start_discussion_link: Empieza una discusión
@@ -16,14 +16,14 @@ es:
     contents:
       title: Tabla de contenidos
       what_is_diehard_fund:
-        title: Qué es Diehard_Fund
+        title: Qué es DiehardFund
       how_diehard_fund_works:
-        title: Cómo funciona Diehard_Fund
+        title: Cómo funciona DiehardFund
       getting_started:
         title_html: Primeros pasos
-        starting_new_group_html: Cuando quieres comenzar un nuevo grupo de Diehard_Fund
-        invited_into_group_html: Cuando recibes una invitación a un grupo de Diehard_Fund
-        joining_existing_group_html: Cuando quieres unirte a un grupo de Diehard_Fund ya existente
+        starting_new_group_html: Cuando quieres comenzar un nuevo grupo de DiehardFund
+        invited_into_group_html: Cuando recibes una invitación a un grupo de DiehardFund
+        joining_existing_group_html: Cuando quieres unirte a un grupo de DiehardFund ya existente
         single_sign_on_html: Entrada de validación única
       group_settings:
         title_html: Configuración del grupo
@@ -72,7 +72,7 @@ es:
       keeping_up_to_date:
         title_html: "Mantenerse al día "
         volume_html: "Volumen "
-        yesterday_on_diehard_fund_html: "\"Ayer en Diehard_Fund\""
+        yesterday_on_diehard_fund_html: "\"Ayer en DiehardFund\""
         email_settings_html: Configuración de correo electrónico
       user_profile:
         title_html: Tu perfil de usuario
@@ -90,35 +90,35 @@ es:
       security:
         title_html: "Privacidad y seguridad "
       contributing:
-        title_html: Contribuir con Diehard_Fund
+        title_html: Contribuir con DiehardFund
       diehard_fund_community:
-        title_html: La Comunidad de Diehard_Fund
+        title_html: La Comunidad de DiehardFund
       diehard_fund_development:
-        title_html: Mantenerse informado del desarrollo de Diehard_Fund
+        title_html: Mantenerse informado del desarrollo de DiehardFund
       faq:
         title_html: "Preguntas frecuentes "
     getting_started:
       title: Primeros pasos
-      intro: "Cuando entras en contacto con Diehard_Fund por primera vez, puede que te unas de diferentes formas.\nHe aquí alguna información sobre esos puntos de entrada.\n"
+      intro: "Cuando entras en contacto con DiehardFund por primera vez, puede que te unas de diferentes formas.\nHe aquí alguna información sobre esos puntos de entrada.\n"
       starting_new_group:
-        title: Cuando quieres comenzar un nuevo grupo de Diehard_Fund
-        body_html: "Si no tienes una cuenta de Diehard_Fund, puedes empezar un nuevo grupo desde la pagina principal de Diehard_Fund haciendo click en el botón <strong>\"Prueba Diehard_Fund beta\"</strong>\nSeras guiado a través de los pasos para empezar tu grupo.\nComo parte del proceso de configuración, deberás determinar como quieres que tu grupo funcione personalizando los ajustes del mismo.\n Puedes leer mas sobre los ajustes de los grupos en la sección <a href=\"#group-settings\">\"Ajustes del Grupo\"</a> en este documento.\n"
+        title: Cuando quieres comenzar un nuevo grupo de DiehardFund
+        body_html: "Si no tienes una cuenta de DiehardFund, puedes empezar un nuevo grupo desde la pagina principal de DiehardFund haciendo click en el botón <strong>\"Prueba DiehardFund beta\"</strong>\nSeras guiado a través de los pasos para empezar tu grupo.\nComo parte del proceso de configuración, deberás determinar como quieres que tu grupo funcione personalizando los ajustes del mismo.\n Puedes leer mas sobre los ajustes de los grupos en la sección <a href=\"#group-settings\">\"Ajustes del Grupo\"</a> en este documento.\n"
       invited_into_group:
-        title: Cuando se te invita a un grupo de Diehard_Fund
-        body_html: "Cuando recibes una invitación para unirte a un grupo ya existente de Diehard_Fund, el correo electrónico que recibes incluye un enlace de invitación único.\nCuando sigues este enlace, si no tienes una cuenta de usuario en Diehard_Fund, se te pedirá que crees una cuenta con tu dirección de correo electrónico y una contraseña.\nSi ya posees una cuenta de Diehard_Fund entrarás directamente en la página del grupo.\n"
+        title: Cuando se te invita a un grupo de DiehardFund
+        body_html: "Cuando recibes una invitación para unirte a un grupo ya existente de DiehardFund, el correo electrónico que recibes incluye un enlace de invitación único.\nCuando sigues este enlace, si no tienes una cuenta de usuario en DiehardFund, se te pedirá que crees una cuenta con tu dirección de correo electrónico y una contraseña.\nSi ya posees una cuenta de DiehardFund entrarás directamente en la página del grupo.\n"
       joining_existing_group:
-        title_html: "Cuando quieres unirte a un grupo de Diehard_Fund que ya existe (la <a href=\"http://diehard.fund/explore\">página Explorar grupos</a>)"
+        title_html: "Cuando quieres unirte a un grupo de DiehardFund que ya existe (la <a href=\"http://diehard.fund/explore\">página Explorar grupos</a>)"
         body:
-          explore_page_html: "La <a href=\"https://www.diehard.fund/explore\">página Explorar</a> te muestra los grupos públicos activos en Diehard_Fund.\nEs accesible a través de la aplicación portátil bajo el enlace <strong>\"Gupos públicos\"</strong> al pie.\nDesde la <a href=\"https://www.diehard.fund/explore\">página Explorar</a> puedes buscar un grupo por nombre o palabra clave, o por categoría, y hacer clic en un grupo para ver su contenido público.\nLa configuración de privacidad de un grupo determina cómo puedes hacerte miembro.\n"
-          open_to_join_html: "Algunos grupos públicos son <strong>de libre acceso</strong>, en ese caso verás el botón <strong>\"Unirse al grupo\"</strong> en la página del mismo.\nSi tienes una cuenta de Diehard_Fund, hacer clic en el botón <strong>\"Unirse al grupo\"</strong> te agrega al mismo.\nSi no tienes una cuenta de Diehard_Fund, se te pedirá que crees una.\n"
+          explore_page_html: "La <a href=\"https://www.diehard.fund/explore\">página Explorar</a> te muestra los grupos públicos activos en DiehardFund.\nEs accesible a través de la aplicación portátil bajo el enlace <strong>\"Gupos públicos\"</strong> al pie.\nDesde la <a href=\"https://www.diehard.fund/explore\">página Explorar</a> puedes buscar un grupo por nombre o palabra clave, o por categoría, y hacer clic en un grupo para ver su contenido público.\nLa configuración de privacidad de un grupo determina cómo puedes hacerte miembro.\n"
+          open_to_join_html: "Algunos grupos públicos son <strong>de libre acceso</strong>, en ese caso verás el botón <strong>\"Unirse al grupo\"</strong> en la página del mismo.\nSi tienes una cuenta de DiehardFund, hacer clic en el botón <strong>\"Unirse al grupo\"</strong> te agrega al mismo.\nSi no tienes una cuenta de DiehardFund, se te pedirá que crees una.\n"
           by_request_html: "Otros grupos son accesibles <strong>únicamente mediante solicitud</strong>, esto significa que a los coordinadores se les pide que aprueben (o ignoren) las solicitudes de membresía.\nSi este es el caso, verás el botón <strong>\"Solicita unirte al grupo\"</strong> en la página.\nAl hacer clic en el botón <strong>\"Solicita unirte al grupo\"</strong> se te pedirá una introducción personal, después tu solicitud de ingreso se envía y se les notifica a los coordinadores del grupo.\n"
           invitation_only_html: "Algunos grupos públicos únicamente permiten nuevos miembros <strong>por invitación</strong>, en ese caso podrás ver el grupo pero no habrá ningún botón o forma de unirte al grupo desde la página del mismo.\n"
       single_sign_on:
         title: Entrada de validación única
-        body_html: "<p>Diehard_Fund permite crear una cuenta utilizando Facebook, Google o Persona.\nSi no tienes una cuenta de Diehard_Fund, puedes crear una utilizando cualquiera de esas plataformas de terceros haciendo clic en el botón correspondiente en la página <a href=\"http://diehard.fund/sign_in\">Iniciar sesión</a>.\nSi estás conectado a Google, Facebook o Persona, la cuenta se detectará de forma automática.\nSi no, se te pedirá conectarte. Cuando Diehard_Fund reconoce tu cuenta de terceros, se te requerirá seguir los pasos para crear tu cuenta de Diehard_Fund<p>.\n<p>También puedes asociar una cuenta de Google, Facebook o Persona a una cuenta de Diehard_Fund.\nAsegúrate de que tu sesión esta cerrada, visita la <a href=\"https://www.diehard.fund/users/sign_in\">página Iniciar sesión</a> y selecciona tu plataforma preferida.\nDiehard_Fund te preguntará si quieres crear una cuenta nueva con la de tu plataforma elegida o si quieres asociarla a tu cuenta de Diehard_Fund.</p>\n"
+        body_html: "<p>DiehardFund permite crear una cuenta utilizando Facebook, Google o Persona.\nSi no tienes una cuenta de DiehardFund, puedes crear una utilizando cualquiera de esas plataformas de terceros haciendo clic en el botón correspondiente en la página <a href=\"http://diehard.fund/sign_in\">Iniciar sesión</a>.\nSi estás conectado a Google, Facebook o Persona, la cuenta se detectará de forma automática.\nSi no, se te pedirá conectarte. Cuando DiehardFund reconoce tu cuenta de terceros, se te requerirá seguir los pasos para crear tu cuenta de DiehardFund<p>.\n<p>También puedes asociar una cuenta de Google, Facebook o Persona a una cuenta de DiehardFund.\nAsegúrate de que tu sesión esta cerrada, visita la <a href=\"https://www.diehard.fund/users/sign_in\">página Iniciar sesión</a> y selecciona tu plataforma preferida.\nDiehardFund te preguntará si quieres crear una cuenta nueva con la de tu plataforma elegida o si quieres asociarla a tu cuenta de DiehardFund.</p>\n"
     group_settings:
       title: Configuración del grupo
-      intro_html: "En cualquier momento se puede iniciar un nuevo grupo de Diehard_Fund.\nLa primera vez que inicias el grupo se te dará la posibilidad de determinar cómo quieres que funcione, rellenando tres formularios relacionados con diferentes aspectos de la configuración de tu grupo, <strong>Perfil</strong>, <strong>Privacidad</strong> y <strong>Permisos</strong>. \nLas preferencias para cada uno de ellos se explican con más detalle a continuación.\nSi deseas cambiar las preferencias de tu grupo, haz clic en <strong>\"Opciones\"</strong> en la esquina superior derecha de la página del grupo, y selecciona la opción <strong>\"Editar preferencias del grupo\"</strong>.\nEsta opción únicamente será visible para los coordinadores del grupo.\n"
+      intro_html: "En cualquier momento se puede iniciar un nuevo grupo de DiehardFund.\nLa primera vez que inicias el grupo se te dará la posibilidad de determinar cómo quieres que funcione, rellenando tres formularios relacionados con diferentes aspectos de la configuración de tu grupo, <strong>Perfil</strong>, <strong>Privacidad</strong> y <strong>Permisos</strong>. \nLas preferencias para cada uno de ellos se explican con más detalle a continuación.\nSi deseas cambiar las preferencias de tu grupo, haz clic en <strong>\"Opciones\"</strong> en la esquina superior derecha de la página del grupo, y selecciona la opción <strong>\"Editar preferencias del grupo\"</strong>.\nEsta opción únicamente será visible para los coordinadores del grupo.\n"
       group_profile:
         title: Perfil del grupo
         body_html: "La configuración de perfil de tu grupo requiere que elijas un nombre para el grupo y que escribas una descripción del mismo. \nDescribe el propósito del grupo, por ejemplo: \"un grupo publico para que los coordinadores de la galería aprueben las propuestas de uso del espacio\" o \"el espacio para que los miembros de nuestra junta tengan en cuenta las propuestas sobre presupuestos\".\nEl propósito del grupo puede cambiar con el tiempo, pero es útil que la descripción les proporcione una idea clara a los nuevos miembros sobre la finalidad del grupo.\nTambién puedes elegir la categoría de tu grupo.\nSi tu grupo es público y quieres que la gente se una a la conversación, es útil elegir una categoría para que los demás puedan usarla para buscar en la <a href=\"http://diehard.fund/explore\">página Explorar grupos</a>.\n"
@@ -133,19 +133,19 @@ es:
         how_do_people_join:
           title: ¿Cómo se unen las personas al grupo?
           body:
-            open_html: "Seleccionar la opción <strong>\"Abierto\"</strong> significa que cualquiera que tenga una cuenta de Diehard_Fund puede unirse al grupo.\nLas personas verán el botón <strong>\"Unirse al grupo\"</strong> en la parte derecha de la página del mismo.\nSi alguien con una cuenta en Diehard_Fund hace clic en este botón, se agregará al grupo.\nSi alguien sin una cuenta en Diehard_Fund hace clic, se le pedirá que cree una antes de ser aceptado en el grupo.\n(Ten en cuenta: la opción <strong>\"Abierto\"</strong> no se aplica si has seleccionado la opción <strong>\"Solo miembros\"</strong> en la sección <strong>\"¿Quién puede encontrar este grupo?\"</strong>)\n"
+            open_html: "Seleccionar la opción <strong>\"Abierto\"</strong> significa que cualquiera que tenga una cuenta de DiehardFund puede unirse al grupo.\nLas personas verán el botón <strong>\"Unirse al grupo\"</strong> en la parte derecha de la página del mismo.\nSi alguien con una cuenta en DiehardFund hace clic en este botón, se agregará al grupo.\nSi alguien sin una cuenta en DiehardFund hace clic, se le pedirá que cree una antes de ser aceptado en el grupo.\n(Ten en cuenta: la opción <strong>\"Abierto\"</strong> no se aplica si has seleccionado la opción <strong>\"Solo miembros\"</strong> en la sección <strong>\"¿Quién puede encontrar este grupo?\"</strong>)\n"
             by_request_html: "Seleccionar la opción <strong>\"Por solicitud\"</strong> significa que cualquiera  puede solicitar unirse al grupo.\nLas gente verá el botón <strong>\"Solicita unirte al grupo\"</strong> en la parte derecha de la página de tu grupo.\nCuando se hace clic en este botón, la persona tendrá la posibilidad de presentarse y se envía una solicitud de membresía a los coordinadores del grupo.\n"
             membership_requests_html: "Las solicitudes de membresía pueden ser aprobadas o ignoradas.\n(Ten en cuenta: la opción <strong>\"Por solicitud\"</strong> no se aplica si has seleccionado la opción <strong>\"Solo miembros\"</strong> en la sección <strong>\"¿Quién puede encontrar este grupo?\"</strong>)\n"
             invitation_only_html: "Si seleccionas <strong>\"Solo por invitación\"</strong>, nadie puede unirse al grupo sin haber sido invitado.\nLas invitaciones se envían desde la página <a href=\"#inviting-members\">\"Invitar personas\"</a>.\n"
         who_can_see_discussions:
           title: ¿Quién puede ver las discusiones?
           body:
-            public_only_html: "Seleccionar la opción <strong>\"Solo discusiones públicas\"</strong> implica que el contenido de todas las discusiones podrá verse públicamente.\nLos miembros del público que no tengan cuenta en Diehard_Fund podrán leer tus comentarios pero no podrán escribirlos ni participar en la discusión.\nEsto puede ser útil si estás llevando a cabo una discusión abierta y quieres animar a las personas a participar.\n(Ten en cuenta: la opción <strong>\"Solo discusiones públicas\"</strong> no se aplica si has seleccionado la opción <strong>\"Solo miembros\"</strong> en la sección <strong>\"¿Quién puede encontrar este grupo?\"</strong> )\n"
+            public_only_html: "Seleccionar la opción <strong>\"Solo discusiones públicas\"</strong> implica que el contenido de todas las discusiones podrá verse públicamente.\nLos miembros del público que no tengan cuenta en DiehardFund podrán leer tus comentarios pero no podrán escribirlos ni participar en la discusión.\nEsto puede ser útil si estás llevando a cabo una discusión abierta y quieres animar a las personas a participar.\n(Ten en cuenta: la opción <strong>\"Solo discusiones públicas\"</strong> no se aplica si has seleccionado la opción <strong>\"Solo miembros\"</strong> en la sección <strong>\"¿Quién puede encontrar este grupo?\"</strong> )\n"
             public_and_private_html: "Seleccionar la opción <strong>\"Permitir discusiones públicas y privadas\"</strong> implica que los miembros de tu grupo pueden elegir si las discusiones que comienzan son públicas o privadas.\nEsto permite discreción con respecto a determinados temas que podrían ser mas delicados, lo que puede ser útil si quieres que solo los miembros que se han unido al grupo puedan leer esas conversaciones.\n(Ten en cuenta: la opción <strong>\"Permitir discusiones públicas y privadas\"</strong> no se aplica si has seleccionado la opción <strong>\"Solo miembros\"</strong> en la sección <strong>\"¿Quién puede encontrar este grupo?\"</strong>)\n"
             private_only_html: "Si seccionas la opción <strong>\"Solo discusiones privadas\"</strong>, nadie fuera de tu grupo puede ver el contenido de las discusiones."
       group_permissions:
         title: Permisos del grupo
-        body_html: "<p>Los permisos de tu grupo dictan qué funciones para miembros de tu grupo Diehard_Fund están permitidas.\nCuando inicias tu grupo, deberás decidir si los miembros de tu grupo tendrán poder para tomar decisiones, si podrán plantear cuestiones o solo comentar en las cuestiones que tu planteas, etc.\nTener la posibilidad de regular qué acciones pueden llevar a cabo los miembros de tu grupo significa que pueden ser más fácil de manejar las consultas, supervisiones, informes y otras situaciones en las que necesites separar a los miembros de tu grupo en participantes y \"observadores\".</p>\n<p>Si quieres que solo algunas de las personas de tu grupo tengan la posibilidad de votar, comentar o iniciar discusiones, hazlos coordinadores y no selecciones las casillas de modo que los miembros que no sean coordinadores no tengan esos permisos.</p>\n"
+        body_html: "<p>Los permisos de tu grupo dictan qué funciones para miembros de tu grupo DiehardFund están permitidas.\nCuando inicias tu grupo, deberás decidir si los miembros de tu grupo tendrán poder para tomar decisiones, si podrán plantear cuestiones o solo comentar en las cuestiones que tu planteas, etc.\nTener la posibilidad de regular qué acciones pueden llevar a cabo los miembros de tu grupo significa que pueden ser más fácil de manejar las consultas, supervisiones, informes y otras situaciones en las que necesites separar a los miembros de tu grupo en participantes y \"observadores\".</p>\n<p>Si quieres que solo algunas de las personas de tu grupo tengan la posibilidad de votar, comentar o iniciar discusiones, hazlos coordinadores y no selecciones las casillas de modo que los miembros que no sean coordinadores no tengan esos permisos.</p>\n"
         what_can_members_do:
           title: ¿Qué pueden hacer los miembros?
           invite_and_approve_new_members:
@@ -153,7 +153,7 @@ es:
             body_html: "¿Quieres que las personas de tu grupo puedan de <a href=\"#inviting-members\">invitar a gente a unirse</a> y, dependiendo de la configuración de privacidad de tu grupo, aprobar las solicitudes de membresía?\nCuando se selecciona esta opción, todos en tu grupo podrán invitar a nuevas personas y aprobar solicitudes.\nCuando no está seleccionada, solo los coordinadores del grupo podrán invitar y aprobar nuevos miembros.\n"
           create_subgroups:
             title: Crear sub-grupos
-            body_html: "¿Quieres que los miembros sean capaces de comenzar un nuevo <a href=\"#subgroups\">sub-grupo</a> dentro de tu grupo de Diehard_Fund?\nCuando se selecciona esta opción, todos en tu grupo podrán crear sub-grupos.\nCuando no se selecciona, solo los coordinadores podrán crearlos.\n"
+            body_html: "¿Quieres que los miembros sean capaces de comenzar un nuevo <a href=\"#subgroups\">sub-grupo</a> dentro de tu grupo de DiehardFund?\nCuando se selecciona esta opción, todos en tu grupo podrán crear sub-grupos.\nCuando no se selecciona, solo los coordinadores podrán crearlos.\n"
           start_discussions:
             title: Empezar discusiones
             body_html: "¿Quieres que cualquiera en tu grupo pueda iniciar <a href=\"#starting-discussions\">nuevas discusiones</a>?\nSi se selecciona esta opción, todos en tu grupo podrán iniciar discusiones.\nCuando no se selecciona, solo los coordinadores del grupo podrán iniciarlas.\n"
@@ -174,13 +174,13 @@ es:
           body_html: "Una vez que envíes el formulario de creación del grupo , seras dirigido hacia la pagina de tu grupo.\nDesde la pagina de tu grupo puedes invitar personas a unirse.\nPuedes leer mas sobre invitaciones en la sección <a href=\"#inviting-members\">\"Invitar nuevos miembros\"</a> de este documento.\n"
     coordination:
       title: Coordinando tu grupo
-      intro_html: "Como coordinador de un grupo de Diehard_Fund, eres responsable de guiar a tu grupo en el proceso de aprender a usar una nueva pieza de software; así como también aprender nuevos procesos para colaborar más eficazmente y tomar buenas decisiones juntos.\nLas tareas especificadas debajo son tareas que solo los coordinadores de tu grupo tienen permiso de ejecutar.\n"
+      intro_html: "Como coordinador de un grupo de DiehardFund, eres responsable de guiar a tu grupo en el proceso de aprender a usar una nueva pieza de software; así como también aprender nuevos procesos para colaborar más eficazmente y tomar buenas decisiones juntos.\nLas tareas especificadas debajo son tareas que solo los coordinadores de tu grupo tienen permiso de ejecutar.\n"
       adding_cover_photo:
         title: Agregando una foto de portada
-        body_html: "<p>Cuando tu grupo esté listo y funcionando puedes agregar una foto de portada.\nEsta es una forma fácil de hacer que los miembros de tu grupo se sientan un poco más en casa en Diehard_Fund.</p>\n<p>Cuando pases sobre las zonas grises en la parte de arriba de la página de tu grupo, un icono de lápiz aparecerá en la esquina superior derecha.\nHaz clic en ese icono y serás capaz de seleccionar una imagen para subir.\nEl tamaño óptimo de las fotos de portada es 970 x 200 píxeles.\nPuedes cambiar tu foto de portada en cualquier momento simplemente subiendo una nueva.</p>\n"
+        body_html: "<p>Cuando tu grupo esté listo y funcionando puedes agregar una foto de portada.\nEsta es una forma fácil de hacer que los miembros de tu grupo se sientan un poco más en casa en DiehardFund.</p>\n<p>Cuando pases sobre las zonas grises en la parte de arriba de la página de tu grupo, un icono de lápiz aparecerá en la esquina superior derecha.\nHaz clic en ese icono y serás capaz de seleccionar una imagen para subir.\nEl tamaño óptimo de las fotos de portada es 970 x 200 píxeles.\nPuedes cambiar tu foto de portada en cualquier momento simplemente subiendo una nueva.</p>\n"
       manage_membership:
         title: Gestionando membresias
-        body_html: "Los coordinadores del grupo son responsables de geestionar las membresías dentro del grupo.\nEsto significa añadir y eliminar miembros, y conceder y revocar permisos de coordinador.\nLos coordinadores también pueden enviar correos electrónicos a todos los miembros del grupo.\nEstas acciones pueden ejecutarse desde la página de listado de <strong>\"Miembros\"</strong>.\nEn el lado derecho de la página de tu grupo de Diehard_Fund hay un botón de <strong>\"Opciones\"</strong>.\nPara acceder a la pagina <strong>\"Miembros\"</strong>, haz clic en ese botón y selecciona la opción <strong>\"Administrar miembros\"</strong>.\nTambién puedes acceder a la página haciendo clic en el enlace <strong>\"Más...\"</strong> en el panel <strong>\"Miembros\"</strong> en la parte derecha de la página de tu grupo.\n"
+        body_html: "Los coordinadores del grupo son responsables de geestionar las membresías dentro del grupo.\nEsto significa añadir y eliminar miembros, y conceder y revocar permisos de coordinador.\nLos coordinadores también pueden enviar correos electrónicos a todos los miembros del grupo.\nEstas acciones pueden ejecutarse desde la página de listado de <strong>\"Miembros\"</strong>.\nEn el lado derecho de la página de tu grupo de DiehardFund hay un botón de <strong>\"Opciones\"</strong>.\nPara acceder a la pagina <strong>\"Miembros\"</strong>, haz clic en ese botón y selecciona la opción <strong>\"Administrar miembros\"</strong>.\nTambién puedes acceder a la página haciendo clic en el enlace <strong>\"Más...\"</strong> en el panel <strong>\"Miembros\"</strong> en la parte derecha de la página de tu grupo.\n"
         membership_requests:
           title: Aceptando/ignorando solicitudes de membresía
           body:
@@ -197,14 +197,14 @@ es:
           body_html: "Solo los coordinadores pueden eliminar miembros del grupo.\nEn la página <strong>\"Miembros\"</strong>, junto a cada miembro del grupo, hay un botón <strong>\"Remover\"</strong>.\nHaciendo clic en este botón eliminas al correspondiente miembro de tu grupo.\n"
       deactivating_groups:
         title: Desactivar/archivar un grupo
-        body_html: "Desactivar tu grupo implica que los miembros del mismo ya no podrán acceder a tu grupo.\nSi eres un coordinador de grupo y deseas desactivarlo, puedes hacerlo seleccionando <strong>\"Desactivar grupo\"</strong> desde el menú de <strong>\"Opciones\"</strong> en la página del grupo.\nLos grupos desactivados pueden ser reactivados por un miembro del equipo de Diehard_Fund.\nPara reactivar un grupo, contacta con el equipo de Diehard_Fund enviando un correo electrónico a <a href=\"mailto:contact@diehard.fund\">contact@diehard.fund</a>.\n"
+        body_html: "Desactivar tu grupo implica que los miembros del mismo ya no podrán acceder a tu grupo.\nSi eres un coordinador de grupo y deseas desactivarlo, puedes hacerlo seleccionando <strong>\"Desactivar grupo\"</strong> desde el menú de <strong>\"Opciones\"</strong> en la página del grupo.\nLos grupos desactivados pueden ser reactivados por un miembro del equipo de DiehardFund.\nPara reactivar un grupo, contacta con el equipo de DiehardFund enviando un correo electrónico a <a href=\"mailto:contact@diehard.fund\">contact@diehard.fund</a>.\n"
       coordinator_tips:
         title: Consejos para involucrar a tu grupo
         customise_invitation:
           title_html: Personaliza tu mensaje de invitación
         engaging_proposal:
           title: "Crea una primera propuesta atractiva: "
-          body: "La gente estará entusiasmada de participar cuando haya una propuesta atractiva sobre la mesa.\nUna buena propuesta contiene un plan de acción para el grupo, de manera que queda inmediatamente claro lo que significa estar de acuerdo o no.\nPiensa cómo puedes identificar discusiones o decisiones que el grupo está llevando a cabo actualmente, en persona o por correo electrónico, que serian mas fáciles si estuvieran en Diehard_Fund.\nPor otro lado, si tu grupo quiere acostumbrarse a la herramienta antes de utilizarla para abordar decisiones reales, puedes comenzar una decisión en tono festivo para dar la oportunidad a todos de jugar con la herramienta y ver el proceso de toma de decisiones en acción.\n"
+          body: "La gente estará entusiasmada de participar cuando haya una propuesta atractiva sobre la mesa.\nUna buena propuesta contiene un plan de acción para el grupo, de manera que queda inmediatamente claro lo que significa estar de acuerdo o no.\nPiensa cómo puedes identificar discusiones o decisiones que el grupo está llevando a cabo actualmente, en persona o por correo electrónico, que serian mas fáciles si estuvieran en DiehardFund.\nPor otro lado, si tu grupo quiere acostumbrarse a la herramienta antes de utilizarla para abordar decisiones reales, puedes comenzar una decisión en tono festivo para dar la oportunidad a todos de jugar con la herramienta y ver el proceso de toma de decisiones en acción.\n"
         encourage_mentioning:
           title_html: "Alentar <a href=\"#mentioning\">@menciones</a>:"
           body: "Otra forma simple de alentar a la gente a participar en una discusión es usando el elemento @mención para motivar a personas concretas; se les enviará un correo electrónico para decirles que han sido mencionados en un comentario."
@@ -212,14 +212,14 @@ es:
       title: Invitando nuevos miembros
       body:
         intro_html: "Dependiendo de la <a href=\"#group-settings\">configuración</a> de tu grupo, los nuevos miembros pueden ser invitados por cualquiera dentro el grupo o solo por los coordinadores.\nA la página de <strong>Invitaciones</strong> se accede haciendo clic en el botón <strong>\"Invitar gente\"</strong> en la página de tu grupo.\n"
-        invitation_instructions_html: "Para invitar nuevas personas a tu grupo, introduce sus direcciones de correo electrónico separadas por comas.\nPuedes elegir utilizar el mensaje estandarizado de Diehard_Fund, o crear un nuevo mensaje personalizado.\n"
+        invitation_instructions_html: "Para invitar nuevas personas a tu grupo, introduce sus direcciones de correo electrónico separadas por comas.\nPuedes elegir utilizar el mensaje estandarizado de DiehardFund, o crear un nuevo mensaje personalizado.\n"
         customising_invitations_html: "Escribir una invitación personalizada puede ser una buena oportunidad de involucrar nuevos miembros desde el comienzo.\nLa primera pregunta que un nuevo miembro se hará es <strong><i>\"¿Para qué es este grupo?\"</i></strong>.\nPiensa en la forma mas fácil para describir al grupo: <strong><i>¿Qué es lo que quieres alcanzar juntos?\n¿Qué tipo de decisiones tomaréis? ¿Quién estará involucrado?</i></strong> La gente querrá saber por qué han sido invitados, y por qué es bueno para ellos pasar tiempo aprendiendo a usar una nueva herramienta.\n"
         invitation_link: "Cuando envíes el formulario de invitaciones, un correo electrónico le sera enviado a cada una de las direcciones de correo que suministraste, conteniendo tu mensaje y un enlace de invitación único:"
       importing_contacts:
         title: Importar contactos
         body:
-          intro_html: "Importar tus contactos desde Google a Diehard_Fund facilita invitar gente a tu grupo.\nUna vez que tus contactos han sido importados, no necesitas completar individualmente las direcciones de correo electrónico; puedes comenzar a escribir el nombre y te aparecerán sugerencias.\nPuedes importar tus contactos de Google desde la página <strong>\"Invitar gente\"</strong>.\n"
-          instructions_html: "Haz clic en el enlace <strong>“Importar tus contactos desde Google”</strong> bajo la casilla dirección de correo electrónico.\nSe te pedirá que le concedas permiso a Diehard_Fund para ver tu lista de contactos.\nDiehard_Fund utilizara esta información solo para el propósito de ayudarte a seleccionar gente para agregar a tu grupo.\n"
+          intro_html: "Importar tus contactos desde Google a DiehardFund facilita invitar gente a tu grupo.\nUna vez que tus contactos han sido importados, no necesitas completar individualmente las direcciones de correo electrónico; puedes comenzar a escribir el nombre y te aparecerán sugerencias.\nPuedes importar tus contactos de Google desde la página <strong>\"Invitar gente\"</strong>.\n"
+          instructions_html: "Haz clic en el enlace <strong>“Importar tus contactos desde Google”</strong> bajo la casilla dirección de correo electrónico.\nSe te pedirá que le concedas permiso a DiehardFund para ver tu lista de contactos.\nDiehardFund utilizara esta información solo para el propósito de ayudarte a seleccionar gente para agregar a tu grupo.\n"
       pending_invitations:
         title: Invitaciones pendientes
         body_html: "Puedes ver un listado de la gente que ha sido invitada a tu grupo pero que aún no han aceptado la invitación en el panel <strong>\"Invitaciones pendientes\"</strong> al final de la página <strong>\"Miembros\"</strong>.\nPara acceder a la página <strong>\"Miembros\"</strong> y ver la invitaciones pendientes, haz clic en el enlace <strong>\"Más...\"</strong> en el panel <strong>\"Miembros\"</strong> en la parte derecha de la página de tu grupo.\n"
@@ -231,7 +231,7 @@ es:
         body_html: "Si quieres iniciar una nueva discusión lo puedes hacer desde el <a href=\"#dashboard\">Panel de control</a>, o desde la página del grupo, haciendo clic en el botón <strong>\"Empezar una discusión\"</strong> en el lado derecho de la página.\nSi comienzas una discusión desde el Panel de control, se te pedirá elegir el grupo donde la discusión debería llevarse a cabo.\n"
       providing_context:
         title: "Proveer contexto "
-        body_html: "<p>Una vez hayas hecho clic en el botón <strong>\"Empezar una discusión\"</strong>, el formulario siguiente te pedirá que le pongas un <strong>título</strong> y un <strong>contexto</strong>. Asegúrate de que el título transmite el tema en pocas palabras. ¿Cuál es el mensaje central?\nLos títulos de discusión largos se cortarán en el Panel de control.</p> \n<p>El campo de contexto te permite desarrollar el título y proporcionar cualquier información útil sobre los antecedentes. Intenta proporcionar toda la información sobre antecedentes que se podría necesitar para participar significativamente - todo lo que requiera el grupo para llevar a cabo una discusión productiva e informada.</p>\n<p>El título de la discusión y la información que proveas para el contexto se sitúan en un panel en la parte superior de la página de la discusión.</p>\n<p>A medida que va progresando la discusión, el panel de contexto puede ser actualizado según salga a la luz nueva información.\nAdemás de aclarar el tema, puedes usar este espacio para compartir recursos, resumir la discusión según va progresando, o resumir los protocolos de toma de decisiones que tu grupo está usando.</p>\n<p>Diehard_Fund utiliza <strong>Markdown</strong> para formatear texto e incrustar imágenes. Puedes utilizar Markdown en el panel de contexto para formatear el contexto de tu discusión o para incrustar imágenes. \nPara mas información sobre cómo utilizar Markdown, haz clic en el enlace de <a href=\"https://www.diehard.fund/d/Wh7vHaTk/markdown-text-formatting-made-easy\">\"Ayuda\"</a> al lado de la casilla de Markdown en el formulario de la nueva discusión, o visita la pagina de ayuda de Markdown directamente <a href=\"/markdown\" target=\"_blank\">diehard.fund/markdown</a>.</p>\n"
+        body_html: "<p>Una vez hayas hecho clic en el botón <strong>\"Empezar una discusión\"</strong>, el formulario siguiente te pedirá que le pongas un <strong>título</strong> y un <strong>contexto</strong>. Asegúrate de que el título transmite el tema en pocas palabras. ¿Cuál es el mensaje central?\nLos títulos de discusión largos se cortarán en el Panel de control.</p> \n<p>El campo de contexto te permite desarrollar el título y proporcionar cualquier información útil sobre los antecedentes. Intenta proporcionar toda la información sobre antecedentes que se podría necesitar para participar significativamente - todo lo que requiera el grupo para llevar a cabo una discusión productiva e informada.</p>\n<p>El título de la discusión y la información que proveas para el contexto se sitúan en un panel en la parte superior de la página de la discusión.</p>\n<p>A medida que va progresando la discusión, el panel de contexto puede ser actualizado según salga a la luz nueva información.\nAdemás de aclarar el tema, puedes usar este espacio para compartir recursos, resumir la discusión según va progresando, o resumir los protocolos de toma de decisiones que tu grupo está usando.</p>\n<p>DiehardFund utiliza <strong>Markdown</strong> para formatear texto e incrustar imágenes. Puedes utilizar Markdown en el panel de contexto para formatear el contexto de tu discusión o para incrustar imágenes. \nPara mas información sobre cómo utilizar Markdown, haz clic en el enlace de <a href=\"https://www.diehard.fund/d/Wh7vHaTk/markdown-text-formatting-made-easy\">\"Ayuda\"</a> al lado de la casilla de Markdown en el formulario de la nueva discusión, o visita la pagina de ayuda de Markdown directamente <a href=\"/markdown\" target=\"_blank\">diehard.fund/markdown</a>.</p>\n"
       discussion_privacy:
         title: Privacidad de la discusión
         body_html: "La privacidad de la discusión se determina mediante la <a href=\"#group-privacy\">privacidad del grupo</a>.\n\nSi estás empezando una discusión en un grupo público, puedes elegir si tu discusión es pública (es decir, se puede buscar y cualquiera puede verla), o privada (sólo será visible para los miembros de tu grupo).\n"
@@ -251,13 +251,13 @@ es:
         body: Puedes añadir tu voz a una discusión mediante el recuadro de comentarios al fondo de la página de discusión.
       markdown:
         title: Markdown
-        body_html: "Diehard_Fund usa <strong>Markdown</strong> para formatear texto e incrustar imágenes.\nPara activar Markdown, marca la casilla junto a la palabra <strong>“Markdown”</strong> bajo el recuadro de comentario.\nPara mas información sobre cómo utilizar Markdown, haz clic en el enlace de <a href=\"https://www.diehard.fund/d/Wh7vHaTk/markdown-text-formatting-made-easy\">\"Ayuda\"</a> al lado de la casilla de Markdown bajo el recuadro del comentario, o visita la pagina de ayuda de Markdown directamente: <a href=\"/markdown\" target=\"_blank\">diehard.fund/markdown</a>.\n"
+        body_html: "DiehardFund usa <strong>Markdown</strong> para formatear texto e incrustar imágenes.\nPara activar Markdown, marca la casilla junto a la palabra <strong>“Markdown”</strong> bajo el recuadro de comentario.\nPara mas información sobre cómo utilizar Markdown, haz clic en el enlace de <a href=\"https://www.diehard.fund/d/Wh7vHaTk/markdown-text-formatting-made-easy\">\"Ayuda\"</a> al lado de la casilla de Markdown bajo el recuadro del comentario, o visita la pagina de ayuda de Markdown directamente: <a href=\"/markdown\" target=\"_blank\">diehard.fund/markdown</a>.\n"
       attaching_files:
         title: "Adjuntar archivos "
-        body: "Diehard_Fund te permite adjuntar archivos a los comentarios en una discusión.\nPuedes adjuntar un archivo a un comentario haciendo clic en el icono de clip debajo del recuadro de comentario al fondo de la página de discusión y seleccionando el archivo en tu equipo.\n"
+        body: "DiehardFund te permite adjuntar archivos a los comentarios en una discusión.\nPuedes adjuntar un archivo a un comentario haciendo clic en el icono de clip debajo del recuadro de comentario al fondo de la página de discusión y seleccionando el archivo en tu equipo.\n"
       mentioning_group_members:
         title: "@mencionar miembros del grupo"
-        body_html: "Si quieres llamar la atención de personas concretas de tu grupo, escribe <strong>‘@’</strong> en el recuadro de comentario, seguido de su nombre.\nDiehard_Fund completará automáticamente sus nombres de usuario.\nSe les notificará que les has mencionado en un comentario.\n"
+        body_html: "Si quieres llamar la atención de personas concretas de tu grupo, escribe <strong>‘@’</strong> en el recuadro de comentario, seguido de su nombre.\nDiehardFund completará automáticamente sus nombres de usuario.\nSe les notificará que les has mencionado en un comentario.\n"
       editing_comments:
         title: "Editar un comentario "
         body_html: "Para poder corregir errores tipográficos, puedes editar un comentario después de publicarlo.\nPor defecto, los grupos están configurados de manera que un comentario sólo puede editarse mientras nadie más agregue un comentario a la discusión.\nLos coordinadores de grupo también pueden <a href=\"#group-permissions\">configurar los grupos para permitir a los usuarios editar sus comentarios en cualquier momento</a>.\nEl icono de lápiz para editar un comentario será visible en el lado derecho del mismo si tienes permiso para editarlo.\nLos comentarios que han sido editados muestran la palabra <strong>“Editado”</strong> debajo.\nHacer clic en <strong>“Editado”</strong> bajo un comentario mostrará todas las versiones previas del mismo.\n"
@@ -271,7 +271,7 @@ es:
         body_html: "Puedes borrar tus propios comentarios en cualquier momento haciendo clic en la <strong>\"X\"</strong> que está en la parte derecha del comentario.\nLos coordinadores de grupo pueden eliminar cualquier comentario publicado en discusiones que se lleven a cabo dentro de los grupos que ellos coordinan.\n"
     proposals:
       title: Propuestas
-      intro_html: "Las propuestas tienen lugar en un <a href=\"#discussion-threads\">hilo de discusión</a>, que engloba tanto a la discusión como a la propuesta.\nSólo puede haber una propuesta activa en cada hilo de discusión.\nDiehard_Fund anima a los grupos a emplear una discusión inicial para tener en cuenta múltiples opciones.\nUna propuesta es un plan de acción que emerge naturalmente cuando parece que una idea está ganando terreno.\n"
+      intro_html: "Las propuestas tienen lugar en un <a href=\"#discussion-threads\">hilo de discusión</a>, que engloba tanto a la discusión como a la propuesta.\nSólo puede haber una propuesta activa en cada hilo de discusión.\nDiehardFund anima a los grupos a emplear una discusión inicial para tener en cuenta múltiples opciones.\nUna propuesta es un plan de acción que emerge naturalmente cuando parece que una idea está ganando terreno.\n"
       starting_proposals:
         title: Comenzar una propuesta
         body:
@@ -302,7 +302,7 @@ es:
     subgroups:
       title: Subgrupos
       body:
-        intro_html: "Muchas veces, necesitaras múltiples grupos de Diehard_Fund, todos relacionados con la misma organización, pero encontraras que cada grupo tendrá diferentes necesidades de membresia, privacidad y permisos.\nEn esos momentos es cuando los sub-grupos son útiles.\n"
+        intro_html: "Muchas veces, necesitaras múltiples grupos de DiehardFund, todos relacionados con la misma organización, pero encontraras que cada grupo tendrá diferentes necesidades de membresia, privacidad y permisos.\nEn esos momentos es cuando los sub-grupos son útiles.\n"
         creation_instructions_html: "Si quieres crear un sub-grupo dentro de tu grupo y tienes los <a href=\"#group-permissions\">permisos correctos</a>, puedes hacerlo haciendo clic en el enlace <strong>\"Sub-grupos\"</strong> en el panel de la parte derecha de la pagina de tu grupo."
       subgroup_privacy:
         title: "Privacidad del subgrupo "
@@ -311,7 +311,7 @@ es:
           editing_settings_html: "Editar la configuración del sub-grupo esta restringido a los coordinadores.\nSi eres un coordinador del sub-grupo y quieres cambiar la configuración del mismo, haz clic en <strong>\"Opciones\"</strong> en la parte derecha de la pagina de tu grupo, y selecciona <strong>\"Editar la configuración del grupo\"</strong> en el menú desplegable.\n"
     dashboard:
       title: "Tu panel de control "
-      body: "El tablero es tu pagina principal. Te dará una idea de lo que esta pasando en tus grupos.\nEs lo que veras la primera vez que ingreses a Diehard_Fund. El tablero muestra el contenido de tus grupos en una lista de prioridades.\nLas propuestas abiertas están arriba, seguidas por la actividad reciente de todos los hilos de discusión de los grupos donde eres miembro.\nSi una discusión o propuesta aparece en gris significa que hubo nueva actividad desde la ultima vez que lo viste.\nLos números sobre los comentarios reflejan cuantos han sido posteados desde la ultima visita a la pagina.\nUn gráfico de torta refleja el estado de la propuesta correspondiente.\nCuando aparecen números sobre el gráfico de torta, estos reflejan cuantas nuevas posiciones han sido tomadas desde tu la ultima visita.\nSi has tomado partido en una propuesta en particular, veras un icono que representa tu posición, frente al titulo de la propuesta.\n"
+      body: "El tablero es tu pagina principal. Te dará una idea de lo que esta pasando en tus grupos.\nEs lo que veras la primera vez que ingreses a DiehardFund. El tablero muestra el contenido de tus grupos en una lista de prioridades.\nLas propuestas abiertas están arriba, seguidas por la actividad reciente de todos los hilos de discusión de los grupos donde eres miembro.\nSi una discusión o propuesta aparece en gris significa que hubo nueva actividad desde la ultima vez que lo viste.\nLos números sobre los comentarios reflejan cuantos han sido posteados desde la ultima visita a la pagina.\nUn gráfico de torta refleja el estado de la propuesta correspondiente.\nCuando aparecen números sobre el gráfico de torta, estos reflejan cuantas nuevas posiciones han sido tomadas desde tu la ultima visita.\nSi has tomado partido en una propuesta en particular, veras un icono que representa tu posición, frente al titulo de la propuesta.\n"
     keeping_up_to_date:
       title: "Mantenerse al día "
       volume:
@@ -325,13 +325,13 @@ es:
           quiet_title: Bajo
           quiet_description: "- desactiva todos los envíos de correos electrónicos. Verás la actividad nueva del grupo desde el Escritorio."
           mute_title: "Silenciado "
-          mute_description_html: " - desactiva todos los envíos de correos electrónicos. Sólo se te notificará si alguien te @menciona. También retirará el grupo de tu Escritorio y del boletín por correo electrónico: <a href=\"#yesterday-on-diehard_fund\">“Ayer en Diehard_Fund”</a>."
+          mute_description_html: " - desactiva todos los envíos de correos electrónicos. Sólo se te notificará si alguien te @menciona. También retirará el grupo de tu Escritorio y del boletín por correo electrónico: <a href=\"#yesterday-on-diehard_fund\">“Ayer en DiehardFund”</a>."
           upon_joining_group_html: "Cuando te unís a un grupo nuevo tu configuración para ses grupo sera <strong>Normal</strong>Esto significa de recibiras un mail cuando una nueva discucion es abierta, una propuesta es evaluada, o establecida.\n"
           set_all_group_volume_html: "Puedes ver el volumen de todos tus grupos en la página <strong><a href=\"#email-settings\">\"Configuración de correo electrónico\"</a></strong>."
       email_settings:
         title: Configuración de correo electrónico
       yesterday_on_diehard_fund:
-        title: Ayer en Diehard_Fund
+        title: Ayer en DiehardFund
     user_profile:
       title: Tu perfil de usuario
       language_settings:
@@ -355,23 +355,23 @@ es:
     security:
       title: "Privacidad y seguridad "
     contributing:
-      title: Contribuir con Diehard_Fund
+      title: Contribuir con DiehardFund
       body:
         open_source:
           title_html: Desarrollo de código abierto
         translation:
           title_html: "Traducción "
         diehard_fund_community:
-          title_html: La Comunidad de Diehard_Fund
+          title_html: La Comunidad de DiehardFund
     diehard_fund_community:
-      title: La Comunidad de Diehard_Fund
+      title: La Comunidad de DiehardFund
     diehard_fund_development:
-      title: Manteniéndote al día con el Desarrollo de Diehard_Fund
-      intro: Hay distintas maneras de mantenerte al día de los progresos de Diehard_Fund
-      github_repo_html: El repositorio principal del desarrollo de Diehard_Fund
-      github_issues_html: El seguimiento de incidencias de Diehard_Fund en Github
-      angular_html: Diehard_Fund 1.0-beta en acción
-      twitter_html: Diehard_Fund en Twitter
+      title: Manteniéndote al día con el Desarrollo de DiehardFund
+      intro: Hay distintas maneras de mantenerte al día de los progresos de DiehardFund
+      github_repo_html: El repositorio principal del desarrollo de DiehardFund
+      github_issues_html: El seguimiento de incidencias de DiehardFund en Github
+      angular_html: DiehardFund 1.0-beta en acción
+      twitter_html: DiehardFund en Twitter
     faq:
       title: "Preguntas frecuentes "
       confirmation_email:
@@ -381,35 +381,35 @@ es:
       forgotten_password:
         title: Olvidé mi contraseña. ¿Qué hago?
       diehard_fund_account:
-        title: ¿Necesito una cuenta Diehard_Fund para participar en las discusiones?
+        title: ¿Necesito una cuenta DiehardFund para participar en las discusiones?
       cost:
-        title: ¿Cuesta hacer uso de Diehard_Fund?
+        title: ¿Cuesta hacer uso de DiehardFund?
       single_sign_on:
         title: "¿Puedo identificarme con Google, Facebook o Twitter?"
       diehard_fund_instance:
-        title: ¿Cómo puedo configurar mi propia instancia de Diehard_Fund?
+        title: ¿Cómo puedo configurar mi propia instancia de DiehardFund?
       feature_idea:
         title: ¿Y si quiero proponer una característica?
       development_pipeline:
-        title: ¿Qué es lo próximo en la pila de desarrollo de Diehard_Fund?
+        title: ¿Qué es lo próximo en la pila de desarrollo de DiehardFund?
       functional_group_size:
-        title: ¿Qué tamaño de grupos funciona bien en Diehard_Fund?
-        body: Actualmente Diehard_Fund funciona bien para grupos de hasta 1.000 personas.
+        title: ¿Qué tamaño de grupos funciona bien en DiehardFund?
+        body: Actualmente DiehardFund funciona bien para grupos de hasta 1.000 personas.
       search_for_private_group:
         title: "¿Cómo es posible que cuando busco un grupo que sé que existe, no aparezca en la página Explorar?"
         body: Si el grupo que buscas es privado no podrás encontrarlo públicamente y necesitarás una invitación para unirte.
       mobile_responsive:
-        title: ¿Funcionará Diehard_Fund en mi dispositivo móvil?
+        title: ¿Funcionará DiehardFund en mi dispositivo móvil?
       account_reactivation:
         title: ¿Cómo puedo reactivar mi cuenta?
-        body_html: "Sólo un miembro del equipo de Diehard_Fund puede reactivar una cuenta. Para reactivar la tuya, contacta con nosotros utilizando el formulario de abajo o envía un correo electrónico a <a href=\"mailto:contact@diehard.fund\">contact@diehard.fund</a>.\n"
+        body_html: "Sólo un miembro del equipo de DiehardFund puede reactivar una cuenta. Para reactivar la tuya, contacta con nosotros utilizando el formulario de abajo o envía un correo electrónico a <a href=\"mailto:contact@diehard.fund\">contact@diehard.fund</a>.\n"
       restore_group:
         title: "He desactivado mi grupo, ¿puedo restaurarlo?"
-        body_html: "Sólo un miembro del equipo de Diehard_Fund puede restaurar un grupo desactivado. Para hacerlo contacta con nosotros utilizando el formulario de abajo o envía un correo electrónico a <a href=\"mailto:contact@diehard.fund\">contact@diehard.fund</a>.\n"
+        body_html: "Sólo un miembro del equipo de DiehardFund puede restaurar un grupo desactivado. Para hacerlo contacta con nosotros utilizando el formulario de abajo o envía un correo electrónico a <a href=\"mailto:contact@diehard.fund\">contact@diehard.fund</a>.\n"
       diehard_fund_api:
-        title: ¿Hay una API de Diehard_Fund?
+        title: ¿Hay una API de DiehardFund?
       subdomain:
-        title: ¿Es posible tener un subdominio de Diehard_Fund?
+        title: ¿Es posible tener un subdominio de DiehardFund?
       email_signature_included_in_reply_title: "Cuando contesto en una discusión por correo electrónico, mi firma se incluye en mi comentario. ¿Cómo puedo cambiar esto?"
       feedback_link: "¿Echaste algo en falta? Cuéntanoslo >"
     back_to_top: ^ Arriba

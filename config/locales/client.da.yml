@@ -83,7 +83,7 @@ da:
       subscribe: Abonnér
     formatting_help:
       label: 'Formatering'
-      title: 'Lær hvordan man bruger Markdown for at formattere din tekst på Diehard_Fund'
+      title: 'Lær hvordan man bruger Markdown for at formattere din tekst på DiehardFund'
   devise:
     failure:
       inactive: 'Der er en deaktiveret konto tilknyttet til denne emailadresse. Hvis du ønsker at aktivere din konto, kontakt os.'
@@ -185,7 +185,7 @@ da:
     closing_in: 'Ved at lukke'
   sign_up_form:
     aria_label: 'Opret brugerkonto'
-    title: "Velkommen til Diehard_Fund!"
+    title: "Velkommen til DiehardFund!"
     name_label: 'Dit navn:'
     name_placeholder: 'Jane Doe'
     email_label: 'Email:'
@@ -198,7 +198,7 @@ da:
   signed_out_modal:
     aria_label: 'Logget ud'
     title: "Du er nu logget ud"
-    message: "Du er logget ud af Diehard_Fund fra et andet vindue. Log ind igen for at fortsætte."
+    message: "Du er logget ud af DiehardFund fra et andet vindue. Log ind igen for at fortsætte."
     ok: "Ok"
   comment_form:
     aria_label: 'Tilføj en kommentar'
@@ -230,7 +230,7 @@ da:
     edit_profile: 'Rediger profil'
     email_settings: 'Emailndstillinger'
     help: 'Hjælp'
-    contact: 'Kontakt Diehard_Fund'
+    contact: 'Kontakt DiehardFund'
     sign_out: 'Log ud'
     start_thread: Opret debat
     start_decision: Opret stillingtagen
@@ -350,7 +350,7 @@ da:
     edit_proposal: 'Rediger forslag'
     what_does_a_proposal_do: 'Forslag giver dig mulighed for at se hvad folk synes om en bestemt handling eller fremgangsmåde.'
     proposal_ideas: Har du brug for ideer for at skrive et godt forslag?
-    proposal_ideas_title: 9 måder at bruge et Diehard_Fund forslag til at tale til handling
+    proposal_ideas_title: 9 måder at bruge et DiehardFund forslag til at tale til handling
     editing_title_and_description_forbidden: 'Du kan ikke ændre titlen eller beskrivelsen af et forslag efter at medlemmer har taget stilling. Hvis der er behov for dette, så luk venligst dette forslag og opret et nyt.'
     title_placeholder: 'Eg: Lad os flyve til månen'
     title_label: 'Titel'
@@ -394,17 +394,17 @@ da:
   proposal_position_no: 'Jeg er uenig'
   proposal_position_block: 'Jeg blokerer'
   legacy_trial_expired_modal:
-    heading: "Tak for at du bruger Diehard_Fund i år!"
+    heading: "Tak for at du bruger DiehardFund i år!"
     body: |
-      <p>Vi er meget taknemmelige over din support igennem året og vi er endnu mere spændt på at gøre Diehard_Fund endnu bedre i 2016</p>
-      <p>Er Diehard_Fund værdifuld for din gruppe? Vi har lige frigivet vores prisliste, og vi vil bede grupper der har benyttet Diehard_Fund i et stykke tid at vælge en plan som passer dem.</p>
+      <p>Vi er meget taknemmelige over din support igennem året og vi er endnu mere spændt på at gøre DiehardFund endnu bedre i 2016</p>
+      <p>Er DiehardFund værdifuld for din gruppe? Vi har lige frigivet vores prisliste, og vi vil bede grupper der har benyttet DiehardFund i et stykke tid at vælge en plan som passer dem.</p>
     submit: "Vis mig prislisten"
   group_welcome_modal:
     aria_label: "Velkommen"
     creator_heading: "Velkommen til din nye gruppe"
-    member_heading: "Velkommen til Diehard_Fund"
+    member_heading: "Velkommen til DiehardFund"
     creator_info: "Du er gruppe <strong>koordinatoren</strong>, hvilket er ligesom at være en form for vært. Se denne video, og så kig på eksempel debatterne."
-    member_info: "Se denne video for at se hvordan Diehard_Fund virker. Prøv også at lave en kommentar i en debat, eller start en ny debat!"
+    member_info: "Se denne video for at se hvordan DiehardFund virker. Prøv også at lave en kommentar i en debat, eller start en ny debat!"
     creator_footer: "Når du er klar, <strong>inviter folk</strong>."
     ok_got_it: "Ok, jeg har forstået!"
   cover_photo_form:
@@ -588,8 +588,8 @@ da:
     manage_requests_with_count: Administrer anmodninger ({{count}})
   group_help_card:
     title: Hjælp
-    ten_tips_article_title: 10 tips for at træffe gode beslutninger med Diehard_Fund
-    nine_ways_to_use_proposals: 9 måder at bruge Diehard_Fund forslag til at gøre ord til handling
+    ten_tips_article_title: 10 tips for at træffe gode beslutninger med DiehardFund
+    nine_ways_to_use_proposals: 9 måder at bruge DiehardFund forslag til at gøre ord til handling
   membership_requests_page:
     heading: Anmodninger om medlemskab
     approve: Godkend
@@ -614,7 +614,7 @@ da:
     email_addresses: 'Emailadresser'
     email_addresses_placeholder: 'f.eks. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Kopier linket og send det til enhver som du vil ønsker skal være medlem af gruppen. Dette vil give dem adgang til alle debatter i gruppen.'
-    email_explanation: 'Alternativt, indtast emailadresser herunder og så vil Diehard_Fund sende en invitation til dem via email.'
+    email_explanation: 'Alternativt, indtast emailadresser herunder og så vil DiehardFund sende en invitation til dem via email.'
     add_custom_message: 'Gør din invitation personlig, '
     add_custom_message_link: 'skriv en personlig besked.'
     custom_message: 'Personlig besked'
@@ -699,14 +699,14 @@ da:
     introduction: 'Når du deaktiverer din konto:'
     no_longer_group_member: 'Du vil ikke længere bliver vist som medlem i nogen grupper'
     name_removed: 'Kommentarer, forslag og debatter som du har lavet vil forblive men dit navn vil blive fjernet fra dem'
-    no_emails: 'Du vil ikke længere modtage emails fra Diehard_Fund'
+    no_emails: 'Du vil ikke længere modtage emails fra DiehardFund'
     contact_for_reactivation: 'For at genaktivere din konto så skal du kontakte os'
     submit: 'Ja, jeg vil stadig gerne deaktivere'
   deactivate_user_form:
     aria_label: 'Bekræft deaktiver konto'
     title: 'Deaktiver konto'
     question: 'Would you tell us why you are deactivating your account?'
-    placeholder: 'Du behøver ikke at svar poå dette spørgsmål. Al information som du deler vil hjælpe os at gøre Diehard_Fund bedre :)'
+    placeholder: 'Du behøver ikke at svar poå dette spørgsmål. Al information som du deler vil hjælpe os at gøre DiehardFund bedre :)'
     submit: 'Deaktiver konto'
   only_coordinator_modal:
     aria_label: 'Kan ikke deaktivere konto'
@@ -919,19 +919,19 @@ da:
     send_message: 'Send besked'
     new_contact_message: 'Din besked er modtaget, vil vil tage kontakt til dig snart!'
   help_page:
-    coordinating: 'Koordinering af din Diehard_Fund gruppe'
+    coordinating: 'Koordinering af din DiehardFund gruppe'
     coordinating_details: |
       Som koordinator så er det dit ansvar at administrere din gruppe, vælge indstillinger
       og invitere folk. Samtidigt som I lærer at bruge et nyt stykke software så vil gruppen
       lære nye processer som understøtter at samarbejde effektivt samt at træffe gode beslutninger
       sammen. Her er nogle tips for at få succes med din gruppe:
-    different_ways: 'Forskellige måder at bruge Diehard_Fund på'
+    different_ways: 'Forskellige måder at bruge DiehardFund på'
     engaging_html: |
       <h2>Tips for at engagere dine medlemmer</h2>
       <p>Medlemmer vil være spændt på at deltage når der er et engagerende forslag på bordet
       Et godt forslag indeholder en god beskrivelse få det er åbenlyst hvad det betyder at være enig
       eller uenig. Overvej hvordan man kan identificere debatter/beslutninger som gruppen tager i dag  Think about how you
-      enten som enkelt person eller via email som ville være lættere i Diehard_Fund.</p>
+      enten som enkelt person eller via email som ville være lættere i DiehardFund.</p>
       <p>Hvis din gruppe lige er startet, start med simple forslag og beslutninger, for at give
       alle en chance til at prøve værktøjet af og se beslutningsprocessen i aktion.</p>
       <p>En anden simpel måde at engagere folk er at benytte @mention funktionen for at inddrage
@@ -952,9 +952,9 @@ da:
       eller godkende en opgave.</p>
     get_in_touch: "Kontakt os"
     get_in_touch_description_html: "Hvis du har spørgsmål eller kommentarer, <a href='%{link}'>kontakt os</a>."
-    getting_started: "Kom igang med Diehard_Fund"
+    getting_started: "Kom igang med DiehardFund"
     getting_started_description: "Til venstre, debatterer men et emne, udveksler ideer og information. Når gruppen skal tage en beslutninge, så kan den ses til højre."
-    getting_the_most: 'Få det meste ud af Diehard_Fund'
+    getting_the_most: 'Få det meste ud af DiehardFund'
     have_your_say: "Giv din mening til kende"
     have_your_say_details_html: |
       <p>Når du er klar til at tage stilling, klik på en af de 4 muligheder.</p>
@@ -971,14 +971,14 @@ da:
       <p>The first question every new member will have is â€˜what is this group for?â€™</p>
       <p>Think about the simplest way you can describe the group: What do you want to
       achieve together? What types of decisions will you be making? Who will be involved?</p>
-      <p>It can be a good idea to talk to your group first before you invite them to join Diehard_Fund.</p>
+      <p>It can be a good idea to talk to your group first before you invite them to join DiehardFund.</p>
       <p>People will want to know why theyâ€™ve been invited, whatâ€™s expected of them,
       and why itâ€™s worth their time to learn how to use a new tool.</p>
     join_the_community: "Join the community"
-    join_the_community_description_html: "Everyone is welcome to join the Diehard_Fund Community, where we talk about how to make the most of the tool, and how it can be improved.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Click here to go the Diehard_Fund Community group</a>."
+    join_the_community_description_html: "Everyone is welcome to join the DiehardFund Community, where we talk about how to make the most of the tool, and how it can be improved.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Click here to go the DiehardFund Community group</a>."
     images_and_text_formatting: "Images and text formatting"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund uses â€˜Markdownâ€™ for image embedding and text formatting.
+      <p>DiehardFund uses â€˜Markdownâ€™ for image embedding and text formatting.
       You can switch Markdown on with the small grey icon under the comment box.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Click here</a>
       for information on how to use Markdown.</p>
@@ -1020,7 +1020,7 @@ da:
       needs some more space. Everyone will get an email notification 24 hours before a proposal closes.</p>
     video_id: "52025402"
     video_tutorial: "Video demonstration"
-    video_tutorial_description: "Se videoen for at få en hurtig demonstration af hvordan man kan bruge Diehard_Fund."
+    video_tutorial_description: "Se videoen for at få en hurtig demonstration af hvordan man kan bruge DiehardFund."
   hint:
     context: 'Tips for at bruge kontekst panelet'
     discussion: 'Tips for at starte en engagerende debat'
@@ -1028,19 +1028,19 @@ da:
     proposal: 'Tips for at skrive et tydeligt forslag'
     vote: 'Du kan skifte mening til enhver tid'
   explore_page:
-    header: Gå på opdagelse i Diehard_Funds grupper
-    search_placeholder: Søg i offentlige Diehard_Fund grupper
+    header: Gå på opdagelse i DiehardFunds grupper
+    search_placeholder: Søg i offentlige DiehardFund grupper
     single_search_result: "1 offentlig gruppe der matcher <strong>{{searchTerm}}:</strong>"
     multiple_search_results: "{{resultCount}} offentlige grupper der matcher <strong>{{searchTerm}}:</strong>"
     no_results_found: "<strong>Kan du ikke finde den gruppe du leder efter?</strong> Hvis en gruppes privatindstillinger er sat til hemmelig, så vil du ikke kunne finde den her. Hvis du kender gruppens koodinator, så kan du anmode dem om at blive medlem."
   angular:
-    switch_back: 'Skift til det gamle Diehard_Fund'
+    switch_back: 'Skift til det gamle DiehardFund'
     give_feedback: 'Giv en tilbagemelding'
     collapse: Fold sammen
     enable:
-      invite: 'Prøv et nye Diehard_Fund!'
-      title: 'Prøv det nye Diehard_Fund'
-      intro: "Vi har renoveret Diehard_Fund og har brug for din hjælp til at sikre at det er fantastisk!"
+      invite: 'Prøv et nye DiehardFund!'
+      title: 'Prøv det nye DiehardFund'
+      intro: "Vi har renoveret DiehardFund og har brug for din hjælp til at sikre at det er fantastisk!"
       body_html: |
         <p></p>
         <h3>Hvad er nyt?</h3>
@@ -1055,17 +1055,17 @@ da:
         </p>
 
         <p>Det benytter den samme database som den gamle brugergrænseflade, hvilket mener at alle dine gamle  grupper og debatter vil være der.</p>
-        <p>Der er et link til at "Give en tilbagemelding" i bunden til venstre. Du vil også kunne finde et lnk der lader dig "Skifte til det gamle Diehard_Fund", hvilket forblive tilgængeligt i et godt stykke tid.</p>
+        <p>Der er et link til at "Give en tilbagemelding" i bunden til venstre. Du vil også kunne finde et lnk der lader dig "Skifte til det gamle DiehardFund", hvilket forblive tilgængeligt i et godt stykke tid.</p>
         <p>We really look forward to hearing your feedback, thanks for your time and support.</p>
-      button_text: 'Skift til det nye Diehard_Fund'
+      button_text: 'Skift til det nye DiehardFund'
     disable:
-      title: 'Tak for at du prøver det nye Diehard_Fund'
-      body_html: "<p>Ups, gjorde vi noget galt? Vi beklager hvis du har haft en dårlig oplevelse i det nye Diehard_Fund.</p>"
+      title: 'Tak for at du prøver det nye DiehardFund'
+      body_html: "<p>Ups, gjorde vi noget galt? Vi beklager hvis du har haft en dårlig oplevelse i det nye DiehardFund.</p>"
       give_feedback: "Inden du går, overvej at give en tilbagemelding so vi kan forbedre os."
-      button_text: 'Skift tilbage til det gamle Diehard_Fund'
+      button_text: 'Skift tilbage til det gamle DiehardFund'
   global:
     messages:
-      app_update: 'En ny version af Diehard_Fund er tilgængelig'
+      app_update: 'En ny version af DiehardFund er tilgængelig'
       reload: 'Genopfrisk'
   emoji_picker:
     search: "Find en emoji..."
@@ -1376,7 +1376,7 @@ da:
     enter_email: "f.eks. guest@example.com"
     reminded: Påmindelse sendt
     send_emails: Send invitation ({{count}})
-    set_group: Diehard_Fund gruppe opdateret
+    set_group: DiehardFund gruppe opdateret
     group_set: Gruppe gemt
     view_poll: Så måling
     email_invited: 'Invitationsemail sendt til {{email}}'
@@ -1395,7 +1395,7 @@ da:
   poll_common_publish_slack_preview:
     poll_published: "publicerede en måling:"
     poll_published_with_discussion: "publicerede en måling i <strong>{{discussion}}</strong>:"
-    view_it_on_diehard_fund: Sen den på Diehard_Fund
+    view_it_on_diehard_fund: Sen den på DiehardFund
     timestamp: I dag kl. {{timestamp}}
   add_community_form:
     title: Tilføj community

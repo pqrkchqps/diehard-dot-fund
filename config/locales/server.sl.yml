@@ -25,7 +25,7 @@ sl:
     daily_activity:
       heading: Tvoja aktivnost na Loomiu
       intro: Prikazuje dogajanja v tvojih skupinah na Loomiu v zadnjih 24 urah
-      subject: Diehard_Fund - Povzetek zadnjih 24 ur
+      subject: DiehardFund - Povzetek zadnjih 24 ur
     missed_yesterday:
       subject: Včeraj na Loomiu
       headlines: Razprave

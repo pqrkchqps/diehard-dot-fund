@@ -1,6 +1,6 @@
 namespace :travis do
   task :prepare do
-    puts "Creating test assets for v#{Diehard_Fund::Version.current}..."
+    puts "Creating test assets for v#{DiehardFund::Version.current}..."
     system("cd angular && npm rebuild node-sass && gulp compile")
     raise "Asset creation failed!" unless $?.exitstatus == 0
   end

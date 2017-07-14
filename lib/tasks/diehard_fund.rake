@@ -1,6 +1,6 @@
 namespace :diehard_fund do
   task :version do
-    puts Diehard_Fund::Version.current
+    puts DiehardFund::Version.current
   end
 
   task daily_tasks: :environment do
@@ -95,6 +95,6 @@ namespace :diehard_fund do
   end
 
   task notify_clients_of_update: :environment do
-    MessageChannelService.publish({ version: Diehard_Fund::Version.current }, to: GlobalMessageChannel.instance)
+    MessageChannelService.publish({ version: DiehardFund::Version.current }, to: GlobalMessageChannel.instance)
   end
 end

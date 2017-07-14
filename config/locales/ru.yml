@@ -87,7 +87,7 @@ ru:
     new_contacts_imported: Сработало! Вы можете набрать имена в поле внизу и мы предложим адреса электронной почты.
     admin_rights_removed: 'Пользователь %{which_user} был лишен прав координатора. '
     user_added: "%{user_email_or_name} был добавлен к группе."
-    new_user_added: "%{user_email_or_name} будут добавлены в группу после того, как создадут аккаунт в Diehard_Fund."
+    new_user_added: "%{user_email_or_name} будут добавлены в группу после того, как создадут аккаунт в DiehardFund."
     member_removed: 'Участник удален. '
     membership_approved: 'Участие подтверждено. '
     membership_request_canceled: Заявка на участие отклонена.
@@ -211,7 +211,7 @@ ru:
         many: "%{count} лет"
         other: "%{count} лет"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Toggle navigation
   inbox:
@@ -252,7 +252,7 @@ ru:
   sign_in: Войти
   honeypot_warning: Не удалось создать учетную запись. Если Вы используете программу для чтения с экрана, пожалуйста, убедитесь, что последнее (скрытое) поле формы пустое.
   tagline: Создавая мир, в котором каждому легко принимать участие в принятии решений, влияющих на них.
-  or_link_account_html: Если у Вас уже есть учетная запись в Diehard_Fund, <a href='%{link}'>зайдите в него</a>
+  or_link_account_html: Если у Вас уже есть учетная запись в DiehardFund, <a href='%{link}'>зайдите в него</a>
   click_to_dismiss: Нажмите сюда, чтобы отклонить это сообщение
   generic_confirm: Вы уверены?
   discussion_helper_text:
@@ -282,7 +282,7 @@ ru:
       info_title: Что означает деактивация Вашей учетной записи?
       memberships: Вы больше не будете числиться членом ни в каких группах, к которым вы в настоящее время принадлежите.
       group_contributions: Комментарии, предложения и обсуждения, которые Вы делали в группах, останутся, но мы удалим из них Ваше имя .
-      emails: Мы прекратим направлять Вам электронные письма, относящиеся к Diehard_Fund.
+      emails: Мы прекратим направлять Вам электронные письма, относящиеся к DiehardFund.
   group_form:
     name: Название группы
     description: Описание
@@ -520,7 +520,7 @@ ru:
     edit_comment: Редактировать коментарий
   help:
     coordinating: Координация вашей группы
-    different_ways: Различные способы использовать Diehard_Fund
+    different_ways: Различные способы использовать DiehardFund
     get_in_touch: Оставаться на связи
     get_in_touch_description_html: Если у Вас есть вопросы или отзыв, <a href='%{link}'>черкните нам пару строк</a>.
     getting_started: С чего начать
@@ -534,8 +534,8 @@ ru:
     start_discussion: Начиная интересное обсуждение
     start_proposal: Написание понятного предложения
     video_tutorial: Видеоучебник
-    video_tutorial_description: Посмотрите видео, которое вкратце покажет, как использовать Diehard_Fund.
-    what_is_diehard_fund: Что такое Diehard_Fund?
+    video_tutorial_description: Посмотрите видео, которое вкратце покажет, как использовать DiehardFund.
+    what_is_diehard_fund: Что такое DiehardFund?
   hint:
     context: Подсказки для использования контекстной панели
     discussion: Подсказки для начала увлекательного обсуждения
@@ -606,7 +606,7 @@ ru:
       user:
         create: Создать учетную запись
         update: Обновить настройки
-  about_diehard_fund: О Diehard_Fund
+  about_diehard_fund: О DiehardFund
   ago: "%{quantity_of_time} назад"
   approve: Подтвердить
   author: Автор

@@ -1,1 +1,1 @@
-Diehard_Fund::Version::PATCH = 107
+DiehardFund::Version::PATCH = 107

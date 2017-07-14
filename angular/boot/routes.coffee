@@ -1,4 +1,4 @@
-window.Diehard_Fund.routes = [
+window.DiehardFund.routes = [
   {path: '/dashboard', component: 'dashboardPage' },
   {path: '/dashboard/:filter', component: 'dashboardPage'},
   {path: '/polls', component: 'pollsPage'},

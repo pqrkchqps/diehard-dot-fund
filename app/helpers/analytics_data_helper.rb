@@ -1,6 +1,6 @@
 module AnalyticsDataHelper
   def analytics_data_tag
-    tg = {dimension4: Diehard_Fund::Version.current,
+    tg = {dimension4: DiehardFund::Version.current,
           dimension6: 0}
 
     if current_user

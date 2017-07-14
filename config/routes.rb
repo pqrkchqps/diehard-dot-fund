@@ -1,4 +1,4 @@
-Diehard_Fund::Application.routes.draw do
+DiehardFund::Application.routes.draw do
 
   use_doorkeeper do
     skip_controllers :applications, :authorized_applications

@@ -36,7 +36,7 @@ angular.module('diehard_fundApp').controller 'RootController', ($scope, $timeout
     $scope.forceSignIn() if AbilityService.requireLoginFor(options.page) or AppConfig.pendingIdentity?
 
   $scope.$on 'setTitle', (event, title) ->
-    document.querySelector('title').text = _.trunc(title, 300) + ' | Diehard_Fund'
+    document.querySelector('title').text = _.trunc(title, 300) + ' | DiehardFund'
 
   $scope.$on 'pageError', (event, error) ->
     $scope.pageError = error

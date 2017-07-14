@@ -17,7 +17,7 @@ module AngularHelper
   def app_config
     @appConfig = {
       bootData:            BootData.new(current_user, current_visitor).data,
-      version:             Diehard_Fund::Version.current,
+      version:             DiehardFund::Version.current,
       environment:         Rails.env,
       loadVideos:          (ENV.has_key?('DIEHARD_FUND_LOAD_VIDEOS') or Rails.env.production?),
       flash:               flash.to_h,
@@ -26,7 +26,7 @@ module AngularHelper
       currentUrl:          request.original_url,
       permittedParams:     PermittedParamsSerializer.new({}),
       locales:             angular_locales,
-      siteName:            ENV.fetch('SITE_NAME', 'Diehard_Fund'),
+      siteName:            ENV.fetch('SITE_NAME', 'DiehardFund'),
       recaptchaKey:        ENV['RECAPTCHA_APP_KEY'],
       baseUrl:             root_url,
       safeThreadItemKinds: Discussion::THREAD_ITEM_KINDS,
@@ -72,7 +72,7 @@ module AngularHelper
   end
 
   def angular_asset_folder
-    Rails.env.production? ? Diehard_Fund::Version.current : :development
+    Rails.env.production? ? DiehardFund::Version.current : :development
   end
 
   def serialized_pending_identity

@@ -1,4 +1,4 @@
-# Diehard_Fund QA checklist template
+# DiehardFund QA checklist template
 Copy this into the context panel of a QA thread.
 Deploy your feature branch to a public test environment, provide a link to the environment and give instructions about how to test the feature.
 

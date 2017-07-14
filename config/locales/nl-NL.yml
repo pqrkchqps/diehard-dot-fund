@@ -40,7 +40,7 @@ nl-NL:
       no_invitations_remaining: Geen uitnodigingen over
     mailer:
       invitation_instructions:
-        subject: Iemand heeft je uitgenodigd tot hun Diehard_Fund groep
+        subject: Iemand heeft je uitgenodigd tot hun DiehardFund groep
     registrations:
       sign_up: Maak een account
   error:
@@ -80,7 +80,7 @@ nl-NL:
     new_contacts_imported: "Dat werkte! Je kan in het veld hieronder namen typen en wij geven daarbij het e-mail adres."
     admin_rights_removed: "%{which_user}'s coördinator rechten zijn verwijderd."
     user_added: "%{user_email_or_name} is toegevoegd aan de groep."
-    new_user_added: "%{user_email_or_name} zal aan de groep worden toegevoegd nadat deze een Diehard_Fund account heeft gemaakt."
+    new_user_added: "%{user_email_or_name} zal aan de groep worden toegevoegd nadat deze een DiehardFund account heeft gemaakt."
     member_removed: Lid verwijderd.
     membership_approved: Lidmaatschap goedgekeurd.
     membership_request_canceled: Aanvraag lidmaatschap geannuleerd.
@@ -177,7 +177,7 @@ nl-NL:
         one: 1 jaar
         other: "%{count} jaren"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Verander navigatie
   footer:
@@ -189,7 +189,7 @@ nl-NL:
     pricing: Prijsplan
     public_groups: Openbare groepen
     terms: Voorwaarden
-    independent_install_html: "%{hostname} draait als een onafhankelijke kopie van Diehard_Fund: <a href=\"http://github.com/diehard_fund/diehard_fund\">meer informatie</a>."
+    independent_install_html: "%{hostname} draait als een onafhankelijke kopie van DiehardFund: <a href=\"http://github.com/diehard_fund/diehard_fund\">meer informatie</a>."
   inbox:
     clear: Leegmaken
     title: Inbox
@@ -228,15 +228,15 @@ nl-NL:
   find_a_group_hint: Om openbare groepen te ontdekken
   search_for_group: Zoek naar een groep...
   no_groups_found: "Geen groepen met die naam gevonden!"
-  no_group_header: Welkom bij Diehard_Fund Beta
+  no_group_header: Welkom bij DiehardFund Beta
   empty_notifications: Je hebt nog geen meldingen.
   see_all_notifications: Bekijk alle meldingen
   sign_out: Uitloggen
   sign_in: Inloggen
   honeypot_warning: "Kon je account niet maken. Als je een voorleesprogramma gebruikt, zorg dan dat het laatste (verborgen) veld op het formulier leeg is."
   tagline: Een wereld creëren waarin het gemakkelijk is voor iedereen om te participeren in beslissingen die hen aangaan.
-  or_sign_in_html: "Als je al een Diehard_Fund account hebt, <a href='%{link}' class='%{link_class}'>log hier in</a>"
-  or_link_account_html: "Als je al een Diehard_Fund account hebt, <a href='%{link}'>verbind hier meerdere accounts</a>"
+  or_sign_in_html: "Als je al een DiehardFund account hebt, <a href='%{link}' class='%{link_class}'>log hier in</a>"
+  or_link_account_html: "Als je al een DiehardFund account hebt, <a href='%{link}'>verbind hier meerdere accounts</a>"
   click_to_dismiss: Klik hier om het bericht te sluiten.
   generic_confirm: Weet je het zeker?
   discussion_helper_text:
@@ -269,7 +269,7 @@ nl-NL:
       info_title: Wat betekent het deactiveren van je account?
       memberships: Je zal niet langer worden weergegeven als lid in de groepen waar je lid van bent.
       group_contributions: "De reacties, voorstellen en discussies die je in groepen hebt gemaakt zullen blijven staan, maar we halen je naam wel overal weg."
-      emails: Je zal geen Diehard_Fund gerelateerde e-mails meer van ons krijgen.
+      emails: Je zal geen DiehardFund gerelateerde e-mails meer van ons krijgen.
   start_group_form:
     header: Begin een nieuwe groep
     form_error: Sommige informatie mist of is incorrect.
@@ -596,28 +596,28 @@ nl-NL:
     comment_changes: Reactie wijzigingen
     edit_comment: Bewerk reactie
   help:
-    coordinating: Coördineer jouw Diehard_Fund groep
-    coordinating_details: "Als coördinator ben je verantwoordelijk voor het instellen van je Diehard_Fund groep en het\nuitnodigen van iedereen. Evenals het leren te gebruiken van een nieuw stukje software, leert je groep nieuwe processen om efficiënter samen te werken en goede beslissingen samen te nemen.\nHier zijn wat tips om jouw groep te laten slagen:\n"
-    different_ways: Verschillende manieren waarop je Diehard_Fund kunt gebruiken
-    engaging_html: "<h2>Tips voor het betrekken van jouw groep</h2>\n<p>Mensen zullen enthousiast mee willen doen als er een boeiend voorstel op tafel ligt.  Een goed voorstel bevat een plan van aanpak voor de groep, zodat het meteen duidelijk is wat het betekent om het eens of oneens te zijn. Denk na over hoe je discussies kan herkennen die je groepsleden nu persoonlijk of via e-mail proberen te voeren en die makkelijker zouden gaan wanneer ze op Diehard_Fund plaatsvonden.</p>\n<p>Als je groep net begint, kan je starten met een luchtige beslissing om iedereen wat te laten spelen met dit instrument en het in actie te zien.</p>\n<p>Een andere manier om mensen te betrekken bij een discussie is het gebruik van de \"@gebruikersnaam\" optie om mensen direct een melding te geven; ze krijgen een e-mail waarin staat dat ze genoemd zijn in een reactie.</p>\n"
+    coordinating: Coördineer jouw DiehardFund groep
+    coordinating_details: "Als coördinator ben je verantwoordelijk voor het instellen van je DiehardFund groep en het\nuitnodigen van iedereen. Evenals het leren te gebruiken van een nieuw stukje software, leert je groep nieuwe processen om efficiënter samen te werken en goede beslissingen samen te nemen.\nHier zijn wat tips om jouw groep te laten slagen:\n"
+    different_ways: Verschillende manieren waarop je DiehardFund kunt gebruiken
+    engaging_html: "<h2>Tips voor het betrekken van jouw groep</h2>\n<p>Mensen zullen enthousiast mee willen doen als er een boeiend voorstel op tafel ligt.  Een goed voorstel bevat een plan van aanpak voor de groep, zodat het meteen duidelijk is wat het betekent om het eens of oneens te zijn. Denk na over hoe je discussies kan herkennen die je groepsleden nu persoonlijk of via e-mail proberen te voeren en die makkelijker zouden gaan wanneer ze op DiehardFund plaatsvonden.</p>\n<p>Als je groep net begint, kan je starten met een luchtige beslissing om iedereen wat te laten spelen met dit instrument en het in actie te zien.</p>\n<p>Een andere manier om mensen te betrekken bij een discussie is het gebruik van de \"@gebruikersnaam\" optie om mensen direct een melding te geven; ze krijgen een e-mail waarin staat dat ze genoemd zijn in een reactie.</p>\n"
     example1_html: "<h3>Je hebt de groep nodig om een breed onderwerp te bespreken en om samen tot een oplossing te komen</h3>\n<p>Strategie: Begin een tijdje met discussiëren voor er een voorstel wordt gemaakt.</p>\n<p>Discussies hebben vaak de beste uitkomst als er een gedeeld begrip is met betrekking tot het probleem alvorens tot een oplossing te komen. Als mensen betrokken zijn bij het proces, zullen ze eerder geneigd zijn dit resultaat te steunen.</p>\n"
     example2_html: "<h3>Je hebt al een voorstel in gedachten en je wilt een besluit van de groep om verder te kunnen.</h3>\n<p>Strategie: Begin een discussie over een specifieke beslissing en maak meteen een voorstel.</p>\n<p>Als je reeds een heldere uitkomst in gedachten hebt, maar je wilt er zeker van zijn dat niemand bezwaar heeft, \nkan je het voorstel gebruiken om snelle feedback te krijgen met betrekking tot een beslissing.</p>\n<p>Je kan dingen doen als een document afronden, een aanvraag goedkeuren of een streep zetten onder een klus.</p>\n"
     get_in_touch: Neem contact op
     get_in_touch_description_html: "Als je vragen of opmerkingen hebt, <a href='%{link}'>stuur ons een berichtje</a>."
     getting_started: Aan de slag
     getting_started_description: "Aan de linkerkant wordt er een onderwerp bediscussieerd. Er worden ideeën en informatie uitgewisseld. Als de groep een beslissing wil maken, zie je dat aan de rechterkant."
-    getting_the_most: Het meeste uit Diehard_Fund halen
+    getting_the_most: Het meeste uit DiehardFund halen
     have_your_say: Laat je horen
     have_your_say_details_html: "<p>Als je je standpunt ten opzichte van het voorstel hebt bepaald, kan je klikken op één van de vier beslis-knoppen.</p>\n<p>Als je je beslissing hebt gemaakt, geef dan een korte uitleg. Onder het taartdiagram kan je zien wat iedereen denkt. Dat maakt het gemakkelijk om bij te blijven met de discussie. Als er nieuwe informatie aan het licht komt, kan je altijd je standpunt veranderen.</p>\n"
     have_a_discussion: Discussieer
     have_a_discussion_description: Het onderwerp en relevante achtergrondinformatie staan bovenaan de pagina. Gebruik het reactieveld om je stem te laten horen.
     help: Help
     how_it_works: Hoe het werkt
-    invitation_html: "<h2>Het schrijven van een goede uitnodiging</h2>\n<p>De eerste vraag die elk nieuw lid zich zal stellen is \"Waar is deze groep voor bedoeld?\"</p>\n<p>Denk aan de makkelijkste manier om jouw groep te beschrijven. Wat wil je gezamenlijk bereiken? Wat voor beslissingen gaan jullie maken? Wie zijn erbij betrokken?</p>\n<p>Mogelijk is het een goed idee om eerst met je groepsleden te praten voor je ze uitnodigt op Diehard_Fund.</p>\n<p>Mensen zullen willen weten waarom ze uitgenodigd zijn, wat er van hen verwacht wordt en waarom het 't waard is om met een nieuw instrument te leren omgaan.</p>\n"
+    invitation_html: "<h2>Het schrijven van een goede uitnodiging</h2>\n<p>De eerste vraag die elk nieuw lid zich zal stellen is \"Waar is deze groep voor bedoeld?\"</p>\n<p>Denk aan de makkelijkste manier om jouw groep te beschrijven. Wat wil je gezamenlijk bereiken? Wat voor beslissingen gaan jullie maken? Wie zijn erbij betrokken?</p>\n<p>Mogelijk is het een goed idee om eerst met je groepsleden te praten voor je ze uitnodigt op DiehardFund.</p>\n<p>Mensen zullen willen weten waarom ze uitgenodigd zijn, wat er van hen verwacht wordt en waarom het 't waard is om met een nieuw instrument te leren omgaan.</p>\n"
     join_the_community: Word lid van de gemeenschap
-    join_the_community_description_html: "iedereen is welkom in de Diehard_Fund Community, waar we praten over hoe we het meeste uit dit instrument kunnen halen en hoe we het kunnen verbeteren.<br /><br /><a href='https://www.diehard.fund/groups/3'>Klik hier om naar de Diehard_Fund Community groep te gaan</a>."
+    join_the_community_description_html: "iedereen is welkom in de DiehardFund Community, waar we praten over hoe we het meeste uit dit instrument kunnen halen en hoe we het kunnen verbeteren.<br /><br /><a href='https://www.diehard.fund/groups/3'>Klik hier om naar de DiehardFund Community groep te gaan</a>."
     images_and_text_formatting: Afbeeldingen en tekstopmaak
-    images_and_text_formatting_html: "<p>Diehard_Fund gebruikt 'Markdown' voor tekstopmaak en om afbeeldingen in te voegen.\nJe kan Markdown aanzetten met het kleine grijze icoontje onderaan het reactieveld.</p>\n<p><a href='https://www.diehard.fund/discussions/1124'>Klik hier</a>\nvoor informatie over hoe je Markdown kan gebruiken.</p>\n"
+    images_and_text_formatting_html: "<p>DiehardFund gebruikt 'Markdown' voor tekstopmaak en om afbeeldingen in te voegen.\nJe kan Markdown aanzetten met het kleine grijze icoontje onderaan het reactieveld.</p>\n<p><a href='https://www.diehard.fund/discussions/1124'>Klik hier</a>\nvoor informatie over hoe je Markdown kan gebruiken.</p>\n"
     keep_up_to_date: Blijf op de hoogte
     keep_up_to_date_html: "<p>Door te klikken op je groepsnaam bovenaan de pagina kom je terug op je groepspagina, waar je een lijst te zien krijgt met alle discussies en beslissingen van die groep. Als je in meer dan één groep zit, zie je de activiteit van al je groepen op de Thuispagina.</p>\n<p>Je krijgt e-mail notificaties als er belangrijke dingen gebeuren binnen je groep.\nJe kan je e-mail instellingen <a href=\"%{link}\"\">hier</a> wijzigen.</p>\n"
     make_a_decision: Maak een beslissing
@@ -634,8 +634,8 @@ nl-NL:
     start_proposal_html: "<p> Als je de titel kort en bondig maakt, weten mensen precies wat het betekent om het eens of oneens te zijn.</p>\n<p>Het betekent niet het einde van de wereld als niet iedereen het voorstel meteen helemaal goedkeurt.\nAls de groep het eerste voorstel niet leuk vindt, kan een ieder een nieuw voorstel doen om de bezwaren aan te kaarten en het proces vooruit te helpen.</p>\n<p>Door dit dynamische proces kan de collectieve wijsheid van jouw groep betere ideeën creëren dan iemand in zijn eentje had kunnen bedenken.</p>\n<p>De deadline van een voorstel kan ieder moment uitgesteld worden als het erop lijkt dat er meer ruimte nodig is. Iedereen krijgt een e-mail notificatie 24 uur voordat een voorstel sluit.</p>\n"
     video_id: "52025402"
     video_tutorial: Video uitleg
-    video_tutorial_description: Bekijk de video voor een snelle demonstratie van hoe Diehard_Fund te gebruiken.
-    what_is_diehard_fund: Wat is Diehard_Fund?
+    video_tutorial_description: Bekijk de video voor een snelle demonstratie van hoe DiehardFund te gebruiken.
+    what_is_diehard_fund: Wat is DiehardFund?
   hint:
     context: Tips voor het gebruik van het omschrijvingenveld
     discussion: Tips voor het beginnen van een boeiende discussie
@@ -652,11 +652,11 @@ nl-NL:
     submit: Doneer
     tooltip: Leer meer over ons gemeenschap-financieringsmodel
     thought_about_contributing: Jouw kans om bij te dragen
-    thought_about_contributing_description: "Diehard_Fund is een coöperatieve sociale onderneming die het makkelijk maakt voor iedereen om te participeren in beslissingen die hen aangaan.\n\nGeld zou geen barrière moeten zijn voor gezamenlijke besluitvorming. Diehard_Fund wordt gefinancierd door bijdragen uit onze gemeenschap van gebruikers en abonnementen betaald door formele organisaties die het gebruiken.\n\nJouw bijdrage betekent dat we Diehard_Fund onafhankelijk kunnen houden, vrij van advertenties en gratis beschikbaar voor groepen die geweldige dingen doen in hun gemeenschappen.\n\nBedankt dat je dit mogelijk maakt!\n"
-    thank_you_title: "Bedankt voor je bijdrage aan Diehard_Fund!"
-    thank_you_body: "Jouw bijdrage helpt ons gemakkelijke en gezamenlijke besluitvorming te leveren aan de wereld.\n\nJe ontvangt snel een e-mail met een ontvangstbewijs van je bijdrage.\n\nIedereen is welkom om zich bij de Diehard_Fund Community te voegen, waar we praten over hoe we het beste maken van dit instrument en hoe het verbeterd kan worden.\n\n<a href='https://www.diehard.fund/groups/3'>Breng me naar de Diehard_Fund Community groep&raquo;</a>\n"
+    thought_about_contributing_description: "DiehardFund is een coöperatieve sociale onderneming die het makkelijk maakt voor iedereen om te participeren in beslissingen die hen aangaan.\n\nGeld zou geen barrière moeten zijn voor gezamenlijke besluitvorming. DiehardFund wordt gefinancierd door bijdragen uit onze gemeenschap van gebruikers en abonnementen betaald door formele organisaties die het gebruiken.\n\nJouw bijdrage betekent dat we DiehardFund onafhankelijk kunnen houden, vrij van advertenties en gratis beschikbaar voor groepen die geweldige dingen doen in hun gemeenschappen.\n\nBedankt dat je dit mogelijk maakt!\n"
+    thank_you_title: "Bedankt voor je bijdrage aan DiehardFund!"
+    thank_you_body: "Jouw bijdrage helpt ons gemakkelijke en gezamenlijke besluitvorming te leveren aan de wereld.\n\nJe ontvangt snel een e-mail met een ontvangstbewijs van je bijdrage.\n\nIedereen is welkom om zich bij de DiehardFund Community te voegen, waar we praten over hoe we het beste maken van dit instrument en hoe het verbeterd kan worden.\n\n<a href='https://www.diehard.fund/groups/3'>Breng me naar de DiehardFund Community groep&raquo;</a>\n"
     making_a_donation: Een donatie doen
-    making_a_donation_description: "Diehard_Fund is een coöperatieve sociale onderneming die het makkelijk maakt voor iedereen om te participeren in beslissingen die hen aangaan.\n\nJouw bijdrage betekent dat we Diehard_Fund onafhankelijk kunnen houden, vrij van advertenties en gratis beschikbaar voor groepen die geweldige dingen doen in hun gemeenschappen.\n\nBedankt dat je dit mogelijk maakt!\n"
+    making_a_donation_description: "DiehardFund is een coöperatieve sociale onderneming die het makkelijk maakt voor iedereen om te participeren in beslissingen die hen aangaan.\n\nJouw bijdrage betekent dat we DiehardFund onafhankelijk kunnen houden, vrij van advertenties en gratis beschikbaar voor groepen die geweldige dingen doen in hun gemeenschappen.\n\nBedankt dat je dit mogelijk maakt!\n"
   resend_confirmation: Verzend (bevestigings)instructies opnieuw
   new_password: Nieuw wachtwoord
   confirm_new_password: Bevestig nieuw wachtwoord
@@ -679,15 +679,15 @@ nl-NL:
   link_it_up_instead: Of verbind het
   sign_up_via: Meld je aan via
   or_fill_in_this_form: of vul dit formulier in
-  already_have_account: Heb je al een Diehard_Fund account?
+  already_have_account: Heb je al een DiehardFund account?
   confirm_your_details: Bevestig je gegevens
   link_up_your_account: Koppel je account
-  log_in_to_your_diehard_fund_account: "Log in je Diehard_Fund account en koppel dit met %{provider_name}."
-  now_that_your_logged_in: "Nu je ingelogd bent met %{provider_name}, bevestig je gegevens om  je Diehard_Fund account te maken."
+  log_in_to_your_diehard_fund_account: "Log in je DiehardFund account en koppel dit met %{provider_name}."
+  now_that_your_logged_in: "Nu je ingelogd bent met %{provider_name}, bevestig je gegevens om  je DiehardFund account te maken."
   confirmation_not_received: Geen bevestigingsinstructies ontvangen?
   unlock_not_received: Geen ontgrendelingsinstructies ontvangen?
   inactive_html: "Dit account is gedeactiveerd. Als je vragen hebt, <a href='%{path_to_contact}'>neem contact op</a>."
-  create_an_account_html: Maak een Diehard_Fund Beta account
+  create_an_account_html: Maak een DiehardFund Beta account
   log_in: Log in
   join_group:
     log_in: "Log in om je bij %{group_name} aan te sluiten"
@@ -704,12 +704,12 @@ nl-NL:
     invitation_already_used: Deze uitnodiging is al gebruikt. Log in om naar je groep te gaan.
     recipients: "Voer e-mailadressen in, gescheiden door komma's:"
     invitees_placeholder: "Gebruikersnaam <user1@example.com>, user2@example.com"
-    subject: "Sluit je aan bij onze nieuwe Diehard_Fund groep, %{group}"
+    subject: "Sluit je aan bij onze nieuwe DiehardFund groep, %{group}"
     invite_people: Nodig mensen uit in jouw groep
     invite_to_discussion: Nodig mensen uit voor deze discussie
     invite_to_discussion_info: "Door mensen toe te voegen aan deze discussie verstuur je automatisch een uitnodiging om lid te worden van de groep. Als ze accepteren, worden ze naar deze discussie geleid."
     select_members: "Voeg leden toe uit %{group_name}"
-    body_editable: "Hoi, kom beslissingen maken met ons! We gebruiken een gezamenlijk besluitvormingsinstrument genaamd Diehard_Fund.\n"
+    body_editable: "Hoi, kom beslissingen maken met ons! We gebruiken een gezamenlijk besluitvormingsinstrument genaamd DiehardFund.\n"
     body_editable_discussion: "Heej daar, kom erbij en voeg je bij de discussie!\n"
     message_body: Uitnodiging
     invites_more_help2: "<p>Je kan ten alle tijde mensen uitnodigen voor je groep.</p><p>Mogelijk wil je gelijk alle leden in een keer uitnodigen of alleen de mensen met wie je het meeste samenwerkt.</p>"
@@ -779,10 +779,10 @@ nl-NL:
   group_setup:
     set_up_your_group: Stel je groep in
     desc_header: "Je bent er bijna!"
-    desc_html: "Als groepscoördinator ben je verantwoordelijk voor het opzetten en beheren van jouw Diehard_Fund groep. Zodra je enkele instelling hebt gedaan, kun je je nieuwe groep gebruiken, een discussie of twee beginnen en uitnodigingen gaan versturen! <p>Om een simpele omschrijving voor je groep te vinden helpt het om jezelf de volgende dingen te vragen: Wat willen jullie samen bereiken? Wat voor beslissingen zullen jullie nemen? Wie zullen allemaal meedoen?</p>"
+    desc_html: "Als groepscoördinator ben je verantwoordelijk voor het opzetten en beheren van jouw DiehardFund groep. Zodra je enkele instelling hebt gedaan, kun je je nieuwe groep gebruiken, een discussie of twee beginnen en uitnodigingen gaan versturen! <p>Om een simpele omschrijving voor je groep te vinden helpt het om jezelf de volgende dingen te vragen: Wat willen jullie samen bereiken? Wat voor beslissingen zullen jullie nemen? Wie zullen allemaal meedoen?</p>"
     submit: "Breng me naar mijn groep!"
     payment_model:
-      header: "Diehard_Fund is voor iedereen!"
+      header: "DiehardFund is voor iedereen!"
       info: "We hebben een betalingsmodel passend bij elke groep, zelfs voor groepen zonder geld :)"
       link: Lees meer
   simple_form:
@@ -830,60 +830,60 @@ nl-NL:
     by_who: "door %{person}"
     reply_to_this_discussion: Reageer op deze discussie
     to_join_discussion:
-      subject: "%{who} wil dat je meedoet aan een discussie op Diehard_Fund"
+      subject: "%{who} wil dat je meedoet aan een discussie op DiehardFund"
       content: "Je bent uitgenodigd om deel te nemen aan de discussie: %{discussion}"
       message_intro: "%{who} zegt:"
       link: Doe mee aan de discussie
     to_join_group:
-      subject: "%{member} heeft je uitgenodigd om deel te nemen aan %{group_name} op Diehard_Fund"
+      subject: "%{member} heeft je uitgenodigd om deel te nemen aan %{group_name} op DiehardFund"
     to_start_group:
-      subject: "Stel je nieuwe Diehard_Fund groep in: %{group_name}"
+      subject: "Stel je nieuwe DiehardFund groep in: %{group_name}"
     user_added_to_a_group:
       subject: "%{who} heeft je toegevoegd aan %{which_group}"
-      content: "%{who} heeft je toegevoegd aan %{which_group} op Diehard_Fund. Klik hier om naar de groep te gaan:"
+      content: "%{who} heeft je toegevoegd aan %{which_group} op DiehardFund. Klik hier om naar de groep te gaan:"
     unsubscribe: "Uitschrijven of je e-mail voorkeuren aanpassen:"
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> om je uit te schrijven of je e-mail voorkeuren aan te passen."
-    view_comment: Klik hier om de reactie op Diehard_Fund te zien
+    view_comment: Klik hier om de reactie op DiehardFund te zien
     view_discussion: Klik hier om deze discussie te bekijken
-    view_group: Klik hier om de groep op Diehard_Fund te bekijken
-    view_proposal: Bekijk dit voorstel op Diehard_Fund
+    view_group: Klik hier om de groep op DiehardFund te bekijken
+    view_proposal: Bekijk dit voorstel op DiehardFund
     create_discussion:
       intro: "%{who} begon een discussie in %{which_group}:"
     create_proposal:
-      intro: Een nieuw voorstel is gemaakt in een Diehard_Fund groep waar je lid van bent.
+      intro: Een nieuw voorstel is gemaakt in een DiehardFund groep waar je lid van bent.
       closes_in: Sluit over
       subject: "Nieuw voorstel: %{which}"
     daily_activity:
-      heading: Jouw Diehard_Fund Activiteit
-      intro: Tonen wat er is gebeurd in jouw Diehard_Fund groepen in de laatste 24 uur
-      subject: Diehard_Fund - Samenvatting van de laatste 24 uur
+      heading: Jouw DiehardFund Activiteit
+      intro: Tonen wat er is gebeurd in jouw DiehardFund groepen in de laatste 24 uur
+      subject: DiehardFund - Samenvatting van de laatste 24 uur
     missed_yesterday:
-      subject: Gisteren op Diehard_Fund
+      subject: Gisteren op DiehardFund
       headlines: Nieuws
       mark_as_read: Markeer als gelezen
       thanks_for_reading: "Bedankt voor het lezen, een fijne dag gewenst!"
-      click_here_to_mark_all_as_read_html: "Hier zie je wat er gisteren op Diehard_Fund gebeurde.\nAls je het hebt gelezen, klik <a href=\"%{link}\">markeer als gelezen</a> om het te verwijderen uit je Diehard_Fund Inbox.\n"
+      click_here_to_mark_all_as_read_html: "Hier zie je wat er gisteren op DiehardFund gebeurde.\nAls je het hebt gelezen, klik <a href=\"%{link}\">markeer als gelezen</a> om het te verwijderen uit je DiehardFund Inbox.\n"
       marked_as_read_success: Alles uit de e-mail is gemarkeerd als gelezen
     comment_replied_to:
       context: "%{author_name} reageerde op jouw reactie in de discussie \"%{discussion_title}\""
-      subject: "%{who} reageerde op jouw reactie in de %{which} groep op Diehard_Fund"
+      subject: "%{who} reageerde op jouw reactie in de %{which} groep op DiehardFund"
     group_email:
       intro: "%{who} maakte een aankondiging aan %{group}:"
     group_membership_approved:
-      intro: "Je verzoek om toegang tot de groep '%{group_name}' op Diehard_Fund is goedgekeurd."
+      intro: "Je verzoek om toegang tot de groep '%{group_name}' op DiehardFund is goedgekeurd."
       subject: Lidmaatschap goedgekeurd
     invitation:
       hi: "Hoi %{name},"
       intro: "Klik op de link hieronder om jouw groep %{group_name} in te stellen:"
       closing_message: "Als je vragen hebt of als er iets is wat we kunnen doen zodat je aan de slag kan, dan horen we graag van je - antwoord gewoon op deze e-mail."
-      thanks: "Bedankt!\nHet Diehard_Fund Team\n"
+      thanks: "Bedankt!\nHet DiehardFund Team\n"
     membership_request:
-      intro: "%{name} (%{email}) heeft toegang gevraagd tot een van je Diehard_Fund groepen."
+      intro: "%{name} (%{email}) heeft toegang gevraagd tot een van je DiehardFund groepen."
       subject: "%{who} heeft aangevraagd om lid te worden van %{which_group}"
       view_group: Je kan hier de aanvraag goed- of afkeuren
     mentioned:
       context: "%{author_name} noemde je in de discussie \"%{discussion_title}\""
-      subject: "%{who} noemde je in de %{which} groep op Diehard_Fund"
+      subject: "%{who} noemde je in de %{which} groep op DiehardFund"
     new_motion_created:
       subject: "Voorstel: %{proposal_title}"
       context: "%{author} heeft een voorstel gedaan in %{group_full_name}:"
@@ -920,16 +920,16 @@ nl-NL:
       outcome_created: "%{who} heeft een uitkomst van een voorstel opgesteld:"
       you_agreed: "Je %{past_tense_position}"
   meta_tags:
-    default_title: "Diehard_Fund | Gezamenlijke Besluitvorming"
-    default_description: Diehard_Fund is een eenvoudig te gebruiken online gereedschap voor gezamenlijke besluitvorming. Het maakt het verspreide groepen mogelijk om snel beslissingen te nemen en constructieve acties te starten.
-  about_diehard_fund: Over Diehard_Fund
+    default_title: "DiehardFund | Gezamenlijke Besluitvorming"
+    default_description: DiehardFund is een eenvoudig te gebruiken online gereedschap voor gezamenlijke besluitvorming. Het maakt het verspreide groepen mogelijk om snel beslissingen te nemen en constructieve acties te starten.
+  about_diehard_fund: Over DiehardFund
   ago: "%{quantity_of_time} geleden"
   approve: Goedkeuren
   author: Auteur
   back: Terug
   cancel: Annuleren
   change: Verander
-  change_language: "Klik hier om om Diehard_Fund te gebruiken in het %{language}"
+  change_language: "Klik hier om om DiehardFund te gebruiken in het %{language}"
   changing: Veranderen
   click_here: Klik hier
   close: Sluiten
@@ -963,7 +963,7 @@ nl-NL:
   pricing: Tarieven
   prev: Vorige
   more: Meer...
-  translate: "Help Diehard_Fund te vertalen!"
+  translate: "Help DiehardFund te vertalen!"
   translate_field: Bekijk vertaling
   loading_translation: Vertaling laden...
   translate_this_string: "Vertalen naar %{language}"

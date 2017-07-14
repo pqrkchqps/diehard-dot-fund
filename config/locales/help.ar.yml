@@ -51,7 +51,7 @@ ar:
       email_settings:
         title: إعدادت البريد الإلكتروني
       yesterday_on_diehard_fund:
-        title: أحداث الأمس على Diehard_Fund
+        title: أحداث الأمس على DiehardFund
     user_profile:
       account_deactivation:
         title: جار إيقاف حسابك

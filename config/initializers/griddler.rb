@@ -3,7 +3,7 @@ Griddler.configure do |config|
   config.processor_method = :process # :create_comment (A method on CommentViaEmail)
   config.reply_delimiter = ['-- REPLY ABOVE THIS LINE OR DIE --']
   config.custom_regex_split_points = [
-    /^.+\(Diehard_Fund\).+#{BaseMailer::NOTIFICATIONS_EMAIL_ADDRESS}.+:$/i,
+    /^.+\(DiehardFund\).+#{BaseMailer::NOTIFICATIONS_EMAIL_ADDRESS}.+:$/i,
     /#{ThreadMailer::REPLY_DELIMITER}/,
   ]
   config.email_service = :mailin # :cloudmailin, :postmark, :mandrill, :mailgun

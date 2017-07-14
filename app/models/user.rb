@@ -192,7 +192,7 @@ class User < ActiveRecord::Base
   def self.helper_bot
     find_by(email: helper_bot_email) ||
     create!(email: helper_bot_email,
-            name: 'Diehard_Fund Helper Bot',
+            name: 'DiehardFund Helper Bot',
             password: SecureRandom.hex(20),
             uses_markdown: true,
             avatar_kind: :gravatar)
@@ -204,7 +204,7 @@ class User < ActiveRecord::Base
 
   def self.demo_bot
     find_by(email: demo_bot_email) ||
-    create!(email: demo_bot_email, name: 'Diehard_Fund Demo bot', avatar_kind: :gravatar)
+    create!(email: demo_bot_email, name: 'DiehardFund Demo bot', avatar_kind: :gravatar)
   end
 
   def self.demo_bot_email

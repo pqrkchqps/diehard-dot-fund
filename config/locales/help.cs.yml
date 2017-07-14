@@ -2,9 +2,9 @@ cs:
   new_help:
     title: Jak vám můžeme pomoci?
     how_diehard_fund_works:
-      title: Jak Diehard_Fund funguje
+      title: Jak DiehardFund funguje
       start_group_link: Vytvořit skupinu
-      start_group_description: na Diehard_Fund pro spolupráci s lidmi
+      start_group_description: na DiehardFund pro spolupráci s lidmi
       invite_people_link: Pozvat další
       invite_people_description: do vaší skupiny
       start_discussion_link: Zahájit diskuzi
@@ -15,9 +15,9 @@ cs:
       title: Obsah
       getting_started:
         title_html: Jak začít
-        starting_new_group_html: Pokud chcete začít novou Diehard_Fund skupinu
-        invited_into_group_html: Pokud jste pozváni do skupiny Diehard_Fund
-        joining_existing_group_html: Pokud chcete připojit k existující Diehard_Fund skupině
+        starting_new_group_html: Pokud chcete začít novou DiehardFund skupinu
+        invited_into_group_html: Pokud jste pozváni do skupiny DiehardFund
+        joining_existing_group_html: Pokud chcete připojit k existující DiehardFund skupině
       group_settings:
         title_html: Nastavení skupiny
         group_profile_html: Profil skupiny
@@ -53,7 +53,7 @@ cs:
         title_html: Podskupiny
       keeping_up_to_date:
         volume_html: Hlasitost
-        yesterday_on_diehard_fund_html: "\"Včera na Diehard_Fund\""
+        yesterday_on_diehard_fund_html: "\"Včera na DiehardFund\""
         email_settings_html: Nastavení emailu
       user_profile:
         title_html: Profil uživatele
@@ -71,17 +71,17 @@ cs:
       security:
         title_html: Bezpečnost a ochrana osobních údajů
       contributing:
-        title_html: Jak přispět k Diehard_Fund
+        title_html: Jak přispět k DiehardFund
       diehard_fund_community:
-        title_html: "společenství Diehard_Fund "
+        title_html: "společenství DiehardFund "
       faq:
         title_html: Často kladené otázky
     getting_started:
       title: Jak začít
       starting_new_group:
-        title: Když chcete začít novou Diehard_Fund skupinu
+        title: Když chcete začít novou DiehardFund skupinu
       invited_into_group:
-        title: Když jste pozváni do Diehard_Fund skupiny
+        title: Když jste pozváni do DiehardFund skupiny
     group_settings:
       title: Nastavení skupiny
       group_profile:
@@ -174,7 +174,7 @@ cs:
       email_settings:
         title: Nastavení emailu
       yesterday_on_diehard_fund:
-        title: Včera na Diehard_Fund
+        title: Včera na DiehardFund
     user_profile:
       title: Profil uživatele
       language_settings:
@@ -198,16 +198,16 @@ cs:
     security:
       title: Bezpečnost a ochrana osobních údajů
     contributing:
-      title: Jak přispět k Diehard_Fund
+      title: Jak přispět k DiehardFund
       body:
         translation:
           title_html: Překlad
         diehard_fund_community:
-          title_html: Diehard_Fund společenství
+          title_html: DiehardFund společenství
     diehard_fund_community:
-      title: Diehard_Fund společenství
+      title: DiehardFund společenství
     diehard_fund_development:
-      twitter_html: Diehard_Fund na Twitteru
+      twitter_html: DiehardFund na Twitteru
     faq:
       title: Často kladené otázky
       confirmation_email:
@@ -215,20 +215,20 @@ cs:
       forgotten_password:
         title: "Zapomněl jsem heslo, co mám dělat?"
       diehard_fund_account:
-        title: Potřebuji účet Diehard_Fund k účasti na diskuzích?
+        title: Potřebuji účet DiehardFund k účasti na diskuzích?
       single_sign_on:
         title: "Mohu se přihlásit s pomocí účtu od Googlu, Facebooku nebo Twitteru?"
       functional_group_size:
-        title: Jak dobře fungují veliké skupiny na Diehard_Fund?
-        body: Diehard_Fund v současné době dobře funguje pro skupiny do asi 1000 lidí.
+        title: Jak dobře fungují veliké skupiny na DiehardFund?
+        body: DiehardFund v současné době dobře funguje pro skupiny do asi 1000 lidí.
       mobile_responsive:
-        title: Bude Diehard_Fund fungovat na mém mobilním zařízení?
+        title: Bude DiehardFund fungovat na mém mobilním zařízení?
       account_reactivation:
         title: Jak mohu opětovně aktivovat svůj účet?
       diehard_fund_api:
-        title: Existuje Diehard_Fund API?
+        title: Existuje DiehardFund API?
       subdomain:
-        title: Je možné mít Diehard_Fund subdoménu?
+        title: Je možné mít DiehardFund subdoménu?
         body_html: "Ano. Můžeme, například, nastavit <strong>[váš-název-skupiny] .diehard.fund</strong> jako URL pro vaši skupinu. Pokud máte zájem, <a href='mailto:contact@diehard.fund'> kontaktujte nás</a>."
       feedback_link: "Zapomněli jsme na něco? Dejte nám zpětnou vazbu >"
     back_to_top: ^ Zpět na začátek

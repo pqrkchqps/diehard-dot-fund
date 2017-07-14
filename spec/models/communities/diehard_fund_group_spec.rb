@@ -1,6 +1,6 @@
 require 'rails_helper'
 
- describe Communities::Diehard_FundGroup do
+ describe Communities::DiehardFundGroup do
 
    let(:group) { create :group }
    let(:another_group) { create :group }

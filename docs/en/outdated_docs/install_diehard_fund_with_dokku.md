@@ -1,12 +1,12 @@
 This document will detail how to use [Dokku Alternative](https://github.com/dokku-alt/dokku-alt) to deploy our application.
 
 These steps assume you have [prepared a basic VPS](https://github.com/diehard_fund/diehard_fund/wiki/Basic-VPS-setup)
-and that you have your own local [development environment](https://github.com/diehard_fund/diehard_fund/wiki/Setup-a-Diehard_Fund-development-environment) including git and a checkout of the Diehard_Fund code on your local computer.
+and that you have your own local [development environment](https://github.com/diehard_fund/diehard_fund/wiki/Setup-a-DiehardFund-development-environment) including git and a checkout of the DiehardFund code on your local computer.
 
-The steps on this page a subset of the [Dokku Alternative](https://github.com/dokku-alt/dokku-alt) readme file, compiled together to show you the simplest way to get Diehard_Fund deployed in production mode. If you're running Diehard_Fund on a VPS for real, you're going to need to learn dokku-alt, so please [read up](https://github.com/dokku-alt/dokku-alt) on it as soon as you run into problems.
+The steps on this page a subset of the [Dokku Alternative](https://github.com/dokku-alt/dokku-alt) readme file, compiled together to show you the simplest way to get DiehardFund deployed in production mode. If you're running DiehardFund on a VPS for real, you're going to need to learn dokku-alt, so please [read up](https://github.com/dokku-alt/dokku-alt) on it as soon as you run into problems.
 
 #### Setup domain name records
-You need a domain name, and access to create records on it. I've written this guide using the `example.com` domain name - IE: you have your site at example.com and you want to setup Diehard_Fund at `diehard_fund.example.com`. You'll need to replace `example.com` with your domain name for all steps of the process.
+You need a domain name, and access to create records on it. I've written this guide using the `example.com` domain name - IE: you have your site at example.com and you want to setup DiehardFund at `diehard_fund.example.com`. You'll need to replace `example.com` with your domain name for all steps of the process.
 
 To begin with, you need to create an A record for `diehard_fund.example.com` pointing to your VPS's ip address.
 
@@ -54,7 +54,7 @@ You should see:
 -----> Application diehard_fund created!
 ```
 
-We use environment variables to configure Diehard_Fund. The following command sets the configuration needed to get started. Run this dokku command on your local machine.
+We use environment variables to configure DiehardFund. The following command sets the configuration needed to get started. Run this dokku command on your local machine.
 
 ```
 dokku config:set diehard_fund RACK_ENV=production \
@@ -90,14 +90,14 @@ On your local host, from your local diehard_fund git repo (eg: `~/projects/dieha
 git push dokku master
 ```
 
-Now browse to http://diehard_fund.example.com and you should see that Diehard_Fund is running.
+Now browse to http://diehard_fund.example.com and you should see that DiehardFund is running.
 
 ### Sending Email
 You will need an SMTP server for sending outbound emails such as discussion notifications and group invitations.
 
 If you don't already have an SMTP server available, you can use an SMTP service such as Sendgrid, use Gmail as an SMTP or follow our tutorial to [Run your own SMTP](https://github.com/diehard_fund/diehard_fund/wiki/Setup-an-SMTP-server-with-Docker)
 
-Assuming that you have TLS setup, and authenticate against your SMTP server with a username and password, you can configure Diehard_Fund to use your SMTP server with a config command like this, but of course you'll need to replace all the values with the right ones for your situation. 
+Assuming that you have TLS setup, and authenticate against your SMTP server with a username and password, you can configure DiehardFund to use your SMTP server with a config command like this, but of course you'll need to replace all the values with the right ones for your situation. 
 
 ```
 $ dokku config:set diehard_fund SMTP_DOMAIN=diehard_fund.example.com \
@@ -109,7 +109,7 @@ $ dokku config:set diehard_fund SMTP_DOMAIN=diehard_fund.example.com \
 If your SMTP authentication system is different you should edit your `config/environments/production.rb` file to edit the settings directly.
 
 ### Scheduling cron jobs
-Diehard_Fund needs to send daily summary emails, and proposal closing soon notifications at specific times. We do this with cron jobs.
+DiehardFund needs to send daily summary emails, and proposal closing soon notifications at specific times. We do this with cron jobs.
 
 Login to your docker host as root (ie: ssh root@diehard_fund.example.com) then edit the crontab with the following command:
 

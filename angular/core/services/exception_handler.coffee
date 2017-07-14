@@ -8,4 +8,4 @@
 #         params:
 #           user_id: AppConfig.currentUserId
 #
-#     console.error "Diehard_FundApp exception:", exception, cause
+#     console.error "DiehardFundApp exception:", exception, cause

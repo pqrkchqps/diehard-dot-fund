@@ -2,7 +2,7 @@ hr:
   new_help:
     how_diehard_fund_works:
       start_group_link: Započni grupu
-      start_group_description: surađivati s korisnicima Diehard_Fund
+      start_group_description: surađivati s korisnicima DiehardFund
       invite_people_link: Pozovi ljude
       invite_people_description: u svoju grupu
       start_discussion_link: Započni raspravu
@@ -14,16 +14,16 @@ hr:
     contents:
       getting_started:
         title_html: Početak rada
-        starting_new_group_html: ukoliko želite započeti novu Diehard_Fund grupu
-        invited_into_group_html: Netko te zove u svoju Diehard_Fund grupu.
-        joining_existing_group_html: kada se želite pridružiti postojećoj Diehard_Fund grupi
+        starting_new_group_html: ukoliko želite započeti novu DiehardFund grupu
+        invited_into_group_html: Netko te zove u svoju DiehardFund grupu.
+        joining_existing_group_html: kada se želite pridružiti postojećoj DiehardFund grupi
       group_settings:
         title_html: Uredi postavke grupe
         group_profile_html: profil grupe
         group_privacy_html: Privatnost grupe
         group_permissions_html: Dozvole grupe
       coordination:
-        title_html: Koordinacije vaše Diehard_Fund grupe
+        title_html: Koordinacije vaše DiehardFund grupe
         adding_cover_photo_html: Dodaj novu sliku profila
       discussion_threads:
         discussion_privacy_html: Privatnost rasprave
@@ -36,9 +36,9 @@ hr:
     getting_started:
       title: Početak rada
       starting_new_group:
-        title: ukoliko želite započeti novu Diehard_Fund grupu
+        title: ukoliko želite započeti novu DiehardFund grupu
       invited_into_group:
-        title: Netko te zove u svoju Diehard_Fund grupu.
+        title: Netko te zove u svoju DiehardFund grupu.
     group_settings:
       group_profile:
         title: profil grupe
@@ -67,7 +67,7 @@ hr:
           vote_on_proposals:
             title: Glasati o prijedlozima
     coordination:
-      title: Koordinacije vaše Diehard_Fund grupe
+      title: Koordinacije vaše DiehardFund grupe
       adding_cover_photo:
         title: Dodaj novu sliku profila
     discussion_threads:

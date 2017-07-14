@@ -30,7 +30,7 @@ sk:
       no_invitations_remaining: Neostávajú žiadne pozvánky
     mailer:
       invitation_instructions:
-        subject: Niekto vás pozval do svojej Diehard_Fund skupiny
+        subject: Niekto vás pozval do svojej DiehardFund skupiny
     registrations:
       sign_up: Vytvoriť účet
   error:
@@ -73,7 +73,7 @@ sk:
     new_contacts_imported: To fungovalo! Môžte začať písať mená do polí nižšie a pri tom uvidíte ponuky emailových adries ktoré poznáme.
     admin_rights_removed: Koordinátorské práva %{which_user} boli odobrané.
     user_added: "%{user_email_or_name} bol(a) pridaný(á) do skupiny."
-    new_user_added: "%{user_email_or_name} bude pridaný(á) do skupiny akonáhle si zriadi účet na Diehard_Fund."
+    new_user_added: "%{user_email_or_name} bude pridaný(á) do skupiny akonáhle si zriadi účet na DiehardFund."
     member_removed: Člen odstránený.
     membership_approved: Členstvo schválené.
     membership_request_canceled: Žiadosť o členstvo zrušená.
@@ -181,7 +181,7 @@ sk:
         few: "%{count} rokmi"
         other: "%{count} rokmi"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Prepnúť navigáciu
   inbox:
@@ -218,15 +218,15 @@ sk:
   find_a_group_hint: Preskúmať verejné skupiny
   search_for_group: Vyhľadať skupinu...
   no_groups_found: Žiadne skupiny s takým menom sa nenašli!
-  no_group_header: Vítajte na Diehard_Fund Beta
+  no_group_header: Vítajte na DiehardFund Beta
   empty_notifications: Nemáte zatiaľ žiadne upozornenia.
   see_all_notifications: Zobraziť všetky upozornenia
   sign_out: Odhlásiť sa
   sign_in: Prihlásiť sa
   honeypot_warning: Nepodarilo sa vytvoriť váš účet. Pokiaľ používáte screen reader, uistite sa prosím, že posledné (skryté) pole ve formulári je prázdne.
   tagline: Vytvárame svet, kde je jednoduché pro kohokoľvek sa podieľať na rozhodnutiach, které ho ovplyvňujú.
-  or_sign_in_html: Pokiaľ už máte Diehard_Fund účet, <a href='%{link}' class='%{link_class}'>prihláste sa tu</a>
-  or_link_account_html: Pokiaľ už máte Diehard_Fund účet, <a href='%{link}'>prepojte svoje účty</a>
+  or_sign_in_html: Pokiaľ už máte DiehardFund účet, <a href='%{link}' class='%{link_class}'>prihláste sa tu</a>
+  or_link_account_html: Pokiaľ už máte DiehardFund účet, <a href='%{link}'>prepojte svoje účty</a>
   click_to_dismiss: Kliknite sem pre zrušenie tejto správy
   generic_confirm: Ste si istý(á)?
   discussion_helper_text:
@@ -553,21 +553,21 @@ sk:
     comment_changes: Zmeny komentárov
     edit_comment: Upraviť komentár
   help:
-    coordinating: Koordinácia vašej Diehard_Fund skupiny
-    coordinating_details: 'Ako koordinátor ste zodpovedný/á za konfiguráciu nastavení pre vašu Diehard_Fund skupinu a rozoslanie pozvánok do nej. Budete sa musieť aj naučiť používať túto aplikáciu a túto znalosť šíriť medzi členmi skupiny, aby boli funkcie ktoré aplikácia ponúka využívané efektívne. Tu je niekoľko tipov ktoré vám pomôžu v tejto úlohe:
+    coordinating: Koordinácia vašej DiehardFund skupiny
+    coordinating_details: 'Ako koordinátor ste zodpovedný/á za konfiguráciu nastavení pre vašu DiehardFund skupinu a rozoslanie pozvánok do nej. Budete sa musieť aj naučiť používať túto aplikáciu a túto znalosť šíriť medzi členmi skupiny, aby boli funkcie ktoré aplikácia ponúka využívané efektívne. Tu je niekoľko tipov ktoré vám pomôžu v tejto úlohe:
 
 '
-    different_ways: Rôzne spôsoby ako používať Diehard_Fund
+    different_ways: Rôzne spôsoby ako používať DiehardFund
     engaging_html: |
       <h2>Tipy na zvýšenie angažovanosti v skupine</h2>
       <p>Ochota ľudí zúčastňovať sa na návrhoch sa zvýši ak sú kontroverzné alebo inak zaujímavé.
       Dobrý návrh obsahuje akčný plán, z ktorého je jasné čo znamená súhlasiť a nesúhlasiť.
       Rozmýšľajte o tom, ako by sa dali diskusie prebiehajúce tvári v tvár alebo prostredníctvom
-      emailu ľahko uskutočniť prostredníctvom aplikácie Diehard_Fund.</p>
+      emailu ľahko uskutočniť prostredníctvom aplikácie DiehardFund.</p>
       <p>Ak vaša skupina len práve začína, prvé diskusie by sa mali týkať nekritických rozhodnutí,
       aby mali členovia možnosť vyskúšať si a zžiť sa s rozhodovacím procesom.</p>
       <p>Ďalší jednoduchý trik ako prilákať ľudí do diskusie je @spomenutím niekoho, alebo citovaním
-      jeho/jej výroku; Diehard_Fund zašle email s upozornením, že ich meno bolo spomenuté v komentári</p>
+      jeho/jej výroku; DiehardFund zašle email s upozornením, že ich meno bolo spomenuté v komentári</p>
     example1_html: "<h3>Vaša skupina potrebuje dosiahnuť riešenie komplexného problému</h3>\n<p>Stratégia: Predtým než sformulujete návrh, diskutujte o probléme istý čas.</p>\n<p>Diskusie často vedú k jednotnému pohľadu na problém a ten zvyšuje pravdepodobnosť,\nže bude sformulovaný kvalitný návrh. Ak sú ľudia od počiatku zaangažovaní v diskusii o \nprobléme, zvyšuje sa pravdepodobnosť že aj prijmú konečné rozhodnutie.</p>\n"
     example2_html: |
       <h3>V mysli už máte sformulovaný návrh a od skupiny chcete len konečné rozhodnutie.</h3>
@@ -594,10 +594,10 @@ sk:
       <p>Pred samotným pozvaním nových členov je dobré sa s nimi najprv porozprávať a objasniť
       im dôvody, pre ktoré by mali s členstvom v skupine súhlasiť.</p>
     join_the_community: Staňte sa súčasťou komunity
-    join_the_community_description_html: Každý je vítaný stať sa členom Diehard_Fund komunitnej skupiny, kde sa diskutuje o tom, ako čo najefektívnejšie využiť funkcionalitu ktorú aplikácia ponúka a ako by sa dala táto zlepšiť.<br /><br /><a href='https://www.diehard.fund/groups/3'>Navštívte Diehard_Fund komunitnú skupinu</a>.
+    join_the_community_description_html: Každý je vítaný stať sa členom DiehardFund komunitnej skupiny, kde sa diskutuje o tom, ako čo najefektívnejšie využiť funkcionalitu ktorú aplikácia ponúka a ako by sa dala táto zlepšiť.<br /><br /><a href='https://www.diehard.fund/groups/3'>Navštívte DiehardFund komunitnú skupinu</a>.
     images_and_text_formatting: Obrázky a formátovanie textu
     images_and_text_formatting_html: |
-      <p>Diehard_Fund používa ‘Markdown’ formát na vkladanie obrázkov a formátovanie štýlu textu.
+      <p>DiehardFund používa ‘Markdown’ formát na vkladanie obrázkov a formátovanie štýlu textu.
       Do Markdown módu môžte prepnúť kliknutím na šedú ikonku pod poľom na vkladanie komentára.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Kliknite sem</a>
       ak sa chcete dozvedieť ako používať Markdown.</p>
@@ -623,7 +623,7 @@ sk:
     start_proposal_html: "<p> Ak zvolíte výstižný názov, ľudia budú hneď vedieť čo v nej znamená súhlasiť \nalebo nesúhlasiť.</p>\n<p>Nebude tragédiou ak návrh hneď nedosiahne jasný súhlas. Ak väčšina považuje prvý \nnávrh za nezaujímavý,  ktokoľvek môže začať nový.</p>\n<p>Týmto dynamickým procesom sa môže skupina kolektívne dopracovať k lepším \nformuláciam problému ako by to dokázal jednotlivec.</p>\n<p>Konečný termín na uzatvorenie diskusie sa dá kedykoľvek posunúť, ak to vyzerá \ntak, že diskusia potrebuje viac času. Každý dostane email 24 hodín pred jej uzatvorením.</p>\n"
     video_id: '52025402'
     video_tutorial: Zobraziť tutoriál
-    video_tutorial_description: Pozrite si rýchlu ukážku toho, ako sa Diehard_Fund používa.
+    video_tutorial_description: Pozrite si rýchlu ukážku toho, ako sa DiehardFund používa.
   hint:
     context: Rady pre používánie kontextového panelu
     discussion: Rady na zahájenie pútavej diskusie
@@ -638,11 +638,11 @@ sk:
     submit: Prispejte
     tooltip: Zistite viac o našom komunitnom modeli financovania
     thought_about_contributing: Vaša príležitosť prispieť
-    thought_about_contributing_description: "Diehard_Fund je kooperatívny sociálny podnik, vytvárajúci nástroje umožňujúce každému \nzúčastňovať sa na rozhodnutiach, ktoré sa ich týkajú.\n\nPeniaze by nemali byť prekážkou v kolaboratívnom rozhodovacom procese. Diehard_Fund je financované\nz príspevkov jej členov a organizácií ktoré tento nástroj používajú.\n\nVaše príspevky nám umožňujú naďalej vyvíjať Diehard_Fund bez toho aby na ňom boli umiestnované reklamy.\n\nĎakujeme, že nám pomáhate pri dosahovaní tohoto cieľa.\n"
-    thank_you_title: Ďakujeme za priseniu k iniciatíve Diehard_Fund!
-    thank_you_body: "Váš príspevok nám pomáha pri vytváraní široko dostupného nástroja na kolektívne rozhodovanie.\n\nPo zaslaní vášho príspevku dostanete potvrdzujúcu emailovú správu s potvrdením.\n\nDiehard_Fund komunita je otvorená všetkým, ktorých zaujíma ako používať aplikáciu efektívne \na ako ju naďalej zlepšovať.\n\n<a href='https://www.diehard.fund/groups/3'>Navštíviť Diehard_Fund komunitnú skupinu &raquo;</a>\n"
+    thought_about_contributing_description: "DiehardFund je kooperatívny sociálny podnik, vytvárajúci nástroje umožňujúce každému \nzúčastňovať sa na rozhodnutiach, ktoré sa ich týkajú.\n\nPeniaze by nemali byť prekážkou v kolaboratívnom rozhodovacom procese. DiehardFund je financované\nz príspevkov jej členov a organizácií ktoré tento nástroj používajú.\n\nVaše príspevky nám umožňujú naďalej vyvíjať DiehardFund bez toho aby na ňom boli umiestnované reklamy.\n\nĎakujeme, že nám pomáhate pri dosahovaní tohoto cieľa.\n"
+    thank_you_title: Ďakujeme za priseniu k iniciatíve DiehardFund!
+    thank_you_body: "Váš príspevok nám pomáha pri vytváraní široko dostupného nástroja na kolektívne rozhodovanie.\n\nPo zaslaní vášho príspevku dostanete potvrdzujúcu emailovú správu s potvrdením.\n\nDiehardFund komunita je otvorená všetkým, ktorých zaujíma ako používať aplikáciu efektívne \na ako ju naďalej zlepšovať.\n\n<a href='https://www.diehard.fund/groups/3'>Navštíviť DiehardFund komunitnú skupinu &raquo;</a>\n"
     making_a_donation: Poskytnutie daru
-    making_a_donation_description: "Diehard_Fund je kooperatívny sociálny podnik, vytvárajúci nástroje umožňujúce každému \nzúčastňovať sa na rozhodnutiach, ktoré sa ich týkajú.\n\nVaše príspevky nám umožňujú naďalej vyvíjať Diehard_Fund bez toho aby na ňom boli umiestnované reklamy.\n\nĎakujeme, že nám pomáhate pri dosahovaní tohoto cieľa.\n"
+    making_a_donation_description: "DiehardFund je kooperatívny sociálny podnik, vytvárajúci nástroje umožňujúce každému \nzúčastňovať sa na rozhodnutiach, ktoré sa ich týkajú.\n\nVaše príspevky nám umožňujú naďalej vyvíjať DiehardFund bez toho aby na ňom boli umiestnované reklamy.\n\nĎakujeme, že nám pomáhate pri dosahovaní tohoto cieľa.\n"
   resend_confirmation: Znovu poslať pokyny na potvrdenie
   new_password: Nové heslo
   confirm_new_password: Potvrdiť nové heslo
@@ -664,15 +664,15 @@ sk:
   link_it_up_instead: Použiť prepojenie na existujúci účet
   sign_up_via: Prihláste sa cez
   or_fill_in_this_form: alebo vyplňte tento formulár
-  already_have_account: Máte už účet na Diehard_Fund?
+  already_have_account: Máte už účet na DiehardFund?
   confirm_your_details: Potvrďte svoje údaje
   link_up_your_account: Prepojte svoj účet
-  log_in_to_your_diehard_fund_account: Prihláste sa ku svojmu účtu na Diehard_Fund a prepojte ho s %{provider_name}.
-  now_that_your_logged_in: Úspešne ste sa prihlásili pomocou %{provider_name}. Teraz potvrďte svoje informácie a vytvorte účet na Diehard_Fund.
+  log_in_to_your_diehard_fund_account: Prihláste sa ku svojmu účtu na DiehardFund a prepojte ho s %{provider_name}.
+  now_that_your_logged_in: Úspešne ste sa prihlásili pomocou %{provider_name}. Teraz potvrďte svoje informácie a vytvorte účet na DiehardFund.
   confirmation_not_received: Neprišly vám pokyny na potvrdenie?
   unlock_not_received: Neprišly vám pokyny na odomknutie?
   inactive_html: Tento účet bol deaktivovaný. Ak máte akékoľvek otázky, <a href='%{path_to_contact}'>ozvite sa nám</a>.
-  create_an_account_html: Vytvorte si účet na Diehard_Fund Beta
+  create_an_account_html: Vytvorte si účet na DiehardFund Beta
   log_in: Prihlásiť sa
   join_group:
     log_in: Napíšte nám, aby ste sa pridali(a) k %{group_name}
@@ -689,12 +689,12 @@ sk:
     invitation_already_used: Tato pozvánka už bola použitá. Prosím prihláste sa, aby ste mohli pokračovať do svojej skupiny.
     recipients: 'Zadajte emailové adresy, oddelené čiarkami:'
     invitees_placeholder: Užívateľské meno <uzivatel1@priklad.sk>, uzivatel1@priklad.sk
-    subject: Prosím pridajte sa do našej novej skupiny %{group} na Diehard_Fund
+    subject: Prosím pridajte sa do našej novej skupiny %{group} na DiehardFund
     invite_people: Pozvite ľudí do svojej skupiny
     invite_to_discussion: Pozvať ľudí do tejto diskusie
     invite_to_discussion_info: Po pridaní ľudí do tejto diskusie im bude zaslaná pozvánka do skupiny. Akonáhle ju prijmú, budú presmerovní do tejto diskusie.
     select_members: Pridať členov z %{group_name}
-    body_editable: 'Pozývame vás na účasť pri rozhodovaní použitím internetového programu Diehard_Fund.
+    body_editable: 'Pozývame vás na účasť pri rozhodovaní použitím internetového programu DiehardFund.
 
 '
     body_editable_discussion: 'Ahoj, poďte sa zapojiť do diskusie!
@@ -759,10 +759,10 @@ sk:
   group_setup:
     set_up_your_group: Zriaďte si skupinu
     desc_header: Už ste skoro tam!
-    desc_html: 'Ako skupinový koordinátor, máte zodpovednosť za správu vašej Diehard_Fund skupiny. Po tom čo zmeníte niekoľko nastavení možte ísť do novej skupiny, začať jednu alebo viac diskusií a rozoslať pozvánky! <p>Pri premýšľaní o najjednoduchšej formulácii poslania skupiny si môžte položiť otázku: Čo chceme spolu dosiahnuť? Aký typ rozhodnutia budeme robiť? Kto bude jeho účastníkom?</p>'
+    desc_html: 'Ako skupinový koordinátor, máte zodpovednosť za správu vašej DiehardFund skupiny. Po tom čo zmeníte niekoľko nastavení možte ísť do novej skupiny, začať jednu alebo viac diskusií a rozoslať pozvánky! <p>Pri premýšľaní o najjednoduchšej formulácii poslania skupiny si môžte položiť otázku: Čo chceme spolu dosiahnuť? Aký typ rozhodnutia budeme robiť? Kto bude jeho účastníkom?</p>'
     submit: Hurá do skupiny!
     payment_model:
-      header: Diehard_Fund je pre všetkých!
+      header: DiehardFund je pre všetkých!
       info: Máme platobný model, který vyhovuje akejkoľvek skupine, aj tým bez peňazí :)
       link: Zistite viac
   simple_form:
@@ -807,16 +807,16 @@ sk:
         create: Vytvoriť účet
         update: Aktualizovať nastavenia
   meta_tags:
-    default_title: Diehard_Fund | Kolaboratívne rozhodovanie
-    default_description: Diehard_Fund je jednoduchý nástroj na dosiahnutie skupinových rozhodnutí. Dovoľuje fyzicky vzdialeným jednotlivcom diskutovať a hlasovaním dospieť k rozhodnutiam o nastolených prpblémoch.
-  about_diehard_fund: O Diehard_Fund
+    default_title: DiehardFund | Kolaboratívne rozhodovanie
+    default_description: DiehardFund je jednoduchý nástroj na dosiahnutie skupinových rozhodnutí. Dovoľuje fyzicky vzdialeným jednotlivcom diskutovať a hlasovaním dospieť k rozhodnutiam o nastolených prpblémoch.
+  about_diehard_fund: O DiehardFund
   ago: pred %{quantity_of_time}
   approve: Schváliť
   author: Autor
   back: Späť
   cancel: Zrušiť
   change: Zmeniť
-  change_language: Kliknite sem pre Diehard_Fund v %{language}
+  change_language: Kliknite sem pre DiehardFund v %{language}
   changing: Mení sa
   click_here: Kliknite sem
   close: Uzatvoriť
@@ -850,7 +850,7 @@ sk:
   pricing: Cenník
   prev: Predch.
   more: Viac...
-  translate: Pomôžte preložiť Diehard_Fund!
+  translate: Pomôžte preložiť DiehardFund!
   translate_field: Zobraziť preklad
   loading_translation: Nahrávam preklad...
   translate_this_string: Preložiť do %{language}

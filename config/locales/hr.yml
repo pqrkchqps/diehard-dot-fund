@@ -29,7 +29,7 @@ hr:
       no_invitations_remaining: Nije preostalo pozivnica
     mailer:
       invitation_instructions:
-        subject: Netko te zove u svoju Diehard_Fund grupu
+        subject: Netko te zove u svoju DiehardFund grupu
   error:
     access_denied: Nepostojeća dozvola za izvršenje.
     cant_join_subgroup: Nije se moguće pridružiti podgrupi bez članstva u roditeljskoj grupi.
@@ -70,7 +70,7 @@ hr:
     new_contacts_imported: Upalilo je! Možete unositi imena u polje ispod i preporučit ćemo vam email adrese.
     admin_rights_removed: "%{which_user} je izgubio / la koordinatorska prava."
     user_added: "%{user_email_or_name} obrisan/a je iz grupe."
-    new_user_added: "%{user_email_or_name} bit će dodan/a u grupu kad otvori Diehard_Fund račun."
+    new_user_added: "%{user_email_or_name} bit će dodan/a u grupu kad otvori DiehardFund račun."
     member_removed: Članstvo maknuto.
     membership_approved: Članstvo odobreno.
     membership_request_canceled: Zahtjev za članstvom poništen.
@@ -178,7 +178,7 @@ hr:
         few: 'Broj godina: %{count}'
         other: 'Broj godina: %{count}'
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Ugasi / upali navigaciju
   inbox:
@@ -215,15 +215,15 @@ hr:
   find_a_group_hint: Istraživanje javnih grupa
   search_for_group: Traži grupu...
   no_groups_found: Nema grupa pod tim imenom!
-  no_group_header: Dobrodošli u Diehard_Fund Beta
+  no_group_header: Dobrodošli u DiehardFund Beta
   empty_notifications: Nemate još notifikacija.
   see_all_notifications: Vidi sve notifikacije
   sign_out: Odjava
   sign_in: Prijava
   honeypot_warning: Nije moguće kreirati račun. Ako koristite čitač ekrana, molimo da se pobrinete da zadnje (skriveno) polje formulara bude prazno.
   tagline: Stvaranje svijeta u kojem svatko može sudjelovati u odlukama koje na njih imaju utjecaja.
-  or_sign_in_html: Ukoliko već posjedujete Diehard_Fund račun, <a href='%{link}' class='%{link_class}'>prijavite se ovdje</a>
-  or_link_account_html: Ukoliko već posjedujete Diehard_Fund račun, <a href='%{link}'>spojite ga</a>
+  or_sign_in_html: Ukoliko već posjedujete DiehardFund račun, <a href='%{link}' class='%{link_class}'>prijavite se ovdje</a>
+  or_link_account_html: Ukoliko već posjedujete DiehardFund račun, <a href='%{link}'>spojite ga</a>
   click_to_dismiss: Kliknite ovdje za otpust poruke
   generic_confirm: Jeste li sigurni?
   discussion_helper_text:
@@ -256,7 +256,7 @@ hr:
       info_title: Što će deaktivacija računa značiti?
       memberships: Više nećete biti na popisu članova grupa kojima trenutačno pripadate.
       group_contributions: Komentari, prijedlozi i rasprave koje ste napravili ostat će u grupi, ali će s njih biti maknuto vaše ime.
-      emails: Prestat ćemo vam slati email poruke vezane uz Diehard_Fund.
+      emails: Prestat ćemo vam slati email poruke vezane uz DiehardFund.
   group_form:
     name: Ime grupe
     description: Opis
@@ -547,9 +547,9 @@ hr:
     comment_changes: Komentiraj promjene
     edit_comment: Ažuriranje komentara
   help:
-    coordinating: Koordinacije vaše Diehard_Fund grupe
+    coordinating: Koordinacije vaše DiehardFund grupe
     coordinating_details: |
-      Kao koordinator / ica, odgovorni ste za postavljanje vaše Diehard_Fund grupe i pozivanje
+      Kao koordinator / ica, odgovorni ste za postavljanje vaše DiehardFund grupe i pozivanje
       članova. Također se morate naučiti koristiti novi softver, pa će i vaša grupa učinkovitije učiti nove procese kolaboracije i zajedno donositi bolje odluke. Ovo su neke smjernice za bolji uspjeh vaše grupe:
     different_ways: Različiti načini korištenja Loomia
     get_in_touch: Stupite u kontakt

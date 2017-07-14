@@ -44,7 +44,7 @@ ro:
       loading: 'Se incarca'
       uploading: 'Se trimite la server'
     formatting_help:
-      title: 'Afla cum poti folosi Markdown pentru a formata textul in Diehard_Fund'
+      title: 'Afla cum poti folosi Markdown pentru a formata textul in DiehardFund'
   error_page:
     forbidden: 'Nu ai permisiune pentru aceasta actiune.'
     page_not_found: 'Nu am gasit nimic corespunzator. Este posibil sa fie sters sau mutat.'
@@ -293,13 +293,13 @@ ro:
     email_label: 'Adresa ta de email'
     message_label: 'Mesaj'
   help_page:
-    coordinating: 'Coordonarea grupului tau Diehard_Fund'
+    coordinating: 'Coordonarea grupului tau DiehardFund'
     coordinating_details: |
-      Ca coordonator, esti responsabil cu formarea grupului tau pe Diehard_Fund si invitarea
+      Ca coordonator, esti responsabil cu formarea grupului tau pe DiehardFund si invitarea
       celorlalti in el. In paralel cu invatarea acestui program grupul tau
       va invata noi procedee de colaborare efectiva si de adoptare a deciziilor.
       Aici sunt cateva sfaturi  care vor ajuta grupul tau sa reuseasca:
-    different_ways: 'Modalitati diferite de a folosi Diehard_Fund'
+    different_ways: 'Modalitati diferite de a folosi DiehardFund'
     example1_html: |
       <h3>Ai nevoie ca grupul sa discute o tema mai larga si sa ajunga la o solutie comuna</h3>
       <p>Strategie: discuta o tema pentru un timp inainte sa lansezi o propunere.</p>
@@ -310,7 +310,7 @@ ro:
     get_in_touch_description_html: "Daca ai intrebari sau feedback, <a href='%{link}'>trimite-ne un mesaj</a>."
     getting_started: "Notiuni de baza"
     getting_started_description: "In partea stanga, grupul discuta o tema, schimband idei si informatii. Cand exista o decizie luata de grup, ea apare in partea dreapta."
-    getting_the_most: 'Obtine cat mai mult din folosirea Diehard_Fund'
+    getting_the_most: 'Obtine cat mai mult din folosirea DiehardFund'
     have_your_say: "Sa ai ceva de spus"
     have_your_say_details_html: |
       <p>Cand esti pregatit sa-ti spui parerea, apasa pe unul dintre cele patru butoane de decizie.</p>
@@ -325,13 +325,13 @@ ro:
       <p>Prima intrebare pe care fiecare nou membru o va avea este 'pentru ce este creat acest grup?'</p>
       <p>Gandeste-te la cea mai simpla descriere a grupului: Ce vrei sa obtineti impreuna?
       Ce tipuri de decizii veti lua? Cine va fi implicat?</p><p>Poate fi o idee buna sa vorbesti cu grupul tau
-      inainte de ai invita pe Diehard_Fund</p>
+      inainte de ai invita pe DiehardFund</p>
       <p> Oamenii vor voi sa stie de ce au fost invitati si ce se asteapta de la ei si de ce merita sa-si investeasca
       timpul in a invata cum sa foloseasca un nou instrument.</p>
     join_the_community: "Alatura-te comunitatii"
     images_and_text_formatting: "Formatarea imaginilor si a textului"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund foloseste ‘Markdown' pentru a adauga imagini si formatarea textului.
+      <p>DiehardFund foloseste ‘Markdown' pentru a adauga imagini si formatarea textului.
       Poti porni Markdown prin icoana mica gri de sub casuta de comentarii</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Apasa aici</a> pentru informatii
       despre folosirea Markdown</p>
@@ -363,7 +363,7 @@ ro:
       are nevoie de mai mult timp. Toata lumea va primi o notificare pe email cu 24 de ore inainta ca o propunere sa se inchida.</p>
     video_id: "52025402"
     video_tutorial: "Tutorial video"
-    video_tutorial_description: "Urmareste acest video pentru o scurta demonstratie despre cum sa folosesti Diehard_Fund."
+    video_tutorial_description: "Urmareste acest video pentru o scurta demonstratie despre cum sa folosesti DiehardFund."
   hint:
     context: 'Sfaturi pentru folosirea panel-ului context'
     discussion: 'Sfaturi pentru a initia o discutie captivanta'

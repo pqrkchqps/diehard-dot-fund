@@ -92,10 +92,10 @@ id:
     context_menu:
       delete_comment: 'Hapus komentar'
   help_page:
-    coordinating: 'Mengatur kelompok Diehard_Fund Anda'
+    coordinating: 'Mengatur kelompok DiehardFund Anda'
     coordinating_details: |
-      Sebagai koordinator, Anda bertanggung jawab atas setelan kelompok Diehard_Fund Anda dan mengundang orang lain untuk masuk. Selain mempelajari penggunaan piranti lunak baru, kelompok Anda akan mempelajari proses baru untuk berkolaborasi lebih efektif dan membuat keputusan yang baik bersama-sama. Berikut beberapa tips agar tujuan kelompok Anda tercapai:
-    different_ways: 'Cara lain menggunakan Diehard_Fund'
+      Sebagai koordinator, Anda bertanggung jawab atas setelan kelompok DiehardFund Anda dan mengundang orang lain untuk masuk. Selain mempelajari penggunaan piranti lunak baru, kelompok Anda akan mempelajari proses baru untuk berkolaborasi lebih efektif dan membuat keputusan yang baik bersama-sama. Berikut beberapa tips agar tujuan kelompok Anda tercapai:
+    different_ways: 'Cara lain menggunakan DiehardFund'
     example1_html: |
       <h3>Kelompok Anda akan mendiskusikan sebuah topik dan membuat keputusan bersama</h3>
       <p>Strategi: Diskusikan sebuah topik selama beberapa saat sebelum membuat usulan.</p>
@@ -104,7 +104,7 @@ id:
     get_in_touch_description_html: "Apabila Anda memiliki pertanyaan atau masukan, <a href='%{link}'>silakan hubungi kami</a>."
     getting_started: "Memulai"
     getting_started_description: "Di sebelah kiri, kelompok dapat mendiskusikan sebuah topik, bertukar pikiran dan informasi. Apabila ada keputusan yang harus diambil, keputusan akan muncul di sebelah kanan."
-    getting_the_most: 'Gunakan Diehard_Fund sebaik mungkin'
+    getting_the_most: 'Gunakan DiehardFund sebaik mungkin'
     have_your_say: "Berikan pendapat Anda"
     have_your_say_details_html: |
       <p>Apabila Anda ingin memberikan pendapat, klik salah satu dari empat tombol keputusan.</p>
@@ -117,12 +117,12 @@ id:
       <h2>Menulis undangan yang baik</h2>
       <p>Pertanyaan penting yang akan diajukan anggota baru adalah 'kelompok apakah ini?'</p>
       <p>Pikirkan cara singkat untuk mendeskripsikan kelompok: Apa yang ingin Anda peroleh bersama? Apa jenis keputusan yang akan diambil? Siapa saja yang akan terlibat?</p>
-      <p>Anda dapat berdiskusi dengan kelompok terlebih dulu sebelum meminta mereka bergabung ke dalam Diehard_Fund.</p>
+      <p>Anda dapat berdiskusi dengan kelompok terlebih dulu sebelum meminta mereka bergabung ke dalam DiehardFund.</p>
       <p>Mereka ingin tahu mengapa mereka diundang, apa yang Anda harapkan dari mereka, dan mengapa alat ini penting untuk mereka.</p>
     join_the_community: "Gabung ke dalam komunitas"
     images_and_text_formatting: "Format gambar dan teks"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund menggunakan ‘Penanda’ untuk memunculkan gambar dan format teks.
+      <p>DiehardFund menggunakan ‘Penanda’ untuk memunculkan gambar dan format teks.
       Anda dapat mengaktifkan Penanda melalui tombol kecil abu-abu di bawah kotak komentar.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Klik di sini</a>
       untuk informasi penggunaan Penanda.</p>
@@ -150,7 +150,7 @@ id:
       <p>Tenggat waktu sebuah usulan dapat diperpanjang kapapun, apabila dirasa perlu. Setiap anggota akan mendapatkan surel pemberitahuan 24 jam sebelum usulan ditutup.</p>
     video_id: "52025402"
     video_tutorial: "Video tutorial"
-    video_tutorial_description: "Simak video untuk petunjuk singkat penggunaan Diehard_Fund."
+    video_tutorial_description: "Simak video untuk petunjuk singkat penggunaan DiehardFund."
   hint:
     context: 'Tips menggunakan panel konteks'
     discussion: 'Tips memulai diskusi yang menarik'

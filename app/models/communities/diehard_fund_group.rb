@@ -1,4 +1,4 @@
-class Communities::Diehard_FundGroup < Communities::Base
+class Communities::DiehardFundGroup < Communities::Base
   include Communities::Notify::InApp
   include Communities::Notify::Users
   include Communities::Notify::ThirdParty
@@ -12,7 +12,7 @@ class Communities::Diehard_FundGroup < Communities::Base
   alias :channel :slack_channel_id
 
   def to_user_community
-    Communities::Diehard_FundUsers.new(
+    Communities::DiehardFundUsers.new(
       custom_fields: custom_fields,
       identity: identity,
       identifier: identifier

@@ -44,7 +44,7 @@ pl:
       no_invitations_remaining: Brak innych zaproszeń
     mailer:
       invitation_instructions:
-        subject: Ktoś zaprosił Cię aby dołączyć do grupy na platformie Diehard_Fund
+        subject: Ktoś zaprosił Cię aby dołączyć do grupy na platformie DiehardFund
     registrations:
       sign_up: Utwórz konto
   error:
@@ -88,7 +88,7 @@ pl:
     new_contacts_imported: To działa! Możesz wpisać nazwy do pola poniżej a my będziemy sugerować adres email,
     admin_rights_removed: Usunięto uprawnienia koordynatora dla %{which_user}.
     user_added: "%{user_email_or_name} został dodany do grupy."
-    new_user_added: "%{user_email_or_name} zostanie dodany do grupy po utworzeniu konta w Diehard_Fund."
+    new_user_added: "%{user_email_or_name} zostanie dodany do grupy po utworzeniu konta w DiehardFund."
     member_removed: Członek usunięty.
     membership_approved: Członkostwo zaakceptowane.
     membership_request_canceled: Prośba o członkostwo anulowana.
@@ -199,7 +199,7 @@ pl:
         few: "%{count} lata"
         other: "%{count} lat"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Przełączenie nawigacji
   inbox:
@@ -240,15 +240,15 @@ pl:
   find_a_group_hint: Przegląd grup publicznych
   search_for_group: Szukanie grupy...
   no_groups_found: Nie znaleziono grupy o takiej nazwie!
-  no_group_header: Witamy w Diehard_Fund Beta
+  no_group_header: Witamy w DiehardFund Beta
   empty_notifications: Nie masz jeszcze żadnych powiadomień.
   see_all_notifications: Zobacz wszystkie powiadomienia
   sign_out: Wyloguj się
   sign_in: Logowanie
   honeypot_warning: Nie można utworzyć Twojego konta. Jeśli używasz 'screen reader' upewnij się, że ostatnie (ukryte) pole formularza jest puste.
   tagline: Tworzenie przestrzeni, która sprawia, że każdy może łatwo brać udział w decyzjach, które jego dotyczą.
-  or_sign_in_html: Jeśli już masz konto Diehard_Fund, <a href='%{link}' class='%{link_class}'>zaloguj się</a>
-  or_link_account_html: Jeśli masz juz konto Diehard_Fund, <a href='%{link}'>połącz je</a>
+  or_sign_in_html: Jeśli już masz konto DiehardFund, <a href='%{link}' class='%{link_class}'>zaloguj się</a>
+  or_link_account_html: Jeśli masz juz konto DiehardFund, <a href='%{link}'>połącz je</a>
   click_to_dismiss: Kliknij tuaj aby usunąć tę wiadomość
   generic_confirm: Czy jesteś pewien?
   discussion_helper_text:
@@ -281,7 +281,7 @@ pl:
       info_title: Co oznacza deaktywacja Twojego konta?
       memberships: Twoje konto nie będzie pojawiać się na listach członków grup do któryc obecnie należysz.
       group_contributions: Komentarze, propozycje oraz dyskusje, które utworzyłeś/aś pozostaną ale usuniemy z nich Twoją nazwę.
-      emails: Wstrzymamy przesyłanie Ci wiadomości pocztowych związanych z Diehard_Fund.
+      emails: Wstrzymamy przesyłanie Ci wiadomości pocztowych związanych z DiehardFund.
   group_form:
     name: Nazwa grupy
     description: Opis
@@ -456,7 +456,7 @@ pl:
     request_declined: Zgłoszenie członkowstwa w sieci odrzucone.
   group_request:
     header: Uruchomienie grupy
-    desc: 'Ustaw grupę aby rozpocząć podejmowanie wspólnych decyzji w Diehard_Fund:'
+    desc: 'Ustaw grupę aby rozpocząć podejmowanie wspólnych decyzji w DiehardFund:'
     commercial_use_option: w firmie, organizacji formalnej lub miejscu pracy
     non_commercial_use_option: w grupie społecznej lub nieformalnej sieci
     please_select_an_option: Wybierz opcję
@@ -540,14 +540,14 @@ pl:
   edit_comment:
     edit_comment: Edycja komentarza
   help:
-    coordinating: Koordynacja Twoich grup Diehard_Fund
-    coordinating_details: 'Jako koordynator jesteś odpowiedzialny/a za ustawienia Twoich grup Diehard_Fund oraz zapraszanie osób. Podobnie jak nauka używania nowego kawałka oprogramowania, Twoja grupa nauczy się nowego procesu dla bardziej efektywnej współpracy oraz wspólnego podejmowania dobrych decyzji. Oto kilka wskazówek jak wspierać Twoją grupę dla uzyskania sukcesu.
+    coordinating: Koordynacja Twoich grup DiehardFund
+    coordinating_details: 'Jako koordynator jesteś odpowiedzialny/a za ustawienia Twoich grup DiehardFund oraz zapraszanie osób. Podobnie jak nauka używania nowego kawałka oprogramowania, Twoja grupa nauczy się nowego procesu dla bardziej efektywnej współpracy oraz wspólnego podejmowania dobrych decyzji. Oto kilka wskazówek jak wspierać Twoją grupę dla uzyskania sukcesu.
 
 '
-    different_ways: Różne sposoby używania Diehard_Fund
+    different_ways: Różne sposoby używania DiehardFund
     engaging_html: |
       <h2>Wskazówki dla zaangażowania Twojej grupy</h2>
-      <p>Ludzie będą chętniej biorą udział jeśli na stole leży ciekaw rekomendacja. Dobra rekomendacja zawiera taki plan działań dla grupy, że jest czytelne co oznacza zgoda lub jej brak. Przemyśl jak możesz zidentyfikować dyskusje/decyzje, które grupa obecnie rozważa bezpośrenio lub mailowo, które będą łatwiejsze do podjęcia za pomocą Diehard_Fund. </p>
+      <p>Ludzie będą chętniej biorą udział jeśli na stole leży ciekaw rekomendacja. Dobra rekomendacja zawiera taki plan działań dla grupy, że jest czytelne co oznacza zgoda lub jej brak. Przemyśl jak możesz zidentyfikować dyskusje/decyzje, które grupa obecnie rozważa bezpośrenio lub mailowo, które będą łatwiejsze do podjęcia za pomocą DiehardFund. </p>
       <p>Jeśli Twoja grupa właśnie zaczęła działać, możesz rozpocząć lekką dyskusję, aby pozwolić wszystkim zapoznać się z narzędziem i zobaczyć proces podejmowania decyzji w akcji.
       </p>
       <p>Inny prosty sposób aby zachęcić ludzi do zaangażowania w dyskusji to użycie funkcji @wzmianek aby wezwać konkretne osoby; otrzymają wtedy wiadomość, która powiadomi ich, że zostali wspomnieni w komentarzu</p>
@@ -564,7 +564,7 @@ pl:
     get_in_touch_description_html: Jeśli masz jakieś pytania lub feedback, <a href='%{link}'>napisz do nas</a>.
     getting_started: Rozpoczynanie
     getting_started_description: Po lewej, grupa dyskutuje temat, wymieniając pomysły i informacje. Kiedy pojawia się decyzja do podjęcia przez grupę, przedstawiana jest po prawej stronie.
-    getting_the_most: Pełne wykorzystanie Diehard_Fund
+    getting_the_most: Pełne wykorzystanie DiehardFund
     have_your_say: Wypowiedz się
     have_your_say_details_html: |
       <p>Kiedy będziesz gotowy/a aby się wypowiedzieć kliknij jeden z czterech przycisków</p>
@@ -577,12 +577,12 @@ pl:
       <h2>Jak napisać dobre zaproszenie</h2>
       <p>Pierwsze pytanie, które zada nowy członek grupy to 'po co jest ta grupa?'</p>
       <p>Pomyśl o najprostszym sposobie  na opisanie grupy: Co chcecie wspólnie osiągnąć?</p>
-      <p>Dobrym pomysłem jest porozmawiać najpierw ze swoją grupą zanim zaprosisz ich do Diehard_Fund.</p>
+      <p>Dobrym pomysłem jest porozmawiać najpierw ze swoją grupą zanim zaprosisz ich do DiehardFund.</p>
       <p>Ludzie będą chcieli wiedzieć czemu zostali zaproszeni oraz czego się od nich oczekuje, oraz dlaczego warto poświęcić czas na naukę nowego narzędzia.</p>
     join_the_community: Dołącz do społeczności
     images_and_text_formatting: Formatowanie zdjęć i tekstu
     images_and_text_formatting_html: |
-      <p>Diehard_Fund używa 'Markdown' dla zamieszczania zdjęć i formatowania tekstu.
+      <p>DiehardFund używa 'Markdown' dla zamieszczania zdjęć i formatowania tekstu.
       Możesz włączyć Markdown za pomocą małej szarej ikony poniżej pola komentarzy</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Kliknij tutaj</a>
       po informacje jak używać Markdown.</p>
@@ -610,7 +610,7 @@ pl:
       <p>Termin zamknięcia rekomendacji może być przedłużony w każdym momencie, jeśli wygląda na to, że decyzja wymaga więcej czasu. Wszyscy otrzymają powiadomienie na 24 godziny przez zamknięciem rekomendacji.</p>
     video_id: '52025402'
     video_tutorial: Podręcznik Video
-    video_tutorial_description: Sprawdź video z prostą demonstracją jak używać Diehard_Fund.
+    video_tutorial_description: Sprawdź video z prostą demonstracją jak używać DiehardFund.
   hint:
     context: Wskazówki użycia panelu kontekstu
     discussion: Wskazówki uruchamiania zaangażowanych dyskusji
@@ -672,7 +672,7 @@ pl:
       user:
         create: Utwórz konto
         update: Zaktualizuj ustawienia
-  about_diehard_fund: O Diehard_Fund
+  about_diehard_fund: O DiehardFund
   approve: Akceptacja
   author: Autor
   cancel: Anuluj

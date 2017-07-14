@@ -1,4 +1,4 @@
-Diehard_Fund::Application.configure do
+DiehardFund::Application.configure do
   config.cache_classes = true
   config.serve_static_files = true
 

@@ -29,7 +29,7 @@ an:
       no_invitations_remaining: No queda mas invitacions
     mailer:
       invitation_instructions:
-        subject: "Belún t'ha convidau a participar d'o suyo grupo en Diehard_Fund"
+        subject: "Belún t'ha convidau a participar d'o suyo grupo en DiehardFund"
     registrations:
       sign_up: Creyar cuenta
   error:
@@ -69,7 +69,7 @@ an:
     new_contacts_imported: "Ha funcionau! Puetz escribir nombres en o campo d''abaixo y te sucheriremos l'adreza email."
     admin_rights_removed: "S'han eliminau os dreitos de %{which_user} como coordinador."
     user_added: "%{user_email_or_name} s'ha adhibiu a o grupo."
-    new_user_added: "%{user_email_or_name} será adhibiu a o grupo quan creyará una cuenta en Diehard_Fund."
+    new_user_added: "%{user_email_or_name} será adhibiu a o grupo quan creyará una cuenta en DiehardFund."
     member_removed: Miembro eliminau.
     membership_approved: Miembro aprebau.
     membership_request_canceled: "Demanda d'estar miembro cancelada."
@@ -163,11 +163,11 @@ an:
         one: 1 anyo
         other: "%{count} anyos"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Amostrar / Amagar Navegación
   footer:
-    about: Sobre Diehard_Fund
+    about: Sobre DiehardFund
     blog: Blog
     contact: Contacto
     help: Aduya
@@ -209,15 +209,15 @@ an:
   find_a_group_hint: Explorar grupos ubiertos a o publico
   search_for_group: Buscar un grupo...
   no_groups_found: "No s''han trobau garra grupo con ixe nombre!"
-  no_group_header: Bienveniu/da a Diehard_Fund Beta
+  no_group_header: Bienveniu/da a DiehardFund Beta
   empty_notifications: Encara no tiens notificacions.
   see_all_notifications: Veyer todas as tuyas notificacions
   sign_out: Salir
   sign_in: Dentrar
   honeypot_warning: "No s'ha puesto crear a tuya cuenta. Si fas servir un lector de pantallas, por favor, asegura-te que o zaguer campo (amagau) d'o formulario ye en blanco."
   tagline: "Creando un mundo an ye facil ta totz participar d'as decisions que nos afectan."
-  or_sign_in_html: "si ya tiens una cuenta en Diehard_Fund, <a href='%{link}' class='%{link_class}'>accedeix aquí</a>"
-  or_link_account_html: "Si ya tiens cuenta en Diehard_Fund, <a href='%{link}'>vincula-las</a>"
+  or_sign_in_html: "si ya tiens una cuenta en DiehardFund, <a href='%{link}' class='%{link_class}'>accedeix aquí</a>"
+  or_link_account_html: "Si ya tiens cuenta en DiehardFund, <a href='%{link}'>vincula-las</a>"
   click_to_dismiss: "Prete aquí ta desfer-se d'iste mensache"
   generic_confirm: Yes seguro?
   discussion_helper_text:
@@ -250,7 +250,7 @@ an:
       info_title: "Qué significa a desactivación d'a suya cuenta?"
       memberships: Vusté ya no será listau como miembro en os grupos a os quals perteneixe actualment.
       group_contributions: "Os comentarios, propuestas y debatz que ha realizau en os grupos remanirán, pero imos a sacar o suyo nombre d'istos."
-      emails: Deixaremos de mandar-te corretz-os relacionaus con Diehard_Fund.
+      emails: Deixaremos de mandar-te corretz-os relacionaus con DiehardFund.
   start_group_form:
     header: Empecipiar un nuevo grupo
     name: O tuyo nombre
@@ -547,28 +547,28 @@ an:
     comment_changes: Comentar os cambios
     edit_comment: Editar comentario
   help:
-    coordinating: Cómo coordinar o tuyo grupo en Diehard_Fund
+    coordinating: Cómo coordinar o tuyo grupo en DiehardFund
     coordinating_details: "Como co-ordinador, yes responsable d'encetar o tuyo grupo y convidar\na totz a participar. Ademas d'aprender a usar una nueva ferramienta de software, o tuyo grupo\nserá aprendendo nuevos procesos ta colaborar mas efectivament y prenendo buenas decisions\nchuntos. Aquí puetz trobar qualques consellos ta que o tuyo grupo tienga muito exito:\n"
-    different_ways: "Trazas diferents d'usar Diehard_Fund"
-    engaging_html: "<h2>Trucos ta embrecar a o grupo</h2>\n<p>A chent se gosa animar a participar quan i hai una propuesta interesant en a mesa. Una buena propuesta contién un plan d'acción ta o grupo, que fa obvio saber qué significa estar d'alcuerdo u en desalcuerdo. Piensa en cómo puetz identificar discusions/decisions que o grupo ye fendo presencialment u por correo, pero que serían de millor fer en Diehard_Fund.</p>\n<p>Si o grupo ye empecipiando, puetz empecipiar con una decisión que no chenere controversias grieus, ta dar a totz a oportunidat de chugar con a ferramienta y veyer en acción o proceso de decisión.</p>\n<p>Unatra traza d'animar a la chent a embrecar-se en una discusión ye fer servir a caracteristica @mention ta avisar a chent determinada; asinas se les ninviará un correu pa decir-les que se les ha mencionau en un comentario.</p>\n"
+    different_ways: "Trazas diferents d'usar DiehardFund"
+    engaging_html: "<h2>Trucos ta embrecar a o grupo</h2>\n<p>A chent se gosa animar a participar quan i hai una propuesta interesant en a mesa. Una buena propuesta contién un plan d'acción ta o grupo, que fa obvio saber qué significa estar d'alcuerdo u en desalcuerdo. Piensa en cómo puetz identificar discusions/decisions que o grupo ye fendo presencialment u por correo, pero que serían de millor fer en DiehardFund.</p>\n<p>Si o grupo ye empecipiando, puetz empecipiar con una decisión que no chenere controversias grieus, ta dar a totz a oportunidat de chugar con a ferramienta y veyer en acción o proceso de decisión.</p>\n<p>Unatra traza d'animar a la chent a embrecar-se en una discusión ye fer servir a caracteristica @mention ta avisar a chent determinada; asinas se les ninviará un correu pa decir-les que se les ha mencionau en un comentario.</p>\n"
     example1_html: "<h3>O grupo ha de discutir sobre un tema amplio y desembolicar una solucion conchunta</h3>\n<p>Estratechia: Discutir o tema entre un tiempo antes d'empecipiar una propuesta.</p>\n<p>A ormino, as discusions obtienen os millors resultaus si se crea un entendimiento\ncompartido sobre o problema antes de decantar-se por una solucion concreta. Quan a chent\nempieza a participar en o proceso, ye muito mas prebable que sigan satisfeitos con\no resultau u decision final.</p>\n"
     example2_html: "<h3>Tiens ya en mente una propuesta, y quiers aconseguir un refrendo d'o grupo ta seguir abance.</h3>\n<p>Estratechia: Prencipia una discusión sobre una decisión especifica y crea de camín una propuesta.</p>\n<p>Si tiens en mente un resultau claro pero quiers asegurar-te que no i hai garra problema critico,\npuetz usar a propuesta ta obtener una rapida contribución en a decisión.</p>\n<p>Puetz fer cosetas como finalizar un documento, aprebar una solicitut, u refrendar una obra realizada.</p>\n"
     get_in_touch: Mete-te en contacto
     get_in_touch_description_html: "Si tiens preguntas u sucherencias, <a href='%{link}'> escribe a</a>."
     getting_started: Primers pasos
     getting_started_description: "A la zurda, o grupo debate un tema, intercambiando ideyas y información. Quan cal prener una decisión, amaneixe a la dreita."
-    getting_the_most: Aprofitando o maximo de Diehard_Fund
+    getting_the_most: Aprofitando o maximo de DiehardFund
     have_your_say: "Da a tuya opinión "
     have_your_say_details_html: "<p>Quan sigas presto ta decidir, clica en un d'os quatro botons de decisión.</p>\n<p>Malas que haigas decidiu, da una breu explicación. Debaixo d'o grafico circular\npuetz veyer o que piensan os de demás, facilitando una rapida comprensión d'o estau d''a discusión.\nA medida que se vaiga adhibindo nueva informacón puetz ir cambiando a tuya decisión en qualsiquier momento</p>\n"
     have_a_discussion: Discutir un tema
     have_a_discussion_description: "O tema y qualsiquier atra información relevant se troban en a parte superior d''a pachina. Fe servir o quadro de comentario ta adhibir a tuya voz en dita discusión."
     help: Aduya
     how_it_works: Cómo funciona
-    invitation_html: "<h2>Redactar una buena invitación</h2>\n<p>A primera pregunta que tot nuevo miembro se fará ye «A qué s'adedica iste grupo?»</p>\n<p>Piensa en a forma mas sencilla con la puedas describir a o grupo: Qué queretz aconseguir chuntos? Qué tipo de decisions prendretz? Quí serán embrecaus?</p>\n<p>Podría estar buena ideya charrar en primeras con o tuyo grupo, antes de convidar-les a Diehard_Fund.</p>\n<p>As personas querrán saber por qué han estau convidadas, qué s'aspera d'ellas,\ny por qué mereixe o suyo tiempo aprender a usar una nueva ferramienta.</p>\n"
+    invitation_html: "<h2>Redactar una buena invitación</h2>\n<p>A primera pregunta que tot nuevo miembro se fará ye «A qué s'adedica iste grupo?»</p>\n<p>Piensa en a forma mas sencilla con la puedas describir a o grupo: Qué queretz aconseguir chuntos? Qué tipo de decisions prendretz? Quí serán embrecaus?</p>\n<p>Podría estar buena ideya charrar en primeras con o tuyo grupo, antes de convidar-les a DiehardFund.</p>\n<p>As personas querrán saber por qué han estau convidadas, qué s'aspera d'ellas,\ny por qué mereixe o suyo tiempo aprender a usar una nueva ferramienta.</p>\n"
     join_the_community: Unir a la comunidat
-    join_the_community_description_html: "Totz son bienvenius en \"Diehard_Fund Community\", an charramos de cómo aprofitar de tot a ferramienta y de cómo amillorar-la.<br /><br /><a href='https://www.diehard.fund/groups/3'>Preta aquí ta ir a o grupo \"Diehard_Fund Community\" group</a>, an puetz solicitar estar-ne miembro."
+    join_the_community_description_html: "Totz son bienvenius en \"DiehardFund Community\", an charramos de cómo aprofitar de tot a ferramienta y de cómo amillorar-la.<br /><br /><a href='https://www.diehard.fund/groups/3'>Preta aquí ta ir a o grupo \"DiehardFund Community\" group</a>, an puetz solicitar estar-ne miembro."
     images_and_text_formatting: Imagenes y formato de texto
-    images_and_text_formatting_html: "<p>Diehard_Fund fa servir «marcadors» ta incluir imachens y formato de texto.\nPuetz activar marcadors con o chicot icono griso que i hai debaixo d'o quadro de comentarios.</p>\n<p><a href='https://www.diehard.fund/discussions/1124'>Preta aquí</a>\nta información sobre cómo usar marcadors.</p>\n"
+    images_and_text_formatting_html: "<p>DiehardFund fa servir «marcadors» ta incluir imachens y formato de texto.\nPuetz activar marcadors con o chicot icono griso que i hai debaixo d'o quadro de comentarios.</p>\n<p><a href='https://www.diehard.fund/discussions/1124'>Preta aquí</a>\nta información sobre cómo usar marcadors.</p>\n"
     keep_up_to_date: Mantiene-te informau
     keep_up_to_date_html: "<p>Pretando en o cobalto d'a pachina o nombre d'o tuyo grupo, irás ta la pachina d'o tuyo grupo,\nan que podrás veyer una lista de todas as discusions y decisions d'ixe grupo. Si yes en mas d'un grupo, en a pachina d'inicio puetz veyer d'una sola vegada toda l'actividat de totz os tuyos grupos.</p>\n<p>Recibirás un correu electronico quan ocurran fetas importants en o tuyo grupo.\nPuetz modificar as tuyas preferencias de correu electronico <a href=\"%{link}\"\">aquí</a>.</p>\n"
     make_a_decision: Prene una decisión
@@ -602,11 +602,11 @@ an:
     submit: Contribuir
     tooltip: Conoixe mas cosas sobre o nuestro modelo de financiamiento comunitario.
     thought_about_contributing: A tuya oportunidat de contribuir
-    thought_about_contributing_description: "Diehard_Fund ye una interpresa social cooperativa que treballa ta facilitar a totz o participar en decisions que les afectan.\n\nOs diners no habría d'estar una barrera ta colaborar en la prene de decisions. Diehard_Fund ye financiada por miembros d'a nuestra comunidat d''usuarios, y por condutas d'aportación d'as organizacions que lo usan.\n\nA tuya contribución implica que podamos mantener Diehard_Fund independient, libre d''anuncios, y disponible librement ta grupos que fan grans cosetas en as suyas comunidatz.\n\nGracias por fer-lo posible!\n"
-    thank_you_title: "Gracias por contribuir con Diehard_Fund!"
-    thank_you_body: "A tuya contribución nos aduya a ofrir decisions colaborativas y facils en o mundo. \n\nRecibirás un correu electronico en breu con un recibimiento por a tuya contribución. \n\nTotz son bienvenius a unir-se a la Comunidat Diehard_Fund, an se charra de cómo aprofitar a o maximo d''a ferramienta y cómo se puede amillorar. \n\n<a href='https://www.diehard.fund/groups/3'> Leva-me a o grupo comunitario Diehard_Fund »</a> \n"
+    thought_about_contributing_description: "DiehardFund ye una interpresa social cooperativa que treballa ta facilitar a totz o participar en decisions que les afectan.\n\nOs diners no habría d'estar una barrera ta colaborar en la prene de decisions. DiehardFund ye financiada por miembros d'a nuestra comunidat d''usuarios, y por condutas d'aportación d'as organizacions que lo usan.\n\nA tuya contribución implica que podamos mantener DiehardFund independient, libre d''anuncios, y disponible librement ta grupos que fan grans cosetas en as suyas comunidatz.\n\nGracias por fer-lo posible!\n"
+    thank_you_title: "Gracias por contribuir con DiehardFund!"
+    thank_you_body: "A tuya contribución nos aduya a ofrir decisions colaborativas y facils en o mundo. \n\nRecibirás un correu electronico en breu con un recibimiento por a tuya contribución. \n\nTotz son bienvenius a unir-se a la Comunidat DiehardFund, an se charra de cómo aprofitar a o maximo d''a ferramienta y cómo se puede amillorar. \n\n<a href='https://www.diehard.fund/groups/3'> Leva-me a o grupo comunitario DiehardFund »</a> \n"
     making_a_donation: Fer una donación
-    making_a_donation_description: "Diehard_Fund ye una interpresa social cooperativa que treballa ta facilitar a totz o participar en decisions que les afectan.\n\nTu contribución implica que podamos mantener Diehard_Fund independient, libre d'anuncios, y disposable librement ta grupos que fan grans cosetas en as suyas comunidatz. \n\nMersi por fer-lo posible!\n"
+    making_a_donation_description: "DiehardFund ye una interpresa social cooperativa que treballa ta facilitar a totz o participar en decisions que les afectan.\n\nTu contribución implica que podamos mantener DiehardFund independient, libre d'anuncios, y disposable librement ta grupos que fan grans cosetas en as suyas comunidatz. \n\nMersi por fer-lo posible!\n"
   resend_confirmation: Tornar a ninviar as instruccions de confirmación
   new_password: Nueva clau
   confirm_new_password: Confirmar nueva clau
@@ -628,15 +628,15 @@ an:
   link_it_up_instead: Vincula-la en cuenta
   sign_up_via: Accedeixe vía
   or_fill_in_this_form: u replena iste formulario
-  already_have_account: Ya tiens una cuenta en Diehard_Fund?
+  already_have_account: Ya tiens una cuenta en DiehardFund?
   confirm_your_details: Confirma os tuyos datos
   link_up_your_account: Vincula a tuya cuenta
-  log_in_to_your_diehard_fund_account: "Accedeixe ta la tuya cuenta Diehard_Fund vinculando-la con %{provider_name}."
-  now_that_your_logged_in: "Agora que has dentrau con %{provider_name}, por favor, confirma os tuyos datos ta crear una cuenta Diehard_Fund."
+  log_in_to_your_diehard_fund_account: "Accedeixe ta la tuya cuenta DiehardFund vinculando-la con %{provider_name}."
+  now_that_your_logged_in: "Agora que has dentrau con %{provider_name}, por favor, confirma os tuyos datos ta crear una cuenta DiehardFund."
   confirmation_not_received: No has recibiu as instruccions de confirmación?
   unlock_not_received: No has recibiu instruccions de desbloqueyo?
   inactive_html: "Ista cuenta ha estau desactivada. Si tu tiens bella pregunta, por favor <a href='%{path_to_contact}'>mete-te contacto</a> con nusatros."
-  create_an_account_html: Crear una cuenta Diehard_Fund Beta
+  create_an_account_html: Crear una cuenta DiehardFund Beta
   log_in: Dentrar
   join_group:
     log_in: "Dentra ta unir-te a %{group_name}"
@@ -653,12 +653,12 @@ an:
     invitation_already_used: "Ista invitación ya s'ha usau. Encieta sesión ta dentrar a o tuyo grupo."
     recipients: "Escribe as adrezas de correu electronico, deseparadas por comas: "
     invitees_placeholder: "Nombre d'usuario <user1@example.com>, user2@example.com"
-    subject: "Te convidamos a fer parte d'o nuestro nuevo grupo en Diehard_Fund, %{group}"
+    subject: "Te convidamos a fer parte d'o nuestro nuevo grupo en DiehardFund, %{group}"
     invite_people: Convidar a personas
     invite_to_discussion: Convidar a ista discusión
     invite_to_discussion_info: "En adhibir personas en ista discusión se les ninviará una invitación a o tuyo grupo. Quan l'accepten, serán endrezadas a ista discusión."
     select_members: "Adhibir miembros de %{group_name}"
-    body_editable: "Ola! viene-te-ne a prener decisions con nusatros! Somos usando una ferramienta ta la presa de decisions colectiva que se diz Diehard_Fund.\n"
+    body_editable: "Ola! viene-te-ne a prener decisions con nusatros! Somos usando una ferramienta ta la presa de decisions colectiva que se diz DiehardFund.\n"
     body_editable_discussion: "Ep! viene-te-ne y une-te a la discusión!\n"
     message_body: "Mensache d'invitación"
     invites_more_help2: "<p>Puetz convidar a personas a o tuyo grupo en qualsiquier momento.</p><p>Podrías convidar a totz os miembros d'o grupo d'una sola vegada, u puetz empecipiar convidando nomás a os que treballan con tu diariament.</p>"
@@ -728,10 +728,10 @@ an:
   group_setup:
     set_up_your_group: Establir grupo
     desc_header: "Ya quasi has rematau!"
-    desc_html: "Como coordinador de grupo, yes responsable d'a configuración y mantenimiento d'o tuyo grupo de Diehard_Fund. Dimpués de trigar unas pocas caracteristicas, puetz dentrar en o tuyo nuevo grupo, prencipiar una u dos discusions, y ninviar qualques invitacions. <p>Quan pienses en a forma mas sencilla de describir o tuyo grupo, pregunta-te: Qué queremos aconseguir chuntos? Qué tipo de decisions queremos prener? Quí seremos implicaus?</p>"
+    desc_html: "Como coordinador de grupo, yes responsable d'a configuración y mantenimiento d'o tuyo grupo de DiehardFund. Dimpués de trigar unas pocas caracteristicas, puetz dentrar en o tuyo nuevo grupo, prencipiar una u dos discusions, y ninviar qualques invitacions. <p>Quan pienses en a forma mas sencilla de describir o tuyo grupo, pregunta-te: Qué queremos aconseguir chuntos? Qué tipo de decisions queremos prener? Quí seremos implicaus?</p>"
     submit: "Ir ta o mío grupo!"
     payment_model:
-      header: "Diehard_Fund ye ta totz y todas!"
+      header: "DiehardFund ye ta totz y todas!"
       info: "Tenemos modelos d'aportación que s'adaptan a qualsiquier grupo, mesmo os que no tienen diners :)"
       link: Saber-ne mas...
   simple_form:
@@ -779,56 +779,56 @@ an:
     by_who: "por %{person}"
     reply_to_this_discussion: Contestar a ista discusión
     to_join_discussion:
-      subject: "%{who} deseya que t'unas a una discusión en Diehard_Fund"
+      subject: "%{who} deseya que t'unas a una discusión en DiehardFund"
       content: "Has estau convidau/a a participar en a discusión: %{discussion}"
       message_intro: "%{who} diz:"
       link: Unir a la discusión
     to_join_group:
-      subject: "%{member} t'ha convidau a unir-te a %{group_name} en Diehard_Fund"
+      subject: "%{member} t'ha convidau a unir-te a %{group_name} en DiehardFund"
     to_start_group:
-      subject: "Configura o tuyo nuevo grupo en Diehard_Fund: %{group_name}"
+      subject: "Configura o tuyo nuevo grupo en DiehardFund: %{group_name}"
     user_added_to_a_group:
       subject: "%{who} t'ha adhibiu a %{which_group}"
-      content: "%{who} t'ha adhibiu a %{which_group} en Diehard_Fund. Preta aquí ta ir a o grupo:"
+      content: "%{who} t'ha adhibiu a %{which_group} en DiehardFund. Preta aquí ta ir a o grupo:"
     unsubscribe: "Da de baixa u cambea as preferencias d'o tuyo correu electronico:   "
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> ta dar de baixa u cambiar as preferencias de correu electronico."
-    view_comment: Fe clic aquí ta veyer o comentario en Diehard_Fund
+    view_comment: Fe clic aquí ta veyer o comentario en DiehardFund
     view_discussion: "Fe clic aquí ta veyer ista discusión "
-    view_group: Fe clic aquí ta veyer o grupo en Diehard_Fund
-    view_proposal: Veyer ista propuesta en Diehard_Fund
+    view_group: Fe clic aquí ta veyer o grupo en DiehardFund
+    view_proposal: Veyer ista propuesta en DiehardFund
     create_discussion:
       intro: "%{who} empecipió una discusión en %{which_group}:"
     create_proposal:
-      intro: Una nueva propuesta estió creada en un grupo de Diehard_Fund a lo qual perteneixes.
+      intro: Una nueva propuesta estió creada en un grupo de DiehardFund a lo qual perteneixes.
       closes_in: Se zarrará en
       subject: "Nueva propuesta: %{which}"
     daily_activity:
-      heading: A tuya actividat en Diehard_Fund
-      intro: Isto ye o que ha pasau en as zagueras 24 horas en os tuyos grupos de Diehard_Fund
-      subject: "Diehard_Fund - Resumen d'as zagueras 24 horas"
+      heading: A tuya actividat en DiehardFund
+      intro: Isto ye o que ha pasau en as zagueras 24 horas en os tuyos grupos de DiehardFund
+      subject: "DiehardFund - Resumen d'as zagueras 24 horas"
     missed_yesterday:
-      subject: Ahiere en Diehard_Fund
+      subject: Ahiere en DiehardFund
       mark_as_read: Marcar como leyiu
       thanks_for_reading: "Gracias por leyer, que tiengas un buen día!"
-      click_here_to_mark_all_as_read_html: "Isto ye o que succedió ahiere en Diehard_Fund.\nUna vegada vusté l'haiga leito, clic  <a href=\"%{link}\">marcar como leyiu</a>  ta eliminar-lo de tu servilla de dentrada.\n"
+      click_here_to_mark_all_as_read_html: "Isto ye o que succedió ahiere en DiehardFund.\nUna vegada vusté l'haiga leito, clic  <a href=\"%{link}\">marcar como leyiu</a>  ta eliminar-lo de tu servilla de dentrada.\n"
       marked_as_read_success: "Tot o conteniu d''o correu ha estau marcau como leyiu"
     group_email:
       intro: "%{who} fació un anuncio en %{group}:"
     group_membership_approved:
-      intro: "A tuya petición ta accedir ta o grupo '%{group_name}' en Diehard_Fund ha estau aprebau."
+      intro: "A tuya petición ta accedir ta o grupo '%{group_name}' en DiehardFund ha estau aprebau."
       subject: Pertenencia aprebada
     invitation:
       hi: "Ola %{name},"
       intro: "Fe clic en o vinclo d'abaixo ta configurar o tuyo grupo %{group_name}:"
       closing_message: "Si tiens garra pregunta u i hai qualsiquier coseta con a qualate podamos aduyar a mantener-te en marcha, nos fará goyo de saber de tu; nomás has de responder a iste correu electronico."
-      thanks: "Gracias!\nEl Equipo de Diehard_Fund\n"
+      thanks: "Gracias!\nEl Equipo de DiehardFund\n"
     membership_request:
-      intro: "%{name} (%{email}) ha pediu acceso a un d''os tuyos grupos de Diehard_Fund."
+      intro: "%{name} (%{email}) ha pediu acceso a un d''os tuyos grupos de DiehardFund."
       subject: "%{who} ha pediu acceso a %{which_group}"
       view_group: Puetz acceptar u refusar a petición aquí
     mentioned:
       context: "%{author_name} te mencionó en a discusión  \"%{discussion_title}\""
-      subject: "%{who} te mencionó en o grupo de Diehard_Fund %{which} "
+      subject: "%{who} te mencionó en o grupo de DiehardFund %{which} "
     new_motion_created:
       subject: "Propuesta: %{proposal_title}"
       context: "%{author} ha creau una propuesta en %{group_full_name}:"
@@ -859,16 +859,16 @@ an:
       outcome_created: "%{who} ha anunciau o resultau d'a propuesta "
       you_agreed: "%{past_tense_position}"
   meta_tags:
-    default_title: "Diehard_Fund | Presa de decisions colaborativa"
-    default_description: Diehard_Fund ye una ferramienta online de buen usar ta la presa de decisions en grupo. Permite a grupos dispersos prener decisions rapidament y executar accions constructivas.
-  about_diehard_fund: Sobre Diehard_Fund
+    default_title: "DiehardFund | Presa de decisions colaborativa"
+    default_description: DiehardFund ye una ferramienta online de buen usar ta la presa de decisions en grupo. Permite a grupos dispersos prener decisions rapidament y executar accions constructivas.
+  about_diehard_fund: Sobre DiehardFund
   ago: "en fa %{quantity_of_time}"
   approve: Aprebar
   author: Autor
   back: Enta zaga
   cancel: Cancelar
   change: Cambiar
-  change_language: "Fe clic aquí ta usar Diehard_Fund en %{language}"
+  change_language: "Fe clic aquí ta usar DiehardFund en %{language}"
   changing: Cambiando
   click_here: Fe clic aquí
   close: Zarrar
@@ -902,7 +902,7 @@ an:
   pricing: Pres
   prev: Dezaga
   more: Mas...
-  translate: "Aduya-nos a traducir Diehard_Fund!"
+  translate: "Aduya-nos a traducir DiehardFund!"
   translate_field: Veyer a traducción
   loading_translation: Cargando a traducción...
   translate_this_string: "Traducir ta %{language}"

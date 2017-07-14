@@ -5,37 +5,37 @@ el:
     by_who: από τον/την %{person}
     reply_to_this_discussion: Απαντήστε σε αυτή την συζήτηση
     to_join_discussion:
-      subject: "%{who} επιθυμεί να συμμετάσχετε στην συζήτηση στο Diehard_Fund"
+      subject: "%{who} επιθυμεί να συμμετάσχετε στην συζήτηση στο DiehardFund"
       content: 'Σας έχουν προσκαλέσει να συμμετάσχετε  στην συζήτηση: %{discussion}'
       message_intro: "%{who} λέει:"
       link: Συμμετάσχετε στην συζήτηση
     to_join_group:
-      subject: "Ο/Η %{member} σας προσκάλεσε για να συμμετάσχετε στην ομάδα %{group_name} στο Diehard_Fund"
+      subject: "Ο/Η %{member} σας προσκάλεσε για να συμμετάσχετε στην ομάδα %{group_name} στο DiehardFund"
     to_start_group:
-      subject: "Ρυθμίστε την νέα σας Diehard_Fund ομάδα: %{group_name}"
+      subject: "Ρυθμίστε την νέα σας DiehardFund ομάδα: %{group_name}"
     unsubscribe: 'Διαγραφείτε ή αλλάξτε τις ρυθμίσεις του ηλεκτρονικού ταχυδρομείου:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> για να διαγραφείτε ή για να αλλάξετε τις ρυθμίσεις ηλεκτρονικού ταχυδρομείου."
-    view_comment: Πατήστε εδώ για να δείτε το σχόλιο στο Diehard_Fund
+    view_comment: Πατήστε εδώ για να δείτε το σχόλιο στο DiehardFund
     view_discussion: Πατήστε εδώ για να δείτε αυτή την συζήτηση
-    view_proposal: Εμφάνιση αυτής της πρότασης στο Diehard_Fund
+    view_proposal: Εμφάνιση αυτής της πρότασης στο DiehardFund
     create_proposal:
-      intro: Μια νέα πρόταση δημιουργήθηκε σε ομάδα του Diehard_Fund που ανήκετε.
+      intro: Μια νέα πρόταση δημιουργήθηκε σε ομάδα του DiehardFund που ανήκετε.
       closes_in: Κλείνει σε
       subject: 'Νέα πρόταση: %{which}'
     daily_activity:
-      heading: Η δραστηριότητα σας στο Diehard_Fund
-      intro: Σας δείχνει τι συμβαίνει στις ομάδες σας στο Diehard_Fund τις τελευταίες 24 ώρες
-      subject: Diehard_Fund - Σύνοψη των τελευταίων 24 ωρών
+      heading: Η δραστηριότητα σας στο DiehardFund
+      intro: Σας δείχνει τι συμβαίνει στις ομάδες σας στο DiehardFund τις τελευταίες 24 ώρες
+      subject: DiehardFund - Σύνοψη των τελευταίων 24 ωρών
     missed_yesterday:
-      subject: Χθες στο Diehard_Fund
+      subject: Χθες στο DiehardFund
       headlines: Επικεφαλίδες
       mark_as_read: Σημείωσε ως διαβασμένα
       thanks_for_reading: Ευχαριστούμε που διαβάζετε, να έχετε μια υπέροχη μέρα!
       marked_as_read_success: Όλα έχουν σημαδευτεί ως διαβασμένα από το ηλεκτρονικό ταχυδρομείο
     comment_replied_to:
-      subject: "Ο/Η %{who} απάντησε στο σχόλιο σας στην ομάδα %{which} στο Diehard_Fund"
+      subject: "Ο/Η %{who} απάντησε στο σχόλιο σας στην ομάδα %{which} στο DiehardFund"
     membership_request:
-      intro: "Ο/Η %{name} (%{email}) έχει ζητήσει πρόσβαση σε μία από τις Diehard_Fund ομάδες σας."
+      intro: "Ο/Η %{name} (%{email}) έχει ζητήσει πρόσβαση σε μία από τις DiehardFund ομάδες σας."
       subject: "%{who} έχει αιτηθεί να συμμετάσχει στην ομάδα %{which_group}"
       view_group: Μπορείς να εγκρίνεις ή να απορρίψεις την αίτηση εδώ
     new_motion_created:
@@ -77,11 +77,11 @@ el:
     pricing: Τιμολόγηση
     public_groups: Δημόσιες ομάδες
     terms: Όροι
-    independent_install_html: '%{hostname} τρέχει ένα ανεξάρτητο αντίγραφο του Diehard_Fund: <a href="http://github.com/diehard_fund/diehard_fund"> μάθετε περισσότερα </a>.'
+    independent_install_html: '%{hostname} τρέχει ένα ανεξάρτητο αντίγραφο του DiehardFund: <a href="http://github.com/diehard_fund/diehard_fund"> μάθετε περισσότερα </a>.'
   start_group_form:
     enable_angular:
-      subtitle: 'Για να ξεκινήσεις μια νέα ομάδα, θα χρειαστεί να αναβαθμίσεις στην καινούργια έκδοση του Diehard_Fund:'
-      switch_to_angular: Ξεκίνησε μια ομάδα στο νέο Diehard_Fund
+      subtitle: 'Για να ξεκινήσεις μια νέα ομάδα, θα χρειαστεί να αναβαθμίσεις στην καινούργια έκδοση του DiehardFund:'
+      switch_to_angular: Ξεκίνησε μια ομάδα στο νέο DiehardFund
     header: Ξεκινήστε μια νέα ομάδα
     form_error: Κάποιες πληροφορίες λείπουν ή είναι λάθος.
     name: Το όνομα σας
@@ -96,7 +96,7 @@ el:
       header: Σχεδόν τελειώσατε! Ελέγξτε το ηλεκτρονικό ταχυδρομείο σας.
       email_not_arrived: Δεν σου ήρθε email;
       please_hold: Παρακαλώ περιμέντε το πολύ 5 λεπτά μέχρι να έρθει το email και ελέγξτε την ανεπιθύμητη αλληλογραφία.
-    start_making_decisions: 'Για να αρχίσετε να λαμβάνετε συλλογικά αποφάσεις στο Diehard_Fund, φτιάξτε μια ομάδα δωρεάν:'
+    start_making_decisions: 'Για να αρχίσετε να λαμβάνετε συλλογικά αποφάσεις στο DiehardFund, φτιάξτε μια ομάδα δωρεάν:'
   pricing_page:
     gift: Δωρεάν
     standard: Τυπικό

@@ -52,7 +52,7 @@ ca:
       upload: 'Carrega'
       uploading: 'Carregant'
     formatting_help:
-      title: 'Aprén com utilitzar Markdown per donar format al text a Diehard_Fund'
+      title: 'Aprén com utilitzar Markdown per donar format al text a DiehardFund'
   devise:
     failure:
       inactive: 'Hi ha un compte desactivat associat a aquesta adreça de correu. Si voleu reactivar el compte, contacteu amb nosaltres.'
@@ -139,7 +139,7 @@ ca:
     sign_in: 'Entra'
     sign_up: 'Creeu un compte'
   signed_out_modal:
-    message: "La sessió s'ha finalitzat a Diehard_Fund des d'una altra finestra. Torneu a entrar per continuar."
+    message: "La sessió s'ha finalitzat a DiehardFund des d'una altra finestra. Torneu a entrar per continuar."
     ok: "D'acord"
   comment_form:
     aria_label: 'Afegeix un comentari'
@@ -164,7 +164,7 @@ ca:
     edit_profile: 'Edita el perfil'
     email_settings: 'Configuració de correu'
     help: 'Ajuda'
-    contact: 'Contacta amb Diehard_Fund'
+    contact: 'Contacta amb DiehardFund'
     sign_out: 'Tanca la sessió'
     aria_labels:
       heading: 'Barra lateral'
@@ -235,7 +235,7 @@ ca:
     edit_proposal: 'Edita la proposta'
     what_does_a_proposal_do: 'Les propostes ajuden a conèixer l''opinió de tothom sobre una acció determinada.'
     proposal_ideas: Necessiteu idees per escriure una bona proposta?
-    proposal_ideas_title: 9 formes d'utilitzar les propostes de Diehard_Fund per a convertir converses en accions
+    proposal_ideas_title: 9 formes d'utilitzar les propostes de DiehardFund per a convertir converses en accions
     editing_title_and_description_forbidden: 'No podeu canviar el títol o la descripció d''una proposta després d''iniciar la votació. Si els detalls han canviat, tanqueu la proposta i creeu-n''hi una altra.'
     title_placeholder: 'Per exemple: anem a la lluna'
     title_label: 'Títol'
@@ -276,11 +276,11 @@ ca:
   proposal_position_no: 'En desacord'
   proposal_position_block: 'Bloqueig'
   legacy_trial_expired_modal:
-    heading: "Gràcies per utilitzar Diehard_Fund aquest any!"
+    heading: "Gràcies per utilitzar DiehardFund aquest any!"
     submit: "Mostra els plans"
   group_welcome_modal:
     creator_heading: "Benvingut al grup nou"
-    member_heading: "Benvingut a Diehard_Fund"
+    member_heading: "Benvingut a DiehardFund"
   join_group_button:
     join_group: Uneix-te al grup
     membership_requested: Sol·licitud de pertinença pendent
@@ -345,21 +345,21 @@ ca:
       public: 'Privacitat: Aquest grup és visible a internet'
       aria_label: 'Privacitat del grup: {{privacy}}'
   donation_modal:
-    body: "Diehard_Fund és una empresa social. La nostra missió és crear un món on sigui fàcil per a tothom participar en les decisions que els afecten."
+    body: "DiehardFund és una empresa social. La nostra missió és crear un món on sigui fàcil per a tothom participar en les decisions que els afecten."
     contribute: Feu una donació
   gift_card:
     heading: Pla Donació
     make_a_contribution: Feu una donació
   trial_card:
     choose_plan: 'Escolliu el pla de pagament'
-    expired_body_html: "<strong>{{name}}</strong> ha arribat al final del període de prova de Diehard_Fund. Per continuar utilitzant-lo, escolliu un pla de pagament que s'ajusti al vostre grup."
+    expired_body_html: "<strong>{{name}}</strong> ha arribat al final del període de prova de DiehardFund. Per continuar utilitzant-lo, escolliu un pla de pagament que s'ajusti al vostre grup."
   choose_plan_modal:
     heading: Si us plau, escolliu un pla per al vostre grup
     standard: Estàndard
     select: Selecciona
   subscription_success_modal:
     contact_link: si us plau, contacteu amb nosaltres.
-    sign_off: ❤ de l'equip de Diehard_Fund
+    sign_off: ❤ de l'equip de DiehardFund
   group_form:
     start_group_heading: 'Creació d''un grup'
     start_subgroup_heading: 'Creació d''un subgrup'
@@ -410,8 +410,8 @@ ca:
     manage_requests_with_count: Administració de sol·licituds ({{count}})
   group_help_card:
     title: Ajuda
-    ten_tips_article_title: 10 consells per prendre grans decisions amb Diehard_Fund
-    nine_ways_to_use_proposals: 9 formes per utilitzar les propostes de Diehard_Fund per convertir una conversa en una acció
+    ten_tips_article_title: 10 consells per prendre grans decisions amb DiehardFund
+    nine_ways_to_use_proposals: 9 formes per utilitzar les propostes de DiehardFund per convertir una conversa en una acció
   membership_requests_page:
     heading: Sol·licitud de pertinença
     approve: Aprova
@@ -432,7 +432,7 @@ ca:
     shareable_link: 'Enllaç per a compartir'
     email_addresses: 'Adreces de correu electrònic'
     email_addresses_placeholder: 'p. ex. marc@diehard.fund, martina@diehard.fund'
-    email_explanation: 'Introduïu a sota les adreces de correu electrònic i Diehard_Fund els enviarà una invitació.'
+    email_explanation: 'Introduïu a sota les adreces de correu electrònic i DiehardFund els enviarà una invitació.'
     add_custom_message: 'Creeu una invitació personal,'
     add_custom_message_link: 'afegiu un missatge personalitzat.'
     custom_message: 'Missatge personalitzat'
@@ -497,7 +497,7 @@ ca:
     header: Configuració del correu electrònic
     all_groups: Configuració per tots els grups
     daily_summary_label: Correu electrònic de resum diari
-    daily_summary_description: "Cada matí, rebreu un correu electrònic amb l'activitat que no hagueu vist el dia anterior. Aquest correu us ofereix una forma senzilla d'estar al corrent de l'activitat de Diehard_Fund."
+    daily_summary_description: "Cada matí, rebreu un correu electrònic amb l'activitat que no hagueu vist el dia anterior. Aquest correu us ofereix una forma senzilla d'estar al corrent de l'activitat de DiehardFund."
     on_participation_label: Subscriure a la participació
     mentioned_label: Mencions
     mentioned_description: "Quan algú vulgui cridar la vostra atenció, us @mencionarà. Recomanem deixar activada aquesta opció, per a rebre un correu electrònic quan això passi."
@@ -679,13 +679,13 @@ ca:
     send_message: 'Envia el missatge'
     new_contact_message: 'Gràcies pel missatge; estarem en contacte en breu!'
   help_page:
-    coordinating: 'Coordinant el vostre grup de Diehard_Fund'
+    coordinating: 'Coordinant el vostre grup de DiehardFund'
     coordinating_details: |
-      Com a persona coordinadora, sou responsable de configurar el grup de Diehard_Fund
+      Com a persona coordinadora, sou responsable de configurar el grup de DiehardFund
       i convidar tothom a participar. A més d'aprendre a utilitzar aquest software, el grup
       aprèn nous processos per col·laborar més efectivament i prendre bones decisions
       junts. Aquí teniu algunes claus per tal que el grup funcioni:
-    different_ways: 'Diferents maneres d''utilitzar Diehard_Fund'
+    different_ways: 'Diferents maneres d''utilitzar DiehardFund'
     example1_html: |
       <h3> Necessiteu que el grup discuteixi un tema molt ampli i desenvolupar una solució col·lectiva </h3>
       <p> Estratègia: Debatre un tema per un temps abans de crear una proposta </p>
@@ -696,7 +696,7 @@ ca:
     get_in_touch_description_html: "Si teniu alguna pregunta o comentari,  <a href='%{link}'> escriu-nos </a>."
     getting_started: "Primers passos"
     getting_started_description: "A mà esquerra, el grup discuteix un tema, intercanviant idees i informació. Quan el grup ha de prendre una decisió, apareix a mà dreta."
-    getting_the_most: 'Treure el màxim profit de Diehard_Fund'
+    getting_the_most: 'Treure el màxim profit de DiehardFund'
     have_your_say: "Doneu la opinió"
     have_your_say_details_html: |
       <p> Quan estiguis preparada per donar la teva opinió, fes clic en un dels quatre botons de decisions.
@@ -713,13 +713,13 @@ ca:
       <h2> Escriure una bona invitació </h2>
       <p> La primera pregunta que cada nou membre es fa és "per a què serveix aquest grup?"</p>
       <p> Pensa en la manera més senzilla de descriure'l: Què vols aconseguir junts? Quin tipus de decisions fareu? Qui hi participarà? </p>
-      <p> Pot ser una bona idea parlar amb el seu grup abans de convidar-los a Diehard_Fund. </p>
+      <p> Pot ser una bona idea parlar amb el seu grup abans de convidar-los a DiehardFund. </p>
       <p> La gent voldrà saber per què han estat convidats, que s'espera d'ells,
       i per què paga la pena aprendre a utilitzar una nova eina. </p>
     join_the_community: "Unir-se a la comunitat"
     images_and_text_formatting: "Format d'imatges i textos"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund utilitza 'Markdown' per incrustar imatges i formatar el text.
+      <p>DiehardFund utilitza 'Markdown' per incrustar imatges i formatar el text.
       Pots activar i desactivar el Markdown amb la petita icona gris sota l'apartat de comentaris. </p>
       <p><a href='https://www.diehard.fund/discussions/1124'> Fes clic aquí </a>
       per obtenir informació sobre com utilitzar Markdown. </p>
@@ -751,7 +751,7 @@ ca:
       necessita una mica més de temps. Tothom rebrà una notificació per correu electrònic 24 hores abans de la proposta es tanqui.</p>
     video_id: "52025402"
     video_tutorial: "Video tutorial"
-    video_tutorial_description: "Mira el video per a una demostració ràpida de com utilitzar Diehard_Fund."
+    video_tutorial_description: "Mira el video per a una demostració ràpida de com utilitzar DiehardFund."
   hint:
     context: 'Claus per utilitzar el panell contextual'
     discussion: 'Claus per començar una discussió engrescadora'
@@ -759,25 +759,25 @@ ca:
     proposal: 'Claus per escriure una proposta clara'
     vote: 'Pots canviar la teva posició en qualsevol moment'
   explore_page:
-    header: Explora els grups de Diehard_Fund
-    search_placeholder: Cerca grups de Diehard_Fund públics
+    header: Explora els grups de DiehardFund
+    search_placeholder: Cerca grups de DiehardFund públics
     single_search_result: "Coincideix 1 grup públic <strong>{{searchTerm}}:</strong>"
     multiple_search_results: "Coincideixen {{resultCount}} grups públics <strong>{{searchTerm}}:</strong>"
     no_results_found: "<strong>No s'ha trobat el grup que esteu buscant.</strong> Si la privacitat d'un grup està marcada com a 'secret', el grup no apareixerà aquí. Si coneixeu qui coordina el grup, podeu demanar-li una invitació."
   angular:
-    switch_back: 'Torna a la versió anterior de Diehard_Fund'
+    switch_back: 'Torna a la versió anterior de DiehardFund'
     give_feedback: 'Envia un comentari'
     collapse: Plega
     enable:
-      invite: 'Prova el nou Diehard_Fund!'
-      title: 'Prova el nou Diehard_Fund!'
-      button_text: 'Activa el nou Diehard_Fund'
+      invite: 'Prova el nou DiehardFund!'
+      title: 'Prova el nou DiehardFund!'
+      button_text: 'Activa el nou DiehardFund'
     disable:
-      title: 'Gràcies per provar el nou Diehard_Fund'
-      button_text: 'Torna a la versió anterior de Diehard_Fund'
+      title: 'Gràcies per provar el nou DiehardFund'
+      button_text: 'Torna a la versió anterior de DiehardFund'
   global:
     messages:
-      app_update: 'Està disponible una nova versió de Diehard_Fund'
+      app_update: 'Està disponible una nova versió de DiehardFund'
       reload: 'Recarrega'
   emoji_picker:
     search: "Troba una emoticona..."

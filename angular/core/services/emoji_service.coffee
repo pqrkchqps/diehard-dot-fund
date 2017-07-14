@@ -1,8 +1,8 @@
 angular.module('diehard_fundApp').factory 'EmojiService', ($timeout) ->
   new class EmojiService
-    source: window.Diehard_Fund.emojis.source
-    render: window.Diehard_Fund.emojis.render
-    defaults: window.Diehard_Fund.emojis.defaults
+    source: window.DiehardFund.emojis.source
+    render: window.DiehardFund.emojis.render
+    defaults: window.DiehardFund.emojis.defaults
 
     listen: (scope, model, field, target) ->
       scope.$on 'emojiSelected', (event, emoji, selector) ->

@@ -5,34 +5,34 @@ sk:
     by_who: od člena %{person}
     reply_to_this_discussion: Odpovedať na diskusiu
     to_join_discussion:
-      subject: "%{who} chce, aby ste sa zapojil(a) do diskusie na Diehard_Fund"
+      subject: "%{who} chce, aby ste sa zapojil(a) do diskusie na DiehardFund"
       content: 'Bol(a) ste pozvaný(á), aby ste sa zapojil(a) do diskusie: %{discussion}'
       message_intro: "%{who} tvrdí:"
       link: Zapojte sa do diskuze
     to_join_group:
-      subject: "%{member} vás pozval(a) do skupiny %{group_name} na Diehard_Fund"
+      subject: "%{member} vás pozval(a) do skupiny %{group_name} na DiehardFund"
     to_start_group:
-      subject: "Zriaďte si svoju novú Diehard_Fund skupinu: %{group_name}"
+      subject: "Zriaďte si svoju novú DiehardFund skupinu: %{group_name}"
     unsubscribe: 'Odhláste sa alebo si zmeňte nastavenia emailu:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a>, aby ste sa odhlásil(a) alebo zmenil(a) nastavenia emailu."
-    view_comment: Kliknite sem na zobrazenie komentárov na Diehard_Fund
+    view_comment: Kliknite sem na zobrazenie komentárov na DiehardFund
     view_discussion: Kliknite sem na zobrazenie tejto diskusie
-    view_proposal: Zobrazte si tento návrh na Diehard_Fund
+    view_proposal: Zobrazte si tento návrh na DiehardFund
     create_proposal:
-      intro: Nový návrh byl vytvorený v Diehard_Fund skupine, ku ktorej patríte
+      intro: Nový návrh byl vytvorený v DiehardFund skupine, ku ktorej patríte
       closes_in: Uzatvára sa za
       subject: 'Nový návrh: %{which}'
     daily_activity:
       heading: Vaša aktivita na Loomiu
-      intro: Zobrazuje sa, čo sa udialo vo vašich Diehard_Fund skupinách behom ostatných 24 hodín
-      subject: Diehard_Fund -- Súhrn za ostatných 24 hodín
+      intro: Zobrazuje sa, čo sa udialo vo vašich DiehardFund skupinách behom ostatných 24 hodín
+      subject: DiehardFund -- Súhrn za ostatných 24 hodín
     missed_yesterday:
-      subject: Včera na Diehard_Fund
+      subject: Včera na DiehardFund
       mark_as_read: Označiť ako prečítané
       thanks_for_reading: Vďaka za čítanie a prajeme pekný deň!
       marked_as_read_success: Všetko z emailu bolo označené ako prečítané
     membership_request:
-      intro: "%{name} (%{email}) požiadal(a) o prístup k jednej z vašich Diehard_Fund skupín."
+      intro: "%{name} (%{email}) požiadal(a) o prístup k jednej z vašich DiehardFund skupín."
       subject: "%{who} požiadal(a) o členstvo v %{which_group}"
       view_group: Môžete schváliť alebo odmietnuť žiadosť tu
     new_motion_created:

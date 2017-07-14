@@ -19,7 +19,7 @@ Then(/^I should have a time_zone defined$/) do
   @user.time_zone.should_not be_blank
 end
 
-Given(/^I am invited to join a Diehard_Fund Group$/) do
+Given(/^I am invited to join a DiehardFund Group$/) do
   @user = FactoryGirl.create(:user)
   @group = FactoryGirl.create(:group)
   @group.add_admin!(@user)

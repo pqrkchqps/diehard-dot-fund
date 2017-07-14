@@ -48,7 +48,7 @@ namespace :locales do
   end
 
   task :check_codelike_text, [:locales] => [:environment] do |t, args|
-    args.with_defaults(:locales => Diehard_Fund::I18n::SELECTABLE_LOCALES + Diehard_Fund::I18n::TEST_LOCALES )
+    args.with_defaults(:locales => DiehardFund::I18n::SELECTABLE_LOCALES + DiehardFund::I18n::TEST_LOCALES )
 
     print "\n"
 
@@ -108,8 +108,8 @@ namespace :locales do
     # args.with_defaults(:locales => LocalesHelper::LOCALE_STRINGS + LocalesHelper::TEST_LOCALES)
 
     print "\n TEST_LOCALES = %i( "
-    pretty_l = (args[:locales].map(&:to_sym) - Diehard_Fund::I18n::SELECTABLE_LOCALES).map do |l|
-      if Diehard_Fund::I18n::TEST_LOCALES.include? l
+    pretty_l = (args[:locales].map(&:to_sym) - DiehardFund::I18n::SELECTABLE_LOCALES).map do |l|
+      if DiehardFund::I18n::TEST_LOCALES.include? l
         grey(l)
       else
         bold(green(l))
@@ -215,7 +215,7 @@ def print_status(locale, language_stats)
 
   fixed_locale_str = cyan(fixed_locale_str)
 
-  if Diehard_Fund::I18n::SELECTABLE_LOCALES.include? fixed_locale
+  if DiehardFund::I18n::SELECTABLE_LOCALES.include? fixed_locale
     if perc_comp >= THRESHOLDS["Live"] - 5
       state         = bold('Live')
       perc_comp_str = grey(perc_comp_str)

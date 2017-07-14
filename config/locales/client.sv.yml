@@ -52,7 +52,7 @@ sv:
       upload: 'Ladda upp'
       uploading: 'Laddar upp'
     formatting_help:
-      title: 'Lär dig hur du använder Markdown för att formatera din text på Diehard_Fund'
+      title: 'Lär dig hur du använder Markdown för att formatera din text på DiehardFund'
   devise:
     failure:
       inactive: 'Det är ett deaktiverat konto associerat med denna e-postadress. Om du vill återaktivera ditt konto, kontakta oss.'
@@ -206,13 +206,13 @@ sv:
     email_label: 'Din emailadress'
     message_label: 'Ditt meddelande'
   help_page:
-    coordinating: 'Koordinera din Diehard_Fundgrupp'
+    coordinating: 'Koordinera din DiehardFundgrupp'
     coordinating_details: |
-      Som koordinator är du ansvarig att administrera din Diehard_Fundgrupp och bjuda in
+      Som koordinator är du ansvarig att administrera din DiehardFundgrupp och bjuda in
       alla deltagare. Förutom att lära sig använda en ny mjukvara, kommer din grupp
       att lära sig nya processer att samarbeta mer effektivt samt att fatta bra beslut
       tillsammans. Här är några tips för att hjälpa din grupp att lyckas:
-    different_ways: 'Olika sätt att använda Diehard_Fund'
+    different_ways: 'Olika sätt att använda DiehardFund'
     example1_html: |
       <h3>Din grupp behöver diskutera ett ämne och utveckla ett förslag tillsammans</h3>
       <p>Strategi: Diskutera ämnet en stund innan ni arbetar fram ett förslag.</p>
@@ -223,7 +223,7 @@ sv:
     get_in_touch_description_html: "Om du har någon fråga eller vill ge feedback, <a href='%{link}'>skriv till oss</a>."
     getting_started: "Håller på att starta"
     getting_started_description: "Till vänster, diskuterar gruppen ett ämne, utbyter idéer och information. När gruppen kommer fram till ett beslut, dyker det upp till höger."
-    getting_the_most: 'Hur du får mesta möjliga ut av Diehard_Fund'
+    getting_the_most: 'Hur du får mesta möjliga ut av DiehardFund'
     have_your_say: "Gör din röst hörd"
     have_your_say_details_html: |
       <p>När du är redo att lämna en kommentar, klicka på en av de fyra beslutsknapparna.</p>
@@ -239,13 +239,13 @@ sv:
       <p>Den första frågan varje ny medlem får är 'vad är den här gruppen till för?'</p>
       <p>Tänk på det enklaste sättet du kan beskriva gruppen: Vad vill du att ni ska
       åstadkomma tillsammans? Vilka typer av beslut kommer ni att fatta? Vem kommer att delta?</p>
-      <p>Det kan vara en bra idé att prata med din grupp innan du bjuder in dem att gå med i Diehard_Fund.</p>
+      <p>Det kan vara en bra idé att prata med din grupp innan du bjuder in dem att gå med i DiehardFund.</p>
       <p>Folk vill gärna veta varför de har blivit inbjudna, vad som förväntas av dem,
       samt varför det ska vara värt tiden att lära sig använda ett nytt verktyg.</p>
     join_the_community: "Gå med i communityn"
     images_and_text_formatting: "Bild- och textformatering"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund använder ‘Markdown’ för bild- och textformatering.
+      <p>DiehardFund använder ‘Markdown’ för bild- och textformatering.
       Du kan markera Markdown på med den lilla grå ikonen under den kommentarboxen.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Klicka här</a>
       för mer information om hur du använder Markdown.</p>
@@ -278,7 +278,7 @@ sv:
       Alla kommer att få ett email 24 timmar innan ett förslag stängs.</p>
     video_id: "52025402"
     video_tutorial: "Videotutorial"
-    video_tutorial_description: "Se videon för en snabb demonstration av hur Diehard_Fund fungerar."
+    video_tutorial_description: "Se videon för en snabb demonstration av hur DiehardFund fungerar."
   hint:
     context: 'Tips för att använda Context Panel'
     discussion: 'Tips för att starta en engagerande diskussion'

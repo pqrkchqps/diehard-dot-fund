@@ -30,7 +30,7 @@ ca:
       no_invitations_remaining: No et queden invitacions
     mailer:
       invitation_instructions:
-        subject: Algú t'ha convidat a unir-te al seu grup de Diehard_Fund
+        subject: Algú t'ha convidat a unir-te al seu grup de DiehardFund
     registrations:
       sign_up: Crear compte
   error:
@@ -73,7 +73,7 @@ ca:
     new_contacts_imported: Ha funcionat! Escriu noms a la següent caixa de text i et suggerirem adreces de correu electrònic.
     admin_rights_removed: S'han eliminat els drets de coordinació de %{which_user}.
     user_added: "%{user_email_or_name} s'ha afegit al grup."
-    new_user_added: "%{user_email_or_name} s'agregarà al grup després de registrar-se a Diehard_Fund."
+    new_user_added: "%{user_email_or_name} s'agregarà al grup després de registrar-se a DiehardFund."
     member_removed: Membre eliminat.
     membership_approved: Afiliació aprovada.
     membership_request_canceled: La sol·licitut per esdevinr a membre ha estat cancelada
@@ -167,7 +167,7 @@ ca:
         one: 1 any
         other: "%{count} anys"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   inbox:
     clear: Esborrar
     title: Safata d'entrada
@@ -201,15 +201,15 @@ ca:
   find_a_group_hint: Per explorar grups públics
   search_for_group: Busca un grup
   no_groups_found: No s'han trobat grups amb aquest nom!
-  no_group_header: Benvingut a Diehard_Fund Beta
+  no_group_header: Benvingut a DiehardFund Beta
   empty_notifications: Encara no tens cap notificació.
   see_all_notifications: Veure totes les notificacions
   sign_out: Tanca la sessió
   sign_in: Inicia la sessió
   honeypot_warning: No s'ha pogut crear el compte. Si utilitzes un lector de pantalla assegura't de que l'última casella (amagada) del formulari està buida.
   tagline: Creant un món on tothom pot participar en les decissions que li afecten.
-  or_sign_in_html: Si ja disposes d'un compte a Diehard_Fund, <a href='%{link}' class='%{link_class}'>inicia aquí la sessió</a>
-  or_link_account_html: Si ja disposes d'un compte a Diehard_Fund, <a href='%{link}'>enllaça'l</a>
+  or_sign_in_html: Si ja disposes d'un compte a DiehardFund, <a href='%{link}' class='%{link_class}'>inicia aquí la sessió</a>
+  or_link_account_html: Si ja disposes d'un compte a DiehardFund, <a href='%{link}'>enllaça'l</a>
   click_to_dismiss: Clica aquí per descartar aquest missatge
   generic_confirm: N'estàs segur?
   discussion_helper_text:
@@ -237,7 +237,7 @@ ca:
       title: Desactivant el teu compte
       query: Et faria res explicar-nos per què desactives el teu compte?
       info_title: Què suposarà desactivar el teu compte?
-      emails: Deixarem d'enviar-te correus electrònics relacionats amb Diehard_Fund.
+      emails: Deixarem d'enviar-te correus electrònics relacionats amb DiehardFund.
   group_form:
     name: Nom del grup
     description: Descripció
@@ -457,21 +457,21 @@ ca:
   edit_comment:
     edit_comment: Edita el comentari
   help:
-    coordinating: Coordinant el teu grup de Diehard_Fund
+    coordinating: Coordinant el teu grup de DiehardFund
     coordinating_details: |
-      Com a persona coordinadora, ets responsable de configurar el teu grup de Diehard_Fund
+      Com a persona coordinadora, ets responsable de configurar el teu grup de DiehardFund
       i convidar tothom a participar. A més d'aprendre a utilizar aquest software, el teu grup
       apren nous processos per col·laborar més efectivament i prendre bones decissions
       junts. Aquí tens algunes claus per tal que el grup funcioni:
-    different_ways: Diferents maneres d'emprar Diehard_Fund
-    engaging_html: "<h2> Claus per engrescar el teu grup </h2>\n<p>La gent estarà emocionada d'entrar i començar a participar quan hi ha una\nproposta estimulant sobre la taula. Una bona proposta conté un pla d'acció per al grup, en \nel que quedi clar què significa estar d'acord o en desacord. Pensa en com\npot identificar debats / decisions que el grup està duent a terme en persona o per\ncorreu electrònic i que seria més fàcil si estiguessin a Diehard_Fund. </p>\n<p> Si el grup està començant, pots començar per una decisió simple, per donar\na tothom l'oportunitat de jugar amb l'eina i experimentar el procés de presa de decisions. </p>\n<p> Una altra forma senzilla d'animar gent a participar en una discussió és utilitzar la @menció\na persones específiques, als quals els arribarà un correu electrònic dient que han estat\nesmentats en un comentari. </p>\n"
+    different_ways: Diferents maneres d'emprar DiehardFund
+    engaging_html: "<h2> Claus per engrescar el teu grup </h2>\n<p>La gent estarà emocionada d'entrar i començar a participar quan hi ha una\nproposta estimulant sobre la taula. Una bona proposta conté un pla d'acció per al grup, en \nel que quedi clar què significa estar d'acord o en desacord. Pensa en com\npot identificar debats / decisions que el grup està duent a terme en persona o per\ncorreu electrònic i que seria més fàcil si estiguessin a DiehardFund. </p>\n<p> Si el grup està començant, pots començar per una decisió simple, per donar\na tothom l'oportunitat de jugar amb l'eina i experimentar el procés de presa de decisions. </p>\n<p> Una altra forma senzilla d'animar gent a participar en una discussió és utilitzar la @menció\na persones específiques, als quals els arribarà un correu electrònic dient que han estat\nesmentats en un comentari. </p>\n"
     example1_html: "<h3> Necessites que el grup discuteixi un tema molt ampli i desenvolupar una solució col·lectiva </h3>\n<p> Estratègia: Debatre un tema per un temps abans de crear una proposta </p>\n<p> Les discussions sovint arriben als millors resultats si es construeix una comprensió compartida\nsobre el problema abans d'abordar una solució específica. Quan la gent participa en el procés, \nés més propensa a arribar a un acord amb el resultat. </p>\n"
     example2_html: "<h3> Ja tens una proposta en ment, i vols aconseguir la conclusió del grup per seguir endavant. </h3> \n<p> Estratègia: Enceta un debat sobre una decisió específica i fes una proposta immediatament </p>\n<p> Si tens un resultat clar en ment, però vol assegurar-te que no hi ha postures crítiques, pots utilitzar la proposta per obtenir una anàlisi ràpid de la decisió. </p> \n<p> Pots fer coses com finalitzar un document, aprovar una sol·licitud, o completar un treball. </p> \n"
     get_in_touch: Posa't en contacte
     get_in_touch_description_html: Si tens alguna pregunta o comentari,  <a href='%{link}'> escriu-nos </a>.
     getting_started: Primers passos
     getting_started_description: A mà esquerra, el grup discuteix un tema, intercanviant idees i informació. Quan el grup ha de prendre una decisió, apareix a mà dreta.
-    getting_the_most: Treure el màxim profit de Diehard_Fund
+    getting_the_most: Treure el màxim profit de DiehardFund
     have_your_say: Digues la teva
     have_your_say_details_html: |
       <p> Quan estiguis preparada per donar la teva opinió, fes clic en un dels quatre botons de decisions.
@@ -488,14 +488,14 @@ ca:
       <h2> Escriure una bona invitació </h2>
       <p> La primera pregunta que cada nou membre es fa és "per a què serveix aquest grup?"</p>
       <p> Pensa en la manera més senzilla de descriure'l: Què vols aconseguir junts? Quin tipus de decisions fareu? Qui hi participarà? </p>
-      <p> Pot ser una bona idea parlar amb el seu grup abans de convidar-los a Diehard_Fund. </p>
+      <p> Pot ser una bona idea parlar amb el seu grup abans de convidar-los a DiehardFund. </p>
       <p> La gent voldrà saber per què han estat convidats, que s'espera d'ells,
       i per què paga la pena aprendre a utilitzar una nova eina. </p>
     join_the_community: Unir-se a la comunitat
-    join_the_community_description_html: Tothom és benvingut a unir-se a la Comunitat Diehard_Fund, on es parla de com aprofitar al màxim l'eina i com es pot millorar. <br /> <br /> <a href='https://www.diehard.fund/groups/3'> Fes clic aquí per anar al grup "Diehard_Fund Community" </a>.
+    join_the_community_description_html: Tothom és benvingut a unir-se a la Comunitat DiehardFund, on es parla de com aprofitar al màxim l'eina i com es pot millorar. <br /> <br /> <a href='https://www.diehard.fund/groups/3'> Fes clic aquí per anar al grup "DiehardFund Community" </a>.
     images_and_text_formatting: Format d'imatges i textos
     images_and_text_formatting_html: |
-      <p>Diehard_Fund utilitza 'Markdown' per incrustar imatges i formatar el text.
+      <p>DiehardFund utilitza 'Markdown' per incrustar imatges i formatar el text.
       Pots activar i desactivar el Markdown amb la petita icona gris sota l'apartat de comentaris. </p>
       <p><a href='https://www.diehard.fund/discussions/1124'> Fes clic aquí </a>
       per obtenir informació sobre com utilitzar Markdown. </p>
@@ -524,7 +524,7 @@ ca:
     start_proposal_html: "<p> Si fas el títol clar i concís, la gent sabrà immediatament què significa estar d'acord o en desacord. </p>\n<p>Si una proposta no aconsegueix un acord clar immediatament, no és la fi del món.\nSi al grup no li agrada la primera proposta, qualsevol persona pot iniciar una nova proposta per\nabordar les inquietuds plantejades, i mantenir el procés en marxa. </p>\n<p> A través d'aquest procés dinàmic, la intel·ligència col·lectiva del grup pot generar idees millors \nque ningú hauria pogut tenir individualment.</p>\n<p>El termini de la proposta es pot ampliar en qualsevol moment, si sembla que la decisió\nnecessita una mica més de temps. Tothom rebrà una notificació per correu electrònic 24 hores abans de la proposta es tanqui.</p>\n"
     video_id: '52025402'
     video_tutorial: Video tutorial
-    video_tutorial_description: Mira el video per a una demostració ràpida de com utilitzar Diehard_Fund.
+    video_tutorial_description: Mira el video per a una demostració ràpida de com utilitzar DiehardFund.
   hint:
     context: Claus per utilitzar el panell contextual
     discussion: Claus per començar una discussió engrescadora
@@ -539,11 +539,11 @@ ca:
     submit: Contribuir
     tooltip: Sobre el nostre model de finançament comunitari
     thought_about_contributing: La teva oportunitat per contribuir
-    thought_about_contributing_description: "Diehard_Fund és una empresa social cooperativa que treballa per fer més fàcil que qualsevol pugui participar en les decisions que li afecten.\n\nEls diners no han de ser un obstacle per a la presa de decisions col·laboratives. Diehard_Fund es finança amb les contribucions de la comunitat d'usuaris/es, i subscripcions pagades per les organitzacions formals que l'utilitzen.\n\nLa teva ajuda implica que puguem mantenir Diehard_Fund independent, lliure de publicitat i a lliure disposició dels grups que fan grans coses en les seves comunitats. \n\nGràcies per fer això possible!\n"
-    thank_you_title: Gràcies per contribuir a Diehard_Fund!
-    thank_you_body: "La teva contribució ens ajuda a oferir l'eina de presa de decisions col·laborativa al món. \n\nRebràs un correu electrònic en breu ambel rebut per la teva contribució. \n\nTothom és benvingut a unir-se a la Comunitat Diehard_Fund, on es parla de com aprofitar al màxim l'eina i com millorar-la. \n\n<a href='https://www.diehard.fund/groups/3'>Porta'm al grup Diehard_Fund Community &raquo;</a>\n"
+    thought_about_contributing_description: "DiehardFund és una empresa social cooperativa que treballa per fer més fàcil que qualsevol pugui participar en les decisions que li afecten.\n\nEls diners no han de ser un obstacle per a la presa de decisions col·laboratives. DiehardFund es finança amb les contribucions de la comunitat d'usuaris/es, i subscripcions pagades per les organitzacions formals que l'utilitzen.\n\nLa teva ajuda implica que puguem mantenir DiehardFund independent, lliure de publicitat i a lliure disposició dels grups que fan grans coses en les seves comunitats. \n\nGràcies per fer això possible!\n"
+    thank_you_title: Gràcies per contribuir a DiehardFund!
+    thank_you_body: "La teva contribució ens ajuda a oferir l'eina de presa de decisions col·laborativa al món. \n\nRebràs un correu electrònic en breu ambel rebut per la teva contribució. \n\nTothom és benvingut a unir-se a la Comunitat DiehardFund, on es parla de com aprofitar al màxim l'eina i com millorar-la. \n\n<a href='https://www.diehard.fund/groups/3'>Porta'm al grup DiehardFund Community &raquo;</a>\n"
     making_a_donation: Fer una donació
-    making_a_donation_description: "Diehard_Fund és una empresa social cooperativa que treballa per fer més fàcil que qualsevol pugui participar en les decisions que li afecten.\n\nLa teva ajuda implica que puguem mantenir Diehard_Fund independent, lliure de publicitat i a lliure disposició dels grups que fan grans coses en les seves comunitats. \n\nGràcies per fer això possible!\n"
+    making_a_donation_description: "DiehardFund és una empresa social cooperativa que treballa per fer més fàcil que qualsevol pugui participar en les decisions que li afecten.\n\nLa teva ajuda implica que puguem mantenir DiehardFund independent, lliure de publicitat i a lliure disposició dels grups que fan grans coses en les seves comunitats. \n\nGràcies per fer això possible!\n"
   resend_confirmation: Reenvia les instruccions de confirmació
   new_password: Nova contrasenya
   confirm_new_password: Confirma la nova contrasenya
@@ -560,7 +560,7 @@ ca:
   signing_in: Iniciant la sesió
   or: o
   forgot_your_password: Has oblidat la teva contrasenya?
-  already_have_account: Ja tens un compte a Diehard_Fund?
+  already_have_account: Ja tens un compte a DiehardFund?
   confirmation_not_received: No has rebut les instruccions de confirmació_
   unlock_not_received: No has rebut les instruccions de desbloqueig?
   inactive_html: Ho sentim, aquest compte es troba inactiu. Si tens alguna pregunta, sisplau <a href='%{path_to_contact}'> posa't en contacte </a>.
@@ -579,10 +579,10 @@ ca:
     invitation_already_used: Aquesta invitació ja ha estat utilitzada. Sisplau, inicia la sessió per connectar-te al teu grup.
     recipients: 'Introdueix les adreces de correu electrònic, separades per comes:'
     invitees_placeholder: Nom d'usuari <user1@example.com>, user2@example.com
-    subject: Si us plau, uneix-te al nou grup de Diehard_Fund,  %{group}
+    subject: Si us plau, uneix-te al nou grup de DiehardFund,  %{group}
     invite_people: Convida gent al teu grup
     select_members: Afegeix membres de %{group_name}
-    body_editable: "Ei, decideix amb nosaltres! Emprem una eina per \nprendre decissions de manera col·laborativa anomenada Diehard_Fund.\n"
+    body_editable: "Ei, decideix amb nosaltres! Emprem una eina per \nprendre decissions de manera col·laborativa anomenada DiehardFund.\n"
     message_body: missatge d'invitació
     invites_more_help2: "<p>Pots convidar gent al teu grup en qualsevol moment.</p><p>Pots convidar tots els teus membres de cop o començar convidant aquells amb qui estàs treballant més estretament.</p>"
     invitation_link: Enllaç d'invitació
@@ -622,10 +622,10 @@ ca:
   group_setup:
     set_up_your_group: Configura el teu grup
     desc_header: Ja quasi ho tens!
-    desc_html: 'Com a coordinador del grup, ets responsable de la creació i la gestió del teu grup de Diehard_Fund. Després de triar algunes opcions de configuració, pots entrar al grup nou, iniciar un debat o dos, i enviar unes invitacions. <p> Quan pensis en la manera més simple per descriure el grup, pregunta''t: Què és el que volem aconseguir junts? Quin tipus de decisions farem? ¿Qui participarà? </p>'
+    desc_html: 'Com a coordinador del grup, ets responsable de la creació i la gestió del teu grup de DiehardFund. Després de triar algunes opcions de configuració, pots entrar al grup nou, iniciar un debat o dos, i enviar unes invitacions. <p> Quan pensis en la manera més simple per descriure el grup, pregunta''t: Què és el que volem aconseguir junts? Quin tipus de decisions farem? ¿Qui participarà? </p>'
     submit: Porta'm al meu grup!
     payment_model:
-      header: Diehard_Fund és per a tothom!
+      header: DiehardFund és per a tothom!
       info: Tenim un model de pagament que encaixa qualsevol grup, també aquells sense diners :)
       link: Coneix més
   simple_form:
@@ -668,14 +668,14 @@ ca:
       user:
         create: Crea un compte
         update: Actualitzar la configuració
-  about_diehard_fund: Quant a Diehard_Fund
+  about_diehard_fund: Quant a DiehardFund
   ago: Fa %{quantity_of_time}
   approve: Aprovar
   author: Autor
   back: Enrere
   cancel: Cancelar
   change: Canviar
-  change_language: Fes clic aquí per utilitzar Diehard_Fund en %{language}
+  change_language: Fes clic aquí per utilitzar DiehardFund en %{language}
   changing: Canviant
   click_here: Fes click aquí
   close: Tancar
@@ -709,7 +709,7 @@ ca:
   pricing: Preus
   prev: Anterior
   more: Més...
-  translate: Ajuda a traduir Diehard_Fund!
+  translate: Ajuda a traduir DiehardFund!
   translate_field: Veure traducció
   loading_translation: Carregant traducció...
   translate_this_string: Tradueix a %{language}

@@ -13,9 +13,9 @@ el:
     contents:
       getting_started:
         title_html: Ξεκινώντας
-        starting_new_group_html: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο Diehard_Fund
-        invited_into_group_html: Όταν έχετε προσκληθεί σε μια ομάδα στο Diehard_Fund
-        joining_existing_group_html: Όταν θέλετε να συμμετάσχετε σε μια υπάρχουσα ομάδα στο Diehard_Fund
+        starting_new_group_html: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο DiehardFund
+        invited_into_group_html: Όταν έχετε προσκληθεί σε μια ομάδα στο DiehardFund
+        joining_existing_group_html: Όταν θέλετε να συμμετάσχετε σε μια υπάρχουσα ομάδα στο DiehardFund
       group_settings:
         title_html: Ρυθμίσεις ομάδας
         group_profile_html: Προφίλ ομάδας
@@ -63,7 +63,7 @@ el:
       keeping_up_to_date:
         title_html: Παραμένοντας ενημερωμένοι
         volume_html: Ένταση
-        yesterday_on_diehard_fund_html: "\"Εχτές στο Diehard_Fund\""
+        yesterday_on_diehard_fund_html: "\"Εχτές στο DiehardFund\""
         email_settings_html: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου
       user_profile:
         title_html: Το προφίλ σας
@@ -81,17 +81,17 @@ el:
       security:
         title_html: Απόρρητο και ασφάλεια
       contributing:
-        title_html: Συνεισφέροντας στο Diehard_Fund
+        title_html: Συνεισφέροντας στο DiehardFund
       diehard_fund_community:
-        title_html: Η κοινότητα του Diehard_Fund
+        title_html: Η κοινότητα του DiehardFund
       diehard_fund_development:
-        title_html: Συμβαδίζοντας με την ανάπτυξη του Diehard_Fund
+        title_html: Συμβαδίζοντας με την ανάπτυξη του DiehardFund
     getting_started:
       title: Ξεκινώντας
       starting_new_group:
-        title: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο Diehard_Fund
+        title: Όταν θελετε να ξεκινήσετε μια νέα ομάδα στο DiehardFund
       invited_into_group:
-        title: Όταν έχετε προσκληθεί σε μια ομάδα στο Diehard_Fund
+        title: Όταν έχετε προσκληθεί σε μια ομάδα στο DiehardFund
     group_settings:
       group_profile:
         title: Προφίλ ομάδας
@@ -193,7 +193,7 @@ el:
       email_settings:
         title: Ρυθμίσεις ηλεκτρονικού ταχυδρομείου
       yesterday_on_diehard_fund:
-        title: Χθες στο Diehard_Fund
+        title: Χθες στο DiehardFund
     user_profile:
       title: Το προφίλ σας
       language_settings:
@@ -217,11 +217,11 @@ el:
     security:
       title: Απόρρητο και ασφάλεια
     contributing:
-      title: Συνεισφέροντας στο Diehard_Fund
+      title: Συνεισφέροντας στο DiehardFund
       body:
         translation:
           title_html: Μετάφραση
         diehard_fund_community:
-          title_html: Η κοινότητα του Diehard_Fund
+          title_html: Η κοινότητα του DiehardFund
     diehard_fund_community:
-      title: Η κοινότητα του Diehard_Fund
+      title: Η κοινότητα του DiehardFund

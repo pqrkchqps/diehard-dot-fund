@@ -82,13 +82,13 @@ vi:
     context_menu:
       delete_comment: 'Xóa bình luận'
   help_page:
-    coordinating: 'Hợp tác cùng nhóm Diehard_Fund của bạn'
+    coordinating: 'Hợp tác cùng nhóm DiehardFund của bạn'
     coordinating_details: |
-      Với vai trò là người hợp tác, bạn sẽ chịu trách nhiệm với việc khởi tạo nhóm Diehard_Fund của mình và việc mời
+      Với vai trò là người hợp tác, bạn sẽ chịu trách nhiệm với việc khởi tạo nhóm DiehardFund của mình và việc mời
       mọi người tham gia. Cũng như việc nghiên cứu về các mảng phần mềm mới, nhóm của bạn sẽ
       trả qua các tiến trình tham gia về cách hoạt động nhóm theo cách hiệu quả nhất cũng như đưa ra các
       quyết định cùng nhau trong nhóm. Ở đây là các gợi ý về việc hỗ trợ cho nhóm bạn nhằm hướng đến sự thành công mong muốn:
-    different_ways: 'Các cách khác nhau để sử dụng Diehard_Fund'
+    different_ways: 'Các cách khác nhau để sử dụng DiehardFund'
     example1_html: |
       <h3>Bạn nên để nhóm của mình thảo luận theo dạng bàn tròn và phát triển các giải pháp cùng nhau không theo hướng riêng lẻ nào</h3>
       <p>Chiến lược: Thảo luận về một chủ điểm nào đó trước khi đưa ra các lời đề nghị.</p>
@@ -98,7 +98,7 @@ vi:
     get_in_touch: "Giữ liên lạc"
     getting_started: "Chuẩn bị bắt đầu"
     getting_started_description: "Phía bên trái, là khu vực nhóm đang thảo luận về một chủ đề, trao đổi ý kiến cũng như thông tin liên quan. Khi việc quy trình thực thi các quyết định được diễn ra, phần này sẽ hiển thị phía trên bên phải."
-    getting_the_most: 'Tìm hiểu về các tính năng trên Diehard_Fund'
+    getting_the_most: 'Tìm hiểu về các tính năng trên DiehardFund'
     have_your_say: "Phát biểu ý kiến của bạn"
     have_your_say_details_html: |
       <p>Khi bạn đã sẵn sàng cho phần đưa ra ý kiến, hãy click vào một trong bốn nút thể hiện sự lựa chọn của chính bạn.</p>
@@ -122,7 +122,7 @@ vi:
     start_proposal: "Viết một lời đề nghị rõ ràng"
     video_id: "52025402"
     video_tutorial: "Xem video hướng dẫn"
-    video_tutorial_description: "Xem thử video minh họa về cách sử dụng Diehard_Fund."
+    video_tutorial_description: "Xem thử video minh họa về cách sử dụng DiehardFund."
   hint:
     context: 'Gợi ý về cách sử dụng khung điều khiển nội dung'
     discussion: 'Gợi ý về cách bắt đầu tham gia thảo luận'

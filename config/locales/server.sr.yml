@@ -166,7 +166,7 @@ sr:
     group_description_placeholder: Opiši svrhu svoje grupe tako da tvoji članovi grupe znaju zašto su ovde.
     group_name_error: Naziv grupe je neophodan
     pricing_html: Kroz 30 dana, pitaćemo te da odabereš <a href='%{link}' target='_blank'>cenovni plan</a>.
-    terms_html: Pokretanjem grupe, slažete se sa Diehard_Fund <a href='%{link}' target='_blank'>pravilima korišćenja</a>.
+    terms_html: Pokretanjem grupe, slažete se sa DiehardFund <a href='%{link}' target='_blank'>pravilima korišćenja</a>.
     success:
       header: Još malo pa gotovo! Proverite ePoštu.
       email_delivered: Poslata Vam je jedna ePoruka na %{email}. Molim pratite vezu u njoj da postavite svoju novu grupu.
@@ -193,7 +193,7 @@ sr:
     usage_statistics: statistika korišćenja
   password_reset:
     email_guidelines_html: |
-      <p>Unesite adresu ePošte za svoj Diehard_Fund nalog u polje ispod i poslaćemo Vam vezu za resetovanje lozinke.</p>
+      <p>Unesite adresu ePošte za svoj DiehardFund nalog u polje ispod i poslaćemo Vam vezu za resetovanje lozinke.</p>
       <p>Ako se normalno prijavljujete preko Facebook, Google, Twitter ili Persona, unesite adresu ePošte koja je povezana sa tim nalogom.</p>
     reset_email_timeframe: Molim sačekajte do 5 minuta da ePoruka stigne. Ako se ne pojavi, uverite se da ste proverili i svoj spam direktorijum.
     length_restriction: Lozinke moraju biti najmanje 8 znakova duge.

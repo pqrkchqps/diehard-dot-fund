@@ -17,7 +17,7 @@ nl-NL:
       greeting: >
         Hoi %{name}
 
-        Hier is een link die je kunt gebruiken om je wachtwoord voor je Diehard_Fund
+        Hier is een link die je kunt gebruiken om je wachtwoord voor je DiehardFund
         account te herstellen:
       link_text: Herstel je wachtwoord
       signoff: >
@@ -35,72 +35,72 @@ nl-NL:
     by_who: 'door %{person}'
     reply_to_this_discussion: Reageer op deze discussie
     to_join_discussion:
-      subject: '%{who} wil dat je meedoet aan een discussie op Diehard_Fund'
+      subject: '%{who} wil dat je meedoet aan een discussie op DiehardFund'
       content: 'Je bent uitgenodigd om deel te nemen aan de discussie: %{discussion}'
       message_intro: '%{who} zegt:'
       link: Doe mee aan de discussie
-    value_proposition: Diehard_Fund is een plek waar groepen samen beslissingen kunnen nemen.
+    value_proposition: DiehardFund is een plek waar groepen samen beslissingen kunnen nemen.
     view_group: Bekijk groep
     to_join_group:
-      subject: '%{member} heeft je uitgenodigd om deel te nemen aan %{group_name} op Diehard_Fund'
+      subject: '%{member} heeft je uitgenodigd om deel te nemen aan %{group_name} op DiehardFund'
       invitation_text: '%{member} heeft je uitgenodigd om deel te nemen aan hun groep %{group_name}.'
       invitation_text_html: heeft je uitgenodigd om deel te nemen aan hun groep
       link_help: 'Klik op de link hieronder om de uitnodiging te accepteren:'
       accept_invitation: Accepteren uitnodiging
     resend_to_join_group:
-      subject: '%{member} wacht nog op je deelname aan  %{group_name} op Diehard_Fund'
+      subject: '%{member} wacht nog op je deelname aan  %{group_name} op DiehardFund'
     to_start_group:
-      subject: 'Stel je nieuwe Diehard_Fund groep in: %{group_name}'
+      subject: 'Stel je nieuwe DiehardFund groep in: %{group_name}'
       hi: 'Hoi %{name},'
       intro: 'Klik op de link hieronder om je groep %{group_name} in te stellen:'
       intro_html: 'Klink hieronder om je groep in te stellen:'
       start_group: Start mijn groep
       closing_message: 'Als je hulp nodig hebt, of je hebt een vraag, reageer dan gewoon op deze email.'
       thanks: 'Dankjewel,'
-      diehard_fund_team: Het Diehard_Fund Team
+      diehard_fund_team: Het DiehardFund Team
     user_added_to_group:
-      subject: '%{who} heeft je toegevoegd aan %{which_group} op Diehard_Fund'
+      subject: '%{who} heeft je toegevoegd aan %{which_group} op DiehardFund'
       content: '%{who} heeft je toegevoegd aan %{which_group}'
       content_html: '<strong>%{who}</strong> heeft je toegevoegd aan <strong>%{which_group} </strong>.'
       link_help: 'Klik op de link hieronder om naar de groep te gaan:'
     unsubscribe: 'Uitschrijven of je e-mailvoorkeuren aanpassen:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> om je uit te schrijven of je e-mailvoorkeuren aan te passen."
-    view_comment: Klik hier om de reactie op Diehard_Fund te zien
+    view_comment: Klik hier om de reactie op DiehardFund te zien
     view_discussion: Klik hier om deze discussie te bekijken
-    view_proposal: Bekijk dit voorstel op Diehard_Fund
+    view_proposal: Bekijk dit voorstel op DiehardFund
     create_discussion:
       intro_html: begon een discussie
       intro: '%{who} begon een discussie:'
     create_proposal:
-      intro: Een nieuw voorstel is gemaakt in een Diehard_Fund groep waar je lid van bent.
+      intro: Een nieuw voorstel is gemaakt in een DiehardFund groep waar je lid van bent.
       closes_in: Sluit over
       subject: 'Nieuw voorstel: %{which}'
     daily_activity:
-      heading: Jouw Diehard_Fund Activiteit
-      intro: 'Tonen wat er in de laatste 24 uur in jouw Diehard_Fund groepen is gebeurd '
-      subject: Diehard_Fund - Samenvatting van de laatste 24 uur
+      heading: Jouw DiehardFund Activiteit
+      intro: 'Tonen wat er in de laatste 24 uur in jouw DiehardFund groepen is gebeurd '
+      subject: DiehardFund - Samenvatting van de laatste 24 uur
     missed_yesterday:
-      subject: Gisteren op Diehard_Fund
+      subject: Gisteren op DiehardFund
       headlines: Nieuws
       mark_as_read: Markeer als gelezen
       thanks_for_reading: 'Bedankt voor het lezen, een fijne dag gewenst!'
-      heres_what_happened: Dit gebeurde er gisteren op Diehard_Fund.
+      heres_what_happened: Dit gebeurde er gisteren op DiehardFund.
       marked_as_read_success: Alles uit de e-mail is gemarkeerd als gelezen
     comment_replied_to:
       context_html: antwoordde op je opmerking in
       context: '%{author_name} antwoordde op je opmerking in %{discussion_title}'
-      subject: '%{who} reageerde op jouw reactie in de %{which} groep op Diehard_Fund'
+      subject: '%{who} reageerde op jouw reactie in de %{which} groep op DiehardFund'
     new_comment:
       context: reageerde op
     group_membership_approved:
       intro: 'Je verzoek om toegang tot groep %{group_name} is goedgekeurd.'
       intro_html: 'Je verzoek om toegang tot groep <strong>%{group_name}</strong> is goedgekeurd.'
       link_help: 'Klik op de link hieronder om deel te nemen aan %{group_name} en te beginnen:'
-      subject: 'Je verzoek om toegang tot groep %{group_name} op Diehard_Fund is goedgekeurd.'
+      subject: 'Je verzoek om toegang tot groep %{group_name} op DiehardFund is goedgekeurd.'
       join_group: Neem deel aan groep
-      view_group_text: 'Klik hieronder om de de groep op Diehard_Fund te bekijken:'
+      view_group_text: 'Klik hieronder om de de groep op DiehardFund te bekijken:'
     membership_request:
-      intro: '%{name} (%{email}) heeft toegang gevraagd tot een van je Diehard_Fund groepen.'
+      intro: '%{name} (%{email}) heeft toegang gevraagd tot een van je DiehardFund groepen.'
       intro_html: heeft toegang gevraagd tot een van jouw groepen.
       subject: '%{who} heeft aangevraagd om lid te worden van %{which_group}'
       view_group: Je kan hier de aanvraag goed- of afkeuren
@@ -145,16 +145,16 @@ nl-NL:
       outcome_created: '%{who} deelde een uitkomst van het voorstel:'
       you_agreed: 'Je %{past_tense_position}'
     analytics:
-      subject: "%{which_group}'s week op Diehard_Fund"
+      subject: "%{which_group}'s week op DiehardFund"
       title: 'Je samenvatting van de week beginnend %{since}'
       table_header: 'Naam | Moties gemaakt | Gesprekken gemaakt | Opmerkingen gemaakt | Stemmen gemaakt'
       stats: '<strong>%{active_members}</strong> van <strong>%{group_members}</strong> in je groep waren in de afgelopen week actief. Je groep resulteerde in <strong>%{motions}</strong> en had <strong>%{comments}</strong> in <strong>%{discussions}</strong>.'
       contact_us: "Op zoek naar meer statistieken? <a href='%{contact_link}'>Neem contact op</a>."
-      no_activity: "Wil je met een van onze samenwerkingscoaches praten over hoe je het meeste uit Diehard_Fund haalt? <a href='%{contact_link}'>Neem contact op</a>"
+      no_activity: "Wil je met een van onze samenwerkingscoaches praten over hoe je het meeste uit DiehardFund haalt? <a href='%{contact_link}'>Neem contact op</a>"
       trial_subscription: "%{which_group} maakt gebruik van <strong>gratis proefabonnement</strong> eindigend op<strong>%{expires_at}</strong>. Je kunt hier een abonnement kiezen <a href='%{subscription_link}'></a>."
-      trial_expired: '%{which_group} heeft het einde van zijn gratis Diehard_Fund proefperiode bereikt.'
-      heart: ❤ van team Diehard_Fund
-      unsubscribe: "Deze email is naar de coördinatoren van actieve Diehard_Fund groepen gestuurd.<br />Als je deze emails liever niet ontvangt, <a href='%{contact_link}'>laat het ons weten</a>."
+      trial_expired: '%{which_group} heeft het einde van zijn gratis DiehardFund proefperiode bereikt.'
+      heart: ❤ van team DiehardFund
+      unsubscribe: "Deze email is naar de coördinatoren van actieve DiehardFund groepen gestuurd.<br />Als je deze emails liever niet ontvangt, <a href='%{contact_link}'>laat het ons weten</a>."
       user_table:
         motions_created: Voorstellen
         discussions_created: Discussies
@@ -169,13 +169,13 @@ nl-NL:
     pricing: Prijsplan
     public_groups: Openbare groepen
     terms: Voorwaarden
-    independent_install_html: '%{hostname} draait als een onafhankelijke kopie van Diehard_Fund: <a href="http://github.com/diehard_fund/diehard_fund">meer informatie</a>.'
+    independent_install_html: '%{hostname} draait als een onafhankelijke kopie van DiehardFund: <a href="http://github.com/diehard_fund/diehard_fund">meer informatie</a>.'
   start_group_form:
     enable_angular:
-      header: Nieuwe groepen starten in Diehard_Fund 1.0
-      subtitle: 'Om een nieuwe groep te starten, moet je overschakelen op de gloednieuwe versie van Diehard_Fund:'
-      switch_to_angular: Begin een groep in de nieuwe Diehard_Fund
-      helptext: 'We hebben Diehard_Fund volledig opnieuw opgebouwd. Je kunt hier lezen wat er nieuw is <a href="/angular"></a>.<br/>Je kunt op elk gewenst moment terug wisselen naar de oude versie.'
+      header: Nieuwe groepen starten in DiehardFund 1.0
+      subtitle: 'Om een nieuwe groep te starten, moet je overschakelen op de gloednieuwe versie van DiehardFund:'
+      switch_to_angular: Begin een groep in de nieuwe DiehardFund
+      helptext: 'We hebben DiehardFund volledig opnieuw opgebouwd. Je kunt hier lezen wat er nieuw is <a href="/angular"></a>.<br/>Je kunt op elk gewenst moment terug wisselen naar de oude versie.'
     header: Begin een nieuwe groep
     form_error: 'Sommige informatie ontbreekt, of is incorrect.'
     name: Je naam
@@ -187,13 +187,13 @@ nl-NL:
     group_description_placeholder: 'Beschrijf het doel van je groep, zodat je groepsleden weten waarom ze hier zijn.'
     group_name_error: Groepsnaam is verplicht
     pricing_html: "Over 30 dagen vragen we je om een prijsplan te kiezen <a href='%{link}' target='_blank'></a>."
-    terms_html: "Door een groep te starten, stem je in met Diehard_Fund's Algemene voorwaarden <a href='%{link}' target='_blank'></a>."
+    terms_html: "Door een groep te starten, stem je in met DiehardFund's Algemene voorwaarden <a href='%{link}' target='_blank'></a>."
     success:
       header: 'Je bent bijna klaar! Bekijk je e-mail.'
       email_delivered: 'We hebben een email gestuurd naar %{email}. Volg alsjeblieft de link in de email om je nieuwe groep in te stellen.'
       email_not_arrived: E-mail niet aangekomen?
       please_hold: Geef de e-mail 5 minuten de tijd om binnen te komen en controleer voor de zekerheid ook even je spam folder.
-    start_making_decisions: 'Om te beginnen met het gezamenlijk nemen van beslissingen via Diehard_Fund, stel een gratis groep op:'
+    start_making_decisions: 'Om te beginnen met het gezamenlijk nemen van beslissingen via DiehardFund, stel een gratis groep op:'
   invitation_form:
     error:
       all_email_addresses_belong_to_members: 'We hebben geen uitnodigingen naar de opgegeven e-mailadressen gestuurd, omdat deze bij mensen horen die al in de groep zitten.'
@@ -233,7 +233,7 @@ nl-NL:
     plus_price_html: '<strong>$99</strong>/maand'
   password_reset:
     email_guidelines_html: >
-      <p>Voer het e-mailadres van je Diehard_Fund account in het veld hieronder in en
+      <p>Voer het e-mailadres van je DiehardFund account in het veld hieronder in en
       je krijgt een link toegestuurd om je wachtwoord te herstellen.</p>
 
       <p>Als je normaal gesproken met Facebook, Google, Twitter of Persona
@@ -250,15 +250,15 @@ nl-NL:
       Wat is je rol of of bedoeling bij deelname aan deze groep? Wat moeten
       mensen over jou weten om te begrijpen wat je bedoeling is?
   how_it_works_thread:
-    title: Hoe gebruik je Diehard_Fund
+    title: Hoe gebruik je DiehardFund
     description: >
-      Welkom bij Diehard_Fund, een online plek om samen beslissingen te nemen.
+      Welkom bij DiehardFund, een online plek om samen beslissingen te nemen.
 
 
 
       Dit is een voorbeeld gesprek **discussie**. Je kunt opmerkingen hieronder
       toevoegen. Een discussie is een gesprek over een bepaald onderwerp. Deze
-      discussie gaat over hoe Diehard_Fund werkt, dus plaats hier je vragen.
+      discussie gaat over hoe DiehardFund werkt, dus plaats hier je vragen.
 
 
 
@@ -268,7 +268,7 @@ nl-NL:
 
 
 
-      Om te beginnen met Diehard_Fund:
+      Om te beginnen met DiehardFund:
 
       1. Upload een [profiel foto](/profiel)
 
@@ -278,7 +278,7 @@ nl-NL:
 
 
 
-      Tips om berichten te plaatsen op Diehard_Fund:
+      Tips om berichten te plaatsen op DiehardFund:
 
       *Om een bepaald persoon te berichten, type @ gevolg door diens naam.
 
@@ -286,7 +286,7 @@ nl-NL:
 
 
 
-      Als je vragen hebt, check het [Diehard_Fund hulp
+      Als je vragen hebt, check het [DiehardFund hulp
       handboek](http://help.diehard.fund).
   first_proposal:
     name: Demonstratie voorstel
@@ -316,7 +316,7 @@ nl-NL:
       **Probeer mee te doen! Klik op een van de vier knoppen**.
   contact_page:
     contact_us: Neem contact op
-    faq_prompt_html: 'Heb je een vraag voor het Diehard_Fund team? Voordat je contact opneemt, kun je het antwoord misschien terugvinden in onze veelgestelde vragen.'
+    faq_prompt_html: 'Heb je een vraag voor het DiehardFund team? Voordat je contact opneemt, kun je het antwoord misschien terugvinden in onze veelgestelde vragen.'
     contact_information: 'Als je niet vindt wat je zoekt, kun je onze contactinformatie onder aan deze pagina vinden.'
     contact_form: Contactformulier
     labels:
@@ -384,7 +384,7 @@ nl-NL:
 
 
 
-        [Diehard_Fund Homepage](https://www.diehard.fund/)
+        [DiehardFund Homepage](https://www.diehard.fund/)
 
 
 
@@ -395,22 +395,22 @@ nl-NL:
         ![diehard_fund logo](https://i.imgur.com/Fvtworb.png)
   beta_banner:
     new_diehard_fund_html: >
-      <strong>De Nieuwe Diehard_Fund is sneller, mooie, en beter!</strong> Iedereen
+      <strong>De Nieuwe DiehardFund is sneller, mooie, en beter!</strong> Iedereen
       wordt overgezet.
     upgrade_browser_html: >
       We ondersteunen enkel moderne versies van Internet Explorer (10+). Je zult
       je browser <a href='http://outdatedbrowser.com/en' target='_blank'>moeten
-      vernieuwen</a> om Diehard_Fund te kunnen blijven gebruiken.
+      vernieuwen</a> om DiehardFund te kunnen blijven gebruiken.
 
-      <strong> De nieuwe Diehard_Fund is hier!</strong> het is sneller, mooier en klaar
+      <strong> De nieuwe DiehardFund is hier!</strong> het is sneller, mooier en klaar
       voor mobiel gebruik.
     more_info: Meer info...
-    button_text: Stap over op de nieuwe Diehard_Fund
+    button_text: Stap over op de nieuwe DiehardFund
   poll_mailer:
     common:
       or: of
       why_send_this: 'Je ontvangt deze e-mail omdat %{reason}'
-      view_on_diehard_fund: Bekijk dit Diehard_Fund
+      view_on_diehard_fund: Bekijk dit DiehardFund
       unsubscribe: Abonnement opzeggen
       results: Resultaten
       responses: Antwoorden

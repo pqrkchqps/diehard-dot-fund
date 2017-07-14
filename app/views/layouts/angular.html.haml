@@ -35,9 +35,9 @@
 
     %script{src: client_asset_path(:"vendor.js")}
     :javascript
-      window.Diehard_Fund = #{@appConfig.to_json.html_safe}
-      window.Diehard_Fund.emojis.source = (emojione.shortnames || "").split("|")
-      window.Diehard_Fund.emojis.render = emojione.shortnameToImage
+      window.DiehardFund = #{@appConfig.to_json.html_safe}
+      window.DiehardFund.emojis.source = (emojione.shortnames || "").split("|")
+      window.DiehardFund.emojis.render = emojione.shortnameToImage
     %script{src: client_asset_path(:"app.js")}
 
     = javascript_include_tag 'angular_ahoy' if hosted_by_diehard_fund?

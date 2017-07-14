@@ -2,9 +2,9 @@ ro:
   new_help:
     title: Cu ce te putem ajuta?
     how_diehard_fund_works:
-      title: Cum functioneaza Diehard_Fund
+      title: Cum functioneaza DiehardFund
       start_group_link: Creaza un grup
-      start_group_description: pentru a colabora cu oameni in Diehard_Fund
+      start_group_description: pentru a colabora cu oameni in DiehardFund
       invite_people_link: Invita oameni
       invite_people_description: in cadrul grupului tau
       start_discussion_link: Discuţie nouă
@@ -17,9 +17,9 @@ ro:
       title: Continut
       getting_started:
         title_html: Notiuni de baza
-        starting_new_group_html: Cand doresti sa initiezi un nou grup Diehard_Fund
-        invited_into_group_html: Cand esti invitat intr-un grup Diehard_Fund
-        joining_existing_group_html: Cand doresti sa te alaturi unui grup Diehard_Fund existent
+        starting_new_group_html: Cand doresti sa initiezi un nou grup DiehardFund
+        invited_into_group_html: Cand esti invitat intr-un grup DiehardFund
+        joining_existing_group_html: Cand doresti sa te alaturi unui grup DiehardFund existent
         single_sign_on_html: Autentificarea sign-on unic
       group_settings:
         title_html: Setarile grupului
@@ -68,7 +68,7 @@ ro:
       keeping_up_to_date:
         title_html: Mentinerea la zi
         volume_html: Volum
-        yesterday_on_diehard_fund_html: "\"Ieri pe Diehard_Fund\""
+        yesterday_on_diehard_fund_html: "\"Ieri pe DiehardFund\""
         email_settings_html: Setări email
       user_profile:
         title_html: Profilul tau de utilizator
@@ -86,25 +86,25 @@ ro:
       security:
         title_html: Confidentialitate si securitate
       contributing:
-        title_html: Contribuirea la Diehard_Fund
+        title_html: Contribuirea la DiehardFund
       diehard_fund_community:
-        title_html: Comunitatea Diehard_Fund
+        title_html: Comunitatea DiehardFund
       diehard_fund_development:
-        title_html: La zi cu dezvoltarea Diehard_Fund
+        title_html: La zi cu dezvoltarea DiehardFund
       faq:
         title_html: Intrebari frecvente
     getting_started:
       title: Pregatit pentru a incepe
-      intro: "Sunt mai multe căi prin care poti deveni utilizator Diehard_Fund.\nVezi aici cateva informatii despre fiecare punct de intrare:\n"
+      intro: "Sunt mai multe căi prin care poti deveni utilizator DiehardFund.\nVezi aici cateva informatii despre fiecare punct de intrare:\n"
       starting_new_group:
-        title: Cand doresti sa initiezi un nou grup Diehard_Fund
+        title: Cand doresti sa initiezi un nou grup DiehardFund
       invited_into_group:
-        title: Cand esti invitat intr-un grup Diehard_Fund
-        body_html: "Invitatia de alaturare unui grup Diehard_Fund va sosi pe calea unui email care va contine un link singur link.\nAccesand acest link, in cazul in care nu ai deja un grup format, ti se va solicita sa creezi un cont folosind adresa ta de email si o parola.\nDaca ai deja un grup Diehard_Fund format vei fi dirijat spre acel grup.\n"
+        title: Cand esti invitat intr-un grup DiehardFund
+        body_html: "Invitatia de alaturare unui grup DiehardFund va sosi pe calea unui email care va contine un link singur link.\nAccesand acest link, in cazul in care nu ai deja un grup format, ti se va solicita sa creezi un cont folosind adresa ta de email si o parola.\nDaca ai deja un grup DiehardFund format vei fi dirijat spre acel grup.\n"
       joining_existing_group:
-        title_html: "Cand doresti sa te alaturi unui grup Diehard_Fund existent (the <a href=\"http://diehard.fund/explore\">Exploreaza pagina</a>)"
+        title_html: "Cand doresti sa te alaturi unui grup DiehardFund existent (the <a href=\"http://diehard.fund/explore\">Exploreaza pagina</a>)"
         body:
-          explore_page_html: "Comanda <a href=\"https://www.diehard.fund/explore\">Exploreeaza pagina</a> afiseaza grupurile tale active pe Diehard_Fund.\nLe poti accesa folosind aplicatia Diehard_Fund <strong>“Grupuri publice”</strong> accesand linkul din subsolul paginii.\nFolosind <a href=\"https://www.diehard.fund/explore\">Exploreaza pagina</a> poti cauta grupuri cu ajutorul titlului, cuvantului cheie sau categoriei, pentru a le explora continutul public.\nSetarile privind confidentialitatea grupului hotarasc modalitatea prin care poti deveni membru.\n"
+          explore_page_html: "Comanda <a href=\"https://www.diehard.fund/explore\">Exploreeaza pagina</a> afiseaza grupurile tale active pe DiehardFund.\nLe poti accesa folosind aplicatia DiehardFund <strong>“Grupuri publice”</strong> accesand linkul din subsolul paginii.\nFolosind <a href=\"https://www.diehard.fund/explore\">Exploreaza pagina</a> poti cauta grupuri cu ajutorul titlului, cuvantului cheie sau categoriei, pentru a le explora continutul public.\nSetarile privind confidentialitatea grupului hotarasc modalitatea prin care poti deveni membru.\n"
       single_sign_on:
         title: Autentificarea sign-on unic
     group_settings:
@@ -234,7 +234,7 @@ ro:
       email_settings:
         title: Setări email
       yesterday_on_diehard_fund:
-        title: Ieri pe Diehard_Fund
+        title: Ieri pe DiehardFund
     user_profile:
       title: Profilul tau de utilizator
       language_settings:
@@ -258,24 +258,24 @@ ro:
     security:
       title: Confidentialitate si securitate
     contributing:
-      title: Contribuirea la Diehard_Fund
+      title: Contribuirea la DiehardFund
       body:
-        intro: "Exista in prezent cateva metode prin care se pot face contributii directe la Diehard_Fund:"
+        intro: "Exista in prezent cateva metode prin care se pot face contributii directe la DiehardFund:"
         open_source:
           title_html: Dezvoltarea programelor cu sursa deschisa
         translation:
           title_html: Traducere
         diehard_fund_community:
-          title_html: Comunitatea Diehard_Fund
+          title_html: Comunitatea DiehardFund
     diehard_fund_community:
-      title: Comunitatea Diehard_Fund
+      title: Comunitatea DiehardFund
     diehard_fund_development:
-      title: La zi cu dezvoltarea Diehard_Fund
-      intro: "Exista cateva metode prin care poate fi urmarit progresul Diehard_Fund:"
-      github_repo_html: Depozit de dezvoltari principal pentru Diehard_Fund
-      angular_html: Diehard_Fund 1.0-beta in actiune
+      title: La zi cu dezvoltarea DiehardFund
+      intro: "Exista cateva metode prin care poate fi urmarit progresul DiehardFund:"
+      github_repo_html: Depozit de dezvoltari principal pentru DiehardFund
+      angular_html: DiehardFund 1.0-beta in actiune
       roadmap_html: Foaie de parcurs publica
-      twitter_html: Diehard_Fund pe Twitter
+      twitter_html: DiehardFund pe Twitter
     faq:
       title: Intrebari frecvente
       confirmation_email:

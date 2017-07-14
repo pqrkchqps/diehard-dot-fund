@@ -1,6 +1,6 @@
-This document aims to explain what we know about developing Diehard_Fund.
+This document aims to explain what we know about developing DiehardFund.
 
-Diehard_Fund started life as a Rails app. Recently we've been developing a javascript front end which communicates with a Rails API.
+DiehardFund started life as a Rails app. Recently we've been developing a javascript front end which communicates with a Rails API.
 
 Note: would be great to break this into Ruby and Javascript development parts.
 
@@ -12,7 +12,7 @@ You'll want to use this directive when linking to stuff within the app. it suppo
 
 ## Naming stuff (BEM)
 
-The front end of Diehard_Fund is divided into "components" and we have a really simple naming system which helps to keep the codebase easy to use as the application grows. You might have already heard about it, it's called [BEM][]. Here's how we've applied BEM to Diehard_Fund:
+The front end of DiehardFund is divided into "components" and we have a really simple naming system which helps to keep the codebase easy to use as the application grows. You might have already heard about it, it's called [BEM][]. Here's how we've applied BEM to DiehardFund:
 
 Components each have a unique name and that name is given to a folder with (typically) 3 files in it: code (Coffeescript) + template (HAML) + stylesheet (SCSS).
 
@@ -109,7 +109,7 @@ thread_page:
 Please use `snake_case` for your translation keys. We have a "common" namespace in the translations file. Please don't use this section for your translations. Always use the BEM namespace for the first part of your translation keys.
 
 ## Accessibility (a11y)
-We want to make Diehard_Fund the most accessible discussion platform available. Making the application accessible requires good knowledge of how to use semantic html tags and WCAG standards, as well as plenty of user feedback and testing.
+We want to make DiehardFund the most accessible discussion platform available. Making the application accessible requires good knowledge of how to use semantic html tags and WCAG standards, as well as plenty of user feedback and testing.
 
 Checklist
 - There should one and only one `h1` per page. It should be the page title.
@@ -123,9 +123,9 @@ Aria labelling:
 Make sure that everything you interact with is a form element or link.
 When you write `aria-hidden:true` in haml you need to quote it so `aria-hidden: 'true'`
 
-### Diehard_Fund specific accessibly tips
+### DiehardFund specific accessibly tips
 
-Diehard_Fund is visually divided up in to Cards. Each card should be it's own `section` element with an `h2` for the card title. So all cards should start off like so:
+DiehardFund is visually divided up in to Cards. Each card should be it's own `section` element with an `h2` for the card title. So all cards should start off like so:
 
 ```
   %section.members-card{ng-if: 'isMember()', aria-labelledby: 'members-card-title'}
@@ -143,7 +143,7 @@ A good thing to do is check your work with the [Tota11y](https://khan.github.io/
 
 ## Testing
 
-Currently there are 4 main testing components in Diehard_Fund. The rails app is tested with rspec and cucumber. The frontend app is tested with jasmine specs and protractor e2e tests.
+Currently there are 4 main testing components in DiehardFund. The rails app is tested with rspec and cucumber. The frontend app is tested with jasmine specs and protractor e2e tests.
 
 Guidelines for writing protractor tests:
 

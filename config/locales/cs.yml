@@ -32,7 +32,7 @@ cs:
       no_invitations_remaining: Nezbývají žádné pozvánky
     mailer:
       invitation_instructions:
-        subject: Někdo vás pozval do své Diehard_Fund skupiny
+        subject: Někdo vás pozval do své DiehardFund skupiny
     registrations:
       sign_up: Vytvořit účet
   error:
@@ -74,7 +74,7 @@ cs:
   notice:
     admin_rights_removed: Koordinátorská práva %{which_user} bylo odebrána.
     user_added: "%{user_email_or_name} byl(a) přidán(a) do skupiny."
-    new_user_added: "%{user_email_or_name} bude přidán do skupiny poté co si zařídí účet na Diehard_Fund."
+    new_user_added: "%{user_email_or_name} bude přidán do skupiny poté co si zařídí účet na DiehardFund."
     member_removed: Člen odstraněn.
     membership_approved: Členství schváleno.
     membership_request_canceled: Žádost o členství zrušena.
@@ -169,7 +169,7 @@ cs:
         few: "%{count} lety"
         other: "%{count} lety"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Přepnout navigaci
   inbox:
@@ -206,15 +206,15 @@ cs:
   find_a_group_hint: Prozkoumat veřejné skupiny
   search_for_group: Hledat skupinu ...
   no_groups_found: Nebyly nalezeny žádné skupiny s takovýmto jménem!
-  no_group_header: Vítejte na Diehard_Fund Beta
+  no_group_header: Vítejte na DiehardFund Beta
   empty_notifications: Nemáte zatím žádná upozornění.
   see_all_notifications: Zobrazit všechna upozornění
   sign_out: Odhlásit se
   sign_in: Přihlásit se
   honeypot_warning: Nepovedlo se vytvořit váš účet. Pokud používáte screen reader, ujistěte se prosím, že poslední (skryté) pole ve formuláři je prázdné.
   tagline: Vytváříme svět, kde je jednoduché pro kohokoliv se podílet na rozhodnutích, které je ovlivňují.
-  or_sign_in_html: Pokud už máte Diehard_Fund účet, <a href='%{link}' class='%{link_class}'>přihlaste se zde</a>
-  or_link_account_html: Pokud už máte Diehard_Fund účet, <a href='%{link}'>propojte své účty</a>
+  or_sign_in_html: Pokud už máte DiehardFund účet, <a href='%{link}' class='%{link_class}'>přihlaste se zde</a>
+  or_link_account_html: Pokud už máte DiehardFund účet, <a href='%{link}'>propojte své účty</a>
   click_to_dismiss: Klikněte sem pro uzavření této zprávy
   generic_confirm: Jste si jisti?
   discussion_helper_text:
@@ -245,7 +245,7 @@ cs:
       info_title: Co bude deaktivace vašeho účtu znamenat?
       memberships: Již nebude uveden jako člen v žádné ze skupin, do kterých současnosti patříte.
       group_contributions: Komentáře, návrhy a diskuse, které jste provedli ve skupinách zůstanou, ale bude z nich odstraněno vaše jméno.
-      emails: Přestaneme vám zasílat emaily související s Diehard_Fund.
+      emails: Přestaneme vám zasílat emaily související s DiehardFund.
   group_form:
     name: Název skupiny
     description: Popis
@@ -485,13 +485,13 @@ cs:
   edit_comment:
     edit_comment: Upravit komentář
   help:
-    coordinating: Koordinace vaší Diehard_Fund skupiny
-    different_ways: Různé způsoby jak použít Diehard_Fund
+    coordinating: Koordinace vaší DiehardFund skupiny
+    different_ways: Různé způsoby jak použít DiehardFund
     get_in_touch: Spojte se s námi
     get_in_touch_description_html: Pokud máte jakékoli otázky nebo připomínky, <a href='%{link}'>napište nám</a>.
     getting_started: Jak začít
     getting_started_description: Nalevo skupina prodiskutuje téma, vymění si názory a informace. Když nastane čas pro rozhodnutí, rozhodnutí se objeví napravo.
-    getting_the_most: Získání co nejvíce z Diehard_Fund
+    getting_the_most: Získání co nejvíce z DiehardFund
     have_your_say: Vyjádřete svůj názor
     have_a_discussion: Mějte diskuzi
     have_a_discussion_description: Téma a veškeré relevantní související informace se nacházejí v horní části stránky. Pomocí pole pro komentář vneste svůj hlas do diskuze.
@@ -512,8 +512,8 @@ cs:
     start_proposal: Napsání jasného návrhu
     video_id: '52025402'
     video_tutorial: Zobrazit tutoriál
-    video_tutorial_description: Shlédněte rychlou ukázku toho, jak se Diehard_Fund používá.
-    what_is_diehard_fund: Co je Diehard_Fund?
+    video_tutorial_description: Shlédněte rychlou ukázku toho, jak se DiehardFund používá.
+    what_is_diehard_fund: Co je DiehardFund?
   hint:
     context: Rady pro používání kontextového panelu
     discussion: Rady k zahájení poutavé diskuze
@@ -528,7 +528,7 @@ cs:
     submit: Přispějte
     tooltip: Dověďte se více o našem komunitním modelu financování
     thought_about_contributing: Vaše šance přispět
-    thank_you_title: Děkujeme za přispění k Diehard_Fund!
+    thank_you_title: Děkujeme za přispění k DiehardFund!
     making_a_donation: Poskytnutí daru
   resend_confirmation: Znovu poslat pokyny k potvrzení
   new_password: Nové heslo
@@ -550,13 +550,13 @@ cs:
   create_one_now: Vytvořte si ho právě teď
   sign_up_via: Přihláste se přes
   or_fill_in_this_form: nebo vyplňte tento formulář
-  already_have_account: Již máte účet na Diehard_Fund?
+  already_have_account: Již máte účet na DiehardFund?
   confirm_your_details: Potvrďte své údaje
   link_up_your_account: Propojte svůj účet
-  log_in_to_your_diehard_fund_account: Přihlaste se ke svému účtu na Diehard_Fund a propojte jej s %{provider_name}.
+  log_in_to_your_diehard_fund_account: Přihlaste se ke svému účtu na DiehardFund a propojte jej s %{provider_name}.
   confirmation_not_received: Nepřišly vám pokyny k potvrzení?
   unlock_not_received: Nepřišly vám pokyny k odemčení?
-  create_an_account_html: Vytvořte si účet na Diehard_Fund Beta
+  create_an_account_html: Vytvořte si účet na DiehardFund Beta
   log_in: Přihlásit se
   join_group:
     log_in: Napište nám, abyste se přidal(a) k %{group_name}
@@ -570,7 +570,7 @@ cs:
     invitation_already_used: Tato pozvánka už byla použita. Prosím přihlaste se, abyste pokračoval(a) ke své skupině.
     recipients: 'Zadejte emailové adresy, oddělené čárkami:'
     invitees_placeholder: Uživatelské jméno <uzivatel1@priklad.cz>, uzivatel2@priklad.cz
-    subject: Prosím přidejte se do naší nové skupiny %{group} na Diehard_Fund
+    subject: Prosím přidejte se do naší nové skupiny %{group} na DiehardFund
     invite_people: Pozvěte lidi do své skupiny
     invite_to_discussion: Pozvat lidi k této diskuzi
     select_members: Přidat členy z %{group_name}
@@ -632,7 +632,7 @@ cs:
     desc_header: Už jste skoro tam!
     submit: Hurá do skupiny!
     payment_model:
-      header: Diehard_Fund je pro všechny!
+      header: DiehardFund je pro všechny!
       info: Máme platební model, který vyhovuje jakékoliv skupině, i těm bez peněz :)
       link: Dověďte se více
   simple_form:
@@ -677,8 +677,8 @@ cs:
         create: Vytvořit účet
         update: Aktualizovat nastavení
   meta_tags:
-    default_title: Diehard_Fund | Společné rozhodování
-  about_diehard_fund: O Diehard_Fund
+    default_title: DiehardFund | Společné rozhodování
+  about_diehard_fund: O DiehardFund
   ago: před %{quantity_of_time}
   approve: Schválit
   attachments: 'Přílohy:'
@@ -686,7 +686,7 @@ cs:
   back: Zpět
   cancel: Zrušit
   change: Změnit
-  change_language: Klikněte sem pro Diehard_Fund v %{language}
+  change_language: Klikněte sem pro DiehardFund v %{language}
   changing: Mění se
   click_here: Klikněte sem
   close: Uzavřít
@@ -720,7 +720,7 @@ cs:
   pricing: Ceník
   prev: Předchozí
   more: Více...
-  translate: Pomozte přeložit Diehard_Fund!
+  translate: Pomozte přeložit DiehardFund!
   translate_field: Zobrazit překlad
   loading_translation: Nahrávám překlad...
   translate_this_string: Přeložit do %{language}
@@ -862,4 +862,4 @@ cs:
     health: Zdraví
   webhooks:
     slack:
-      view_it_on_diehard_fund: Zobrazení na Diehard_Fund
+      view_it_on_diehard_fund: Zobrazení na DiehardFund

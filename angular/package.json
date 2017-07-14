@@ -1,7 +1,7 @@
 {
-  "name": "Diehard_Fund",
+  "name": "DiehardFund",
   "version": "1.0.0",
-  "description": "Assets for Diehard_Fund 1.0",
+  "description": "Assets for DiehardFund 1.0",
   "main": "gulpfile.coffee",
   "scripts": {
     "test": "gulp test"

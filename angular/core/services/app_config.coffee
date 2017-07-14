@@ -1,6 +1,6 @@
 angular.module('diehard_fundApp').factory 'AppConfig', ->
-  configData = if window? and window.Diehard_Fund?
-                 window.Diehard_Fund
+  configData = if window? and window.DiehardFund?
+                 window.DiehardFund
                else
                  {bootData: {}, permittedParams: {}}
 

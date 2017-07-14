@@ -2,15 +2,15 @@
 
 module LocalesHelper
   def selectable_locales
-    Diehard_Fund::I18n::SELECTABLE_LOCALES
+    DiehardFund::I18n::SELECTABLE_LOCALES
   end
 
   def detectable_locales
-    Diehard_Fund::I18n::DETECTABLE_LOCALES
+    DiehardFund::I18n::DETECTABLE_LOCALES
   end
 
   def rtl_locales
-    Diehard_Fund::I18n::RTL_LOCALES
+    DiehardFund::I18n::RTL_LOCALES
   end
 
   def angular_locales

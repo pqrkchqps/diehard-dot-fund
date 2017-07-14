@@ -2,7 +2,7 @@ nl-NL:
   new_help:
     how_diehard_fund_works:
       start_group_link: Begin een groep
-      start_group_description: om samen te werken met mensen op Diehard_Fund
+      start_group_description: om samen te werken met mensen op DiehardFund
       invite_people_link: Mensen uitnodigen
       invite_people_description: tot je groep
       start_discussion_link: Begin een discussie
@@ -14,9 +14,9 @@ nl-NL:
     contents:
       getting_started:
         title_html: Aan de slag
-        starting_new_group_html: Wanneer je een nieuwe Diehard_Fund groep wil beginnen
-        invited_into_group_html: Wanneer je wordt uitgenodigd tot een Diehard_Fund groep
-        joining_existing_group_html: Wanneer je je wilt aansluiten bij een bestaande Diehard_Fund groep
+        starting_new_group_html: Wanneer je een nieuwe DiehardFund groep wil beginnen
+        invited_into_group_html: Wanneer je wordt uitgenodigd tot een DiehardFund groep
+        joining_existing_group_html: Wanneer je je wilt aansluiten bij een bestaande DiehardFund groep
         single_sign_on_html: Enkelvoudig aanmelden
       group_settings:
         title_html: Groepsinstellingen
@@ -65,7 +65,7 @@ nl-NL:
       keeping_up_to_date:
         title_html: Op de hoogte houden
         volume_html: Volume
-        yesterday_on_diehard_fund_html: "\"Gisteren op Diehard_Fund\""
+        yesterday_on_diehard_fund_html: "\"Gisteren op DiehardFund\""
         email_settings_html: E-mail instellingen
       user_profile:
         title_html: Je gebruikersprofiel
@@ -83,18 +83,18 @@ nl-NL:
       security:
         title_html: Privacy en veiligheid
       contributing:
-        title_html: Bijdragen aan Diehard_Fund
+        title_html: Bijdragen aan DiehardFund
       diehard_fund_community:
-        title_html: De Diehard_Fund Gemeenschap
+        title_html: De DiehardFund Gemeenschap
       diehard_fund_development:
-        title_html: Op de hoogte blijven van Diehard_Fund ontwikkeling
+        title_html: Op de hoogte blijven van DiehardFund ontwikkeling
     getting_started:
       title: Aan de slag
-      intro: "Wanneer je voor het eerst in Diehard_Fund komt, kan je op verschillende manieren meedoen.\nHier is informatie over elke mogelijkheid:\n"
+      intro: "Wanneer je voor het eerst in DiehardFund komt, kan je op verschillende manieren meedoen.\nHier is informatie over elke mogelijkheid:\n"
       starting_new_group:
-        title: Wanneer je een nieuwe Diehard_Fund groep wil beginnen
+        title: Wanneer je een nieuwe DiehardFund groep wil beginnen
       invited_into_group:
-        title: Wanneer je wordt uitgenodigd tot een Diehard_Fund groep
+        title: Wanneer je wordt uitgenodigd tot een DiehardFund groep
       single_sign_on:
         title: Enkelvoudig aanmelden
     group_settings:
@@ -221,7 +221,7 @@ nl-NL:
       email_settings:
         title: E-mail instellingen
       yesterday_on_diehard_fund:
-        title: Gisteren op Diehard_Fund
+        title: Gisteren op DiehardFund
     user_profile:
       title: Je gebruikersprofiel
       language_settings:
@@ -245,11 +245,11 @@ nl-NL:
     security:
       title: Privacy en veiligheid
     contributing:
-      title: Bijdragen aan Diehard_Fund
+      title: Bijdragen aan DiehardFund
       body:
         translation:
           title_html: Vertaling
         diehard_fund_community:
-          title_html: De Diehard_Fund Gemeenschap
+          title_html: De DiehardFund Gemeenschap
     diehard_fund_community:
-      title: De Diehard_Fund Gemeenschap
+      title: De DiehardFund Gemeenschap

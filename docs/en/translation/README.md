@@ -1,4 +1,4 @@
-This page is a guide for people who would like to contribute translations to Diehard_Fund.
+This page is a guide for people who would like to contribute translations to DiehardFund.
 
 _If you're a developer, check out the [code guide](https://github.com/diehard_fund/diehard_fund/wiki/Translation-for-Developers)_
 
@@ -19,7 +19,7 @@ _If you're a developer, check out the [code guide](https://github.com/diehard_fu
 
 **Links** - - {
 [Email us](mailto: contact@diehard.fund) } - {
-[Diehard_Fund group](https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation) } - {
+[DiehardFund group](https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation) } - {
 [Transifex](https://www.transifex.com/projects/p/diehard_fund-1/)  } - { 
 [Twitter updates](https://twitter.com/search?f=realtime&q=%40diehard_fund%20%23translation) } - -
 
@@ -31,8 +31,8 @@ We use Transifex to manage our translation process (an excellent service that's 
 
 ### + join an existing language
 
-You can see the full list of languages underway on the [Diehard_Fund Transifex page](https://www.transifex.com/projects/p/diehard_fund-1/)
-Click "Help Translate Diehard_Fund" and ask to join a translation **[this needs some more detail]**
+You can see the full list of languages underway on the [DiehardFund Transifex page](https://www.transifex.com/projects/p/diehard_fund-1/)
+Click "Help Translate DiehardFund" and ask to join a translation **[this needs some more detail]**
 
 NB: Make sure you click 'Display all Languages' :  
 [![image](https://cloud.githubusercontent.com/assets/2665886/4144368/73d5762a-33de-11e4-9c47-56838886b741.png)](https://www.transifex.com/projects/p/diehard_fund-1/)
@@ -48,10 +48,10 @@ If you're not sure or need help, please [email us](mailto:nati@diehard.fund)
 
 ### + set a fall-back language (optional)
 
-If a translation is missing in your language Diehard_Fund will 'fall back' to using English in that location (so that there is at least some text present).
+If a translation is missing in your language DiehardFund will 'fall back' to using English in that location (so that there is at least some text present).
 If you would like to recommend a better fall-back language please [let us know](mailto:nati@diehard.fund).
 
-You can see Diehard_Fund's current fall-back settings at the bottom of this page : www.diehard.fund/translation 
+You can see DiehardFund's current fall-back settings at the bottom of this page : www.diehard.fund/translation 
 
 
 ***
@@ -62,7 +62,7 @@ Make sure you have either joined/ created a language (and have a Transifex accou
 
 ### + the basics
 
-1. visit the [Diehard_Fund Transifex page](https://www.transifex.com/projects/p/diehard_fund-1/), and click on your language
+1. visit the [DiehardFund Transifex page](https://www.transifex.com/projects/p/diehard_fund-1/), and click on your language
 ![image](https://cloud.githubusercontent.com/assets/2665886/4144134/84c438c2-33d9-11e4-9267-91e429e50409.png)
 
 2. select the resource you want to translate
@@ -83,7 +83,7 @@ Ignore anything in angle brackets or curly braces. E.g.:
 ```
 <h2>Welcome</h2>
 <p>
-%{who} invited you to Diehard_Fund! 
+%{who} invited you to DiehardFund! 
 <a href='%{link}'>Click here to visit %{group_name}!</a>
 </p>
 ```
@@ -123,7 +123,7 @@ If you would like to see translations up faster, please tweet us or email [Nati]
 
 ![image](https://cloud.githubusercontent.com/assets/2665886/4211018/ab080ed2-387f-11e4-93f4-f53f673bad50.png)
 
-context: [Github](https://github.com/diehard_fund/diehard_fund) is where the working code of Diehard_Fund is managed and deployed from.
+context: [Github](https://github.com/diehard_fund/diehard_fund) is where the working code of DiehardFund is managed and deployed from.
  
 1. Transifex grabs a copy of all the English phrases from Github (auotmatic)
 2. Amazing community uses Transifex to translate all these phrases.
@@ -141,4 +141,4 @@ context: [Github](https://github.com/diehard_fund/diehard_fund) is where the wor
 
 ## Improving processes, giving feedback
 
-If you would like to suggest an improvement, or have some feedback on the translation process, please feel free to start a discussion in the [Diehard_Fund group](https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation), or email Nati at nati@diehard.fund  
+If you would like to suggest an improvement, or have some feedback on the translation process, please feel free to start a discussion in the [DiehardFund group](https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation), or email Nati at nati@diehard.fund  

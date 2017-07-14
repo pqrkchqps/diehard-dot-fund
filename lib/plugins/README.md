@@ -1,6 +1,6 @@
-# HOWTO: Developing Diehard_Fund Plugins
+# HOWTO: Developing DiehardFund Plugins
 
-Due to popular demand, we've implemented a simple plugin architecture to allow contributors to supply their own awesome improvements to Diehard_Fund. This is a great place to start!
+Due to popular demand, we've implemented a simple plugin architecture to allow contributors to supply their own awesome improvements to DiehardFund. This is a great place to start!
 
 ## Setting up a plugin
 Every plugin must be a folder within the `/plugins` directory, with a `plugin.rb` file in it. Like so:
@@ -73,7 +73,7 @@ Then, in order to include this class, we can write the following line into our s
   plugin.use_class 'models/kickflip'
 ```
 
-We spin up our Diehard_Fund instance, and voila!
+We spin up our DiehardFund instance, and voila!
 ```
 > Kickflip.new.perform
 100 points!
@@ -113,8 +113,8 @@ If you want to extend an existing class, you can do so easily! Here we use the `
 100 points!
 ```
 
-### Listen for Diehard_Fund events
-Diehard_Fund emits all kinds of events as things happen within the app. Most service methods (the files living in `app/services`) will emit events, as well as when new Event instances are created (`app/models/events`). In order to listen to these events, you can use the `use_events` method, which will supply you an instance of our EventBus to apply listeners to.
+### Listen for DiehardFund events
+DiehardFund emits all kinds of events as things happen within the app. Most service methods (the files living in `app/services`) will emit events, as well as when new Event instances are created (`app/models/events`). In order to listen to these events, you can use the `use_events` method, which will supply you an instance of our EventBus to apply listeners to.
 
 Parameters passed through these events vary a little based on the event, but the following rules of thumb apply:
 
@@ -158,7 +158,7 @@ This will make your component available within the app.
 
 ### Add routes to the angular app
 
-If you're adding an entirely new page to Diehard_Fund, you'll need to add a route in order to allow us to
+If you're adding an entirely new page to DiehardFund, you'll need to add a route in order to allow us to
 navigate to your new page properly. To do this, use the `use_client_route` command
 
 ```ruby
@@ -177,7 +177,7 @@ So now we can simply write our controller code as normal:
       kickflip_page.coffee
 ```
 
-For examples on how to write page controllers (which are subtly different from regular components), check out [thread_page_controller.coffee](https://github.com/diehard_fund/diehard_fund/blob/master/angular/core/components/thread_page/thread_page_controller.coffee) or [group_page_controller.coffee](https://github.com/diehard_fund/diehard_fund/blob/master/angular/core/components/group_page/group_page_controller.coffee) in the core Diehard_Fund repo.
+For examples on how to write page controllers (which are subtly different from regular components), check out [thread_page_controller.coffee](https://github.com/diehard_fund/diehard_fund/blob/master/angular/core/components/thread_page/thread_page_controller.coffee) or [group_page_controller.coffee](https://github.com/diehard_fund/diehard_fund/blob/master/angular/core/components/group_page/group_page_controller.coffee) in the core DiehardFund repo.
 
 _NB: you don't need to call `use_component` as well, calling `use_client_route` will do this for you!)_
 
@@ -276,7 +276,7 @@ Now, when our KickflipPageController calls `kickflip()`, we get "100 points, and
 
 ##### Add vanilla rails views
 
-While it's not encouraged, it is possible to add vanilla rails views to your Diehard_Fund instance.
+While it's not encouraged, it is possible to add vanilla rails views to your DiehardFund instance.
 (We do this for things like the about page, or the terms of service page on diehard.fund)
 
 In order to add a page to your app, use `plugin.use_page`, passing it a view and a controller action.
@@ -355,7 +355,7 @@ If you need a spot in the database to store all the cool stuff your plugin is do
 ```
 Note that `do` block can accept anything you'd put in a typical `create_table` block in a migration
 
-Also note that while you can add new tables to the schema, we don't support modifying the existing tables in Diehard_Fund core via plugin.
+Also note that while you can add new tables to the schema, we don't support modifying the existing tables in DiehardFund core via plugin.
 
 ### Add routes
 If your plugin needs to communicate between the client and server side, you'll want to set up a route.
@@ -485,7 +485,7 @@ behaves, those changes will take place across the entire instance.
 
 ### Add user permissions
 
-For most of the actions that occur in Diehard_Fund, you'll want to ensure that the current user is able to perform that action. We use [cancan](), and store our permissions in the `app/models/ability.rb` file.
+For most of the actions that occur in DiehardFund, you'll want to ensure that the current user is able to perform that action. We use [cancan](), and store our permissions in the `app/models/ability.rb` file.
 
 Unfortunately, overwriting this file directly isn't an option, but you can add new abilities by overriding the `add_additional_abilities` method, like so:
 
@@ -498,7 +498,7 @@ end
 ```
 
 ### Add tests
-The official Diehard_Fund plugins will all have just the right amount of tests, and so can you!
+The official DiehardFund plugins will all have just the right amount of tests, and so can you!
 
 ##### RSpec tests
 
@@ -529,7 +529,7 @@ end
 
 ##### End to end testing
 
-Diehard_Fund uses [protractor](http://github.com/angular/protractor), which is a framework for running automated tests on Angular. We use a very simple DSL to write these tests; you can look at examples in `angular/test/protractor`
+DiehardFund uses [protractor](http://github.com/angular/protractor), which is a framework for running automated tests on Angular. We use a very simple DSL to write these tests; you can look at examples in `angular/test/protractor`
 
 In order to write angular tests in your application, add a file that follows the pattern `*_spec.coffee` anywhere in your plugin. (Such as `plugins/kickflip/test/kickflip_spec.coffee`). You can then write angular specs in there as in the main repo (and they will be run by our CI.)
 

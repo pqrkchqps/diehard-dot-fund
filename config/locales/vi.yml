@@ -51,7 +51,7 @@ vi:
   notice:
     admin_rights_removed: Quyền điều hành viên của %{which_user} đã bị loại bỏ.
     user_added: "%{user_email_or_name} đã được thêm vào nhóm."
-    new_user_added: "%{user_email_or_name} đã được thêm vào nhóm sau khi đăng ký một tài khoản tại Diehard_Fund."
+    new_user_added: "%{user_email_or_name} đã được thêm vào nhóm sau khi đăng ký một tài khoản tại DiehardFund."
     member_removed: Loại bỏ thành viên.
     membership_approved: Đã chấp thuận yêu cầu làm thành viên.
     membership_request_canceled: Đã hủy bỏ việc gửi yêu cầu làm thành viên.
@@ -289,18 +289,18 @@ vi:
       abstain: đã không thích
       block: đã chặn
   help:
-    coordinating: Hợp tác cùng nhóm Diehard_Fund của bạn
+    coordinating: Hợp tác cùng nhóm DiehardFund của bạn
     coordinating_details: |
-      Với vai trò là người hợp tác, bạn sẽ chịu trách nhiệm với việc khởi tạo nhóm Diehard_Fund của mình và việc mời
+      Với vai trò là người hợp tác, bạn sẽ chịu trách nhiệm với việc khởi tạo nhóm DiehardFund của mình và việc mời
       mọi người tham gia. Cũng như việc nghiên cứu về các mảng phần mềm mới, nhóm của bạn sẽ
       trả qua các tiến trình tham gia về cách hoạt động nhóm theo cách hiệu quả nhất cũng như đưa ra các
       quyết định cùng nhau trong nhóm. Ở đây là các gợi ý về việc hỗ trợ cho nhóm bạn nhằm hướng đến sự thành công mong muốn:
-    different_ways: Các cách khác nhau để sử dụng Diehard_Fund
+    different_ways: Các cách khác nhau để sử dụng DiehardFund
     engaging_html: |
       <h2>Gợi ý giúp nhóm của bạn trở nên hấp dẫn hơn với các thành viên</h2>
       <p>Mọi người sẽ nhanh chóng trở nên thích thú và tham gia ngay vào thảo luận khi có lời đề nghị độc đáo nào đó. Một lời đề nghị độc đáo cần chứa một kế hoạch rõ ràng, vì thế
       cần tạo sự rõ ràng giữa trạng thái đồng ý và không đồng ý trên chính nội dung bàn thảo. Hãy nghĩ về cách xác định các phần thảo luận/đưa ra quyết định mà nhóm hiện đang khởi thảo hoặc
-      cung cấp một địa chỉ email liên hệ trực tiếp trên Diehard_Fund.</p>
+      cung cấp một địa chỉ email liên hệ trực tiếp trên DiehardFund.</p>
       <p>Nếu nhóm của bạn chỉ vừa mới bắt đầu, bạn có thể đưa ra các lời đề nghị đơn giản, nhằm giúp
       mọi người có cơ hội tham gia vào và sử dụng các công cụ để họ đưa ra các quyết định của riêng mình.</p>
       <p>Một cách đơn giản khác là khuyến khích mọi người tham gia vào và sử dụng tính năng @đề cập
@@ -321,7 +321,7 @@ vi:
     get_in_touch: Giữ liên lạc
     getting_started: Chuẩn bị bắt đầu
     getting_started_description: Phía bên trái, là khu vực nhóm đang thảo luận về một chủ đề, trao đổi ý kiến cũng như thông tin liên quan. Khi việc quy trình thực thi các quyết định được diễn ra, phần này sẽ hiển thị phía trên bên phải.
-    getting_the_most: Tìm hiểu về các tính năng trên Diehard_Fund
+    getting_the_most: Tìm hiểu về các tính năng trên DiehardFund
     have_your_say: Phát biểu ý kiến của bạn
     have_your_say_details_html: |
       <p>Khi bạn đã sẵn sàng cho phần đưa ra ý kiến, hãy click vào một trong bốn nút thể hiện sự lựa chọn của chính bạn.</p>
@@ -345,7 +345,7 @@ vi:
     start_proposal: Viết một lời đề nghị rõ ràng
     video_id: '52025402'
     video_tutorial: Xem video hướng dẫn
-    video_tutorial_description: Xem thử video minh họa về cách sử dụng Diehard_Fund.
+    video_tutorial_description: Xem thử video minh họa về cách sử dụng DiehardFund.
   hint:
     context: Gợi ý về cách sử dụng khung điều khiển nội dung
     discussion: Gợi ý về cách bắt đầu tham gia thảo luận
@@ -360,7 +360,7 @@ vi:
     submit: Đóng góp
     tooltip: Tìm hiểu về mô hình quỹ tài chính của cộng đồng chúng tôi
     thought_about_contributing: Cơ hội của bạn để cống hiến
-    thank_you_title: Cảm ơn bạn rất nhiều về sự đóng góp mà bạn dành cho Diehard_Fund!
+    thank_you_title: Cảm ơn bạn rất nhiều về sự đóng góp mà bạn dành cho DiehardFund!
     making_a_donation: Ủng hộ tài chính
   resend_confirmation: Gửi lại việc xác nhận hướng dẫn
   new_password: Tạo mật khẩu mới
@@ -385,9 +385,9 @@ vi:
     invitation_cancelled: Lời mời tham gia này đã bị hủy bỏ. Vui lòng liên hệ người gửi về lời mời tham gia nhóm nếu bạn nghĩ rằng đã có lỗi xảy ra.
     recipients: 'Điền vào các địa chỉ email, tách biệt bởi dấu phẩy:'
     invitees_placeholder: Tên người dùng <user1@example.com>, user2@example.com
-    subject: Hãy tham dự nhóm mới của chúng tôi trên Diehard_Fund, %{group}
+    subject: Hãy tham dự nhóm mới của chúng tôi trên DiehardFund, %{group}
     invite_people: Mời những người khác đến nhóm của bạn
-    body_editable: 'Chào bồ, hãy tham gia chung cùng chúng tôi trong việc đưa ra quyết định nhé! Chúng tôi hiện đang sử dụng một nền tảng tên là Diehard_Fund có khả năng tạo ra một môi trường tích hợp giúp các thành viên của một nhóm có thể hợp tác chung với nhau để cùng thảo luận về một chủ đề nào đó.
+    body_editable: 'Chào bồ, hãy tham gia chung cùng chúng tôi trong việc đưa ra quyết định nhé! Chúng tôi hiện đang sử dụng một nền tảng tên là DiehardFund có khả năng tạo ra một môi trường tích hợp giúp các thành viên của một nhóm có thể hợp tác chung với nhau để cùng thảo luận về một chủ đề nào đó.
 
 '
     message_body: Nội dung thư mời
@@ -468,7 +468,7 @@ vi:
   back: Quay lại
   cancel: Hủy bỏ
   change: Thay đổi
-  change_language: Click vào đây để sử dụng Diehard_Fund phiên bản tiếng %{language}
+  change_language: Click vào đây để sử dụng DiehardFund phiên bản tiếng %{language}
   changing: Đang thay đổi
   click_here: Click vào đây
   close: Đóng lại
@@ -497,7 +497,7 @@ vi:
   outcome: Kết quả
   password: Mật khẩu
   prev: Trước đó
-  translate: Tham gia vào công tác chuyển ngữ Diehard_Fund!
+  translate: Tham gia vào công tác chuyển ngữ DiehardFund!
   options: Tùy chọn
   ok_got_it: Ô kê con tê tê, tôi đã hiểu rồi!
   remove: Loại bỏ

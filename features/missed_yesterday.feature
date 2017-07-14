@@ -1,6 +1,6 @@
 Feature: Missed yesterday email
   Background:
-    Given I am an existing Diehard_Fund user
+    Given I am an existing DiehardFund user
     And I am a member of a group
     And I am subscribed to the missed yesterday email
 

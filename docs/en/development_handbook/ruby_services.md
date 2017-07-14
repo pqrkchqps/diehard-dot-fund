@@ -1,4 +1,4 @@
-# Services in the Diehard_Fund rails app
+# Services in the DiehardFund rails app
 
 If you're new to service objects, the incredible blog post [7 Patterns to Refactor ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 explains that Service Objects encapsulate an action in the system.

@@ -1,5 +1,5 @@
 require 'yaml'
-module Diehard_Fund
+module DiehardFund
   class I18n
     config = YAML.load_file(Rails.root.join('config', 'diehard_fund_i18n.yml'))['diehard_fund_i18n']
 

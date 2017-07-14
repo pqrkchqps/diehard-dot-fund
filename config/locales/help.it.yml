@@ -2,9 +2,9 @@ it:
   new_help:
     title: Come possiamo aiutarti?
     how_diehard_fund_works:
-      title: Come funziona Diehard_Fund
+      title: Come funziona DiehardFund
       start_group_link: Crea un gruppo
-      start_group_description: Per collaborare con altre persone in Diehard_Fund
+      start_group_description: Per collaborare con altre persone in DiehardFund
       invite_people_link: Invita persone
       invite_people_description: nel tuo gruppo
       start_discussion_link: Comincia discussione
@@ -14,9 +14,9 @@ it:
     contents:
       title: Indice
       what_is_diehard_fund:
-        title: "Cos'è Diehard_Fund?"
+        title: "Cos'è DiehardFund?"
       how_diehard_fund_works:
-        title: Come funziona Diehard_Fund
+        title: Come funziona DiehardFund
       getting_started:
         title_html: Per cominciare
         single_sign_on_html: Single sign-on
@@ -64,7 +64,7 @@ it:
         title_html: La tua bacheca
       keeping_up_to_date:
         volume_html: Volume
-        yesterday_on_diehard_fund_html: Ieri su Diehard_Fund
+        yesterday_on_diehard_fund_html: Ieri su DiehardFund
         email_settings_html: Impostazioni Email
       user_profile:
         title_html: Il tuo profilo utente
@@ -82,11 +82,11 @@ it:
       security:
         title_html: Privacy e sicurezza
       contributing:
-        title_html: Contribuire allo sviluppo di Diehard_Fund
+        title_html: Contribuire allo sviluppo di DiehardFund
       diehard_fund_community:
-        title_html: La community di Diehard_Fund
+        title_html: La community di DiehardFund
       diehard_fund_development:
-        title_html: Essere aggiornati sullo sviluppo di Diehard_Fund
+        title_html: Essere aggiornati sullo sviluppo di DiehardFund
       faq:
         title_html: Domande frequenti - FAQ
     getting_started:
@@ -191,7 +191,7 @@ it:
       email_settings:
         title: Impostazioni Email
       yesterday_on_diehard_fund:
-        title: Ieri su Diehard_Fund
+        title: Ieri su DiehardFund
     user_profile:
       title: Il tuo profilo utente
       language_settings:
@@ -215,13 +215,13 @@ it:
     security:
       title: Privacy e sicurezza
     contributing:
-      title: Contribuire allo sviluppo di Diehard_Fund
+      title: Contribuire allo sviluppo di DiehardFund
       body:
         translation:
           title_html: Traduzione
         diehard_fund_community:
-          title_html: La community di Diehard_Fund
+          title_html: La community di DiehardFund
     diehard_fund_community:
-      title: La community di Diehard_Fund
+      title: La community di DiehardFund
     faq:
       title: Domande frequenti (FAQ)

@@ -70,7 +70,7 @@ mi:
       start: Tīmatahia
     formatting_help:
       label: 'He whakanikoniko pūreta'
-      title: 'Akona te Markdown hei whakahoahoa i o tuhinga i runga o Diehard_Fund'
+      title: 'Akona te Markdown hei whakahoahoa i o tuhinga i runga o DiehardFund'
   error_page:
     forbidden: 'Kāhore e tukua ana tāu mahi'
   start_proposal_card:
@@ -97,7 +97,7 @@ mi:
     unread: 'Kāhore anō kia kitea'
     closing_in: 'Kei te tata te mutu'
   sign_up_form:
-    title: "Nau mai, haere mai ki a Diehard_Fund!  Ko tēnei te wā whakatau i a koe."
+    title: "Nau mai, haere mai ki a DiehardFund!  Ko tēnei te wā whakatau i a koe."
     name_label: 'Tōu ingoa:'
     name_placeholder: 'Hēni Tia'
     email_label: 'Wāhi īmēra:'

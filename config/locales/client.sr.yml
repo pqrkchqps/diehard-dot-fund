@@ -282,7 +282,7 @@ sr:
   proposal_position_no: 'Nesaglasnost'
   proposal_position_block: 'Blokiranje'
   legacy_trial_expired_modal:
-    heading: "Hvala što ste koristili Diehard_Fund ove godine!"
+    heading: "Hvala što ste koristili DiehardFund ove godine!"
     body: |
       <p>Zaista cenimo Vašu podršku tokom godine i totalno smo uzbuđeni oko toga da učinimo Lumio još boljim u 2016.</p>
       <p>Da li je Lumio koristan Vašoj grupi? Upravo smo objavili plan cena i pitamo grupe koje već koriste Lumio neko vreme da odaberu plan koji im odgovara.</p>
@@ -383,7 +383,7 @@ sr:
     select: Odaberi
   subscription_success_modal:
     contact_link: molimo kontaktirajte nas.
-    sign_off: ❤ od Diehard_Fund tima
+    sign_off: ❤ od DiehardFund tima
     ok_got_it: U redu, shvatam!
   group_form:
     start_group_heading: 'Kreiraj grupu'
@@ -435,8 +435,8 @@ sr:
     manage_requests_with_count: Upravljanje zahtevima ({{count}})
   group_help_card:
     title: Pomoć
-    ten_tips_article_title: 10 saveta za pravljenje sjajnih diskusija na Diehard_Fund
-    nine_ways_to_use_proposals: 9 načina da koristite Diehard_Fund predloge da preokrenete konverzaciju u akciju
+    ten_tips_article_title: 10 saveta za pravljenje sjajnih diskusija na DiehardFund
+    nine_ways_to_use_proposals: 9 načina da koristite DiehardFund predloge da preokrenete konverzaciju u akciju
   membership_requests_page:
     heading: Zahtevi
     approve: Odobri
@@ -798,8 +798,8 @@ sr:
     give_feedback: 'Objasnite nam'
     collapse: Sakrij
     enable:
-      invite: 'Probaj novi Diehard_Fund!'
-      title: 'Probaj novi Diehard_Fund'
+      invite: 'Probaj novi DiehardFund!'
+      title: 'Probaj novi DiehardFund'
       intro: "Reizgradili smo Lumio i potrebna nam je tvoja pomoć da sigurno bude fenomenalan!"
       body_html: |
         <p></p>
@@ -817,12 +817,12 @@ sr:
         <p>Koristi istu bazu podataka kao i stari interfejs, što znači da će zadržati sve Vaše postojeće grupe i diskusije.</p>
         <p>Tu je i funkcija "Javite nam" u donjem levom uglu. Takođe, videćete i "Vrati stari Lumio", što će ostati na raspolaganju još neko vreme.</p>
         <p>Zaista očekujemo da nam javite, hvala na Vašem vremenu i podršci.</p>
-      button_text: 'Omogući novi Diehard_Fund'
+      button_text: 'Omogući novi DiehardFund'
     disable:
-      title: 'Hvala što probate novi Diehard_Fund'
-      body_html: "<p>Ups, da li smo uradili nešto pogrešno? Žao nam je što ste imali neprijatnost na novoj Diehard_Fund verziji.</p>"
-      give_feedback: "Pre nego odete, molimo Vas razmislite o tome da podelite sa nama vaše utiske kako bi mogli da unapredimo Diehard_Fund."
-      button_text: 'Prebaci na stari Diehard_Fund'
+      title: 'Hvala što probate novi DiehardFund'
+      body_html: "<p>Ups, da li smo uradili nešto pogrešno? Žao nam je što ste imali neprijatnost na novoj DiehardFund verziji.</p>"
+      give_feedback: "Pre nego odete, molimo Vas razmislite o tome da podelite sa nama vaše utiske kako bi mogli da unapredimo DiehardFund."
+      button_text: 'Prebaci na stari DiehardFund'
   global:
     messages:
       app_update: 'Nova verzija Lumija je takođe dostupna'

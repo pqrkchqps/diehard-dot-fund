@@ -1,5 +1,5 @@
 ActiveAdmin.setup do |config|
-  config.site_title = "Diehard_Fund"
+  config.site_title = "DiehardFund"
   config.authentication_method = :authenticate_admin_user!
   config.current_user_method = :current_user
   config.logout_link_path = :destroy_user_session_path

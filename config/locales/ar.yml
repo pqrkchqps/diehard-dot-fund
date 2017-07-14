@@ -23,7 +23,7 @@ ar:
       no_invitations_remaining: لم يعد لديك دعوات
     mailer:
       invitation_instructions:
-        subject: لقد تمت دعوتك للإنضمام إلى مجموعة على Diehard_Fund
+        subject: لقد تمت دعوتك للإنضمام إلى مجموعة على DiehardFund
     registrations:
       sign_up: أنشئ حسابا
   error:
@@ -348,9 +348,9 @@ ar:
     have_a_discussion: أجر نقاشا
     have_a_discussion_description: يتم وضع موضوع النقاش وأي معلومات لازمة متعلقة به في أعلى الصفحة. يمكنك استخدام مربع التعليق لإضافة صوتك في النقاش.
     help: مساعدة
-    how_it_works: كيفية عمل Diehard_Fund
+    how_it_works: كيفية عمل DiehardFund
     join_the_community: إنضم للمجتمع
-    join_the_community_description_html: نرحب بالجميع للإنضمام لمجتمع Diehard_Fund حيث نتحدث حول أفضل السبل لاستخدام الأداة وكيف يمكن تحسينها.<br /><br /><a href='https://www.diehard.fund/groups/3'>أنقر هنا للإنتقال إلى مجموعة مجتمع Diehard_Fund</a>.
+    join_the_community_description_html: نرحب بالجميع للإنضمام لمجتمع DiehardFund حيث نتحدث حول أفضل السبل لاستخدام الأداة وكيف يمكن تحسينها.<br /><br /><a href='https://www.diehard.fund/groups/3'>أنقر هنا للإنتقال إلى مجموعة مجتمع DiehardFund</a>.
     make_a_decision: اتخذ قرارا
     make_a_decision_description: عندما تصبح المجموعة جاهزة لاتخاذ قرار، فإنه يمكن لأي كان أن يطرح مقترحا. ضع خطا واضحا لمسار العمل وأعط ما يكفي من المعلومات بحيث يدرك الجميع مالذي تعنيه الموافقة أو عدمها.
     positions_agree_description: <span>"موافق"</span> تعني أنك راضي بالمقترح.
@@ -358,7 +358,7 @@ ar:
     positions_disagree_description: <span>"غير موافق"</span> تعني أنك تظن أن هناك بديل أفضل، ولكنك على استعداد للمضي مع قرار المجموعة.
     positions_block_description: <span>"أعترض"</span> تعني أن لديك إعتراضات جدية وأنك ستكون غير راض إذا تم تبني المقترح.
     video_tutorial: الفيديو التعليمي
-    video_tutorial_description: شاهد الفيديو لتحصل على عرض سريع حول كيفية استخدام Diehard_Fund.
+    video_tutorial_description: شاهد الفيديو لتحصل على عرض سريع حول كيفية استخدام DiehardFund.
   resend_confirmation: أعد إرسال تعليمات تأكيد كلمة السر
   new_password: كلمة السر الجديدة
   confirm_new_password: قم بتأكيد كلمة السر الجديدة
@@ -431,7 +431,7 @@ ar:
       user:
         create: أنشئ حسابا
         update: حدّث الإعدادات
-  about_diehard_fund: عن Diehard_Fund
+  about_diehard_fund: عن DiehardFund
   ago: منذ %{quantity_of_time}
   approve: موافق
   back: الرجوع

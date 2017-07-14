@@ -95,7 +95,7 @@ module Plugins
 
     def use_route(verb, route, action)
       @actions.add Proc.new {
-        Diehard_Fund::Application.routes.prepend do
+        DiehardFund::Application.routes.prepend do
           namespace(:api, path: 'api/v1', defaults: {format: :json}) { send(verb, { route => action }) }
         end
       }.to_proc
@@ -112,7 +112,7 @@ module Plugins
     def use_page(route, path, redirect: false)
       @actions.add Proc.new {
         # prepending rather than appending so we can override application root route
-        Diehard_Fund::Application.routes.prepend do
+        DiehardFund::Application.routes.prepend do
           if redirect
             get route.to_s => redirect(path)
           else
@@ -124,7 +124,7 @@ module Plugins
 
     def use_root_page(path)
       @actions.add Proc.new {
-        Diehard_Fund::Application.routes.append do
+        DiehardFund::Application.routes.append do
           root to: path, as: 'not_root'
         end
       }.to_proc

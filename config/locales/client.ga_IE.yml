@@ -52,7 +52,7 @@ ga_IE:
       upload: 'Uasluchtaigh é'
       uploading: 'Ag uasluchtú'
     formatting_help:
-      title: 'Foghlaim conas feidhm a bhaint as Markdown chun do théacs ar Diehard_Fund a fhormáidiú'
+      title: 'Foghlaim conas feidhm a bhaint as Markdown chun do théacs ar DiehardFund a fhormáidiú'
   error_page:
     forbidden: 'Níl cead agat é sin a dhéanamh.'
     page_not_found: 'Theip orainn sin a aimsiú. B''fhéidir gur scriosadh é nó bogadh é.'
@@ -116,7 +116,7 @@ ga_IE:
     closing_in: 'Ag dúnadh'
   sign_up_form:
     aria_label: 'Foirm le clárú'
-    title: "Fáilte go Diehard_Fund! Cuirimis tús le rudaí"
+    title: "Fáilte go DiehardFund! Cuirimis tús le rudaí"
     name_label: 'D''ainm:'
     name_placeholder: 'Siobhán Ní Shúilleabhán'
     email_label: 'Seoladh ríomhphoist:'
@@ -150,7 +150,7 @@ ga_IE:
     edit_profile: 'Cuir do bheathaisnéisín in eagar'
     email_settings: 'Socruithe ríomhphoist'
     help: 'Cabhair'
-    contact: 'Déan teagmháil le Diehard_Fund'
+    contact: 'Déan teagmháil le DiehardFund'
     sign_out: 'Scoir'
     aria_labels:
       heading: 'Taobhbharra'
@@ -232,7 +232,7 @@ ga_IE:
     edit_proposal: 'Leasaigh an togra'
     what_does_a_proposal_do: 'Ligeann do thograí duit léargas a fháil ar conas mar a bhraitheann gach duine faoi ghníomhartha.'
     proposal_ideas: An bhfuil smaointe ag teastáil uait chun togra maith a scríobh?
-    proposal_ideas_title: 9 mbealach chun feidhm a bhaint as togra de chuid Diehard_Fund chun caint a thiontú go gníomh
+    proposal_ideas_title: 9 mbealach chun feidhm a bhaint as togra de chuid DiehardFund chun caint a thiontú go gníomh
     title_placeholder: 'M.sh: Rachaimis chuig an ghealach'
     title_label: 'Teideal'
     closes_at_label: 'Dúnann sé ag a'
@@ -268,12 +268,12 @@ ga_IE:
   proposal_position_no: 'Easaontaigh'
   proposal_position_block: 'Cros'
   legacy_trial_expired_modal:
-    heading: "Go raibh maith agat as ucht feidhm a bhaint as Diehard_Fund an bhliain seo!"
+    heading: "Go raibh maith agat as ucht feidhm a bhaint as DiehardFund an bhliain seo!"
     submit: "Taispeáin na bearta chugam"
   group_welcome_modal:
     aria_label: "Fáilte"
     creator_heading: "Fáilte chuig do bhaicle nua"
-    member_heading: "Fáilte go dtí Diehard_Fund"
+    member_heading: "Fáilte go dtí DiehardFund"
     creator_footer: "Nuair atá tú réidh, <strong>tabhair cuirí do dhaoine</strong> chun teacht isteach ann."
     ok_got_it: "Maith go leor, tuigim é!"
   join_group_button:
@@ -346,7 +346,7 @@ ga_IE:
     got_it: Fan mar shaor in aisce
     go_back: Uasghrádaigh
   donation_modal:
-    heading: An bhronnfá airgead ar Diehard_Fund?
+    heading: An bhronnfá airgead ar DiehardFund?
     contribute: Bronn airgead
     got_to_group: Ní anois, go raibh maith agaibh.
   gift_card:
@@ -368,7 +368,7 @@ ga_IE:
   subscription_success_modal:
     heading: Tá tú réidh!
     contact_link: déan teagmháil linn.
-    sign_off: ❤ ó fhoireann Diehard_Fund
+    sign_off: ❤ ó fhoireann DiehardFund
     ok_got_it: Tuigim é!
   group_form:
     start_group_heading: 'Cuir baicle ar bun'
@@ -600,12 +600,12 @@ ga_IE:
     send_message: 'Seol an teachtaireacht'
     new_contact_message: 'Go raibh maith agat as ucht teachtaireacht a sheoladh chugainn. Beimid i dteagmháil leat go luath!'
   help_page:
-    coordinating: 'Ag déanamh comheagar ar do bhaicle Diehard_Fund'
-    different_ways: 'Bealaí éagsúla chun feidhm a bhaint as Diehard_Fund'
+    coordinating: 'Ag déanamh comheagar ar do bhaicle DiehardFund'
+    different_ways: 'Bealaí éagsúla chun feidhm a bhaint as DiehardFund'
     get_in_touch: "Déan teagmháil"
     get_in_touch_description_html: "Má tá aon cheist nó aiseolas agat dúinn, <a href='%{link}'>cuir teachtaireacht chugainn</a>."
     getting_started: "Ag tosú ar dtús báire"
-    getting_the_most: 'Bain an leas is fearr as Diehard_Fund'
+    getting_the_most: 'Bain an leas is fearr as DiehardFund'
     have_your_say: "Abair leat"
     have_a_discussion: "Bíodh plé ann"
     help: "Cabhair"
@@ -623,7 +623,7 @@ ga_IE:
     start_proposal: "Ag scríobh togra soiléir"
     video_id: "52025402"
     video_tutorial: "Físeán teagaisc"
-    video_tutorial_description: "Breathnaig ar an bhfíseán chun taispeántas tapa a fheiceáil conas feidhm a bhaint as Diehard_Fund"
+    video_tutorial_description: "Breathnaig ar an bhfíseán chun taispeántas tapa a fheiceáil conas feidhm a bhaint as DiehardFund"
   hint:
     discussion: 'Leideanna chun tús a chur le plé mealltach'
     invitation: 'Leideanna chun cuireadh den scoth a scríobh'
@@ -633,15 +633,15 @@ ga_IE:
     give_feedback: 'Tabhair aiseolas dúinn'
     collapse: Leacaigh
     enable:
-      invite: 'Bain triail as an Diehard_Fund nua!'
-      title: 'Bain triail as an Diehard_Fund nua'
-      button_text: 'Cumasaigh an Diehard_Fund nua'
+      invite: 'Bain triail as an DiehardFund nua!'
+      title: 'Bain triail as an DiehardFund nua'
+      button_text: 'Cumasaigh an DiehardFund nua'
     disable:
-      title: 'Go raibh maith agat as ucht triail a bhaint as an Diehard_Fund nua'
-      button_text: 'Fill ar an seanDiehard_Fund'
+      title: 'Go raibh maith agat as ucht triail a bhaint as an DiehardFund nua'
+      button_text: 'Fill ar an seanDiehardFund'
   global:
     messages:
-      app_update: 'Tá leagan nua de Diehard_Fund ar fáil'
+      app_update: 'Tá leagan nua de DiehardFund ar fáil'
       reload: 'Athluchtaigh é'
   emoji_picker:
     search: "Aimsigh emoji..."

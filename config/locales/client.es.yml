@@ -83,7 +83,7 @@ es:
       subscribe: Suscribirme a la lista de email
     formatting_help:
       label: 'Formato '
-      title: 'Aprende a usar Markdown para dar formato a tu texto en Diehard_Fund'
+      title: 'Aprende a usar Markdown para dar formato a tu texto en DiehardFund'
   devise:
     failure:
       inactive: 'Hay una cuenta Desactivada asociada a este email. Contáctanos si quieres Reactivar tu cuenta.'
@@ -188,7 +188,7 @@ es:
     closing_in: 'Cerrando'
   sign_up_form:
     aria_label: 'Formulario de entrada'
-    title: "¡Bienvenido/a a Diehard_Fund! Te haremos comenzar enseguida"
+    title: "¡Bienvenido/a a DiehardFund! Te haremos comenzar enseguida"
     name_label: 'Tu nombre'
     name_placeholder: 'Fulano de tal'
     email_label: 'Correo electrónico:'
@@ -201,7 +201,7 @@ es:
   signed_out_modal:
     aria_label: 'Sesión cerrada '
     title: "Tu sesión ha terminado "
-    message: "Tu sesión ha sido terminada en Diehard_Fund desde otra pestaña del navegador. Por favor vuelve a entrar para continuar. "
+    message: "Tu sesión ha sido terminada en DiehardFund desde otra pestaña del navegador. Por favor vuelve a entrar para continuar. "
     ok: "listo"
   comment_form:
     aria_label: 'Añade un comentario'
@@ -233,7 +233,7 @@ es:
     edit_profile: 'Editar perfil '
     email_settings: 'Ajustes de correo  '
     help: 'Ayuda  '
-    contact: 'Contactar a Diehard_Fund '
+    contact: 'Contactar a DiehardFund '
     sign_out: 'Salir '
     start_thread: Nuevo hilo
     start_decision: 'Nueva decisión  '
@@ -354,7 +354,7 @@ es:
     edit_proposal: 'Editar propuesta'
     what_does_a_proposal_do: 'Las propuestas te permiten ver qué le parece a todo el mundo un determinado plan de acción.'
     proposal_ideas: Necesitas ideas para redactar una buena propuesta?
-    proposal_ideas_title: 9 formas de utilizar propuestas en Diehard_Fund para convertir una charla en acción
+    proposal_ideas_title: 9 formas de utilizar propuestas en DiehardFund para convertir una charla en acción
     editing_title_and_description_forbidden: 'No puedes cambiar el título o la descripción de la propuesta una vez que alguien ha votado. Si los detalles cambian, por favor cierra la propuesta y comienza una nueva. '
     title_placeholder: 'Ej: Vamos a la luna '
     title_label: 'Título'
@@ -398,17 +398,17 @@ es:
   proposal_position_no: 'En desacuerdo'
   proposal_position_block: 'Bloquear'
   legacy_trial_expired_modal:
-    heading: "Gracias por usar Diehard_Fund este año!"
+    heading: "Gracias por usar DiehardFund este año!"
     body: |
-      <p>Realmente apreciamos tu apoyo en este año, y estamos entusiasmados de mejorar Diehard_Fund aún más en 2016.</p>
-      <p>¿Encuentras que Diehard_Fund es útil para tu grupo? Acabamos de lanzar nuestros planes de pago y le estamos pidiendo a los grupos que han utilizado Diehard_Fund por un tiempo que elijan un plan que les convenga.</p>
+      <p>Realmente apreciamos tu apoyo en este año, y estamos entusiasmados de mejorar DiehardFund aún más en 2016.</p>
+      <p>¿Encuentras que DiehardFund es útil para tu grupo? Acabamos de lanzar nuestros planes de pago y le estamos pidiendo a los grupos que han utilizado DiehardFund por un tiempo que elijan un plan que les convenga.</p>
     submit: "Muéstrame los planes"
   group_welcome_modal:
     aria_label: "Bienvenid@"
     creator_heading: "Bienvenido/a a tu nuevo grupo"
-    member_heading: "Bienvenido/a a Diehard_Fund"
+    member_heading: "Bienvenido/a a DiehardFund"
     creator_info: "Eres el <strong>coordinador</strong> del grupo, que es como ser el anfitrión. Mira el vídeo y los hilos de ejemplo."
-    member_info: "Mira éste vídeo para tener una idea de como funciona Diehard_Fund. Luego, pruébalo haciendo un comentario en un hilo de discusión, o inicia un hilo nuevo."
+    member_info: "Mira éste vídeo para tener una idea de como funciona DiehardFund. Luego, pruébalo haciendo un comentario en un hilo de discusión, o inicia un hilo nuevo."
     creator_footer: "Cuando estés listo, <strong>invita gente</strong> a sumarse. "
     ok_got_it: "Bien, ¡lo tengo!"
   cover_photo_form:
@@ -525,23 +525,23 @@ es:
     submit: 'Sí, desactivar este grupo'
   confirm_gift_plan_modal:
     heading: 'Grupos Gratis son soportados a donación  '
-    body: Las donaciones hacen posible que grupos sin presupuesto usen Diehard_Fund de forma gratuita. Ocasionalmente invitaremos a los miembros de grupo en plan Gratis a realizar una donación voluntaria.
+    body: Las donaciones hacen posible que grupos sin presupuesto usen DiehardFund de forma gratuita. Ocasionalmente invitaremos a los miembros de grupo en plan Gratis a realizar una donación voluntaria.
     got_it: Quédate en plan Gratis
     go_back: Cambia el plan
   donation_modal:
-    heading: ¿Quieres hacer una donación a Diehard_Fund?
-    body: "Diehard_Fund es una empresa social. Nuestra misión es crear un mundo donde sea fácil para todos el participar en decisiones que los afectan. "
+    heading: ¿Quieres hacer una donación a DiehardFund?
+    body: "DiehardFund es una empresa social. Nuestra misión es crear un mundo donde sea fácil para todos el participar en decisiones que los afectan. "
     contribute: Has una contribución
     got_to_group: No ahora, gracias.
   gift_card:
     heading: 'Plan Donación '
-    body: "<strong>{{name}}</strong> es un grupo apoyado por donaciones. Para que Diehard_Fund pueda seguir ayudando a grupos como el tuyo, haz clic aquí:"
+    body: "<strong>{{name}}</strong> es un grupo apoyado por donaciones. Para que DiehardFund pueda seguir ayudando a grupos como el tuyo, haz clic aquí:"
     make_a_contribution: 'Haz una contribución '
   upgrade_plan_card:
     heading: Diferencias de los planes pagos
-    slack_html: "<strong>Integración con Slack</strong>: Diehard_Fund y Slack funcionan genial juntos! Enlazalos "
+    slack_html: "<strong>Integración con Slack</strong>: DiehardFund y Slack funcionan genial juntos! Enlazalos "
     domain_html: "<strong>Dominio personalizado</strong>: Haz tu grupo fácil de encontrar con tugrupo.diehard.fund"
-    help_html: "<strong>Ayuda de expertos</strong>: Los consultores de colaboración de Diehard_Fund harán que tu grupo sea más eficaz "
+    help_html: "<strong>Ayuda de expertos</strong>: Los consultores de colaboración de DiehardFund harán que tu grupo sea más eficaz "
     analytics_html: "<strong>Reporte analítico</strong>: Recibe detalles sobre la participación en tu grupo"
     donations: 'A los miembros de tu grupo yo no se les pedirá donación. '
     more: '... y mucho más.'
@@ -550,8 +550,8 @@ es:
   trial_card:
     title: 'Prueba de 30 días'
     choose_plan: 'Elige tu plan de pago'
-    in_progress_body: 'Gracias por probar Diehard_Fund con <strong>{{name}}</strong>. En cualquier momento puedes elegir un plan de pago que funcione para tu grupo.'
-    expired_body_html: "<strong>{{name}}</strong> ha llegado al final de su prueba de Diehard_Fund. Si quieres seguir usándolo tienes que elegir un plan de pago a la medida de tu grupo."
+    in_progress_body: 'Gracias por probar DiehardFund con <strong>{{name}}</strong>. En cualquier momento puedes elegir un plan de pago que funcione para tu grupo.'
+    expired_body_html: "<strong>{{name}}</strong> ha llegado al final de su prueba de DiehardFund. Si quieres seguir usándolo tienes que elegir un plan de pago a la medida de tu grupo."
   choose_plan_modal:
     aria_label: Elige el plan de pago
     heading: Por favor elige un plan de pago para tu grupo.
@@ -583,7 +583,7 @@ es:
     receipt: 'Recibirás un correo electrónico con el recibo y un enlace de acceso al portal de clientes, desde donde podrás cambiar o cancelar tu suscripción y acceder al historial de pago.  '
     change_subscription: "Si deseas configurar tu integración con Slack.com o tu dominio personalizado,"
     contact_link: por favor contáctanos.
-    sign_off: ❤ de parte del equipo de Diehard_Fund
+    sign_off: ❤ de parte del equipo de DiehardFund
     ok_got_it: Bien, ¡lo tengo!
   group_form:
     aria_label: 'Formulario de grupo'
@@ -646,8 +646,8 @@ es:
     manage_requests_with_count: Gestionar peticiones ({{count}})
   group_help_card:
     title: Ayuda
-    ten_tips_article_title: 10 consejos para tomar decisiones con Diehard_Fund
-    nine_ways_to_use_proposals: 9 formas de utilizar propuestas en Diehard_Fund para convertir una charla en acción
+    ten_tips_article_title: 10 consejos para tomar decisiones con DiehardFund
+    nine_ways_to_use_proposals: 9 formas de utilizar propuestas en DiehardFund para convertir una charla en acción
   membership_requests_page:
     heading: Solicitudes de ingreso
     approve: 'Aprobar '
@@ -674,7 +674,7 @@ es:
     email_addresses: 'Correo electrónico'
     email_addresses_placeholder: 'ej. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Copia el enlace y envíalo a cualquier persona que quieras que se una a tu grupo. Esto les dará acceso a todos los hilos de tu grupo. '
-    email_explanation: 'Alternativamente, ingresa las direcciones de email debajo y Diehard_Fund les enviará una invitación.'
+    email_explanation: 'Alternativamente, ingresa las direcciones de email debajo y DiehardFund les enviará una invitación.'
     add_custom_message: 'Personaliza tu invitación,'
     add_custom_message_link: 'agrega un mensaje personalizado '
     custom_message: 'Mensaje personalizado '
@@ -766,14 +766,14 @@ es:
     introduction: 'Cuando desactivas tu cuenta:'
     no_longer_group_member: 'Ya no serás listado como miembro en ningún grupo'
     name_removed: 'Comentarios, propuestas e hilos que has realizado permanecerán, pero tu nombre será removido de los mismos'
-    no_emails: 'Ya no recibirás correos electrónicos relacionados a Diehard_Fund'
+    no_emails: 'Ya no recibirás correos electrónicos relacionados a DiehardFund'
     contact_for_reactivation: 'Deberás contactarnos para reactivar su cuenta'
     submit: 'Si, quiero desactivar mi cuenta'
   deactivate_user_form:
     aria_label: 'Confirmar la desactivación de la cuenta '
     title: 'Desactiva cuenta '
     question: '¿Nos contarías por qué estás desactivando tu cuenta?'
-    placeholder: 'Contestar a esta pregunta es opcional. Cualquier información que compartas nos ayudará a mejorar Diehard_Fund :)'
+    placeholder: 'Contestar a esta pregunta es opcional. Cualquier información que compartas nos ayudará a mejorar DiehardFund :)'
     submit: 'Desactiva cuenta '
   only_coordinator_modal:
     aria_label: 'No hemos podido desactivar la cuenta'
@@ -783,7 +783,7 @@ es:
     header: Ajustes de correo
     all_groups: 'Configuración para todos los grupos. '
     daily_summary_label: Correo electrónico de resumen diario
-    daily_summary_description: "Cada mañana recibirás un email con la toda la actividad del día anterior que no hayas visto. Éste email te provee con una rutina fácil de seguir para estar al día con la actividad en tus grupos de Diehard_Fund. "
+    daily_summary_description: "Cada mañana recibirás un email con la toda la actividad del día anterior que no hayas visto. Éste email te provee con una rutina fácil de seguir para estar al día con la actividad en tus grupos de DiehardFund. "
     on_participation_label: 'Suscribirte a la participación '
     on_participation_description: "Cuando participes en un hilo, inmediatamente se te enviará toda la actividad subsiguiente por correo electrónico. "
     mentioned_label: 'Menciones '
@@ -986,16 +986,16 @@ es:
     send_message: 'Enviar mensaje'
     new_contact_message: 'Gracias por tu mensaje; ¡pronto nos pondremos en contacto contigo!'
   help_page:
-    coordinating: 'Coordinando tu grupo en Diehard_Fund'
+    coordinating: 'Coordinando tu grupo en DiehardFund'
     coordinating_details: |
       Como co-ordinador, eres responsable de iniciar tu grupo e invitar⏎
       a todos a participar. Ademas de aprender a usar una nueva herramienta de software, tu grupo⏎
       estará aprendiendo nuevos procesos para colaborar mas efectivamente y tomando buenas decisiones⏎
       juntos. Aquí puedes encontrar algunos consejos para que tu grupo tenga mucho éxito:⏎
-    different_ways: 'Maneras diferentes de usar Diehard_Fund'
+    different_ways: 'Maneras diferentes de usar DiehardFund'
     engaging_html: |
       <h2>Consejos para implicar a tu grupo</h2>
-      <p>La gente estará motivada a entrar y comenzar a participar cuando haya una propuesta interesante sobre la mesa. Una buena propuesta contiene un plan de acción para el grupo, así que se hace obvio lo que significa estar de acuerdo o en desacuerdo. Piensa en cómo puedes identificar las discusiones/decisiones en las que el grupo está involucrado actualmente en persona o por correo, que pudieran hacerse más fáciles si estuvieran en Diehard_Fund.</p>
+      <p>La gente estará motivada a entrar y comenzar a participar cuando haya una propuesta interesante sobre la mesa. Una buena propuesta contiene un plan de acción para el grupo, así que se hace obvio lo que significa estar de acuerdo o en desacuerdo. Piensa en cómo puedes identificar las discusiones/decisiones en las que el grupo está involucrado actualmente en persona o por correo, que pudieran hacerse más fáciles si estuvieran en DiehardFund.</p>
       <p>Si tu grupo está apenas comenzando, puedes iniciar una decisión ligera, para darle a todos la oportunidad de jugar con la herramienta y ver en acción el proceso de toma de decisiones.</p>
       <p>Otra manera sencilla de animar a las personas a implicarse en una discusión es usando la característica de @mention para aludir a determinadas personas; esto les enviará un correo avisándoles que han sido mencionados en un comentario.</p>
     example1_html: |-
@@ -1015,7 +1015,7 @@ es:
     get_in_touch_description_html: "Si tienes preguntas o sugerencias, <a href='%{link}'> escríbenos a</a>."
     getting_started: "Primeros pasos"
     getting_started_description: "A la izquierda, el grupo debate un tema, intercambiando ideas e información. Cuando hay que tomar una decisión, aparece a la derecha."
-    getting_the_most: 'Aprovechando al máximo el uso de Diehard_Fund'
+    getting_the_most: 'Aprovechando al máximo el uso de DiehardFund'
     have_your_say: "Di tu opinión "
     have_your_say_details_html: |-
       <p>Cuando estés listo para decidir, clica en uno de los cuatro botones de decisión.</p>⏎
@@ -1030,14 +1030,14 @@ es:
       <h2>Redactar una buena invitación</h2>
       <p>La primera pregunta que todo nuevo miembro se hará es «¿A qué se dedica este grupo?»</p>
       <p>Piensa en la forma más sencilla con la puedas describir al grupo: ¿Qué queréis conseguir juntos? ¿Qué tipo de decisiones tomaréis? ¿Quiénes estarán involucrados?</p>
-      <p>Podría ser buena idea hablar primero con tu grupo, antes de invitarles a Diehard_Fund.</p>
+      <p>Podría ser buena idea hablar primero con tu grupo, antes de invitarles a DiehardFund.</p>
       <p>Las personas querrán saber por qué han sido invitadas, qué se espera de ellas,
       y por qué merece su tiempo aprender a usar una nueva herramienta.</p>
     join_the_community: "Únete a la comunidad"
-    join_the_community_description_html: "Todo el mundo es bienvenido a \"Diehard_Fund Community\", donde hablamos de cómo aprovechar la herramienta al máximo y de cómo mejorarla.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Haz clic aquí para ir al grupo \"Diehard_Fund Community\"</a>."
+    join_the_community_description_html: "Todo el mundo es bienvenido a \"DiehardFund Community\", donde hablamos de cómo aprovechar la herramienta al máximo y de cómo mejorarla.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Haz clic aquí para ir al grupo \"DiehardFund Community\"</a>."
     images_and_text_formatting: "Imagenes y formato de texto"
     images_and_text_formatting_html: |
-      <p>Diehard_Fund usa «marcadores» para la inclusión de imágenes y el formateo de texto.
+      <p>DiehardFund usa «marcadores» para la inclusión de imágenes y el formateo de texto.
       Puedes activar marcadores con el pequeño icono gris bajo el cuadro de comentarios.</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Pulsa aquí</a>
       para información sobre cómo usar marcadores.</p>
@@ -1077,19 +1077,19 @@ es:
     proposal: 'Consejos para redactar una propuesta clara'
     vote: 'Puedes cambiar tu decisión en cualquier momento'
   explore_page:
-    header: Explorar grupos en Diehard_Fund
-    search_placeholder: Buscar grupos públicos en Diehard_Fund
+    header: Explorar grupos en DiehardFund
+    search_placeholder: Buscar grupos públicos en DiehardFund
     single_search_result: "1 grupo público coincide con <strong>{{searchTerm}}:</strong> "
     multiple_search_results: "{{resultCount}} grupos públicos coinciden con <strong>{{searchTerm}}:</strong>"
     no_results_found: "<strong>¿No puedes encontrar el grupo que buscas?</strong> Si la privacidad de ese grupo es 'Secreto', no aparecerá aquí. Si conoces a un coordinador del grupo, puedes pedirles una invitación.  "
   angular:
-    switch_back: 'Vuelve al Diehard_Fund antiguo '
-    give_feedback: 'Comentarios para Diehard_Fund'
+    switch_back: 'Vuelve al DiehardFund antiguo '
+    give_feedback: 'Comentarios para DiehardFund'
     collapse: Contraer
     enable:
-      invite: 'Prueba el nuevo Diehard_Fund'
-      title: 'Prueba el nuevo Diehard_Fund '
-      intro: "Hemos reconstruido Diehard_Fund y necesitamos tu ayuda para asegurarnos de que es genial!"
+      invite: 'Prueba el nuevo DiehardFund'
+      title: 'Prueba el nuevo DiehardFund '
+      intro: "Hemos reconstruido DiehardFund y necesitamos tu ayuda para asegurarnos de que es genial!"
       body_html: |
         <p></p>
         <h3>;¿Cuál es la diferencia?</h3>
@@ -1103,17 +1103,17 @@ es:
         </p>
 
         <p> Usa la misma base de datos que la interfaz antigua, esto significa que tiene todos tus grupos existentes y discusiones.</p>
-        <p>Hay un enlace para dar "Comentarios para Diehard_Fund" en la parte inferior izquierda del nuevo app.También veras un enlace para "Volver al Diehard_Fund antiguo" que estara disponible por un tiempo más.</p>
+        <p>Hay un enlace para dar "Comentarios para DiehardFund" en la parte inferior izquierda del nuevo app.También veras un enlace para "Volver al DiehardFund antiguo" que estara disponible por un tiempo más.</p>
         <p>Esperamos recibir tus comentarios, muchas gracias por tu tiempo y apoyo.</p>
-      button_text: 'Habilita el nuevo Diehard_Fund'
+      button_text: 'Habilita el nuevo DiehardFund'
     disable:
-      title: 'Gracias por probar el nuevo Diehard_Fund'
-      body_html: "<p> ¿Hicimos algo mal? Perdón si haz pasado un mal tiempo en el nuevo Diehard_Fund.</p>"
+      title: 'Gracias por probar el nuevo DiehardFund'
+      body_html: "<p> ¿Hicimos algo mal? Perdón si haz pasado un mal tiempo en el nuevo DiehardFund.</p>"
       give_feedback: "Antes de irte considera dejarnos un comentario para que podamos mejorar. "
-      button_text: 'Vuelve al Diehard_Fund antiguo'
+      button_text: 'Vuelve al DiehardFund antiguo'
   global:
     messages:
-      app_update: 'Una nueva versión de Diehard_Fund está disponible '
+      app_update: 'Una nueva versión de DiehardFund está disponible '
       reload: 'Actualizar '
   emoji_picker:
     search: "Busca un emoji / emoticono..."
@@ -1211,7 +1211,7 @@ es:
   poll_common_collapsed:
     by_who: "por {{name}}"
   poll_common_select_group:
-    diehard_fund_group: Grupo de Diehard_Fund
+    diehard_fund_group: Grupo de DiehardFund
     diehard_fund_group_placeholder: (ningún grupo seleccionado)
   poll_common_voter_add_options:
     add_options: Los votantes pueden añadir opciones
@@ -1292,7 +1292,7 @@ es:
   poll_common_unsubscribe_form:
     title: 'Recibir actualizaciones '
     label: 'Recibir actualizaciones por email sobre esta decisión '
-    tooltip: 'Diehard_Fund puede enviar actualizaciones por email para mantenerte informado sobre esta decisión, como cuando es editada, cuando cierra, o cuando el resultado ha sido publicado. Desmarcando esta casilla te aseguras de que no recibirás ninguna notificación por email al respecto '
+    tooltip: 'DiehardFund puede enviar actualizaciones por email para mantenerte informado sobre esta decisión, como cuando es editada, cuando cierra, o cuando el resultado ha sido publicado. Desmarcando esta casilla te aseguras de que no recibirás ninguna notificación por email al respecto '
     helptext_on: 'Recibirás emails sobre actividad en esta decisión. '
     helptext_off: 'No recibirás emails sobre actividad en esta decisión. '
     subscribed: Suscripción exitosa
@@ -1445,7 +1445,7 @@ es:
     enter_email: "ej. invitado@ejemplo.com "
     reminded: 'Recordatorio enviado '
     send_emails: Invitaciones enviadas ({{count}})
-    share_group: Grupo de Diehard_Fund
+    share_group: Grupo de DiehardFund
     view_poll: Ver la encuesta
     email_invited: 'Invitación enviada a {{email}}'
     email_exists: '{{email}} ya ha sido invitado'
@@ -1463,7 +1463,7 @@ es:
   poll_common_publish_slack_preview:
     poll_published: "publicar encuesta"
     poll_published_with_discussion: "publicó una encuesta en <strong>{{discussion}}</strong>:"
-    view_it_on_diehard_fund: Verlo en Diehard_Fund
+    view_it_on_diehard_fund: Verlo en DiehardFund
     timestamp: Hoy en {{timestamp}}
   add_community_form:
     title: Añadir comunidad

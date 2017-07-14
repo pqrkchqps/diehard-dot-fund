@@ -320,7 +320,7 @@ FactoryGirl.define do
   factory :facebook_community, class: Communities::Facebook
   factory :slack_community, class: Communities::Slack
 
-  factory :diehard_fund_group_community, class: Communities::Diehard_FundGroup do
+  factory :diehard_fund_group_community, class: Communities::DiehardFundGroup do
     group
   end
 

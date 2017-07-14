@@ -5,34 +5,34 @@ eo:
     by_who: de %{person}
     reply_to_this_discussion: Respondi al ĉi tiu diskuto
     to_join_discussion:
-      subject: "%{who} volas ke vi aliĝu al diskuto en Diehard_Fund"
+      subject: "%{who} volas ke vi aliĝu al diskuto en DiehardFund"
       content: 'Vi estas invitita por partopreni en la diskuto: %{discussion}'
       message_intro: "%{who} diras:"
       link: Aliĝi al la diskuto
     to_join_group:
-      subject: "%{member} invitis vin por aliĝi al %{group_name} en Diehard_Fund"
+      subject: "%{member} invitis vin por aliĝi al %{group_name} en DiehardFund"
     to_start_group:
-      subject: "Konfiguri vian novan Diehard_Fund-grupon: %{group_name}"
+      subject: "Konfiguri vian novan DiehardFund-grupon: %{group_name}"
     unsubscribe: 'Malaboni aŭ ŝanĝi viajn retpoŝtpreferojn:'
     unsubscribe_html: "<a href='%{link_path}'>%{link_text}</a> por malaboni aŭ ŝanĝi viajn retpoŝtpreferojn."
-    view_comment: Klaku ĉi tie por vidi vian komenton en Diehard_Fund
+    view_comment: Klaku ĉi tie por vidi vian komenton en DiehardFund
     view_discussion: Klaku ĉi tie por vidi ĉi tiun diskuton
-    view_proposal: Vidi ĉi tiun proponon en Diehard_Fund
+    view_proposal: Vidi ĉi tiun proponon en DiehardFund
     create_proposal:
-      intro: Nova propono kreiĝis en Diehard_Fund-grupo al kiu vi apartenas.
+      intro: Nova propono kreiĝis en DiehardFund-grupo al kiu vi apartenas.
       closes_in: Fermiĝos post
       subject: 'Nova propono: %{which}'
     daily_activity:
-      heading: Via aktiveco en Diehard_Fund
-      intro: Montras al vi kio okazis en viaj Diehard_Fund-grupoj en la lastaj 24 horoj
-      subject: Diehard_Fund - Resumo de la lastaj 24 horoj
+      heading: Via aktiveco en DiehardFund
+      intro: Montras al vi kio okazis en viaj DiehardFund-grupoj en la lastaj 24 horoj
+      subject: DiehardFund - Resumo de la lastaj 24 horoj
     missed_yesterday:
-      subject: Hieraŭ en Diehard_Fund
+      subject: Hieraŭ en DiehardFund
       mark_as_read: Marki kiel legita
       thanks_for_reading: Dankon por legi, havu bonegan tagon!
       marked_as_read_success: Ĉio de la retpoŝtaĵo markiĝis kiel legita
     membership_request:
-      intro: "%{name} (%{email}) petis aliron al unu el viaj Diehard_Fund-grupoj."
+      intro: "%{name} (%{email}) petis aliron al unu el viaj DiehardFund-grupoj."
       subject: "%{who} petis aliĝi al %{which_group}"
       view_group: Vi povas aprobi aŭ malaprobi la peton ĉi tie
     new_motion_created:

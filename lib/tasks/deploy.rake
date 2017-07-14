@@ -61,7 +61,7 @@ namespace :deploy do
       "rake 'plugins:fetch[#{plugin_set}]' plugins:install",                             # install plugins specified in plugins/plugins.yml
       "rm -rf plugins/**/.git",                                                          # allow cloned plugins to be added to this repo
       "cd angular && yarn && node_modules/gulp/bin/gulp.js compile-fast && cd ../",    # build the app via gulp
-      "cp -r public/client/development public/client/#{Diehard_Fund::Version.current}"         # version assets
+      "cp -r public/client/development public/client/#{DiehardFund::Version.current}"         # version assets
     ]
   end
 
@@ -70,7 +70,7 @@ namespace :deploy do
     puts "Committing assets to deployment branch..."
     run_commands [
       "find plugins -name '*.*' | xargs git add -f",                                  # add plugins folder to commit
-      "git add public/client/#{Diehard_Fund::Version.current} public/client/fonts -f",      # add assets to commit
+      "git add public/client/#{DiehardFund::Version.current} public/client/fonts -f",      # add assets to commit
       "git commit -m 'Add compiled assets / plugin code'"                             # commit assets
     ]
   end
@@ -80,11 +80,11 @@ namespace :deploy do
     raise 'branch must be specified' unless branch = args[:branch]
     is_production_push = args[:is_production_push] == 'true'
 
-    puts "Bumping version from #{Diehard_Fund::Version.current}..."
+    puts "Bumping version from #{DiehardFund::Version.current}..."
     run_commands [
       "ruby script/bump_version.rb #{is_production_push ? 'patch' : 'test'}",
       "git add lib/version",
-      "git commit -m 'bump version to #{Diehard_Fund::Version.current}'",
+      "git commit -m 'bump version to #{DiehardFund::Version.current}'",
      ("git push origin #{branch}:master" if is_production_push)
     ]
   end

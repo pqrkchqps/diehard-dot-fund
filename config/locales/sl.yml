@@ -73,7 +73,7 @@ sl:
     new_contacts_imported: Deluje! V polje spodaj lahko vtipkaš imena in predlagani bodo email naslovi.
     admin_rights_removed: Član/ica %{which_user} nima več koordinatorskih pravic.
     user_added: "%{user_email_or_name} je bil/a dodan/a v skupino."
-    new_user_added: "%{user_email_or_name} bo dodan/a v skupino, ko ustvari svoj Diehard_Fund račun."
+    new_user_added: "%{user_email_or_name} bo dodan/a v skupino, ko ustvari svoj DiehardFund račun."
     member_removed: Član/ica je bil/a odstranjen/a.
     membership_approved: Članstvo je bilo odobreno.
     membership_request_canceled: Zahteva za članstvo je bila preklicana.
@@ -197,7 +197,7 @@ sl:
         few: "%{count} leta"
         other: "%{count} let"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: Krmarjenje
   inbox:
@@ -237,15 +237,15 @@ sl:
   find_a_group_hint: Da lahko raziskuješ javne skupine
   search_for_group: Poišči skupino
   no_groups_found: Nobene najdene skupine s tem imenom!
-  no_group_header: Dobrodošel/la v Diehard_Fund Beta
+  no_group_header: Dobrodošel/la v DiehardFund Beta
   empty_notifications: Nimaš še nobenega obvestila.
   see_all_notifications: Poglej vsa obvestila
   sign_out: Odjavi se
   sign_in: Prijavi se
   honeypot_warning: Računa ni bilo mogoče ustvariti. Če uporabljaš bralnik zaslona, poskrbi, da je zadnje (skrito) polje na obrazcu prazno.
   tagline: Ustvariti svet, v katerem je enostavno za vsakogar, da sodelujejo pri odločitvah, ki jih zadevajo.
-  or_sign_in_html: Če že imaš Diehard_Fund račun, <a href='%{link}' class='%{link_class}'>se prijavi tukaj</a>
-  or_link_account_html: Če že imaš Diehard_Fund račun, <a href='%{link}'>ga poveži</a>
+  or_sign_in_html: Če že imaš DiehardFund račun, <a href='%{link}' class='%{link_class}'>se prijavi tukaj</a>
+  or_link_account_html: Če že imaš DiehardFund račun, <a href='%{link}'>ga poveži</a>
   click_to_dismiss: Klikni sem, da zavrneš to sporočilo
   generic_confirm: Si prepričan/a?
   discussion_helper_text:
@@ -278,7 +278,7 @@ sl:
       info_title: Kaj bo deaktivacija tvojega računa pomenila?
       memberships: Ne boš več naveden/a kot član/ica nobene od skupin, katerim trenutno pripadaš.
       group_contributions: Komentarji, predlogi in razprave, ki si jih ustvaril/a v skupinah bodo ostale, bo pa iz njih odstranjeno tvoje ime.
-      emails: Prenehal/a boš prejemati emaile, povezane z Diehard_Fundm.
+      emails: Prenehal/a boš prejemati emaile, povezane z DiehardFundm.
   group_form:
     name: Ime skupine
     description: Opis
@@ -588,8 +588,8 @@ sl:
     comment_changes: Komentiraj spremembe
     edit_comment: Uredi komentar
   help:
-    coordinating: Koordiniraj svojo Diehard_Fund skupino
-    coordinating_details: 'Kot koordinator/ka si odgovoren/na za vzpostavitev Diehard_Fund skupine in vabljenja članov. Poleg učenja novega programa, se bo tvoja skupina učila novih načinov učinkovitejšega sodelovanja in sprejemanja dobrih skupnih odločitev. Tukaj je nekaj nasvetov kako podpreti tvojo skupino k uspehu:
+    coordinating: Koordiniraj svojo DiehardFund skupino
+    coordinating_details: 'Kot koordinator/ka si odgovoren/na za vzpostavitev DiehardFund skupine in vabljenja članov. Poleg učenja novega programa, se bo tvoja skupina učila novih načinov učinkovitejšega sodelovanja in sprejemanja dobrih skupnih odločitev. Tukaj je nekaj nasvetov kako podpreti tvojo skupino k uspehu:
 
 '
     different_ways: Različni načini uporabe Loomia
@@ -622,14 +622,14 @@ sl:
       <p>Prvo vprašanje vsakega novega člana/ice, bo "kaj je namen te skupine?’</p>
       <p>Skušaj napisati najenostavnejši opis skupine: Kaj bi rad/a,
       da skupaj dosežete? O katerih odločitvah boste odločali? Kdo bo pri tem sodeloval? </p>
-      <p>Mogoče je dobro, da se najprej pogovoriš s svojo skupino, preden jih povabiš na Diehard_Fund.</p>
+      <p>Mogoče je dobro, da se najprej pogovoriš s svojo skupino, preden jih povabiš na DiehardFund.</p>
       <p>Ljudje bodo želeli vedeti, zakaj so bili povabljeni, kaj se od njih pričakuje,
       in zakaj je vredno njihovega časa, da se naučijo uporabljati novo orodje.</p>
     join_the_community: Pridruži se skupnosti
-    join_the_community_description_html: Vsak je dobrodošel, da se pridruži Diehard_Fund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo <br /><br /><a href='https://www.diehard.fund/groups/3'> Klikni tukaj, da greš </a> skupino Diehard_Fund Skupnost.
+    join_the_community_description_html: Vsak je dobrodošel, da se pridruži DiehardFund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo <br /><br /><a href='https://www.diehard.fund/groups/3'> Klikni tukaj, da greš </a> skupino DiehardFund Skupnost.
     images_and_text_formatting: Urejanje slik in teksta
     images_and_text_formatting_html: |
-      <p>Diehard_Fund uporablja 'Markdown' za vgrajevanje slik in urejanje besedil.
+      <p>DiehardFund uporablja 'Markdown' za vgrajevanje slik in urejanje besedil.
       Markdown lahko vklopiš z majhno sivo ikono pod oknom s komentarji..</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>Klikni sem</a>
       za več informacij o uporabi Markdown-a.</p>
@@ -669,8 +669,8 @@ sl:
       potrebuje nekaj več prostora. Vsi boste dobili email obvestilo 24 ur pred zaprtjem predloga.</p>
     video_id: '52025402'
     video_tutorial: Video z navodili
-    video_tutorial_description: Oglej si video, ki na kratko prikazuje, kako uporabljati Diehard_Fund.
-    what_is_diehard_fund: Kaj je Diehard_Fund?
+    video_tutorial_description: Oglej si video, ki na kratko prikazuje, kako uporabljati DiehardFund.
+    what_is_diehard_fund: Kaj je DiehardFund?
   hint:
     context: Nasveti za uporabo polja Opis
     discussion: Nasveti za začetek angažirane razprave
@@ -686,11 +686,11 @@ sl:
     tooltip: Spoznaj naš model skupnostnega financiranja
     thought_about_contributing: Tvoja priložnost, da prispevaš
     thought_about_contributing_description: |
-      Diehard_Fund je zadružno socialno podjetje, ki si prizadeva omogočiti vsem, da bi sodelovali pri odločitvah, ki jih zadevajo.
+      DiehardFund je zadružno socialno podjetje, ki si prizadeva omogočiti vsem, da bi sodelovali pri odločitvah, ki jih zadevajo.
 
-      Pri skupnostnemu sprejemanju odločitev denar ne bi smel biti ovira. Diehard_Fund se financira s prispevki uporabnikov v skupnosti in naročninami formalnih organizacij, ki ga uporabljajo.
+      Pri skupnostnemu sprejemanju odločitev denar ne bi smel biti ovira. DiehardFund se financira s prispevki uporabnikov v skupnosti in naročninami formalnih organizacij, ki ga uporabljajo.
 
-      Vaš prispevek pomeni, da lahko Diehard_Fund ohranimo neodvisen, brez oglasov in prosto dostopen skupinam, ki ustvarjajo odlične stvari v svojih skupnostih.
+      Vaš prispevek pomeni, da lahko DiehardFund ohranimo neodvisen, brez oglasov in prosto dostopen skupinam, ki ustvarjajo odlične stvari v svojih skupnostih.
 
       Hvala, da to omogočate!
     thank_you_title: Hvala za tvoj prispevek Loomiu!
@@ -699,14 +699,14 @@ sl:
 
       V kratkem boš prejel/a email z računom za tvoj prispevek.
 
-      Vsak je dobrodošel, da se pridruži Diehard_Fund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo.
+      Vsak je dobrodošel, da se pridruži DiehardFund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo.
 
-      <a href='https://www.diehard.fund/groups/3'>Želim vstopiti vskupino Diehard_Fund Skupnost &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Želim vstopiti vskupino DiehardFund Skupnost &raquo;</a>
     making_a_donation: Doniraj
     making_a_donation_description: |
-      Diehard_Fund je zadružno socialno podjetje, ki si prizadeva omogočiti vsem, da bi sodelovali pri odločitvah, ki jih zadevajo.
+      DiehardFund je zadružno socialno podjetje, ki si prizadeva omogočiti vsem, da bi sodelovali pri odločitvah, ki jih zadevajo.
 
-      Vaš prispevek pomeni, da lahko Diehard_Fund ohranimo neodvisen, brez oglasov in prosto dostopen skupinam, ki ustvarjajo odlične stvari v svojih skupnostih.
+      Vaš prispevek pomeni, da lahko DiehardFund ohranimo neodvisen, brez oglasov in prosto dostopen skupinam, ki ustvarjajo odlične stvari v svojih skupnostih.
 
       Hvala, da to omogočate!
   resend_confirmation: Ponovno pošlji navodila ob potrditvi
@@ -734,7 +734,7 @@ sl:
   already_have_account: Že imaš račun na Loomiu?
   confirm_your_details: Potrdi svoje podatke
   link_up_your_account: Poveži svoj račun
-  log_in_to_your_diehard_fund_account: Vpiši se v svoj račun Diehard_Fund in ga poveži z%{provider_name}.
+  log_in_to_your_diehard_fund_account: Vpiši se v svoj račun DiehardFund in ga poveži z%{provider_name}.
   now_that_your_logged_in: Sedaj, ko si vpisan/a z %{provider_name}, prosim potrdi svoje podatke, da ustvariš račun na Loomiu.
   confirmation_not_received: Nisi prejel/a navodil ob potrditvi?
   unlock_not_received: Nisi prejel/a navodil za odklepanje?
@@ -761,7 +761,7 @@ sl:
     invite_to_discussion: Povabi še koga k tej razpravi
     invite_to_discussion_info: Če v skupino dodaš nove člane, bodo prejeli vabilo za pridružitev. Ko ga potrdijo, bodo preusmerjeni na to razpravo.
     select_members: Dodaj člane iz %{group_name}
-    body_editable: 'Živjo, soodločaj z nami! Uporabljamo orodje za skupnostno odločanje, po imenu Diehard_Fund.
+    body_editable: 'Živjo, soodločaj z nami! Uporabljamo orodje za skupnostno odločanje, po imenu DiehardFund.
 
 '
     body_editable_discussion: 'Živjo, pridruži se razpravi!
@@ -826,10 +826,10 @@ sl:
   group_setup:
     set_up_your_group: Uredi svojo skupino.
     desc_header: Samo še malo!
-    desc_html: 'Kot koordinator/ka skupine si odgovoren/na za urejanje in upravljanje s svojo skupino Diehard_Fund. Ko določiš še nekaj nastavitev, boš lahko vstopil/a v svojo novo skupino, začel/a razpravo ali dve in razposlal/a vabila! <p>Ko razmišljaš, kako bi najbolj enostavno opisal/a svojo skupino, se vprašaj: Kaj želiš, da boste skupaj ustvarili? Kakšne vrste odločitev boste sprejemali? Kdo bo vključen?</p>'
+    desc_html: 'Kot koordinator/ka skupine si odgovoren/na za urejanje in upravljanje s svojo skupino DiehardFund. Ko določiš še nekaj nastavitev, boš lahko vstopil/a v svojo novo skupino, začel/a razpravo ali dve in razposlal/a vabila! <p>Ko razmišljaš, kako bi najbolj enostavno opisal/a svojo skupino, se vprašaj: Kaj želiš, da boste skupaj ustvarili? Kakšne vrste odločitev boste sprejemali? Kdo bo vključen?</p>'
     submit: Želim vstopiti v svojo skupino!
     payment_model:
-      header: Diehard_Fund je za vse!
+      header: DiehardFund je za vse!
       info: Naš način zaračunavanja ustreza vsaki skupini, tudi tistim brez finančnih sredstev :)
       link: Preberi več
   simple_form:
@@ -874,8 +874,8 @@ sl:
         create: Ustvari račun
         update: Posodobi nastavitve
   meta_tags:
-    default_title: Diehard_Fund | Skupnostno odločanje
-    default_description: Diehard_Fund je enostavno spletno orodje za skupnostno odločanje. Skupinam omogoča, da hitro pridejo do skupne odločitve in jo začnejo uresničevati.
+    default_title: DiehardFund | Skupnostno odločanje
+    default_description: DiehardFund je enostavno spletno orodje za skupnostno odločanje. Skupinam omogoča, da hitro pridejo do skupne odločitve in jo začnejo uresničevati.
   about_diehard_fund: O Loomiu
   ago: pred %{quantity_of_time}
   approve: Potrdi
@@ -917,7 +917,7 @@ sl:
   pricing: Cene
   prev: Nazaj
   more: Več...
-  translate: Pomagaj prevesti Diehard_Fund!
+  translate: Pomagaj prevesti DiehardFund!
   translate_field: Poglej prevod
   loading_translation: Nalagam prevod...
   translate_this_string: Prevedi v %{language}

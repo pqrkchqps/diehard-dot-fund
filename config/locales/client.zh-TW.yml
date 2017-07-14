@@ -64,7 +64,7 @@ zh-TW:
       ok: 確定！
     formatting_help:
       label: 格式化說明
-      title: 學習如何使用 Markdown 來格式化您在 Diehard_Fund 上的文字
+      title: 學習如何使用 Markdown 來格式化您在 DiehardFund 上的文字
   devise:
     failure:
       inactive: 與此電子郵件關聯的帳號已停用。若您想要重新啟用您的帳號，請聯絡我們。
@@ -170,7 +170,7 @@ zh-TW:
     closing_in: 定案
   sign_in_form:
     aria_label: 登入表單
-    title: 登入 Diehard_Fund
+    title: 登入 DiehardFund
     email_label: 電子郵件：
     email_placeholder: you@example.com
     password_label: 密碼：
@@ -186,7 +186,7 @@ zh-TW:
       github: 使用 GitHub 登入
   sign_up_form:
     aria_label: 註冊表單
-    title: 歡迎來到 Diehard_Fund！我們來設定一下吧
+    title: 歡迎來到 DiehardFund！我們來設定一下吧
     name_label: 您的名字
     name_placeholder: Jane Doe
     email_label: 電子郵件：
@@ -199,7 +199,7 @@ zh-TW:
   signed_out_modal:
     aria_label: 工作階段已結束
     title: 您的工作階段已結束
-    message: 您已經從其他視窗登出 Diehard_Fund。請重新登入以繼續。
+    message: 您已經從其他視窗登出 DiehardFund。請重新登入以繼續。
     ok: 確定
   comment_form:
     aria_label: 加入意見
@@ -234,7 +234,7 @@ zh-TW:
     edit_profile: 編輯簡歷
     email_settings: 電子郵件設定
     help: 教學文件
-    contact: 聯絡 Diehard_Fund
+    contact: 聯絡 DiehardFund
     sign_out: 登出
     aria_labels:
       heading: 側邊欄
@@ -351,7 +351,7 @@ zh-TW:
     edit_proposal: 編輯提案
     what_does_a_proposal_do: 提案可以讓您看到每個人對於特定的行動的感受。
     proposal_ideas: 需要靈感來寫出好提案嗎？
-    proposal_ideas_title: 9 個使用 Diehard_Fund 提案把討論化為行動的方法
+    proposal_ideas_title: 9 個使用 DiehardFund 提案把討論化為行動的方法
     editing_title_and_description_forbidden: 您不可以在夥伴們投票後才變更提案的標題或描述。如果詳細資訊有變更，請關閉提案並啟動另一個新的。
     title_placeholder: 例如：讓我們一起去月球
     title_label: 標題
@@ -398,17 +398,17 @@ zh-TW:
   proposal_position_no: 反對
   proposal_position_block: 阻擋
   legacy_trial_expired_modal:
-    heading: 感謝您今年使用 Diehard_Fund！
+    heading: 感謝您今年使用 DiehardFund！
     body: |
-      <p>我們非常感謝您過去一年來的支持，我們也很興奮，想要讓 Diehard_Fund 可以在 2016 年變得更好。</p>
-      <p>Diehard_Fund 對您的群組有用嗎？我們剛發佈我們的定價模式，且正在詢問已經使用 Diehard_Fund 的群組挑選一組適合他們的定價方案。</p>
+      <p>我們非常感謝您過去一年來的支持，我們也很興奮，想要讓 DiehardFund 可以在 2016 年變得更好。</p>
+      <p>DiehardFund 對您的群組有用嗎？我們剛發佈我們的定價模式，且正在詢問已經使用 DiehardFund 的群組挑選一組適合他們的定價方案。</p>
     submit: 給我看定價方案
   group_welcome_modal:
     aria_label: 歡迎
     creator_heading: 歡迎來到您的新群組
-    member_heading: 歡迎使用 Diehard_Fund
+    member_heading: 歡迎使用 DiehardFund
     creator_info: '您是群組的<strong>協調者</strong>，這就像是主人一樣。觀看影片，然後再看看範例討論串。'
-    member_info: 觀看簡介 Diehard_Fund 如何運作的影片。然後嘗試在討論串中貼出意見，或是啟動一個您自己的討論串！
+    member_info: 觀看簡介 DiehardFund 如何運作的影片。然後嘗試在討論串中貼出意見，或是啟動一個您自己的討論串！
     creator_footer: '當您準備好時，<strong>邀請伙伴們</strong>進來。'
     ok_got_it: 好的，了解了！
   cover_photo_form:
@@ -526,23 +526,23 @@ zh-TW:
     submit: 是的，停用此群組
   confirm_gift_plan_modal:
     heading: 免費的群組是依靠捐款支援的
-    body: 捐款讓那些需要免費使用 Diehard_Fund 的群組變為可能。我們將會不定期詢問免費群組的人們是否願意捐款。
+    body: 捐款讓那些需要免費使用 DiehardFund 的群組變為可能。我們將會不定期詢問免費群組的人們是否願意捐款。
     got_it: 保持免費
     go_back: 升級
   donation_modal:
-    heading: 捐款給 Diehard_Fund？
-    body: Diehard_Fund 是一個社會企業。我們的使命是締造一個任何人都能輕鬆參與、討論決策、影響他人的世界。
+    heading: 捐款給 DiehardFund？
+    body: DiehardFund 是一個社會企業。我們的使命是締造一個任何人都能輕鬆參與、討論決策、影響他人的世界。
     contribute: 作出貢獻
     got_to_group: 不是現在，謝謝。
   gift_card:
     heading: 禮物方案
-    body: '<strong>{{name}}</strong> 是一個禮物支援群組。要像群組幫助您一樣支援 Diehard_Fund，點選這裡：'
+    body: '<strong>{{name}}</strong> 是一個禮物支援群組。要像群組幫助您一樣支援 DiehardFund，點選這裡：'
     make_a_contribution: 作出貢獻
   upgrade_plan_card:
     heading: 升級使用進階功能
-    slack_html: '<strong>Slack 整合</strong>：Diehard_Fund 與 Slack 可以共同運作！把它們連結起來吧。'
-    domain_html: '<strong>自訂網域</strong>：您的名稱.diehard.fund 讓您的 Diehard_Fund 群組更容易被找到'
-    help_html: '<strong>專家協助</strong>：Diehard_Fund 的協作顧問可以讓您的團隊更強大'
+    slack_html: '<strong>Slack 整合</strong>：DiehardFund 與 Slack 可以共同運作！把它們連結起來吧。'
+    domain_html: '<strong>自訂網域</strong>：您的名稱.diehard.fund 讓您的 DiehardFund 群組更容易被找到'
+    help_html: '<strong>專家協助</strong>：DiehardFund 的協作顧問可以讓您的團隊更強大'
     analytics_html: '<strong>分析報告</strong>：深入了解您的群組的參與程度'
     donations: 您的群組成員將不會再被詢問是否要捐款。
     more: ……以及更多。
@@ -551,8 +551,8 @@ zh-TW:
   trial_card:
     title: 30天試用
     choose_plan: 選擇您的定價方案
-    in_progress_body: '感謝試用 Diehard_Fund，<strong>{{name}}</strong>。您可以在任何時間挑選一個適合您的群組的定價方案。'
-    expired_body_html: '<strong>{{name}}</strong> 已經結束了 Diehard_Fund 的試用。若您想要繼續使用它，您必須挑選一個適合您的定價方案。'
+    in_progress_body: '感謝試用 DiehardFund，<strong>{{name}}</strong>。您可以在任何時間挑選一個適合您的群組的定價方案。'
+    expired_body_html: '<strong>{{name}}</strong> 已經結束了 DiehardFund 的試用。若您想要繼續使用它，您必須挑選一個適合您的定價方案。'
   choose_plan_modal:
     aria_label: 選擇方案
     heading: 請為您的群組選擇方案
@@ -584,7 +584,7 @@ zh-TW:
     receipt: 您將會收到一封包含收據的電子郵件，其中也會包含客戶入口的連結，您可以在那裡變更、升級或是取消您的訂閱，並存取帳單歷史。
     change_subscription: 若您想要設定 Slack 整合或是您的自訂網域名稱，
     contact_link: 請聯絡我們。
-    sign_off: 從 Diehard_Fund 團隊而來的 ❤
+    sign_off: 從 DiehardFund 團隊而來的 ❤
     ok_got_it: 好的，了解了！
   group_form:
     aria_label: 群組表單
@@ -647,8 +647,8 @@ zh-TW:
     manage_requests_with_count: '管理申請 ({{count}})'
   group_help_card:
     title: 教學文件
-    ten_tips_article_title: 10 個使用 Diehard_Fund 做出好決策的祕訣
-    nine_ways_to_use_proposals: 9 個使用 Diehard_Fund 提案把討論化為行動的方法
+    ten_tips_article_title: 10 個使用 DiehardFund 做出好決策的祕訣
+    nine_ways_to_use_proposals: 9 個使用 DiehardFund 提案把討論化為行動的方法
   membership_requests_page:
     heading: 申請成員資格
     approve: 批准
@@ -676,7 +676,7 @@ zh-TW:
     email_addresses: 電子郵件地址
     email_addresses_placeholder: '範例：helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 複製連結並傳送給任何您想要讓他加入群組的人。這將會給予他們存取在該群組中的所有討論串的權限。
-    email_explanation: 或是在下面輸入電子郵件，Diehard_Fund 將會以電子郵件的方式傳送一封邀請函給他們。
+    email_explanation: 或是在下面輸入電子郵件，DiehardFund 將會以電子郵件的方式傳送一封邀請函給他們。
     add_custom_message: 讓您的邀請變為私人的，
     add_custom_message_link: 加入一段自訂的訊息。
     custom_message: 自訂訊息
@@ -766,14 +766,14 @@ zh-TW:
     introduction: 當您停用您的帳號：
     no_longer_group_member: 您將不會再被任何群組列為成員
     name_removed: 您在群組中作出的意見、提案與討論串會留下，但您的大名將會從中移除。
-    no_emails: 您將不再收到與 Diehard_Fund 相關的電子郵件
+    no_emails: 您將不再收到與 DiehardFund 相關的電子郵件
     contact_for_reactivation: 您將會需要聯絡我們以重新啟用您的帳號
     submit: 是的，我想要停用
   deactivate_user_form:
     aria_label: 確認凍結帳號
     title: 凍結帳號
     question: 您可以告訴我們為何您現在要凍結您的帳號嗎？
-    placeholder: '回答這個問題是選擇性的。您所分享的任何資訊將會幫助我們改進 Diehard_Fund :)'
+    placeholder: '回答這個問題是選擇性的。您所分享的任何資訊將會幫助我們改進 DiehardFund :)'
     submit: 凍結帳號
   only_coordinator_modal:
     aria_label: 無法凍結帳號
@@ -783,7 +783,7 @@ zh-TW:
     header: 電子郵件設定
     all_groups: 所有群組的設定
     daily_summary_label: 每日摘要電子郵件
-    daily_summary_description: 每天早上，您將會收到一封包含您前一天錯過的任何動態的電子郵件。這封電子郵件提供了跟上 Diehard_Fund 動態更簡單的方法。
+    daily_summary_description: 每天早上，您將會收到一封包含您前一天錯過的任何動態的電子郵件。這封電子郵件提供了跟上 DiehardFund 動態更簡單的方法。
     on_participation_label: 參與時訂閱
     on_participation_description: 當您參與討論串時，之後所有的動態都會即時寄給您。
     mentioned_label: 提及
@@ -988,17 +988,17 @@ zh-TW:
     send_message: 寄送訊息
     new_contact_message: 感謝您的訊息；我們將會聯繫您！
   help_page:
-    coordinating: 在您的 Diehard_Fund 群組中協作
+    coordinating: 在您的 DiehardFund 群組中協作
     coordinating_details: >
-      身為協調者，您的責任是設定好您的 Diehard_Fund
+      身為協調者，您的責任是設定好您的 DiehardFund
       群組以及邀請大家加入。在學習使用一種新的軟體的同時，您的群組也將在新的過程中學習到更有效的合作方式，一同作出更好的決策。這裡是一些幫助您的群組成功的小秘訣：
-    different_ways: 各種使用 Diehard_Fund 的方式
+    different_ways: 各種使用 DiehardFund 的方式
     engaging_html: |
       <h2>激動人心的群組小技巧</h2>
       <p>當一個吸引人的提案出現時，夥伴會很興奮地加入討論，一個開誠布公的好提案，可幫助夥伴直接知道要支持或是站在反對的立場。
-      想想看，在面對面的討論或在信件的討論串中的討論狀況，您會發現在 Diehard_Fund 參與討論或決策容易得多。</p>
+      想想看，在面對面的討論或在信件的討論串中的討論狀況，您會發現在 DiehardFund 參與討論或決策容易得多。</p>
       <p>如果您的群組才剛開始經營，您可以從比較輕鬆的決策開始討論，
-      如此一來，大家都有機會使用 Diehard_Fund 工具發表意見、參與整個決策制定的過程。</p>
+      如此一來，大家都有機會使用 DiehardFund 工具發表意見、參與整個決策制定的過程。</p>
       <p>另一個經營討論的方法是，在提到夥伴時，使用 @夥伴 這個功能，
       一旦某人被提及，就會收到一封 Email，通知他們在討論串中被提到了。</p>
     example1_html: |
@@ -1014,7 +1014,7 @@ zh-TW:
     get_in_touch_description_html: "如果您有任何問題或反饋，<a href='%{link}'>丟封信給我們</a>就行了。"
     getting_started: 開始入門
     getting_started_description: 左邊是討論主題、交換想法與資訊的地方。當群組有決策要制定時，選項會出現在右邊。
-    getting_the_most: Diehard_Fund：工欲善其事必先利其器
+    getting_the_most: DiehardFund：工欲善其事必先利其器
     have_your_say: 擁有發言權
     have_your_say_details_html: >
       <p>當您準備好要發言，點擊四個決策按鈕之一。</p>
@@ -1028,13 +1028,13 @@ zh-TW:
       <h2>寫下一封卓越邀請函</h2>
       <p>每一個新成員想到的第一個問題通常是：「這個群組是作甚麼用的？」</p>
       <p>用您所能想到最簡單的方式來描述你的群組：你們想要共同達成甚麼？你們將會作出哪種類型的決策？將會涉及到誰？</p>
-      <p>在您邀請他們加入 Diehard_Fund 前，先告訴他們這些可能會是個好主意。</p>
+      <p>在您邀請他們加入 DiehardFund 前，先告訴他們這些可能會是個好主意。</p>
       <p>夥伴會想知道為何他們會被邀請，您對他們的期望是什麼，以及為何他們花時間去學習一個新工具是值得的。</p>
     join_the_community: 加入社群
-    join_the_community_description_html: "人人都歡迎加入 Diehard_Fund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>按這裡前往 Diehard_Fund 社群</a>。"
+    join_the_community_description_html: "人人都歡迎加入 DiehardFund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>按這裡前往 DiehardFund 社群</a>。"
     images_and_text_formatting: 圖片及文字格式
     images_and_text_formatting_html: >
-      <p>Diehard_Fund 使用「Markdown」語法來嵌入圖片、格式化文字。
+      <p>DiehardFund 使用「Markdown」語法來嵌入圖片、格式化文字。
 
       您可以點選意見區塊底下的小灰色圖示切換 Markdown 功能。</p>
 
@@ -1066,7 +1066,7 @@ zh-TW:
       <p>如果決策需要更多的時間，提案的截止日可以在任何時間延長。每一個人將會在提案結束的 24 小時前接到電子郵件通知。</p>
     video_id: '52025402'
     video_tutorial: 影片教學
-    video_tutorial_description: 點閱一段簡單示範的影片以瞭解如何使用 Diehard_Fund。
+    video_tutorial_description: 點閱一段簡單示範的影片以瞭解如何使用 DiehardFund。
   hint:
     context: 使用論述控制板的小提示
     discussion: 發起一段激動人心討論的小提示
@@ -1074,19 +1074,19 @@ zh-TW:
     proposal: 寫出明確提案的小提示
     vote: 任何時候您都能改變您的立場
   explore_page:
-    header: 探索 Diehard_Fund 群組
-    search_placeholder: 搜尋公開的 Diehard_Fund 群組
+    header: 探索 DiehardFund 群組
+    search_placeholder: 搜尋公開的 DiehardFund 群組
     single_search_result: '1 個公開群組符合 <strong>{{searchTerm}}：</strong>'
     multiple_search_results: '{{resultCount}} 個公開群組符合 <strong>{{searchTerm}}：</strong>'
     no_results_found: '<strong>找不到您要找的群組？</strong>如果群組的隱私設定為「私密」，它將不會出現在這裡。若您知道誰協調該群組，您必須請他們邀請您。'
   angular:
-    switch_back: 切換回舊版 Diehard_Fund
+    switch_back: 切換回舊版 DiehardFund
     give_feedback: 給予回饋
     collapse: 摺疊
     enable:
-      invite: 嘗試新的 Diehard_Fund！
-      title: 嘗試新的 Diehard_Fund
-      intro: 我們正在重新建造 Diehard_Fund，我們需要要您的協助來讓它變得更好！
+      invite: 嘗試新的 DiehardFund！
+      title: 嘗試新的 DiehardFund
+      intro: 我們正在重新建造 DiehardFund，我們需要要您的協助來讓它變得更好！
       body_html: >
         <p></p>
 
@@ -1117,19 +1117,19 @@ zh-TW:
 
         <p>我們將會隨著時間實現我們取得的一些回饋，所以每天都會些微的變更。一些較少使用的功能可能不會實現呢。</p>
 
-        <p>在新版應用程式的左下角會有一個「切換回舊版 Diehard_Fund」的連結。點擊該連結，然後您就會切換回您使用較久的
-        Diehard_Fund。也有一個您可以輸入回饋的回饋表單。</p>
+        <p>在新版應用程式的左下角會有一個「切換回舊版 DiehardFund」的連結。點擊該連結，然後您就會切換回您使用較久的
+        DiehardFund。也有一個您可以輸入回饋的回饋表單。</p>
 
         <p>我們真的很想聽到您的回饋，感謝您的使用與支持。</p>
-      button_text: 啟用新的 Diehard_Fund
+      button_text: 啟用新的 DiehardFund
     disable:
-      title: 感謝您嘗試新的 Diehard_Fund
-      body_html: '<p>唉呀，我們作錯什麼了呢？我們對於您對新 Diehard_Fund 有不好的印象很抱歉。</p>'
+      title: 感謝您嘗試新的 DiehardFund
+      body_html: '<p>唉呀，我們作錯什麼了呢？我們對於您對新 DiehardFund 有不好的印象很抱歉。</p>'
       give_feedback: 在您離開前，請您考慮分享您的回饋，以讓我們可以改進。
-      button_text: 切換回舊版 Diehard_Fund
+      button_text: 切換回舊版 DiehardFund
   global:
     messages:
-      app_update: 新版本的 Diehard_Fund 出了
+      app_update: 新版本的 DiehardFund 出了
       reload: 重新整理
   emoji_picker:
     search: 找到一個 emoji...
@@ -1421,7 +1421,7 @@ zh-TW:
     anyone_can_participate: 任何人皆可參與
     anyone_can_participate_true: 可分享的連結已建立
     anyone_can_participate_false: 可分享的連結已撤銷
-    set_group: Diehard_Fund 群組已更新
+    set_group: DiehardFund 群組已更新
     shareable_link_created: 現在，任何人都可以參與這次的投票
     shareable_link_revoked: 這個投票僅有被邀請的人可以使用
     shareable_link: 可分享的連結
@@ -1433,7 +1433,7 @@ zh-TW:
     enter_email: 例如：guest@example.com
     reminded: 提醒電子郵件已寄出！
     send_emails: '傳送邀請函 ({{count}})'
-    no_diehard_fund_group: 這個投票並未關聯到任何 Diehard_Fund 群組
+    no_diehard_fund_group: 這個投票並未關聯到任何 DiehardFund 群組
     has_diehard_fund_group: 這個群組的成員將可以檢視並參與此投票。
     poll_is_shareable: 任何持有到這個投票的連結的人都可以投票。傳送上面這個連結給您想要讓其參與的人。
     poll_is_private: 使用者必須被邀請以檢視並參與此投票。

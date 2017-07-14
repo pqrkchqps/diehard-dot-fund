@@ -44,7 +44,7 @@ zh-TW:
       no_invitations_remaining: 邀請函無剩
     mailer:
       invitation_instructions:
-        subject: 有人邀請您加入他們的 Diehard_Fund 群組
+        subject: 有人邀請您加入他們的 DiehardFund 群組
     registrations:
       sign_up: 建立帳號
     sessions:
@@ -91,7 +91,7 @@ zh-TW:
     new_contacts_imported: 可以使用！您能在以下的欄位當中輸入名稱，我們會建議電子郵件地址。
     admin_rights_removed: "%{which_user} 的協作者權利已經被移除。"
     user_added: "%{user_email_or_name} 已經被加入至這個群組。"
-    new_user_added: "%{user_email_or_name} 將會在他們申請 Diehard_Fund 帳號後被加入群組。"
+    new_user_added: "%{user_email_or_name} 將會在他們申請 DiehardFund 帳號後被加入群組。"
     member_removed: 成員已移除。
     membership_approved: 成員資格已批准。
     membership_request_canceled: 成員資格申請已取消。
@@ -174,7 +174,7 @@ zh-TW:
       almost_x_years:
         other: "%{count} 年"
   organisation:
-    name: Diehard_Fund
+    name: DiehardFund
   sr:
     toggle_navigation: 切換導覽
   inbox:
@@ -215,15 +215,15 @@ zh-TW:
   find_a_group_hint: 瀏覽公開群組
   search_for_group: 搜尋群組⋯
   no_groups_found: 沒有發現有關這名稱的群組！
-  no_group_header: 歡迎使用 Diehard_Fund Beta
+  no_group_header: 歡迎使用 DiehardFund Beta
   empty_notifications: 您目前沒有新的通知。
   see_all_notifications: 查看所有通知
   sign_out: 登出
   sign_in: 登入
   honeypot_warning: 無法建立您的帳號。假如您正在使用螢幕閱讀器，請確保表單最後一個 (隱藏) 欄位是留白的。
   tagline: 締造一個任何人都能輕鬆參與、討論決策、影響他人的世界。
-  or_sign_in_html: 如果您已經有 Diehard_Fund 帳號，<a href='%{link}' class='%{link_class}'>由此登入</a>
-  or_link_account_html: 如果您已經有 Diehard_Fund 的帳號，請點擊以下連結 <a href='%{link}'></a>
+  or_sign_in_html: 如果您已經有 DiehardFund 帳號，<a href='%{link}' class='%{link_class}'>由此登入</a>
+  or_link_account_html: 如果您已經有 DiehardFund 的帳號，請點擊以下連結 <a href='%{link}'></a>
   click_to_dismiss: 按此關閉此訊息
   generic_confirm: 您確定嗎？
   discussion_helper_text:
@@ -258,7 +258,7 @@ zh-TW:
       info_title: 凍結您的帳號是甚麼意思？
       memberships: 在您目前隸屬的任何群組中您將不再被列為成員。
       group_contributions: 您在群組中作出的意見、提案與討論串會留下，但我們會從中移除您的大名。
-      emails: 我們會停止寄送給您有關 Diehard_Fund 的電子郵件。
+      emails: 我們會停止寄送給您有關 DiehardFund 的電子郵件。
   group_form:
     name: 群組名稱
     description: 描述
@@ -433,7 +433,7 @@ zh-TW:
     request_declined: 成員資格申請已拒絕。
   group_request:
     header: 啟動群組
-    desc: 設定一個群組以開始在 Diehard_Fund 上共同作出決策：
+    desc: 設定一個群組以開始在 DiehardFund 上共同作出決策：
     commercial_use_option: 在公司、正式組織或是職場
     non_commercial_use_option: 在社群群組中或是非正式的網絡
     please_select_an_option: 請選出一個選項
@@ -590,17 +590,17 @@ zh-TW:
     comment_changes: 更動意見
     edit_comment: 編輯意見
   help:
-    coordinating: 在您的 Diehard_Fund 群組中協作
-    coordinating_details: '身為協作者，您的責任是設置您的 Diehard_Fund 群組以及邀請大家加入。在學習使用一種新的軟體的同時，您的群組也將在新的過程中學習到更有效的合作方式，一同作出更好的決策。這裡是一些幫助您的群組成功的小秘訣：
+    coordinating: 在您的 DiehardFund 群組中協作
+    coordinating_details: '身為協作者，您的責任是設置您的 DiehardFund 群組以及邀請大家加入。在學習使用一種新的軟體的同時，您的群組也將在新的過程中學習到更有效的合作方式，一同作出更好的決策。這裡是一些幫助您的群組成功的小秘訣：
 
 '
-    different_ways: 各種使用 Diehard_Fund 的方式
+    different_ways: 各種使用 DiehardFund 的方式
     engaging_html: |
       <h2>激動人心的群組小技巧</h2>
       <p>當一個吸引人的提案出現時，夥伴會很興奮地加入討論，一個開誠布公的好提案，可幫助夥伴直接知道要支持或是站在反對的立場。
-      想想看，在面對面的討論或在信件的討論串中的討論狀況，您會發現在 Diehard_Fund 參與討論或決策容易得多。</p>
+      想想看，在面對面的討論或在信件的討論串中的討論狀況，您會發現在 DiehardFund 參與討論或決策容易得多。</p>
       <p>如果您的群組才剛開始經營，您可以從比較輕鬆的決策開始討論，
-      如此一來，大家都有機會使用 Diehard_Fund 工具發表意見、參與整個決策制定的過程。</p>
+      如此一來，大家都有機會使用 DiehardFund 工具發表意見、參與整個決策制定的過程。</p>
       <p>另一個經營討論的方法是，在提到夥伴時，使用 @夥伴 這個功能，
       一旦某人被提及，就會收到一封 Email，通知他們在討論串中被提到了。</p>
     example1_html: |
@@ -616,7 +616,7 @@ zh-TW:
     get_in_touch_description_html: 如果您有任何問題或反饋，<a href='%{link}'>丟封信給我們</a>就行了。
     getting_started: 開始入門
     getting_started_description: 左邊是討論主題、交換想法與資訊的地方。當群組有決策要制定時，選項會出現在右邊。
-    getting_the_most: Diehard_Fund：工欲善其事必先利其器
+    getting_the_most: DiehardFund：工欲善其事必先利其器
     have_your_say: 擁有發言權
     have_your_say_details_html: |
       <p>當您準備好要發言，點擊四個決策按鈕之一。</p>
@@ -629,13 +629,13 @@ zh-TW:
       <h2>寫下一封卓越邀請函</h2>
       <p>每一個新成員想到的第一個問題通常是：「這個群組是作甚麼用的？」</p>
       <p>用您所能想到最簡單的方式來描述你的群組：你們想要共同達成甚麼？你們將會作出哪種類型的決策？將會涉及到誰？</p>
-      <p>在您邀請他們加入 Diehard_Fund 前，先告訴他們這些可能會是個好主意。</p>
+      <p>在您邀請他們加入 DiehardFund 前，先告訴他們這些可能會是個好主意。</p>
       <p>夥伴會想知道為何他們會被邀請，您對他們的期望是什麼，以及為何他們花時間去學習一個新工具是值得的。</p>
     join_the_community: 加入社群
-    join_the_community_description_html: 人人都歡迎加入 Diehard_Fund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。<br /><br /><a href='https://www.diehard.fund/groups/3'>按這裡前往 Diehard_Fund 社群</a>。
+    join_the_community_description_html: 人人都歡迎加入 DiehardFund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。<br /><br /><a href='https://www.diehard.fund/groups/3'>按這裡前往 DiehardFund 社群</a>。
     images_and_text_formatting: 圖片及文字格式
     images_and_text_formatting_html: |
-      <p>Diehard_Fund 使用「Markdown」語法來嵌入圖片、格式化文字。
+      <p>DiehardFund 使用「Markdown」語法來嵌入圖片、格式化文字。
       您可以點選意見區塊底下的小灰色圖示切換 Markdown 功能。</p>
       <p><a href='https://www.diehard.fund/discussions/1124'>點選這裡</a>以瞭解如何使用 Markdown。</p>
     keep_up_to_date: 持續跟進
@@ -663,11 +663,11 @@ zh-TW:
       <p>如果決策需要更多的時間，提案的截止日可以在任何時間延長。每一個人將會在提案結束的 24 小時前接到電子郵件通知。</p>
     video_id: '52025402'
     video_tutorial: 影片教學
-    video_tutorial_description: 點閱一段簡單示範的影片以瞭解如何使用 Diehard_Fund。
-    what_is_diehard_fund: Diehard_Fund 是？
+    video_tutorial_description: 點閱一段簡單示範的影片以瞭解如何使用 DiehardFund。
+    what_is_diehard_fund: DiehardFund 是？
     what_is_diehard_fund_description_html: |
-      <p> Diehard_Fund 是一套簡單、人性化的線上協同決策制定利器。
-      Diehard_Fund 讓您能在線上主持討論、邀請對的人來參與，即時作出討論，進而在深思熟慮後轉變為現實世界的行動。</p>
+      <p> DiehardFund 是一套簡單、人性化的線上協同決策制定利器。
+      DiehardFund 讓您能在線上主持討論、邀請對的人來參與，即時作出討論，進而在深思熟慮後轉變為現實世界的行動。</p>
   hint:
     context: 使用論述控制板的小提示
     discussion: 發起一段激動人心討論的小提示
@@ -683,27 +683,27 @@ zh-TW:
     tooltip: 從中瞭解有關我們社群的募資模式
     thought_about_contributing: 您的貢獻機會
     thought_about_contributing_description: |
-      Diehard_Fund 是一家合作社型的社會企業，致力於讓每一個人能更輕鬆參與影響他人的決策。
+      DiehardFund 是一家合作社型的社會企業，致力於讓每一個人能更輕鬆參與影響他人的決策。
 
-      金錢不應當成為協同決策制定的阻礙。Diehard_Fund 的募資來自於我們使用者社群以及使用 Diehard_Fund 的正式組織所付費認購的贊助。
+      金錢不應當成為協同決策制定的阻礙。DiehardFund 的募資來自於我們使用者社群以及使用 DiehardFund 的正式組織所付費認購的贊助。
 
-      您的贊助意味著我們能保持 Diehard_Fund 的獨立運作、免除廣告的干擾、群組在他們的社群當中能自由地處理卓越的事業。
+      您的贊助意味著我們能保持 DiehardFund 的獨立運作、免除廣告的干擾、群組在他們的社群當中能自由地處理卓越的事業。
 
       感謝您讓此成為可能！
-    thank_you_title: 謝謝您贊助 Diehard_Fund！
+    thank_you_title: 謝謝您贊助 DiehardFund！
     thank_you_body: |
       您的贊助會幫助我們為世界傳遞更為輕鬆的協同決策制定方式。
 
       您在短時間內就會收到一封包含您贊助收據的電子郵件。
 
-      人人都歡迎加入 Diehard_Fund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。
+      人人都歡迎加入 DiehardFund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。
 
-      <a href='https://www.diehard.fund/groups/3'>帶我去 Diehard_Fund 社群 &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>帶我去 DiehardFund 社群 &raquo;</a>
     making_a_donation: 現在就捐款
     making_a_donation_description: |
-      Diehard_Fund 是一家合作社型的社會企業，致力於讓每一個人能更輕鬆參與影響他人的決策。
+      DiehardFund 是一家合作社型的社會企業，致力於讓每一個人能更輕鬆參與影響他人的決策。
 
-      您的贊助代表我們能保持 Diehard_Fund 的獨立運作、免除廣告的干擾、群組在他們的社群當中能自由地處理卓越的事業。
+      您的贊助代表我們能保持 DiehardFund 的獨立運作、免除廣告的干擾、群組在他們的社群當中能自由地處理卓越的事業。
 
       感謝您讓此成為可能！
   resend_confirmation: 重送確認的用法說明
@@ -728,15 +728,15 @@ zh-TW:
   link_it_up_instead: 點擊這個連結作為代替
   sign_up_via: 註冊方式透過
   or_fill_in_this_form: 或是填寫這個表單
-  already_have_account: 已經有 Diehard_Fund 帳號了？
+  already_have_account: 已經有 DiehardFund 帳號了？
   confirm_your_details: 確認您的細節
   link_up_your_account: 連結您的帳號
-  log_in_to_your_diehard_fund_account: 登入您的 Diehard_Fund 帳號以連結 %{provider_name}。
-  now_that_your_logged_in: 現在您已以 %{provider_name} 登入，請確認您的詳細訊息以建立 Diehard_Fund 帳號
+  log_in_to_your_diehard_fund_account: 登入您的 DiehardFund 帳號以連結 %{provider_name}。
+  now_that_your_logged_in: 現在您已以 %{provider_name} 登入，請確認您的詳細訊息以建立 DiehardFund 帳號
   confirmation_not_received: 沒有收到帳號確認程序？
   unlock_not_received: 沒有收到帳號解鎖程序？
   inactive_html: 此帳號已經被凍結。假如您有任何疑問，請<a href='%{path_to_contact}'>聯繫我們</a>。
-  create_an_account_html: 建立 Diehard_Fund Beta 帳號
+  create_an_account_html: 建立 DiehardFund Beta 帳號
   log_in: 登入
   join_group:
     log_in: 登入以加入 %{group_name}
@@ -746,7 +746,7 @@ zh-TW:
     create_account_to_start_group: 請建立帳號，啟動您的群組「%{group_name}」
     create_account: 請建立帳號
   invitation:
-    angular_warning_html: <small> 任何接受您邀請的人都將會使用新的 Diehard_Fund 介面：<a href="http://blog.diehard.fund/2015/10/14/one-step-closer-to-diehard_fund-1-0/" target="_blank">了解更多</a>。</small>
+    angular_warning_html: <small> 任何接受您邀請的人都將會使用新的 DiehardFund 介面：<a href="http://blog.diehard.fund/2015/10/14/one-step-closer-to-diehard_fund-1-0/" target="_blank">了解更多</a>。</small>
     alternate: 或者，分享這個連結讓別人能要求加入：
     by_email: 以電子郵件邀請
     invitation_not_found: 無法在該邀請碼內找到邀請函。請要求寄件者給一封新的。
@@ -754,12 +754,12 @@ zh-TW:
     invitation_already_used: 您已出示過此封邀請函，現在您可以直接登入您的群組。
     recipients: 輸入電子郵件地址，並以逗號分隔：
     invitees_placeholder: 使用者名稱 <user1@example.com>, user2@example.com
-    subject: 請加入我們新的 Diehard_Fund 群組 %{group}
+    subject: 請加入我們新的 DiehardFund 群組 %{group}
     invite_people: 邀請夥伴進到您的群組
     invite_to_discussion: 邀請夥伴加入討論串
     invite_to_discussion_info: 新增夥伴到目前的討論串時，他們將收到一封邀請訊息。如果他們接受邀請，則他們將直接被加入到討論串中。
     select_members: 從 %{group_name} 加入成員
-    body_editable: '嗨各位，快來和我們一同作決策！我們正在使用一套叫作 Diehard_Fund 的協同決策制定工具。
+    body_editable: '嗨各位，快來和我們一同作決策！我們正在使用一套叫作 DiehardFund 的協同決策制定工具。
 
 '
     body_editable_discussion: '嗨各位，快來加入這個討論串吧！
@@ -826,10 +826,10 @@ zh-TW:
   group_setup:
     set_up_your_group: 設置您的群組
     desc_header: 就快到了！
-    desc_html: 身為群組的協作者，您的責任是設置並且管理您的 Diehard_Fund 群組。在您選擇幾項設定之後，您就能進入到您的新群組，啟動幾場討論、送出一些邀請函！<p>當您在想要怎樣以最簡單的方式描述您的群組時，問您自己：你要大家一起實現的是甚麼？哪幾種決定是你會作的？這會牽涉到誰？</p>
+    desc_html: 身為群組的協作者，您的責任是設置並且管理您的 DiehardFund 群組。在您選擇幾項設定之後，您就能進入到您的新群組，啟動幾場討論、送出一些邀請函！<p>當您在想要怎樣以最簡單的方式描述您的群組時，問您自己：你要大家一起實現的是甚麼？哪幾種決定是你會作的？這會牽涉到誰？</p>
     submit: 直接到我的群組
     payment_model:
-      header: Diehard_Fund 是大家的！
+      header: DiehardFund 是大家的！
       info: 我們的付費模式適用於任何的群組，即使他們沒有錢 :)
       link: 詳細瞭解
   simple_form:
@@ -874,9 +874,9 @@ zh-TW:
         create: 建立帳號
         update: 更新設定
   meta_tags:
-    default_title: Diehard_Fund | 協同決策制定利器
-    default_description: Diehard_Fund 是簡單易用的線上群組決策制定工具。讓分散型的社群得以快速作出決定進而付諸實行。
-  about_diehard_fund: 關於 Diehard_Fund
+    default_title: DiehardFund | 協同決策制定利器
+    default_description: DiehardFund 是簡單易用的線上群組決策制定工具。讓分散型的社群得以快速作出決定進而付諸實行。
+  about_diehard_fund: 關於 DiehardFund
   ago: "%{quantity_of_time}前"
   approve: 批准
   attachments: 附件：
@@ -884,7 +884,7 @@ zh-TW:
   back: 返回
   cancel: 取消
   change: 更改
-  change_language: 點擊此處，將 Diehard_Fund 轉換成 %{language}
+  change_language: 點擊此處，將 DiehardFund 轉換成 %{language}
   changing: 正在更改
   click_here: 點這邊
   close: 關閉
@@ -918,7 +918,7 @@ zh-TW:
   pricing: 定價
   prev: 上一個
   more: 詳細⋯
-  translate: 協助翻譯 Diehard_Fund！
+  translate: 協助翻譯 DiehardFund！
   translate_field: 翻譯內容
   loading_translation: 載入翻譯中⋯
   translate_this_string: 翻譯成 %{language}
@@ -936,7 +936,7 @@ zh-TW:
   start_a_group: 啟動群組
   starting: 正在啟動
   subject: 主旨
-  tos_html: 要登入，您即同意遵守 Diehard_Fund 的<a href='%{link_path}' target='_blank'>服務條款</a>。
+  tos_html: 要登入，您即同意遵守 DiehardFund 的<a href='%{link_path}' target='_blank'>服務條款</a>。
   thanks: 謝謝！
   unlike: 收回讚
   time_until_close: 直到定案還有 %{quantity_of_time}
@@ -1074,7 +1074,7 @@ zh-TW:
       new_motion: "*%{author}* 在 *%{name}* 中開始了一個新提議"
       new_vote: "*%{author}* %{position} *%{proposal}* 在 *%{name}*"
       new_discussion: "*%{author}* 在 *%{group}* 啟動了新的討論串"
-      view_it_on_diehard_fund: 在 Diehard_Fund 上檢視
+      view_it_on_diehard_fund: 在 DiehardFund 上檢視
       position_verbs:
         'yes': 同意
         'no': 反對

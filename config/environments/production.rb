@@ -1,4 +1,4 @@
-Diehard_Fund::Application.configure do
+DiehardFund::Application.configure do
   config.log_level = :info
 
   # Code is not reloaded between requests
