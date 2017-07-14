@@ -92,6 +92,7 @@ module Diehard_Fund
       }
     end
 
+    config.assets.digest = false
     config.force_ssl = ENV.has_key?('FORCE_SSL')
     config.action_mailer.raise_delivery_errors = true
     config.action_mailer.perform_deliveries = true
