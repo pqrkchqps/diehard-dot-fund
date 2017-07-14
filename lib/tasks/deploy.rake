@@ -110,7 +110,7 @@ namespace :deploy do
 
     run_commands [
       "#{cmd} run rake db:migrate -a #{remote}",                                      # Migrate Heroku DB
-      "#{cmd} restart -a #{remote}",                                                  # Restart Heroku dynos
+      "#{cmd} restart -a #{remote}"                                                  # Restart Heroku dynos
     ]
   end
 end
