@@ -251,7 +251,7 @@ en:
 
     custom_subdomain_html: |
       custom subdomain,<br />
-      e.g. <strong>yourgroup</strong>.diehard_fund.org
+      e.g. <strong>yourgroup</strong>.diehard.fund
     usage_statistics: usage statistics
     plus_price_html: '<strong>$99</strong>/month'
   password_reset:
@@ -285,7 +285,7 @@ en:
       * To notify a specific person, type @ followed by their name.
       * Click the paperclip icon to add attachments.
 
-      If you’ve got questions, check the [Diehard_Fund help manual](http://help.diehard_fund.org).
+      If you’ve got questions, check the [Diehard_Fund help manual](http://help.diehard.fund).
 
   first_proposal:
     name: Demonstration proposal
@@ -376,7 +376,7 @@ en:
 
         Square brackets for name then round brackets for URL. There's no spaces between the brackets.
 
-        [Diehard_Fund Homepage](https://www.diehard_fund.org/)
+        [Diehard_Fund Homepage](https://www.diehard.fund/)
 
         Images are the same, but prefixed with an exclamation mark.
 

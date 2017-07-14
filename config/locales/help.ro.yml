@@ -102,9 +102,9 @@ ro:
         title: Cand esti invitat intr-un grup Diehard_Fund
         body_html: "Invitatia de alaturare unui grup Diehard_Fund va sosi pe calea unui email care va contine un link singur link.\nAccesand acest link, in cazul in care nu ai deja un grup format, ti se va solicita sa creezi un cont folosind adresa ta de email si o parola.\nDaca ai deja un grup Diehard_Fund format vei fi dirijat spre acel grup.\n"
       joining_existing_group:
-        title_html: "Cand doresti sa te alaturi unui grup Diehard_Fund existent (the <a href=\"http://diehard_fund.org/explore\">Exploreaza pagina</a>)"
+        title_html: "Cand doresti sa te alaturi unui grup Diehard_Fund existent (the <a href=\"http://diehard.fund/explore\">Exploreaza pagina</a>)"
         body:
-          explore_page_html: "Comanda <a href=\"https://www.diehard_fund.org/explore\">Exploreeaza pagina</a> afiseaza grupurile tale active pe Diehard_Fund.\nLe poti accesa folosind aplicatia Diehard_Fund <strong>“Grupuri publice”</strong> accesand linkul din subsolul paginii.\nFolosind <a href=\"https://www.diehard_fund.org/explore\">Exploreaza pagina</a> poti cauta grupuri cu ajutorul titlului, cuvantului cheie sau categoriei, pentru a le explora continutul public.\nSetarile privind confidentialitatea grupului hotarasc modalitatea prin care poti deveni membru.\n"
+          explore_page_html: "Comanda <a href=\"https://www.diehard.fund/explore\">Exploreeaza pagina</a> afiseaza grupurile tale active pe Diehard_Fund.\nLe poti accesa folosind aplicatia Diehard_Fund <strong>“Grupuri publice”</strong> accesand linkul din subsolul paginii.\nFolosind <a href=\"https://www.diehard.fund/explore\">Exploreaza pagina</a> poti cauta grupuri cu ajutorul titlului, cuvantului cheie sau categoriei, pentru a le explora continutul public.\nSetarile privind confidentialitatea grupului hotarasc modalitatea prin care poti deveni membru.\n"
       single_sign_on:
         title: Autentificarea sign-on unic
     group_settings:

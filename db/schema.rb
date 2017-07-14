@@ -162,7 +162,7 @@ ActiveRecord::Schema.define(version: 20170705033454) do
     t.text     "message"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "destination", default: "contact@diehard_fund.org"
+    t.string   "destination", default: "contact@diehard.fund"
   end
 
   create_table "contacts", force: :cascade do |t|

@@ -132,7 +132,7 @@ ca:
     premium_support: assistència premium
     custom_subdomain_html: |
       subdomini personalitzable,<br />
-      per exemple: <strong>elteugrup</strong>.diehard_fund.org
+      per exemple: <strong>elteugrup</strong>.diehard.fund
     usage_statistics: ús de les estadístiques
   password_reset:
     forbidden_passwords: Les contrasenyes com "password" estan prohibides per raons de seguretat.

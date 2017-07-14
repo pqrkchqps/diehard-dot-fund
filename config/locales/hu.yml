@@ -365,7 +365,7 @@ hu:
   confirm_leave_hidden_group: Biztosan ki szeretnél lépni a %{which_group} csoportból? Az alcsoportokból is törlődsz.
   confirm_leave_group: Biztosan kilépsz a(z) %{which_group} csoportból?
   deactivate_group: Csoport deaktiválása
-  confirm_deactivate_group: Várj!!! Biztosan deaktiválni akarod a(z) %{which_group} csoportot? Többet nem jelenik meg neked a csoport. Ha azonban mégis vissza szeretnéd kapni a csoportot, reaktiválhatjuk, ha a contact@diehard_fund.org címre küldesz egy kérést.
+  confirm_deactivate_group: Várj!!! Biztosan deaktiválni akarod a(z) %{which_group} csoportot? Többet nem jelenik meg neked a csoport. Ha azonban mégis vissza szeretnéd kapni a csoportot, reaktiválhatjuk, ha a contact@diehard.fund címre küldesz egy kérést.
   invited_users: Meghívott tagok
   members: Tagok
   confirm_remove_user: Biztosan el akarod távolítani %{which_user}-t a csoportból?
@@ -448,7 +448,7 @@ hu:
       body_html: |
         Mehívót küldtünk e-mailben a csoport létrehozása érdekében.
 
-        Ha nem látsz semmit az e-mail fiókodban pár percen belül, írj nekünk a <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a> címre.
+        Ha nem látsz semmit az e-mail fiókodban pár percen belül, írj nekünk a <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a> címre.
   volume:
     volume: Hangerő
     loud: Hangos
@@ -631,11 +631,11 @@ hu:
       <p>Érdemes beszélni a csoporttal, mielőtt kiküldöd a meghívókat, arról, hogy mi is ez.</p>
       <p>Tudni akarják majd, hogy miért hívtad meg őket, mit várnak el tőlük és miért érdemes időt és energiát fektetniük a diehard_fund használatába.</p>
     join_the_community: Csatlakozz a közösséghez
-    join_the_community_description_html: Mindenkit várunk a Diehard_Fund Community csoportba, ahol megbeszélhetjük, hogyan lehet még jobb ez az eszköz. <br /><br /><a href='https://www.diehard_fund.org/groups/3'>Ide kattintva juthatsz a Diehard_Fund Community csoportba.</a>
+    join_the_community_description_html: Mindenkit várunk a Diehard_Fund Community csoportba, ahol megbeszélhetjük, hogyan lehet még jobb ez az eszköz. <br /><br /><a href='https://www.diehard.fund/groups/3'>Ide kattintva juthatsz a Diehard_Fund Community csoportba.</a>
     images_and_text_formatting: Képek és szövegformázás
     images_and_text_formatting_html: |
       <p>A Diehard_Fund a képek beillesztéséhez és a szöveg formázásához a "Markdown" rendszert használja. A hozzászólás ablak alatti kis szürke ikonnal kapcsolhatod be a Markdownt.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Ide kattintva</a> további információkat kaphatsz a Markdown rendszerről.</p>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Ide kattintva</a> további információkat kaphatsz a Markdown rendszerről.</p>
     keep_up_to_date: Maradj naprakész
     keep_up_to_date_html: |
       <p>ha a lap tetején a csoport nevére kattintasz, a csoport oldalára jutsz, ahol a csoport témáit és döntéseit láthatod. Ha több csoport tagja is vagy, az összes csoport tevékenységét láthatod a nyitólapodon.</p>
@@ -687,7 +687,7 @@ hu:
       Az adományod segít bennünket, hogy egyszerű együttműködésen alapuló döntéshozatalt tegyünk elérhetővé világszerte.
       Az adományodról hamarosan e-mailben nyugtát fogsz kapni.
       Mindenkit szeretettel várunk, hogy bekapcsolódjon a Diehard_Fund Közösségbe, ahol arról beszélgetünk, hogy hogy tudjuk az eszközt minnél jobban kihasználni és hogy tudunk javítani rajta.
-      <a href='https://www.diehard_fund.org/groups/3'>Mutasd a Diehard_Fund Közösséget!</a>
+      <a href='https://www.diehard.fund/groups/3'>Mutasd a Diehard_Fund Közösséget!</a>
     making_a_donation: Hozzájárulok
     making_a_donation_description: |
       Diehard_Fund egy kooperatív társadalmi vállalkozás mely azon dolgozik, hogy bárki könnyen részt vehessen az őket érintő kérdések döntésében

@@ -1,5 +1,5 @@
 class AddDestinationToContact < ActiveRecord::Migration
   def change
-    add_column :contact_messages, :destination, :string, default: 'contact@diehard_fund.org'
+    add_column :contact_messages, :destination, :string, default: 'contact@diehard.fund'
   end
 end

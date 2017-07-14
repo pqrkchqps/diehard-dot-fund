@@ -292,7 +292,7 @@ uk:
   confirm_leave_hidden_group: Ви впевнені, що хочете покинути %{which_group}? Ви також автоматично покинете усі підгрупи.
   confirm_leave_group: Ви впевнені, що зочете вийти з %{which_group}?
   deactivate_group: Деактивувати групу
-  confirm_deactivate_group: Почекайте!!! Ви впевнені що хочете деактивувати  %{which_group}? Ви не зможете більше переглядати групу. Однак, якщо Ви забажаєте відновити групу, Ви можете надіслати e-mail запит на повторну активацію групи на contact@diehard_fund.org.
+  confirm_deactivate_group: Почекайте!!! Ви впевнені що хочете деактивувати  %{which_group}? Ви не зможете більше переглядати групу. Однак, якщо Ви забажаєте відновити групу, Ви можете надіслати e-mail запит на повторну активацію групи на contact@diehard.fund.
   invited_users: Запрошені учасники
   members: Учасники
   confirm_remove_user: Ви впевенені, що хочете видалити %{which_user} з групи?
@@ -346,7 +346,7 @@ uk:
       body_html: |
         Ми надіслали вам email із запрошенням розпочати вашу групу.
 
-        Якщо ви не бачите запрошення у пошті навіть через декілька хвилин, напишіть нам на <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Якщо ви не бачите запрошення у пошті навіть через декілька хвилин, напишіть нам на <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   volume:
     volume: Рівень гучності
     loud: Голосно
@@ -490,12 +490,12 @@ uk:
       <p>Непогана ідея поговорити з групою заздалегідь, перед тим, як ви запросите їх до Diehard_Fund.</p>
       <p>Людям буде цікаво, чому їх запросили, що ви очікуєте від них і чому варто гаяти час на розуміння, як користуватися новим інструментом.</p>
     join_the_community: Вступити до спільноти
-    join_the_community_description_html: Ласкаво просимо кожного приєднатися до Diehard_Fund Товариства, де ми розмовляємо про те, як створити більшість інструментів та як це може бути удоскоталено. <br /><br /><a href='https://www.diehard_fund.org/groups/3'> Натисніть тут, щоб увійти до групи  Diehard_Fund Товариства</a>
+    join_the_community_description_html: Ласкаво просимо кожного приєднатися до Diehard_Fund Товариства, де ми розмовляємо про те, як створити більшість інструментів та як це може бути удоскоталено. <br /><br /><a href='https://www.diehard.fund/groups/3'> Натисніть тут, щоб увійти до групи  Diehard_Fund Товариства</a>
     images_and_text_formatting: Зображення та формат тексту
     images_and_text_formatting_html: |
       <p>Diehard_Fund використовує ‘Markdown’ для додання до тексту зображень та форматування.
       Ви можете включити Markdown за допомогою невеличкої сірої іконки під блоком коменту.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Натисніть тут</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Натисніть тут</a>
       для інформації по використанню Markdown.</p>
     keep_up_to_date: Підтримуйте актуальність
     keep_up_to_date_html: |
@@ -556,7 +556,7 @@ uk:
 
       Усі запрошуються до спільноти Diehard_Fund Community, де ми розмовляємо про те, як правильно будувати наш інструмент, та як він може бути покращений.
 
-      <a href='https://www.diehard_fund.org/groups/3'>Долучитись до групи Diehard_Fund Community  &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Долучитись до групи Diehard_Fund Community  &raquo;</a>
     making_a_donation: Зробити пожертвування
     making_a_donation_description: |
       Diehard_Fund - це суспільна соціальна ініціатива, що полегшує для кожного участь у прийнятті рішень, що їх стосуються.

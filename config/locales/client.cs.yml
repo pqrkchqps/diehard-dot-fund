@@ -460,7 +460,7 @@ cs:
     shareable_link: 'Odkaz ke sdílení'
     copy_link: 'Kopírovat'
     email_addresses: 'E-mailová adresa'
-    email_addresses_placeholder: 'např. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'např. helperbot@diehard.fund, friendlybot@diehard.fund'
     custom_message: 'Vlastní zpráva'
     send: 'Odeslat'
     done: 'Hotovo'

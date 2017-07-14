@@ -167,7 +167,7 @@ vi:
   leave_group: Rời khỏi nhóm
   confirm_leave_group: Bạn có chắc muốn rời khỏi %{which_group}?
   deactivate_group: Tái-kích hoạt nhóm
-  confirm_deactivate_group: Chờ chút!!! Bạn có chắc rằng bạn muốn ngưng kích hoạt %{which_group}? Bạn sẽ không còn được nhìn thấy thông tin về nhóm này nữa. Tuy nhiên, nếu bạn muốn quay trở lại nhóm thì hãy gửi yêu cầu đến chúng tôi tại contact@diehard_fund.org.
+  confirm_deactivate_group: Chờ chút!!! Bạn có chắc rằng bạn muốn ngưng kích hoạt %{which_group}? Bạn sẽ không còn được nhìn thấy thông tin về nhóm này nữa. Tuy nhiên, nếu bạn muốn quay trở lại nhóm thì hãy gửi yêu cầu đến chúng tôi tại contact@diehard.fund.
   invited_users: Các thành viên đã mời
   members: Thành viên
   confirm_remove_user: Bạn có muốn loại bỏ %{which_user} khỏi nhóm hay không?
@@ -214,7 +214,7 @@ vi:
       body_html: |
         Chúng tôi đã gửi cho bạn một email để mời bạn tham gia vào nhóm của mình.
 
-        Nếu bạn không thấy email nào trong hộp thư của mình, hãy liên hệ chúng tôi tại<a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Nếu bạn không thấy email nào trong hộp thư của mình, hãy liên hệ chúng tôi tại<a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   discussion_items:
     new_discussion: đã tạo phần thảo luận
     new_motion: đã tạo lời đề nghị

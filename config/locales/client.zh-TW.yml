@@ -541,7 +541,7 @@ zh-TW:
   upgrade_plan_card:
     heading: 升級使用進階功能
     slack_html: '<strong>Slack 整合</strong>：Diehard_Fund 與 Slack 可以共同運作！把它們連結起來吧。'
-    domain_html: '<strong>自訂網域</strong>：您的名稱.diehard_fund.org 讓您的 Diehard_Fund 群組更容易被找到'
+    domain_html: '<strong>自訂網域</strong>：您的名稱.diehard.fund 讓您的 Diehard_Fund 群組更容易被找到'
     help_html: '<strong>專家協助</strong>：Diehard_Fund 的協作顧問可以讓您的團隊更強大'
     analytics_html: '<strong>分析報告</strong>：深入了解您的群組的參與程度'
     donations: 您的群組成員將不會再被詢問是否要捐款。
@@ -674,7 +674,7 @@ zh-TW:
     shareable_link: 可分享的連結
     copy_link: 複製連結
     email_addresses: 電子郵件地址
-    email_addresses_placeholder: '範例：helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: '範例：helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 複製連結並傳送給任何您想要讓他加入群組的人。這將會給予他們存取在該群組中的所有討論串的權限。
     email_explanation: 或是在下面輸入電子郵件，Diehard_Fund 將會以電子郵件的方式傳送一封邀請函給他們。
     add_custom_message: 讓您的邀請變為私人的，
@@ -1031,14 +1031,14 @@ zh-TW:
       <p>在您邀請他們加入 Diehard_Fund 前，先告訴他們這些可能會是個好主意。</p>
       <p>夥伴會想知道為何他們會被邀請，您對他們的期望是什麼，以及為何他們花時間去學習一個新工具是值得的。</p>
     join_the_community: 加入社群
-    join_the_community_description_html: "人人都歡迎加入 Diehard_Fund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>按這裡前往 Diehard_Fund 社群</a>。"
+    join_the_community_description_html: "人人都歡迎加入 Diehard_Fund 社群，我們可以在此談論如何充分利用以及如何改進這個工具。<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>按這裡前往 Diehard_Fund 社群</a>。"
     images_and_text_formatting: 圖片及文字格式
     images_and_text_formatting_html: >
       <p>Diehard_Fund 使用「Markdown」語法來嵌入圖片、格式化文字。
 
       您可以點選意見區塊底下的小灰色圖示切換 Markdown 功能。</p>
 
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>點選這裡</a>以瞭解如何使用
+      <p><a href='https://www.diehard.fund/discussions/1124'>點選這裡</a>以瞭解如何使用
       Markdown。</p>
     keep_up_to_date: 持續跟進
     keep_up_to_date_html: |
@@ -1105,7 +1105,7 @@ zh-TW:
         <li>它設計給您所有的裝置使用，從智慧型手機到桌上型電腦</li>
 
         <li>它可以讓盲人使用，且被翻譯為 <a
-        href="https://www.diehard_fund.org/translation">許多的語言</a>
+        href="https://www.diehard.fund/translation">許多的語言</a>
 
         </ul>
 

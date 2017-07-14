@@ -215,7 +215,7 @@ nl_NL:
       Prijzen zijn in Amerikaanse dollars, plus BTW indien van toepassing. Iets anders nodig? <a href="/contact">Neem contact op!</a>
     custom_subdomain_html: |
       aangepast subdomein ,<br />
-      bijv. <strong>jouwgroep</strong>.diehard_fund.org
+      bijv. <strong>jouwgroep</strong>.diehard.fund
     usage_statistics: gebruiksstatistieken
     plus_price_html: '<strong>$99</strong>/maand'
   password_reset:
@@ -248,7 +248,7 @@ nl_NL:
       *Om een bepaald persoon te berichten, type @ gevolg door diens naam.
       *Klik op het paperclip icoon om bijlagen toe te voegen.
 
-      Als je vragen hebt, check het [Diehard_Fund hulp handboek](http://help.diehard_fund.org).
+      Als je vragen hebt, check het [Diehard_Fund hulp handboek](http://help.diehard.fund).
   first_proposal:
     name: Demonstratie voorstel
     description: |
@@ -317,7 +317,7 @@ nl_NL:
 
         Rechte haakjes voor naam en dan ronde haakjes voor URL. Er zitten geen spaties tussen de haakjes.
 
-        [Diehard_Fund Homepage](https://www.diehard_fund.org/)
+        [Diehard_Fund Homepage](https://www.diehard.fund/)
 
         Afbeeldingen zijn hetzelfde, maar voorafgegaan door een uitroepteken.
 

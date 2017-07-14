@@ -13,4 +13,4 @@ Please see our [contributing page](../../CONTRIBUTING.md)
 We have an active translation community. Check out [the Translation guide](translation/)
 
 ## Join the community
-Discussion about development happens within the [Diehard_Fund Community](https://www.diehard_fund.org/g/WmPCB3IR/diehard_fund-community). We look forward to seeing you in there!
+Discussion about development happens within the [Diehard_Fund Community](https://www.diehard.fund/g/WmPCB3IR/diehard_fund-community). We look forward to seeing you in there!

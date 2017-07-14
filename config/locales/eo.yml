@@ -341,7 +341,7 @@ eo:
   confirm_leave_hidden_group: Ĉu vi certas ke vi volas forlasi %{which_group}? Vi ankaŭ estos forigata el eventualaj subgrupoj.
   confirm_leave_group: Ĉu vi certas, ke vi volas elriri la grupon %{which_group}?
   deactivate_group: Malaktivigi grupon
-  confirm_deactivate_group: Atendu!!! Ĉu vi certas, ke vi volas malaktivigi la grupon %{which_group}? Post tio, vi ne plu povos vidi la grupon. Tamen, se vi volas rehavi la grupon, vi povas peti de ni ke ni reaktivigu ĝin por vi per sendado de retmesaĝo al contact@diehard_fund.org.
+  confirm_deactivate_group: Atendu!!! Ĉu vi certas, ke vi volas malaktivigi la grupon %{which_group}? Post tio, vi ne plu povos vidi la grupon. Tamen, se vi volas rehavi la grupon, vi povas peti de ni ke ni reaktivigu ĝin por vi per sendado de retmesaĝo al contact@diehard.fund.
   invited_users: Invititiaj membroj
   members: Membroj
   confirm_remove_user: Ĉu vi certas, ke vi volas forigi %{which_user} el tiu ĉi grupo?
@@ -408,7 +408,7 @@ eo:
       body_html: |
         Ni sendis retpoŝtaĵon kun invito por komenci vian grupon.
 
-        Se vi nenion vidas en via poŝtkesto en kelkaj minutoj, retpoŝtu nin je <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Se vi nenion vidas en via poŝtkesto en kelkaj minutoj, retpoŝtu nin je <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   volume:
     volume: Laŭteco
   discussion_items:
@@ -580,12 +580,12 @@ eo:
       <p>Oni volas scii kial ili estis invititaj, kion oni atendas de ili, kaj kial indas ilia tempo por lerni
       kiel uzi la novan ilon.</p>
     join_the_community: Aliĝi al la komunumo
-    join_the_community_description_html: Ĉiuj bonvenas aliĝi al la komunumo de Diehard_Fund, kie ni parolas pri kiel plej bonigi la ilon, kaj kiel ĝi povas esti plibonigata.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Klaku ĉi tie por iri al la grupo de la Diehard_Fund-komunumo</a>.
+    join_the_community_description_html: Ĉiuj bonvenas aliĝi al la komunumo de Diehard_Fund, kie ni parolas pri kiel plej bonigi la ilon, kaj kiel ĝi povas esti plibonigata.<br /><br /><a href='https://www.diehard.fund/groups/3'>Klaku ĉi tie por iri al la grupo de la Diehard_Fund-komunumo</a>.
     images_and_text_formatting: Bildoj kaj teksta formatado
     images_and_text_formatting_html: |
       <p>Diehard_Fund uzas 'Markdown' por bildenmetado kaj tekstformatado.
       Vi povas enŝalti Markdown per la malgranda griza emblemo sub la komentkesto.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klaku ĉi tie</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Klaku ĉi tie</a>
       por informiĝi kiel uzi Markdown.</p>
     keep_up_to_date: Resti ĝisdata
     keep_up_to_date_html: |
@@ -647,7 +647,7 @@ eo:
 
       Ĉiuj estas bonvenaj aliĝi al la Diehard_Fund-komunumo, kie ni parolas pri kiel plej taŭge uzi la ilon, kaj kiel plibonigi.
 
-      <a href='https://www.diehard_fund.org/groups/3'>Iri al la Diehard_Fund-komunumo &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Iri al la Diehard_Fund-komunumo &raquo;</a>
     making_a_donation: Fari mondonon
     making_a_donation_description: |
       Diehard_Fund estas kunlabora socia entrepreno laboranta por faciligi al ĉiuj partopreni en decidoj rilataj al ili.

@@ -251,7 +251,7 @@ ja:
     待ってください！
     本当に %{which_group} を無効にしたいですか？
     グループを閲覧することができなくなります。
-    グループに戻りたい場合、再有効化させるために contact@diehard_fund.org にEメールを送ってください。
+    グループに戻りたい場合、再有効化させるために contact@diehard.fund にEメールを送ってください。
   invited_users: 招待されたメンバー
   members: メンバー
   confirm_remove_user: 本当にグループから %{which_user} を削除したいですか？
@@ -309,7 +309,7 @@ ja:
       body_html: |
         グループを開始する招待をメールで送りました。
 
-        数分後にあなたの受信箱に何も見つからなかった場合は、<a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a> にメールを送ってください。
+        数分後にあなたの受信箱に何も見つからなかった場合は、<a href='mailto:contact@diehard.fund'>contact@diehard.fund</a> にメールを送ってください。
   discussion_items:
     new_discussion: ディスカッションを作成しました
     new_motion: 提案を作成しました
@@ -454,13 +454,13 @@ ja:
     join_the_community: コミュニティに参加する
     join_the_community_description_html: |-
       ツールを有効化する方法や、改良する方法を話し合うDiehard_Fundコミュニティへの参加を誰でも歓迎します
-      <br /><br /><a href='https://www.diehard_fund.org/groups/3'>Diehard_Fundコミュニティに行くにはここをクリック</a>.
+      <br /><br /><a href='https://www.diehard.fund/groups/3'>Diehard_Fundコミュニティに行くにはここをクリック</a>.
     images_and_text_formatting: 画像とテキストのフォーマット
     images_and_text_formatting_html: |
       <p>Diehard_Fundは画像組み込みとテキストフォーマットに"マークダウン"を使用します
       コメントボックスの下にある灰色の小さなアイコンでマークダウンをオンにできます</p>
       <p>マークダウンの使用法について知りたい場合は
-      <a href='https://www.diehard_fund.org/discussions/1124'>ここをクリック</a>
+      <a href='https://www.diehard.fund/discussions/1124'>ここをクリック</a>
       してください</p>
     keep_up_to_date: 最新状態を保つ
     keep_up_to_date_html: |
@@ -524,7 +524,7 @@ ja:
 
       誰でもDiehard_Fundコミュニティへの参加が歓迎されます。Diehard_Fundコミュニティは、そのツールを最大限に活かす方法、そしてどのように改良できるかについて話す場です。
 
-      <a href='https://www.diehard_fund.org/groups/3'>Diehard_Fundコミュニティグループ & raquoにジャンプする</a>
+      <a href='https://www.diehard.fund/groups/3'>Diehard_Fundコミュニティグループ & raquoにジャンプする</a>
     making_a_donation: 寄付をする
     making_a_donation_description: "Diehard_Fundは、影響を持つ決定に誰でも参加しやすくするために働いている社会事業組合です。 \nあなたの寄付は、私たちが広告のないDiehard_Fundの独立を維持し、コミュニティの中で素晴らしいことを行っているグループに自由に利用可能になるということを意味しています。\n\n これを実現させていただいて、ありがとうございます！\n"
   new_password: 新しいパスワード

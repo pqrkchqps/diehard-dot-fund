@@ -111,7 +111,7 @@ bg_BG:
     images_and_text_formatting_html: |
       <p>Diehard_Fund използва ‘Markdown’ за вмъкване на изображения и текстово форматиране.
       Можете да включвате Markdown с малката сива икона под полето за коментиране.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Кликнете тук</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Кликнете тук</a>
       за информация как да използвате Markdown.</p>
     keep_up_to_date: "Бъдете информирани"
     keep_up_to_date_html: |

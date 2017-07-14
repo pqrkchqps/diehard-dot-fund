@@ -210,7 +210,7 @@ sl:
     images_and_text_formatting_html: |
       <p>Diehard_Fund uporablja 'Markdown' za vgrajevanje slik in urejanje besedil.
       Markdown lahko vklopiš z majhno sivo ikono pod oknom s komentarji..</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klikni sem</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Klikni sem</a>
       za več informacij o uporabi Markdown-a.</p>
     keep_up_to_date: "Ostani na tekočem"
     keep_up_to_date_html: |

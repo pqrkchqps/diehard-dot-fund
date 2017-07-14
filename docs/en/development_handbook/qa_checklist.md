@@ -55,8 +55,8 @@ See the [a11y guide](accessibility.md) for more info.
 - migrations have been tested on a copy of the production database
 
 ## Open source ready
-- The code does not contain any Diehard_Fund.org specific stuff
-- The design makes sense when used on domains other than diehard_fund.org
+- The code does not contain any diehard.fund specific stuff
+- The design makes sense when used on domains other than diehard.fund
 
 ## Emails
 - Have as simple as can be HTML & CSS confirming to BEM where possible

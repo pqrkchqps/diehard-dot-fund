@@ -599,7 +599,7 @@ it:
     shareable_link: 'Link pubblico condivisibile'
     copy_link: 'Copia'
     email_addresses: 'Indirizzi email'
-    email_addresses_placeholder: 'e.g. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'e.g. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Copia il link e invialo a chiunque tu voglia iscrivere al gruppo. Darai loro accesso a tutte le discussioni del gruppo. '
     add_custom_message: 'Rendi il tuo invito personale,'
     add_custom_message_link: 'aggiungi un messaggio.'
@@ -840,12 +840,12 @@ it:
       <p>Le persone vorranno sapere perché sono state invitate, che cosa dovrebbero fare,
       e perché dovrebbero spendere del tempo a imparare a usare un nuovo tool.</p>
     join_the_community: "Unisciti alla community"
-    join_the_community_description_html: "Tutti/e sono benvenuti/e nella Community di Diehard_Fund, dove discutiamo di come sfruttare al meglio questo strumento e di come migliorarlo.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Clicca qui per andare al gruppo della Community di Diehard_Fund</a>."
+    join_the_community_description_html: "Tutti/e sono benvenuti/e nella Community di Diehard_Fund, dove discutiamo di come sfruttare al meglio questo strumento e di come migliorarlo.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Clicca qui per andare al gruppo della Community di Diehard_Fund</a>."
     images_and_text_formatting: "Formattazione immagini e testo"
     images_and_text_formatting_html: |
       <p>Diehard_Fund usa ‘Markdown’ per l'embed di immagini e la formattazione del testo.
       Puoi attivare o disattivare il Markdown cliccando sulla piccola icona grigia sotto il box per i commenti</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Clicca qui</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Clicca qui</a>
       per informazioni su come usare Markdown.</p>
     keep_up_to_date: "Rimani aggiornato"
     keep_up_to_date_html: |

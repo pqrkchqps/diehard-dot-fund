@@ -431,7 +431,7 @@ ca:
     group_placeholder: 'Seleccioneu un grup'
     shareable_link: 'Enllaç per a compartir'
     email_addresses: 'Adreces de correu electrònic'
-    email_addresses_placeholder: 'p. ex. marc@diehard_fund.org, martina@diehard_fund.org'
+    email_addresses_placeholder: 'p. ex. marc@diehard.fund, martina@diehard.fund'
     email_explanation: 'Introduïu a sota les adreces de correu electrònic i Diehard_Fund els enviarà una invitació.'
     add_custom_message: 'Creeu una invitació personal,'
     add_custom_message_link: 'afegiu un missatge personalitzat.'
@@ -721,7 +721,7 @@ ca:
     images_and_text_formatting_html: |
       <p>Diehard_Fund utilitza 'Markdown' per incrustar imatges i formatar el text.
       Pots activar i desactivar el Markdown amb la petita icona gris sota l'apartat de comentaris. </p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'> Fes clic aquí </a>
+      <p><a href='https://www.diehard.fund/discussions/1124'> Fes clic aquí </a>
       per obtenir informació sobre com utilitzar Markdown. </p>
     keep_up_to_date: "Estar al dia"
     keep_up_to_date_html: |

@@ -342,7 +342,7 @@ sv:
   confirm_leave_hidden_group: Är du säker på att du vill lämna %{which_group}? Du kommer även att tas bort från alla undergrupper.
   confirm_leave_group: Är du säker på att du vill lämna %{which_group}?
   deactivate_group: Deaktivera gruppen
-  confirm_deactivate_group: Vänta!!! Är du säker på att du vill deaktivera %{which_group}? Du kommer inte längre att kunna se gruppen. Men, om du skulle vilja ha gruppen tillbaka kan du be oss att återställa den genom att skicka ett email till contact@diehard_fund.org.
+  confirm_deactivate_group: Vänta!!! Är du säker på att du vill deaktivera %{which_group}? Du kommer inte längre att kunna se gruppen. Men, om du skulle vilja ha gruppen tillbaka kan du be oss att återställa den genom att skicka ett email till contact@diehard.fund.
   invited_users: Inbjudna medlemmar
   members: Medlemmar
   confirm_remove_user: Är du säker på att du vill ta bort %{which_user} från gruppen?
@@ -409,7 +409,7 @@ sv:
       body_html: |+
         Vi har skickat ett email till dig med en inbjudan att starta din grupp.
 
-        Om du inte har fått något i din inbox inom några minuter, emaila oss på <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Om du inte har fått något i din inbox inom några minuter, emaila oss på <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
 
   thread_item:
     user_agreed_on_proposal_html: "<strong>%{name}</strong> kom överens om förslaget."
@@ -583,12 +583,12 @@ sv:
       <p>Folk vill gärna veta varför de har blivit inbjudna, vad som förväntas av dem,
       samt varför det ska vara värt tiden att lära sig använda ett nytt verktyg.</p>
     join_the_community: Gå med i communityn
-    join_the_community_description_html: Alla är välkomna i Diehard_Fund Community, där vi pratar om hur vi får ut mesta möjliga av verktyget samt även förslag till hur vi kan det ännu bättre.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Klicka här för att gå till Diehard_Fund Community gruppen</a>.
+    join_the_community_description_html: Alla är välkomna i Diehard_Fund Community, där vi pratar om hur vi får ut mesta möjliga av verktyget samt även förslag till hur vi kan det ännu bättre.<br /><br /><a href='https://www.diehard.fund/groups/3'>Klicka här för att gå till Diehard_Fund Community gruppen</a>.
     images_and_text_formatting: Bild- och textformatering
     images_and_text_formatting_html: |
       <p>Diehard_Fund använder ‘Markdown’ för bild- och textformatering.
       Du kan markera Markdown på med den lilla grå ikonen under den kommentarboxen.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klicka här</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Klicka här</a>
       för mer information om hur du använder Markdown.</p>
     keep_up_to_date: Håll informationen uppdaterad
     keep_up_to_date_html: |
@@ -641,7 +641,7 @@ sv:
 
       Alla är välkomna att gå med i Diehard_Funds Community, där vi pratar om hur man får ut mesta möjliga av verktyget, samt hur det kan göra ännu bättre.
 
-      <a href='https://www.diehard_fund.org/groups/3'> Ta mig till gruppen Diehard_Fund Community &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'> Ta mig till gruppen Diehard_Fund Community &raquo;</a>
     making_a_donation: Gör en donation
     making_a_donation_description: |
       Diehard_Fund är ett socialt kooperativ som arbetar för att göra det enkelt för alla att delta i beslut som påverkar dem.

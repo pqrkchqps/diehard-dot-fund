@@ -48,7 +48,7 @@ angular.module('diehard_fundApp').directive 'sidebar', ->
 
     $scope.showContactUs = ->
       # TODO: use diehard_fund_org plugin to determine official site or not
-      AppConfig.baseUrl == 'https://www.diehard_fund.org/'
+      AppConfig.baseUrl == 'https://www.diehard.fund/'
 
     $scope.contactUs = ->
       IntercomService.contactUs()

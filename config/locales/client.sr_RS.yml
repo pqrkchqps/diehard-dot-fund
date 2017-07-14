@@ -294,7 +294,7 @@ sr_RS:
     images_and_text_formatting_html: |
       <p>Лумио користи ‘Markdown’ за убацивање слика и форматирање текста.
       Можете укључити са малом сивом иконом испод поља за коментар.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Шкљоцни овде</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Шкљоцни овде</a>
       за информације о томе како користити Markdown.</p>
     keep_up_to_date: "Будите у току"
     keep_up_to_date_html: |

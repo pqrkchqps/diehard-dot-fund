@@ -11,10 +11,10 @@ describe 'Profile', ->
   describe 'updating a profile name', ->
     it 'successfully updates a profile', ->
       page.click '.sidebar__list-item-button--profile'
-      profileHelper.updateProfile('Ferris Bueller', 'ferrisbueller', 'ferris@diehard_fund.org')
+      profileHelper.updateProfile('Ferris Bueller', 'ferrisbueller', 'ferris@diehard.fund')
       expect(profileHelper.nameInput().getAttribute('value')).toContain('Ferris Bueller')
       expect(profileHelper.usernameInput().getAttribute('value')).toContain('ferrisbueller')
-      expect(profileHelper.emailInput().getAttribute('value')).toContain('ferris@diehard_fund.org')
+      expect(profileHelper.emailInput().getAttribute('value')).toContain('ferris@diehard.fund')
 
   describe 'visiting a user profile', ->
     it 'displays a user and their non-secret groups', ->

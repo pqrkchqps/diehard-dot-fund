@@ -12,14 +12,14 @@ NB: All of the curl commands in this document have been shortened for readabilit
 
 actually, of course, means this:
 ```bash
-  curl http://www.diehard_fund.org/api/v1/discussions.json?access_token=<access_token>
+  curl http://www.diehard.fund/api/v1/discussions.json?access_token=<access_token>
 ```
 
 Happy cUrling and bashing!
 
 ## Using the Public API
 
-Data in public discussions is freely available via the Diehard_Fund API. Certain endpoints (marked with a 🔓 in the [API Endpoints](#api_endpoints) section below) are accessible even while logged out. For example, you can view a list of the most recently created public discussions on (Diehard_Fund.org)[http://www.diehard_fund.org] like so:
+Data in public discussions is freely available via the Diehard_Fund API. Certain endpoints (marked with a 🔓 in the [API Endpoints](#api_endpoints) section below) are accessible even while logged out. For example, you can view a list of the most recently created public discussions on (diehard.fund)[http://www.diehard.fund] like so:
 
 ```bash
   curl /discussions.json
@@ -132,7 +132,7 @@ You (or someone like you) has been hitting the API a _little_ too hard recently.
 
 **500 - Internal Server Error**
 Something went wrong on our end, whoops! We'd really appreciate you letting us know
-by sending an email to [contact@diehard_fund.org](mailto:contact@diehard_fund.org) or [filing an issue](http://github.com/diehard_fund/diehard_fund/issues)
+by sending an email to [contact@diehard.fund](mailto:contact@diehard.fund) or [filing an issue](http://github.com/diehard_fund/diehard_fund/issues)
 
 ## API Endpoints
 
@@ -394,7 +394,7 @@ Parameters: regular [collection endpoint parameters](somewhere)
 example:
 
 ```ruby
-response = RestClient.get('diehard_fund.org/api/v1/discussions.json')
+response = RestClient.get('diehard.fund/api/v1/discussions.json')
 ```
 
 #### Proposals

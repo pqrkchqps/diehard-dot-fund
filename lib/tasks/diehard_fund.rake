@@ -84,7 +84,7 @@ namespace :diehard_fund do
   end
 
   task update_blog_stories: :environment do
-    rss = SimpleRSS.parse open('http://blog.diehard_fund.org/category/stories/feed/')
+    rss = SimpleRSS.parse open('http://blog.diehard.fund/category/stories/feed/')
     BlogStory.destroy_all
     rss.items.each do |item|
       BlogStory.create(title: item[:title],

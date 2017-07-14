@@ -277,7 +277,7 @@ lt:
     getting_started: "Darbo pradžia"
     have_your_say: "Tarkite savo žodį"
     help: "Pagalba"
-    join_the_community_description_html: "Visi yra kviečiami prisijungti prie Diehard_Fund Bendruomenės, kurioje mes aptarinėjame, kaip geriausiai išnaudoti įrankį ir kaip jis gali būti patobulintas.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Spustelkite čia, kad pereitumėte į Diehard_Fund Bendruomenės grupę</a>."
+    join_the_community_description_html: "Visi yra kviečiami prisijungti prie Diehard_Fund Bendruomenės, kurioje mes aptarinėjame, kaip geriausiai išnaudoti įrankį ir kaip jis gali būti patobulintas.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Spustelkite čia, kad pereitumėte į Diehard_Fund Bendruomenės grupę</a>."
     positions_agree_description: "<span>Pritariu</span> reiškia, kad jums patinka pasiūlymas."
     positions_disagree_description: "<span>Nepritariu</span> reiškia, kad jūs galvojate, jog gali būti geresnių alternatyvų, tačiau neprieštarausite grupės sprendimui."
   angular:

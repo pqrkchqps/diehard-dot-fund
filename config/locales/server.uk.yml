@@ -243,7 +243,7 @@ uk:
       Ціни вказані в доларах США; додатково нараховується податок з продажів у випадках, де він має бути застосованим. Потрібно щось ще? <a href="/contact">Давай поговоримо!</a>
     custom_subdomain_html: |
       піддомен користувача, <br />
-      наприкалад <strong>yourgroup</strong>.diehard_fund.org
+      наприкалад <strong>yourgroup</strong>.diehard.fund
     usage_statistics: статистика використання
     plus_price_html: '<strong>$99</strong>/на місяць'
   password_reset:
@@ -277,7 +277,7 @@ uk:
       * Щоб повідомити конкретну людину, введіть @ та її ім'я.
       * Натисніть на значок скріпки щоб додати файли.
 
-      Якщо у вас виникли питання, пошукайте відповіді в [довіднику Diehard_Fund] (http://help.diehard_fund.org).
+      Якщо у вас виникли питання, пошукайте відповіді в [довіднику Diehard_Fund] (http://help.diehard.fund).
   first_proposal:
     name: Приклад пропозиції
     description: |
@@ -355,7 +355,7 @@ uk:
 
         Квадратні дужки для імені, потім круглі дужки для URL. Без пробілу між дужками.
 
-        [Домашня сторінка Diehard_Fund](https://www.diehard_fund.org/)
+        [Домашня сторінка Diehard_Fund](https://www.diehard.fund/)
 
         Так само для зображень, але додавши на початку знак оклику.
 

@@ -33,4 +33,4 @@ rails s
 ##### Having trouble?
 
 - Make sure ruby (2.3.0), node (7.4.0), postgres (9.4+), and [ImageMagick](http://stackoverflow.com/questions/3704919/installing-rmagick-on-ubuntu) are installed
-- Let us know in the [product team](https://www.diehard_fund.org/g/VmBUX7WM/diehard_fund-community-product-team) group on Diehard_Fund.
+- Let us know in the [product team](https://www.diehard.fund/g/VmBUX7WM/diehard_fund-community-product-team) group on Diehard_Fund.

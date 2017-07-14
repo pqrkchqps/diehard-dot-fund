@@ -378,7 +378,7 @@ sl:
   confirm_leave_hidden_group: Si prepričan/a, da želiš zapustiti %{which_group}? Odstranjen/a boš tudi iz vseh podskupin.
   confirm_leave_group: Si prepričan/a, da želiš zapustiti %{which_group}?
   deactivate_group: De-aktiviraj skupino.
-  confirm_deactivate_group: Pozor!!! Si prepričan/a da želiš deaktivirati %{which_group}? Skupine ne boš mogel/la več videti. Skupino lahko ponovno aktiviraš tako, da pošlješ email na contact@diehard_fund.org.
+  confirm_deactivate_group: Pozor!!! Si prepričan/a da želiš deaktivirati %{which_group}? Skupine ne boš mogel/la več videti. Skupino lahko ponovno aktiviraš tako, da pošlješ email na contact@diehard.fund.
   invited_users: Povabljeni člani
   members: Člani
   confirm_remove_user: Si prepričan/a, da želiš odstraniti %{which_user} iz skupine?
@@ -445,7 +445,7 @@ sl:
       body_html: |
         Prejel/a boš email z vabilom k ustvarjanju svoje skupine.
 
-        Če ga ne prejmeš v naslednjih nekaj minutah, nam piši na <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Če ga ne prejmeš v naslednjih nekaj minutah, nam piši na <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   volume:
     volume: Pogostost obveščanj
     loud: Glasno
@@ -626,12 +626,12 @@ sl:
       <p>Ljudje bodo želeli vedeti, zakaj so bili povabljeni, kaj se od njih pričakuje,
       in zakaj je vredno njihovega časa, da se naučijo uporabljati novo orodje.</p>
     join_the_community: Pridruži se skupnosti
-    join_the_community_description_html: Vsak je dobrodošel, da se pridruži Diehard_Fund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo <br /><br /><a href='https://www.diehard_fund.org/groups/3'> Klikni tukaj, da greš </a> skupino Diehard_Fund Skupnost.
+    join_the_community_description_html: Vsak je dobrodošel, da se pridruži Diehard_Fund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo <br /><br /><a href='https://www.diehard.fund/groups/3'> Klikni tukaj, da greš </a> skupino Diehard_Fund Skupnost.
     images_and_text_formatting: Urejanje slik in teksta
     images_and_text_formatting_html: |
       <p>Diehard_Fund uporablja 'Markdown' za vgrajevanje slik in urejanje besedil.
       Markdown lahko vklopiš z majhno sivo ikono pod oknom s komentarji..</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klikni sem</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Klikni sem</a>
       za več informacij o uporabi Markdown-a.</p>
     keep_up_to_date: Ostani na tekočem
     keep_up_to_date_html: |
@@ -701,7 +701,7 @@ sl:
 
       Vsak je dobrodošel, da se pridruži Diehard_Fund Skupnosti, kjer debatiramo o tem, kako lahko s tem orodjem naredimo največ in kako ga lahko izboljšamo.
 
-      <a href='https://www.diehard_fund.org/groups/3'>Želim vstopiti vskupino Diehard_Fund Skupnost &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Želim vstopiti vskupino Diehard_Fund Skupnost &raquo;</a>
     making_a_donation: Doniraj
     making_a_donation_description: |
       Diehard_Fund je zadružno socialno podjetje, ki si prizadeva omogočiti vsem, da bi sodelovali pri odločitvah, ki jih zadevajo.

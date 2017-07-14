@@ -539,7 +539,7 @@ uk:
   upgrade_plan_card:
     heading: Перейти на план з додатковими функціями
     slack_html: "<strong>Інтеграція з Slack</strong>: Diehard_Fund та Slack чудово працюють разом! Зв'яжіть їх."
-    domain_html: "<strong>Власне доменне ім'я</strong>: Використовуйте адресу яку легко знайти yourname.diehard_fund.org"
+    domain_html: "<strong>Власне доменне ім'я</strong>: Використовуйте адресу яку легко знайти yourname.diehard.fund"
     help_html: "<strong>Експертна допомога</strong>: Консультанти Diehard_Fund зі співпраці допоможуть вашій груі стати більш дієвою"
     analytics_html: "<strong>Аналітичні звіти</strong>: Отримати розуміння залучення учасників групи"
     donations: Учасникам вашої групи більше не будуть надходити пропозиції щодо пожертв.
@@ -671,7 +671,7 @@ uk:
     shareable_link: 'Посилання для поширення'
     copy_link: 'Копіювати'
     email_addresses: 'Адреса електроної пошти'
-    email_addresses_placeholder: 'наприклад helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'наприклад helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Скопіюйте посилання та надішліть його тим, кого ви хочете долучити до групи. За його допомогою вони отримають доступ до всіх тем групи.'
     email_explanation: 'В якості альтернативи, вкажіть електронну адресу нижче і Diehard_Fund надішле їм запрошення поштою.'
     add_custom_message: 'Зробіть ваше запрошення особистим,'
@@ -1035,12 +1035,12 @@ uk:
       <p>Непогана ідея поговорити з групою заздалегідь, перед тим, як ви запросите їх до Diehard_Fund.</p>
       <p>Людям буде цікаво, чому їх запросили, що ви очікуєте від них і чому варто гаяти час на розуміння, як користуватися новим інструментом.</p>
     join_the_community: "Вступити до спільноти"
-    join_the_community_description_html: "Запрошуємо всіх приєднатись до співтовариства Diehard_Fund, де ми говоримо про те, як використати цей інструмент наповну, та як він може бути поліпшений.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Натисніть тут, щоб перейти в групу співтовариства Diehard_Fund</a>."
+    join_the_community_description_html: "Запрошуємо всіх приєднатись до співтовариства Diehard_Fund, де ми говоримо про те, як використати цей інструмент наповну, та як він може бути поліпшений.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Натисніть тут, щоб перейти в групу співтовариства Diehard_Fund</a>."
     images_and_text_formatting: "Зображення та форматування тексту"
     images_and_text_formatting_html: |
       <p>Diehard_Fund використовує ‘Markdown’ для додавання до тексту зображень та форматування.
       Ви можете включити Markdown за допомогою невеличкої сірої іконки під блоком коментарів.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Натисніть тут</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Натисніть тут</a>
       для інформації про використанню Markdown.</p>
     keep_up_to_date: "Підтримуйте актуальність"
     keep_up_to_date_html: |
@@ -1106,7 +1106,7 @@ uk:
         <ul>
         <li>Все оновлення потрапляють на сторінку одразу, як вони з'являються</li>
         <li>Він єдиний для всіх ваших пристроїв, від смартфонів до компьютера</li>
-        <li>Він є доступним для незрячих, та перекладений на <a href="https://www.diehard_fund.org/translation">купу мов</a>
+        <li>Він є доступним для незрячих, та перекладений на <a href="https://www.diehard.fund/translation">купу мов</a>
         </ul>
         </p>
 

@@ -478,7 +478,7 @@ tr:
     shareable_link: 'Paylaşılabilir bağlantı'
     copy_link: 'Kopyala'
     email_addresses: 'E-posta adresleri'
-    email_addresses_placeholder: 'Örn. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'Örn. helperbot@diehard.fund, friendlybot@diehard.fund'
     email_explanation: 'Alternatif olarak, e-posta adreslerini aşağıdaki alana girin ve Diehard_Fund e-posta ile onlara bir davetiye gönderecek.'
     add_custom_message: 'Davetinizi kişiselleştirin,'
     add_custom_message_link: 'özel bir mesaj ekleyin.'
@@ -738,12 +738,12 @@ tr:
       ve yeni bir aracı kullanmayı öğrenmek için zamanlarından harcamaya değip değimediğini bilmek isteyecek.</p>
 
     join_the_community: "Topluluğa katıl"
-    join_the_community_description_html: "Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Diehard_Fund Topluluğu grubuna gitmek için  tıklayın</a>."
+    join_the_community_description_html: "Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Diehard_Fund Topluluğu grubuna gitmek için  tıklayın</a>."
     images_and_text_formatting: "Resimler ve metin biçimlendirme"
     images_and_text_formatting_html: |
       <p>Diehard_Fund, resim gömme ve metin biçimlendirme amacıyla ‘Markdown’ dilini kullanıyor.
       Markdown desteğini yorum kısmının üzerindeki ufak gri simge ile açıp kapayabilirsiniz.</p>
-      <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.diehard_fund.org/discussions/1124'>burayı tıklayın.</a></p>
+      <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.diehard.fund/discussions/1124'>burayı tıklayın.</a></p>
     keep_up_to_date: "Güncel tutun"
     keep_up_to_date_html: |
       <p>Ekranın üst kısmındaki grup adını tıklamak sizi grup içindeki müzakereleri

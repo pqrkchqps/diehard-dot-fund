@@ -19,5 +19,5 @@
             = f.submit :submit, value: t(:"contact_page.labels.submit"), class: 'btn btn-info btn-lg', data: { disable_with: t(:"contact_page.labels.submit") }
         .col-md-5.offset1#direct-contact
           - if hosted_by_diehard_fund?
-            %p= t(:"contact_page.messages.email_html", email: "contact@diehard_fund.org")
+            %p= t(:"contact_page.messages.email_html", email: "contact@diehard.fund")
             %p= t(:"contact_page.messages.social_html", facebook: "https://www.facebook.com/Diehard_Fund", twitter: "https://twitter.com/Diehard_Fund", google: "https://plus.google.com/+Diehard_FundOrg")

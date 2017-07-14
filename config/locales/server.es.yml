@@ -239,7 +239,7 @@ es:
       Precios en dolares US, más impuestos a la venta donde aplique. ¿Necesitas algo más? <a href="/contact">Hablemos</a>
     custom_subdomain_html: |
       subdominio personalizado<br />
-      ej. <strong>tugrupo</strong>.diehard_fund.org
+      ej. <strong>tugrupo</strong>.diehard.fund
     usage_statistics: Estadísticas de uso
     plus_price_html: '<strong>$99</strong>/al mes'
   password_reset:
@@ -273,7 +273,7 @@ es:
       * Para notificar a una persona en particular escribe @seguido de su nombre
       * Haz clic en el icono del sujetapapeles para añadir adjuntos
 
-      Si tienes preguntas lee el [Manual de Usuario](http://help.diehard_fund.org).
+      Si tienes preguntas lee el [Manual de Usuario](http://help.diehard.fund).
 
   first_proposal:
     name: Propuesta de demostración
@@ -352,7 +352,7 @@ es:
 
         Corchetes para los nombres luego paréntesis para las URL. Sin espacio entre ellos.
 
-        [Diehard_Fund Homepage](https://www.diehard_fund.org/)
+        [Diehard_Fund Homepage](https://www.diehard.fund/)
 
         Las imágenes son iguales, pero precedidas por un signo de exclamación.
 

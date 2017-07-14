@@ -44,9 +44,9 @@ module Dev::NintiesMoviesHelper
   end
 
   def emilio
-    @emilio ||= User.find_by_email('emilio@diehard_fund.org') ||
+    @emilio ||= User.find_by_email('emilio@diehard.fund') ||
                 User.create!(name: 'Emilio Estevez',
-                            email: 'emilio@diehard_fund.org',
+                            email: 'emilio@diehard.fund',
                             password: 'gh0stmovie',
                             angular_ui_enabled: true)
   end

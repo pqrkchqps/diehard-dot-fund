@@ -477,7 +477,7 @@ pt_BR:
   upgrade_plan_card:
     heading: Atualização para recursos premium
     slack_html: "<strong>Slack integration</strong>: Diehard_Fund e Slack funcionam muito bem juntos! Conecte-os."
-    domain_html: "<strong>Domínio personalizado</strong>: Torne seu grupo fácil de ser encontrado seunome.diehard_fund.org"
+    domain_html: "<strong>Domínio personalizado</strong>: Torne seu grupo fácil de ser encontrado seunome.diehard.fund"
     help_html: "<strong>Ajuda de um expert</strong>: Os consultores colaboradores do Diehard_Fund farão seu grupo sussurrar"
     analytics_html: "<strong>Relatórios analíticos</strong>: Obtenha informações sobre o engajamento do seu grupo"
     donations: Os membros do seu grupo não receberão mais solicitações de doações.
@@ -604,7 +604,7 @@ pt_BR:
     group_placeholder: 'Selecionar um grupo'
     shareable_link: 'Link compartilhável'
     email_addresses: 'Endereço de e-mail'
-    email_addresses_placeholder: 'e.g. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'e.g. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Copie o link e envie para todos que queiram participar do grupo. Isso permitirá que eles tenham acesso a todos os tópicos do grupo.'
     email_explanation: 'Como alternativa, introduza endereços de e-mail abaixo e o Diehard_Fund irá enviar os convites por e-mail.'
     add_custom_message: 'Faça seu convite pessoal,'
@@ -939,12 +939,12 @@ pt_BR:
       <p>As pessoas vão querer saber por que foram convidadas, o que se espera delas,
       e por que valeria a pena passar um tempo aprendendo a usar uma nova ferramenta.</p>
     join_the_community: "Faça parte da comunidade"
-    join_the_community_description_html: "Todos estão convidados a se juntar à Comunidade Diehard_Fund, onde falamos sobre como tirar o máximo da ferramenta e como ela pode ser melhorada.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Clique aqui para ir ao grupo da Comunidade Diehard_Fund</a>."
+    join_the_community_description_html: "Todos estão convidados a se juntar à Comunidade Diehard_Fund, onde falamos sobre como tirar o máximo da ferramenta e como ela pode ser melhorada.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Clique aqui para ir ao grupo da Comunidade Diehard_Fund</a>."
     images_and_text_formatting: "Formatação de imagens e texto"
     images_and_text_formatting_html: |
       <p>Diehard_Fund utiliza o código 'Markdown' -- Remarcação -- para formatação de texto e inserção de imagens.
       Você pode ativar a Remarcação pelo pequeno ícone cinza embaixo da caixa de comentários.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Clique aqui</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Clique aqui</a>
       para informações sobre como utilizar Remarcação.</p>
     keep_up_to_date: "Manter atualizado"
     keep_up_to_date_html: |
@@ -1007,7 +1007,7 @@ pt_BR:
         <ul>
         <li>Atualização de tudo ao vivo na página enquanto acontece</li>
         <li>È projetado para todos os seus dispositivos, desde smartphones até desktop</li>
-        <li>É acessível para pessoas cegas e traduzido para <a href="https://www.diehard_fund.org/translation">um monte de idiomas</a>
+        <li>É acessível para pessoas cegas e traduzido para <a href="https://www.diehard.fund/translation">um monte de idiomas</a>
         </ul>
         </p>
 

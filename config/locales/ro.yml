@@ -381,7 +381,7 @@ ro:
   confirm_leave_hidden_group: Esti sigur ca vrei sa parasesti %{which_group}? Vei fi inlaturat si din toate subgrupurile.
   confirm_leave_group: Esti sigur ca vrei sa parasesti %{which_group}?
   deactivate_group: Dezactiveaza grup
-  confirm_deactivate_group: Asteapta!! Esti sigur ca vrei sa dezactivezi %{which_group}? Nu vei mai putea sa vezi acest grup. Daca vei vrea sa re-creezi grupul trimite-ne un mail pe adresa contact@diehard_fund.org.
+  confirm_deactivate_group: Asteapta!! Esti sigur ca vrei sa dezactivezi %{which_group}? Nu vei mai putea sa vezi acest grup. Daca vei vrea sa re-creezi grupul trimite-ne un mail pe adresa contact@diehard.fund.
   invited_users: Membri invitati
   members: Membri
   confirm_remove_user: Esti sigur ca vrei sa elimini pe %{which_user} din grup?
@@ -465,7 +465,7 @@ ro:
       body_html: |
         Ti-am trimis un email cu o invitiatie pentru creearea grupului tau,
 
-        Daca nu ai primit nici un mail in casuta de inbox, trimite-ne un email la <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>
+        Daca nu ai primit nici un mail in casuta de inbox, trimite-ne un email la <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>
   volume:
     volume: Volum
     loud: Tare
@@ -641,12 +641,12 @@ ro:
     how_it_works: Cum functioneaza
     invitation_html: "<h2>Cum sa scrii o invitatie eficienta</h2>\n<p>Prima intrebare pe care fiecare nou membru o va avea este 'pentru ce este creat acest grup?'</p>\n<p>Gandeste-te la cea mai simpla descriere a grupului: Ce vrei sa obtineti impreuna?\n Ce tipuri de decizii veti lua? Cine va fi implicat?</p><p>Poate fi o idee buna sa vorbesti cu grupul tau \ninainte de ai invita pe Diehard_Fund</p>\n<p> Oamenii vor voi sa stie de ce au fost invitati si ce se asteapta de la ei si de ce merita sa-si investeasca\ntimpul in a invata cum sa foloseasca un nou instrument.</p>\n"
     join_the_community: Alatura-te comunitatii
-    join_the_community_description_html: Toata lumea este binevenita in Comunitatea Diehard_Fund, unde discutam cum sa obtinem cat mai mult din folosirea acestui instrument, si cum poate fi imbunatatit.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Apasa aici ca sa intri in grupul Comunitatii Diehard_Fund</a>.
+    join_the_community_description_html: Toata lumea este binevenita in Comunitatea Diehard_Fund, unde discutam cum sa obtinem cat mai mult din folosirea acestui instrument, si cum poate fi imbunatatit.<br /><br /><a href='https://www.diehard.fund/groups/3'>Apasa aici ca sa intri in grupul Comunitatii Diehard_Fund</a>.
     images_and_text_formatting: Formatarea imaginilor si a textului
     images_and_text_formatting_html: |
       <p>Diehard_Fund foloseste ‘Markdown' pentru a adauga imagini si formatarea textului.
       Poti porni Markdown prin icoana mica gri de sub casuta de comentarii</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Apasa aici</a> pentru informatii
+      <p><a href='https://www.diehard.fund/discussions/1124'>Apasa aici</a> pentru informatii
       despre folosirea Markdown</p>
     keep_up_to_date: Mentine actualizat
     keep_up_to_date_html: "<p>Apasand pe numele grupului in partea de sus a paginii vei ajunge in Pagina Grupului,\nunde poti vizualiza o lista a tututor discutiilor si deciziilor din acel grup.. Daca esti membru in \nmai mult de un grup, poti sa vezi toate activitatile din grupurile tale direct din Pagina de Start.</p>\n<p>Vei primi notificari pe email cand se intampla lucruri importante in grupul tau.\nPoti sa schimbi preferintele de email <a href=\"%{link}\"\">aici</a>.</p>\n"
@@ -707,7 +707,7 @@ ro:
 
       Toata lumea este binevenita sa se alature comunitatii Diehard_Fund, unde discutam despre cum sa utilizam la maxim acest mediu, si cum poate fi imbunatatit.
 
-      <a href='https://www.diehard_fund.org/groups/3'>Du-ma la grupul comunitatii Diehard_Fund &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Du-ma la grupul comunitatii Diehard_Fund &raquo;</a>
     making_a_donation: Donatii
     making_a_donation_description: "Diehard_Fund este o companie cooperativa sociala care lucreaza pentru a facilita partiparea fiecaruia la luarea unor decizii care il afecteaza. \n\nContributia ta ne ajuta sa dezvoltam Diehard_Fund intr-un mod independent, fara publicitate, si pe baza dorintelor comunitatii de utilizatori.\n\nMultumim ca faci acest lucru posibil.\n"
   resend_confirmation: Retrimite instructiunile de confirmare

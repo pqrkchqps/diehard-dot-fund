@@ -293,7 +293,7 @@ ca:
   confirm_leave_hidden_group: Estàs segur que vols deixar %{which_group}? També sortiràs dels seus possibles subgrups.
   confirm_leave_group: Estàs segur que vols deixar %{which_group}?
   deactivate_group: Desactivar grup
-  confirm_deactivate_group: Compte! N'estàs segur que vols desactivar %{which_group}? D'ara en endavant no podràs veure el grup. Tanmateix, si vols recuperar-lo pots demanar-nos-en la reactivació enviant un correu electrònic a contact@diehard_fund.org.
+  confirm_deactivate_group: Compte! N'estàs segur que vols desactivar %{which_group}? D'ara en endavant no podràs veure el grup. Tanmateix, si vols recuperar-lo pots demanar-nos-en la reactivació enviant un correu electrònic a contact@diehard.fund.
   invited_users: Membres convidats
   members: Membres
   confirm_remove_user: Estàs segur que vols eliminar %{which_user} del grup?
@@ -357,7 +357,7 @@ ca:
     please_select_an_option: Sel·lecciona una opció
     confirmation:
       title: Ja quasi ho tens! Comprova el teu correu electrònic.
-      body_html: "T'hem enviat un correu electrònic amb una invitació per començar el teu grup. \n\nSi no apareix res a la safata d'entrada en pocs minuts, envia'ns un correu a  <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.\n"
+      body_html: "T'hem enviat un correu electrònic amb una invitació per començar el teu grup. \n\nSi no apareix res a la safata d'entrada en pocs minuts, envia'ns un correu a  <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.\n"
   discussion_items:
     new_discussion: ha creat la discussió
     new_motion: ha creat una proposta
@@ -492,12 +492,12 @@ ca:
       <p> La gent voldrà saber per què han estat convidats, que s'espera d'ells,
       i per què paga la pena aprendre a utilitzar una nova eina. </p>
     join_the_community: Unir-se a la comunitat
-    join_the_community_description_html: Tothom és benvingut a unir-se a la Comunitat Diehard_Fund, on es parla de com aprofitar al màxim l'eina i com es pot millorar. <br /> <br /> <a href='https://www.diehard_fund.org/groups/3'> Fes clic aquí per anar al grup "Diehard_Fund Community" </a>.
+    join_the_community_description_html: Tothom és benvingut a unir-se a la Comunitat Diehard_Fund, on es parla de com aprofitar al màxim l'eina i com es pot millorar. <br /> <br /> <a href='https://www.diehard.fund/groups/3'> Fes clic aquí per anar al grup "Diehard_Fund Community" </a>.
     images_and_text_formatting: Format d'imatges i textos
     images_and_text_formatting_html: |
       <p>Diehard_Fund utilitza 'Markdown' per incrustar imatges i formatar el text.
       Pots activar i desactivar el Markdown amb la petita icona gris sota l'apartat de comentaris. </p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'> Fes clic aquí </a>
+      <p><a href='https://www.diehard.fund/discussions/1124'> Fes clic aquí </a>
       per obtenir informació sobre com utilitzar Markdown. </p>
     keep_up_to_date: Estar al dia
     keep_up_to_date_html: |
@@ -541,7 +541,7 @@ ca:
     thought_about_contributing: La teva oportunitat per contribuir
     thought_about_contributing_description: "Diehard_Fund és una empresa social cooperativa que treballa per fer més fàcil que qualsevol pugui participar en les decisions que li afecten.\n\nEls diners no han de ser un obstacle per a la presa de decisions col·laboratives. Diehard_Fund es finança amb les contribucions de la comunitat d'usuaris/es, i subscripcions pagades per les organitzacions formals que l'utilitzen.\n\nLa teva ajuda implica que puguem mantenir Diehard_Fund independent, lliure de publicitat i a lliure disposició dels grups que fan grans coses en les seves comunitats. \n\nGràcies per fer això possible!\n"
     thank_you_title: Gràcies per contribuir a Diehard_Fund!
-    thank_you_body: "La teva contribució ens ajuda a oferir l'eina de presa de decisions col·laborativa al món. \n\nRebràs un correu electrònic en breu ambel rebut per la teva contribució. \n\nTothom és benvingut a unir-se a la Comunitat Diehard_Fund, on es parla de com aprofitar al màxim l'eina i com millorar-la. \n\n<a href='https://www.diehard_fund.org/groups/3'>Porta'm al grup Diehard_Fund Community &raquo;</a>\n"
+    thank_you_body: "La teva contribució ens ajuda a oferir l'eina de presa de decisions col·laborativa al món. \n\nRebràs un correu electrònic en breu ambel rebut per la teva contribució. \n\nTothom és benvingut a unir-se a la Comunitat Diehard_Fund, on es parla de com aprofitar al màxim l'eina i com millorar-la. \n\n<a href='https://www.diehard.fund/groups/3'>Porta'm al grup Diehard_Fund Community &raquo;</a>\n"
     making_a_donation: Fer una donació
     making_a_donation_description: "Diehard_Fund és una empresa social cooperativa que treballa per fer més fàcil que qualsevol pugui participar en les decisions que li afecten.\n\nLa teva ajuda implica que puguem mantenir Diehard_Fund independent, lliure de publicitat i a lliure disposició dels grups que fan grans coses en les seves comunitats. \n\nGràcies per fer això possible!\n"
   resend_confirmation: Reenvia les instruccions de confirmació

@@ -497,7 +497,7 @@ nl_NL:
   upgrade_plan_card:
     heading: Upgrade voor eersteklas kenmerken
     slack_html: "<strong>Slack integratie</strong>: Diehard_Fund en Slack werken geweldig samen! Verbind ze met elkaar."
-    domain_html: "<strong>Aangepast domein</strong>: Zorg dat je groep makkelijk gevonden wordt met jouwnaam@diehard_fund.org"
+    domain_html: "<strong>Aangepast domein</strong>: Zorg dat je groep makkelijk gevonden wordt met jouwnaam@diehard.fund"
     help_html: "<strong>Deskundige hulp</strong>: Diehard_Fund's samenwerkingsconsultants krijgen je groep aan de praat"
     analytics_html: "<strong>Analyserapport</strong>: Krijg inzicht in de betrokkenheid van je groep"
     donations: Je groepsleden wordt niet langer gevraagd om te doneren.
@@ -626,7 +626,7 @@ nl_NL:
     group_placeholder: 'Selecteer een groep'
     shareable_link: 'Deelbare link'
     email_addresses: 'E-mailadressen'
-    email_addresses_placeholder: 'bijv. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'bijv. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Kopieer de link en stuur die aan iedereen die je uit wil nodigen om aan de groep deel te nemen. Dit geeft hen toegang tot alle discussies in de groep.'
     email_explanation: 'Alternatief is om het e-mailadres hieronder in te vullen. Diehard_Fund stuurt ze een uitnodiging per email.'
     add_custom_message: 'Personaliseer je uitnodiging,'
@@ -972,12 +972,12 @@ nl_NL:
       <p>Mogelijk is het een goed idee om eerst met je groepsleden te praten voor je ze uitnodigt op Diehard_Fund.</p>
       <p>Mensen zullen willen weten waarom ze uitgenodigd zijn, wat er van hen verwacht wordt en waarom het 't waard is om met een nieuw instrument te leren omgaan.</p>
     join_the_community: "Word lid van de gemeenschap"
-    join_the_community_description_html: "Iedereen is welkom bij de Diehard_Fund gemeenschap, waar we praten over hoe we het beste er uit kunnen halen en hoe het verbeterd kan worden. <br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'> Klik hier om naar de Diehard_Fund gemeenschap groep te gaan</a>."
+    join_the_community_description_html: "Iedereen is welkom bij de Diehard_Fund gemeenschap, waar we praten over hoe we het beste er uit kunnen halen en hoe het verbeterd kan worden. <br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'> Klik hier om naar de Diehard_Fund gemeenschap groep te gaan</a>."
     images_and_text_formatting: "Afbeeldingen en tekstopmaak"
     images_and_text_formatting_html: |
       <p>Diehard_Fund gebruikt 'Markdown' voor tekstopmaak en om afbeeldingen in te voegen.
       Je kan Markdown aanzetten met het kleine grijze pictogrammetje onderaan het reactieveld.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klik hier</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Klik hier</a>
       voor informatie over hoe je Markdown kan gebruiken.</p>
     keep_up_to_date: "Blijf op de hoogte"
     keep_up_to_date_html: |
@@ -1040,7 +1040,7 @@ nl_NL:
         <ul>
         <li>Alles update live op de pagina terwijl het gebeurt</li>
         <li>Het is ontworpen voor al je apparaten, van smartphone naar desktop</li>
-        <li>Het is toegankelijk voor mensen die blind zijn en vertaald in <a href="https://www.diehard_fund.org/translation"> bergen talen</a>
+        <li>Het is toegankelijk voor mensen die blind zijn en vertaald in <a href="https://www.diehard.fund/translation"> bergen talen</a>
         </ul>
         </p>
 

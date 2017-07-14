@@ -214,7 +214,7 @@ de:
       Preise in US-Dollar, plus wenn erforderlich Mehrwertsteuer. Brauchst du noch etwas? <a href="/contact">Nimm mit uns Kontakt auf!</a>
     custom_subdomain_html: |
       gruppenspezifische Subdomain,<br />
-      z.B. <strong>DeineGruppe</strong>.diehard_fund.org
+      z.B. <strong>DeineGruppe</strong>.diehard.fund
     usage_statistics: Nutzerstatistiken
     plus_price_html: '<strong>$99</strong>/Monat'
   password_reset:
@@ -249,7 +249,7 @@ de:
       * um eine Person zu benachrichtigen, tippe ein @ vor ihrem Namen.
       * Klicke auf die Büroklammer, um Anhänge hinzuzufügen.
 
-      Wenn du Fragen hast, sieh in der [Diehard_Fund-Hilfe](http://help.diehard_fund.org) nach.
+      Wenn du Fragen hast, sieh in der [Diehard_Fund-Hilfe](http://help.diehard.fund) nach.
   first_proposal:
     name: Demo-Vorschlag
     description: |
@@ -326,7 +326,7 @@ de:
       body: |
         Eckige Klammern für den angezeigten Text und runde Klammern für die URL. Kein Leerzeichen dazwischen!
 
-        [Diehard_Fund Homepage](https://www.diehard_fund.org/)
+        [Diehard_Fund Homepage](https://www.diehard.fund/)
 
         Bilder gehen genau so, nur mit einem Ausrufezeichen davor.
 

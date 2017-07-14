@@ -199,7 +199,7 @@ class User < ActiveRecord::Base
   end
 
   def self.helper_bot_email
-    ENV['HELPER_BOT_EMAIL'] || 'contact@diehard_fund.org'
+    ENV['HELPER_BOT_EMAIL'] || 'contact@diehard.fund'
   end
 
   def self.demo_bot
@@ -208,7 +208,7 @@ class User < ActiveRecord::Base
   end
 
   def self.demo_bot_email
-    ENV['DEMO_BOT_EMAIL'] || 'contact+demo@diehard_fund.org'
+    ENV['DEMO_BOT_EMAIL'] || 'contact+demo@diehard.fund'
   end
 
   def name

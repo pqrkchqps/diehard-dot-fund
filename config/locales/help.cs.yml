@@ -229,7 +229,7 @@ cs:
         title: Existuje Diehard_Fund API?
       subdomain:
         title: Je možné mít Diehard_Fund subdoménu?
-        body_html: "Ano. Můžeme, například, nastavit <strong>[váš-název-skupiny] .diehard_fund.org</strong> jako URL pro vaši skupinu. Pokud máte zájem, <a href='mailto:contact@diehard_fund.org'> kontaktujte nás</a>."
+        body_html: "Ano. Můžeme, například, nastavit <strong>[váš-název-skupiny] .diehard.fund</strong> jako URL pro vaši skupinu. Pokud máte zájem, <a href='mailto:contact@diehard.fund'> kontaktujte nás</a>."
       feedback_link: "Zapomněli jsme na něco? Dejte nám zpětnou vazbu >"
     back_to_top: ^ Zpět na začátek
     feedback_discussion: "Myslíte, že toto vysvětlení by mohlo být jasnější? Dejte nám zpětnou vazbu>"

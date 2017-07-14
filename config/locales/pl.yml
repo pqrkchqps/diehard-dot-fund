@@ -381,7 +381,7 @@ pl:
   confirm_leave_hidden_group: Czy na pewno chcesz opuścić grupę %{which_group}? Zostaniesz również usunięty/a z wszystkich podgrup.
   confirm_leave_group: Czy na pewno chcesz opuścić grupę %{which_group}?
   deactivate_group: Dekatywacja grupy
-  confirm_deactivate_group: UWAGA!!! Czy na pewno chcesz deaktywować grupę %{which_group}? Nie będziesz mógł/a więcej zobaczyć tej grupy. Jednakże, jeśli będziesz chciał/a przywrócić grupę możesz wysłać nam prośbę o reaktywację grupy na adres contact@diehard_fund.org.
+  confirm_deactivate_group: UWAGA!!! Czy na pewno chcesz deaktywować grupę %{which_group}? Nie będziesz mógł/a więcej zobaczyć tej grupy. Jednakże, jeśli będziesz chciał/a przywrócić grupę możesz wysłać nam prośbę o reaktywację grupy na adres contact@diehard.fund.
   invited_users: Zaproszeni członkowie
   members: Członkowie
   confirm_remove_user: Czy na pewno chcesz usunąć %{which_user} z tej grupy?
@@ -465,7 +465,7 @@ pl:
       body_html: |
         Wysłaliśmy do Ciebie wiadomość z zaproszeniem uruchomienia grupy.
 
-        Jeśli nie zobaczysz nic w skrzynce odbiorczej w ciągu paruminut, napisz do nas na adres <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Jeśli nie zobaczysz nic w skrzynce odbiorczej w ciągu paruminut, napisz do nas na adres <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   volume:
     volume: Głośność
     loud: Głośno
@@ -584,7 +584,7 @@ pl:
     images_and_text_formatting_html: |
       <p>Diehard_Fund używa 'Markdown' dla zamieszczania zdjęć i formatowania tekstu.
       Możesz włączyć Markdown za pomocą małej szarej ikony poniżej pola komentarzy</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Kliknij tutaj</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Kliknij tutaj</a>
       po informacje jak używać Markdown.</p>
     keep_up_to_date: Informują na bieżąco
     keep_up_to_date_html: "<p>Klikając na nazwę grupy na górze ekranu przejdziesz na Stronę Grupy, \ngdzie możesz zobaczyć listę wszystkich dyskusji i decyzji dla grupy. Jeśli jesteś w więcej niż jednej grupie, możesz zobaczyć aktywność wszystkoich Twoich grup na Stronie Domowej.</p>\n<p>Otrzymasz powiadomienia pocztą jeśli ważne rzeczy zdarzą się w Twojej grupie.\nMożesz zmienić ustawienia Twojej poczty <a href=\"%{link}\"\">tutaj</a>.</p>\n"

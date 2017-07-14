@@ -312,7 +312,7 @@ cs:
   confirm_leave_hidden_group: Opravdu chcete opustit %{which_group}? Budete také vyloučen(a) ze všech podskupin.
   confirm_leave_group: Opravdu chcete opustit %{which_group}?
   deactivate_group: Deaktivovat skupinu
-  confirm_deactivate_group: Počkejte!!! Opravdu chcete deaktivovat %{which_group}? Nebudete nadále moci zobrazovat tuto skupinu. Nicméně pokud chcete skupinu získat zpět, můžete nás požádat, abychom ji reaktivovali emailem na contact@diehard_fund.org.
+  confirm_deactivate_group: Počkejte!!! Opravdu chcete deaktivovat %{which_group}? Nebudete nadále moci zobrazovat tuto skupinu. Nicméně pokud chcete skupinu získat zpět, můžete nás požádat, abychom ji reaktivovali emailem na contact@diehard.fund.
   invited_users: Pozvaní členové
   members: Členové
   confirm_remove_user: Opravdu chcete odstranit %{which_user} ze skupiny?
@@ -381,7 +381,7 @@ cs:
       body_html: |
         Poslali jsme vám email s pozvánkou k vytvoření vaší skupiny.
 
-        Pokud nic neuvidíte ve své přijaté poště během několika minut, napište nám na <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Pokud nic neuvidíte ve své přijaté poště během několika minut, napište nám na <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   volume:
     volume: Hlasitost
   discussion_items:

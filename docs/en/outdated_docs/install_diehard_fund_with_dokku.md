@@ -65,7 +65,7 @@ dokku config:set diehard_fund RACK_ENV=production \
                         TLD_LENGTH=2
 ```
 
-TLD_LENGTH tells rails how many parts there are to your top level domain. For example: The hostname `diehard_fund.example.com` has a TLD_LENGTH of 2, where as `diehard_fund.org` has a TLD_LENGTH of 1. Just count the dots in your  diehard_fund domain name and use that number.
+TLD_LENGTH tells rails how many parts there are to your top level domain. For example: The hostname `diehard_fund.example.com` has a TLD_LENGTH of 2, where as `diehard.fund` has a TLD_LENGTH of 1. Just count the dots in your  diehard_fund domain name and use that number.
 
 #### First push
 

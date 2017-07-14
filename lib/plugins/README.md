@@ -277,7 +277,7 @@ Now, when our KickflipPageController calls `kickflip()`, we get "100 points, and
 ##### Add vanilla rails views
 
 While it's not encouraged, it is possible to add vanilla rails views to your Diehard_Fund instance.
-(We do this for things like the about page, or the terms of service page on diehard_fund.org)
+(We do this for things like the about page, or the terms of service page on diehard.fund)
 
 In order to add a page to your app, use `plugin.use_page`, passing it a view and a controller action.
 
@@ -432,7 +432,7 @@ GITHUB_PASSWORD=my_password
 
 ##### Marking a plugin as an experiment
 
-On Diehard_Fund.org, we have plugins that we'd like to try out in a production environment,
+On diehard.fund, we have plugins that we'd like to try out in a production environment,
 but might not be ready for all of our users to see just yet. To enable this, we've
 added the ability to mark some plugins as 'experimental', which means they will
 only be loaded for groups who have opted in to see our mad science.

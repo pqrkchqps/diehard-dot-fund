@@ -457,7 +457,7 @@ sr:
     group_placeholder: 'Odaberi grupu'
     shareable_link: 'Deljivi link'
     email_addresses: 'Adrese ePošte'
-    email_addresses_placeholder: 'kao helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'kao helperbot@diehard.fund, friendlybot@diehard.fund'
     email_explanation: 'Alternativno, unesi adrese ePošte ispod i Lumio će im poslati ePoruku sa pozivnicom.'
     add_custom_message: 'Učini svoje poziv ličnim,'
     add_custom_message_link: 'dodaj svoju poruku.'
@@ -743,12 +743,12 @@ sr:
       <p>Ljudi će želeti da znaju zbog čega su pozvani, šta se od njih očekuje
       i zbog čega će im značiti da ulože svoje vreme u izučavanje toga kako Lumio radi.</p>
     join_the_community: "Pridruži se zajednici"
-    join_the_community_description_html: "Svako je dobrodošao da se priključi Lumio zajednici, gde razgovaramo o tome kako napraviti veći deo alata i kako on može butu unapređen.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Škljocni ovde da odeš u Lumio Zajednica grupu</a>."
+    join_the_community_description_html: "Svako je dobrodošao da se priključi Lumio zajednici, gde razgovaramo o tome kako napraviti veći deo alata i kako on može butu unapređen.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Škljocni ovde da odeš u Lumio Zajednica grupu</a>."
     images_and_text_formatting: "Uređivanje slika i teksta"
     images_and_text_formatting_html: |
       <p>Lumio koristi ‘Markdown’ za ubacivanje slika i formatiranje teksta.
       Možete uključiti sa malom sivom ikonom ispod polja za komentar.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Škljocni ovde</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Škljocni ovde</a>
       za informacije o tome kako koristiti Markdown.</p>
     keep_up_to_date: "Budite u toku"
     keep_up_to_date_html: |
@@ -810,7 +810,7 @@ sr:
         <ul>
         <li>Sve se prikazuje uživo na stranici odmah kada se dogodi</li>
         <li>Dizajniran je za sve Vaše uređaje, od pametnog telefona do ličnog računara</li>
-        <li>Pristupačan je slabovidim i slepim osobama, i preveden je na <a href="https://www.diehard_fund.org/translation">mnoštvo jezika</a>
+        <li>Pristupačan je slabovidim i slepim osobama, i preveden je na <a href="https://www.diehard.fund/translation">mnoštvo jezika</a>
         </ul>
         </p>
 

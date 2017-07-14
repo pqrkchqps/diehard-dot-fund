@@ -12,7 +12,7 @@ The most basic place to start is to add `title`s to links, and `alt`s to images:
 
 So instead of `<a href: '/dashboard'>`, we use `<a href: '/dashboard', title: "Dashboard">`.
 
-(At the same time as we’re doing accessibility improvements, we’re also trying to support [33 languages](https://www.diehard_fund.org/translation), so in reality instead of just plopping a string in like ‘Dashboard’, we would actually pass it to the translate filter.)
+(At the same time as we’re doing accessibility improvements, we’re also trying to support [33 languages](https://www.diehard.fund/translation), so in reality instead of just plopping a string in like ‘Dashboard’, we would actually pass it to the translate filter.)
 
 ### Indicate whether an element displays pop-up content with `aria-haspopup` and `aria-collapsed`
 

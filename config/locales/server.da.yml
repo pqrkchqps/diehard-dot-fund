@@ -221,7 +221,7 @@ da:
 
     custom_subdomain_html: |
       eget dubdomæne,<br />
-      <strong>dinegruppe</strong>.diehard_fund.org
+      <strong>dinegruppe</strong>.diehard.fund
     usage_statistics: brugs statistik
     plus_price_html: '<strong>$99</strong>/måned'
   password_reset:
@@ -255,7 +255,7 @@ da:
       * For at notificere en bestemt person , task @ og så deres navn.
       * Klik på papirklips ikonet for at uploade vedhæftninger.
 
-      Hvis du har spørgsmål, så kig i [vejledningen](http://help.diehard_fund.org).
+      Hvis du har spørgsmål, så kig i [vejledningen](http://help.diehard.fund).
   first_proposal:
     name: Demonstrations forslag
     description: |
@@ -333,7 +333,7 @@ da:
 
         Skarpe paranteser for navnet og almindelige paranteser for URLen. Der er ikke noget mellemrum mellem skarpe og normale paranteser.
 
-        [Diehard_Fund Hjemmeside](https://www.diehard_fund.org/)
+        [Diehard_Fund Hjemmeside](https://www.diehard.fund/)
 
         Links til billeder er det sammen bare med et udråbstegns foranstillet.
 

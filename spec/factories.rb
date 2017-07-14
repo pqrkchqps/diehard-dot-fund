@@ -258,7 +258,7 @@ FactoryGirl.define do
   factory :application, class: OauthApplication do
     name "More like BROAuth, am I right?"
     association :owner, factory: :user
-    redirect_uri "https://www.diehard_fund.org"
+    redirect_uri "https://www.diehard.fund"
   end
 
   factory :access_token, class: Doorkeeper::AccessToken do

@@ -370,7 +370,7 @@ es:
   confirm_leave_hidden_group: "¿Seguro que quieres abandonar %{which_group}? También serás removido de todos sus subgrupos."
   confirm_leave_group: "¿Estás seguro de que deseas abandonar el grupo %{which_group}?"
   deactivate_group: Desactivar grupo
-  confirm_deactivate_group: "¡Espera! ¿Estás seguro de que deseas desactivar %{which_group}? Ya no podrás ver el grupo. Sin embargo, si cambias de opinión puedes pedirnos que lo reactivemos por ti enviándonos un correo electrónico a contact@diehard_fund.org."
+  confirm_deactivate_group: "¡Espera! ¿Estás seguro de que deseas desactivar %{which_group}? Ya no podrás ver el grupo. Sin embargo, si cambias de opinión puedes pedirnos que lo reactivemos por ti enviándonos un correo electrónico a contact@diehard.fund."
   invited_users: Miembros invitados
   members: Miembros
   confirm_remove_user: "¿Estás seguro de que deseas remover del grupo a %{which_user}?"
@@ -454,7 +454,7 @@ es:
       body_html: |
         Te hemos enviado un correo electrónico con una invitación a comenzar tu grupo.
 
-        Si no ves nada en tu bandeja de entrada en unos minutos, escríbenos a <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a>.
+        Si no ves nada en tu bandeja de entrada en unos minutos, escríbenos a <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a>.
   volume:
     volume: 'Volumen '
     loud: Alto
@@ -649,12 +649,12 @@ es:
       <p>Las personas querrán saber por qué han sido invitadas, qué se espera de ellas,
       y por qué merece su tiempo aprender a usar una nueva herramienta.</p>
     join_the_community: Únete a la comunidad
-    join_the_community_description_html: Todos son bienvenidos en "Diehard_Fund Community", donde hablamos de cómo aprovechar la herramienta al máximo y de cómo mejorarla.<br /><br /><a href='https://www.diehard_fund.org/groups/3'>Pulsa aquí para ir al grupo "Diehard_Fund Community" group</a>, donde puedes solicitar membresía.
+    join_the_community_description_html: Todos son bienvenidos en "Diehard_Fund Community", donde hablamos de cómo aprovechar la herramienta al máximo y de cómo mejorarla.<br /><br /><a href='https://www.diehard.fund/groups/3'>Pulsa aquí para ir al grupo "Diehard_Fund Community" group</a>, donde puedes solicitar membresía.
     images_and_text_formatting: Imagenes y formato de texto
     images_and_text_formatting_html: |
       <p>Diehard_Fund usa «marcadores» para la inclusión de imágenes y el formateo de texto.
       Puedes activar marcadores con el pequeño icono gris bajo el cuadro de comentarios.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Pulsa aquí</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Pulsa aquí</a>
       para información sobre cómo usar marcadores.</p>
     keep_up_to_date: Mantente informado
     keep_up_to_date_html: |
@@ -710,7 +710,7 @@ es:
 
       ¡Gracias por hacerlo posible!
     thank_you_title: "¡Gracias por contribuir con Diehard_Fund!"
-    thank_you_body: "su contribución nos ayuda a ofrecer decisiones colaborativas y fáciles en el mundo. \n\nUsted recibirá un correo electrónico en breve con un recibo por su contribución. \n\nTodo el mundo es bienvenido a unirse a la Comunidad Diehard_Fund, donde se habla de cómo aprovechar al máximo de la herramienta y cómo se puede mejorar. \n\n<a href='https://www.diehard_fund.org/groups/3'> Llévame al grupo comunitario Diehard_Fund »</a>\n"
+    thank_you_body: "su contribución nos ayuda a ofrecer decisiones colaborativas y fáciles en el mundo. \n\nUsted recibirá un correo electrónico en breve con un recibo por su contribución. \n\nTodo el mundo es bienvenido a unirse a la Comunidad Diehard_Fund, donde se habla de cómo aprovechar al máximo de la herramienta y cómo se puede mejorar. \n\n<a href='https://www.diehard.fund/groups/3'> Llévame al grupo comunitario Diehard_Fund »</a>\n"
     making_a_donation: Hacer una donación
     making_a_donation_description: "Diehard_Fund es una empresa social cooperativa que trabaja para facilitar a todos el participar en decisiones que les afectan.\n\nTu contribución implica que podamos mantener Diehard_Fund independiente, libre de anuncios, y disponible libremente para grupos que hacen grandes cosas en sus comunidades. \n\n¡Gracias por hacerlo posible!\n"
   resend_confirmation: Volver a enviar confirmación

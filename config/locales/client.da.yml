@@ -612,7 +612,7 @@ da:
     shareable_link: 'Delbart link'
     copy_link: 'Kopier'
     email_addresses: 'Emailadresser'
-    email_addresses_placeholder: 'f.eks. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'f.eks. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Kopier linket og send det til enhver som du vil ønsker skal være medlem af gruppen. Dette vil give dem adgang til alle debatter i gruppen.'
     email_explanation: 'Alternativt, indtast emailadresser herunder og så vil Diehard_Fund sende en invitation til dem via email.'
     add_custom_message: 'Gør din invitation personlig, '
@@ -975,12 +975,12 @@ da:
       <p>People will want to know why theyâ€™ve been invited, whatâ€™s expected of them,
       and why itâ€™s worth their time to learn how to use a new tool.</p>
     join_the_community: "Join the community"
-    join_the_community_description_html: "Everyone is welcome to join the Diehard_Fund Community, where we talk about how to make the most of the tool, and how it can be improved.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Click here to go the Diehard_Fund Community group</a>."
+    join_the_community_description_html: "Everyone is welcome to join the Diehard_Fund Community, where we talk about how to make the most of the tool, and how it can be improved.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Click here to go the Diehard_Fund Community group</a>."
     images_and_text_formatting: "Images and text formatting"
     images_and_text_formatting_html: |
       <p>Diehard_Fund uses â€˜Markdownâ€™ for image embedding and text formatting.
       You can switch Markdown on with the small grey icon under the comment box.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Click here</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Click here</a>
       for information on how to use Markdown.</p>
     keep_up_to_date: "Keep up to date"
     keep_up_to_date_html: |
@@ -1050,7 +1050,7 @@ da:
         <ul>
         <li>Alting opdaterer live på siden mens det sker</li>
         <li>Det er designet for alle dine devices, fra smartphones til PC</li>
-        <li>Det er bygget til svagtseende og blinde, og oversat til <a href="https://www.diehard_fund.org/translation">mange sprog</a>
+        <li>Det er bygget til svagtseende og blinde, og oversat til <a href="https://www.diehard.fund/translation">mange sprog</a>
         </ul>
         </p>
 

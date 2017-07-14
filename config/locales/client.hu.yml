@@ -350,7 +350,7 @@ hu:
     images_and_text_formatting: "Képek és szövegformázás"
     images_and_text_formatting_html: |+
       <p>A Diehard_Fund a képek beillesztéséhez és a szöveg formázásához a "Markdown" rendszert használja. A hozzászólás ablak alatti kis szürke ikonnal kapcsolhatod be a Markdownt.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Ide kattintva</a> további információkat kaphatsz a Markdown rendszerről.</p>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Ide kattintva</a> további információkat kaphatsz a Markdown rendszerről.</p>
 
     keep_up_to_date: "Maradj naprakész"
     keep_up_to_date_html: |+

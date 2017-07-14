@@ -381,12 +381,12 @@ pl:
       <p>Dobrym pomysłem jest porozmawiać najpierw ze swoją grupą zanim zaprosisz ich do Diehard_Fund..</p>
       <p>Ludzie będą chcieli wiedzieć czemu zostali zaproszeni oraz czego się od nich oczekuje, oraz dlaczego warto poświęcić czas na naukę nowego narzędzia.</p>
     join_the_community: "Dołącz do społeczności"
-    join_the_community_description_html: "Zapraszamy wszystkich do dołączenia do Społeczności Diehard_Fund, gdzie rozmawiamy o tym jak najlepiej wykorzystać narzędzie i jak je poprawić.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Kliknij tutaj aby przejść do grupy Społecnzość Diehard_Fund</a>."
+    join_the_community_description_html: "Zapraszamy wszystkich do dołączenia do Społeczności Diehard_Fund, gdzie rozmawiamy o tym jak najlepiej wykorzystać narzędzie i jak je poprawić.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Kliknij tutaj aby przejść do grupy Społecnzość Diehard_Fund</a>."
     images_and_text_formatting: "Formatowanie zdjęć i tekstu"
     images_and_text_formatting_html: |
       <p>Diehard_Fund używa 'Markdown' dla zamieszczania zdjęć i formatowania tekstu.
       Możesz włączyć Markdown za pomocą małej szarej ikony poniżej pola komentarzy</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Kliknij tutaj</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Kliknij tutaj</a>
       po informacje jak używać Markdown.</p>
     keep_up_to_date: "Informują na bieżąco"
     keep_up_to_date_html: |

@@ -590,7 +590,7 @@ en:
   upgrade_plan_card:
     heading: Upgrade for premium features
     slack_html: "<strong>Slack integration</strong>: Diehard_Fund and Slack work great together! Link them up."
-    domain_html: "<strong>Custom domain</strong>: Make your group easy to find with yourname.diehard_fund.org"
+    domain_html: "<strong>Custom domain</strong>: Make your group easy to find with yourname.diehard.fund"
     help_html: "<strong>Expert help</strong>: Diehard_Fund's collaboration consultants will get your group humming"
     analytics_html: "<strong>Analytics reports</strong>: Get insights into your group's engagement"
     donations: Your group members will no longer be asked to donate.
@@ -647,7 +647,7 @@ en:
     # premium_support: premium support
     # custom_subdomain_html: |
     #   custom subdomain,<br />
-    #   e.g. <strong>yourgroup</strong>.diehard_fund.org
+    #   e.g. <strong>yourgroup</strong>.diehard.fund
     # plus_price_html: |
     #   US<strong>$179</strong>/month<br><span>or</span> $1790/year
     select: Select
@@ -762,7 +762,7 @@ en:
     shareable_link: 'Shareable link'
     copy_link: 'Copy'
     email_addresses: 'Email addresses'
-    email_addresses_placeholder: 'e.g. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'e.g. helperbot@diehard.fund, friendlybot@diehard.fund'
     shareable_link_explanation: 'Copy the link and send it to anyone you want to join the group. This will give them access to all threads in the group.'
     email_explanation: 'Alternatively, enter email addresses below and Diehard_Fund will send them an invitation by email.'
     add_custom_message: 'Make your invite personal, '
@@ -1167,12 +1167,12 @@ en:
       <p>People will want to know why they’ve been invited, what’s expected of them,
       and why it’s worth their time to learn how to use a new tool.</p>
     join_the_community: "Join the community"
-    join_the_community_description_html: "Everyone is welcome to join the Diehard_Fund Community, where we talk about how to make the most of the tool, and how it can be improved.<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Click here to go the Diehard_Fund Community group</a>."
+    join_the_community_description_html: "Everyone is welcome to join the Diehard_Fund Community, where we talk about how to make the most of the tool, and how it can be improved.<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Click here to go the Diehard_Fund Community group</a>."
     images_and_text_formatting: "Images and text formatting"
     images_and_text_formatting_html: |
       <p>Diehard_Fund uses ‘Markdown’ for image embedding and text formatting.
       You can switch Markdown on with the small grey icon under the comment box.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Click here</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Click here</a>
       for information on how to use Markdown.</p>
     keep_up_to_date: "Keep up to date"
     keep_up_to_date_html: |
@@ -1245,7 +1245,7 @@ en:
           <ul>
             <li>Everything updates live on the page as it happens</li>
             <li>It’s designed for all your devices, from smartphone to desktop</li>
-            <li>It’s accessible to people who are blind, and translated into <a href="https://www.diehard_fund.org/translation">heaps of languages</a>
+            <li>It’s accessible to people who are blind, and translated into <a href="https://www.diehard.fund/translation">heaps of languages</a>
           </ul>
         </p>
 

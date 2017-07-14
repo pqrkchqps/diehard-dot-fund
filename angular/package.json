@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/diehard_fund/diehard_fund.git"
   },
-  "author": "James Kiesel <james@diehard_fund.org>",
+  "author": "James Kiesel <james@diehard.fund>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pqrkchqps/diehard_dot_fund/issues"

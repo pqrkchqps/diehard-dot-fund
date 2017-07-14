@@ -521,7 +521,7 @@ de:
     shareable_link: 'Teilbarer Link'
     copy_link: 'Kopieren'
     email_addresses: 'eMail-Adressen'
-    email_addresses_placeholder: 'z.B. helperbot@diehard_fund.org, friendlybot@diehard_fund.org'
+    email_addresses_placeholder: 'z.B. helperbot@diehard.fund, friendlybot@diehard.fund'
     email_explanation: 'Alternativ kannst Du eMail-Adressen hier unterhalb eitragen und Diehard_Fund wird ihnen Einladungsmails senden.'
     add_custom_message: 'Mach'' Deine Einladung persönlich,'
     add_custom_message_link: 'füge eine persönliche Nachricht hinzu.'
@@ -806,12 +806,12 @@ de:
       und warum sie ihre Zeit damit verbringen sollten, ein neues Tool zu erlernen.</p>
 
     join_the_community: "Werde Teil der Community"
-    join_the_community_description_html: "Jeder ist in der Diehard_Fund-Community willkommen. Hier diskutieren wir darüber, wie man das meiste aus dem Werkzeug heraus holt und wie es verbessert werden könnte. .<br /><br /><a href='https://www.diehard_fund.org/g/WmPCB3IR'>Klicke hier, um zur Gruppe für die Diehard_Fund-Community zu kommen</a>."
+    join_the_community_description_html: "Jeder ist in der Diehard_Fund-Community willkommen. Hier diskutieren wir darüber, wie man das meiste aus dem Werkzeug heraus holt und wie es verbessert werden könnte. .<br /><br /><a href='https://www.diehard.fund/g/WmPCB3IR'>Klicke hier, um zur Gruppe für die Diehard_Fund-Community zu kommen</a>."
     images_and_text_formatting: "Bilder und Textformatierung"
     images_and_text_formatting_html: |
       <p>Diehard_Fund nutzt ‘Markdown’ zur Einbindung von Bildern und der Formatierung von Text.
       Du kannst Markdown mit dem kleinen, grauen Icon unter der Kommentarbox anschalten.</p>
-      <p><a href='https://www.diehard_fund.org/discussions/1124'>Klicke hier</a>
+      <p><a href='https://www.diehard.fund/discussions/1124'>Klicke hier</a>
       um Informationen über die Benutzung von Markdown zu erhalten.</p>
     keep_up_to_date: "Bleibe auf dem Laufenden"
     keep_up_to_date_html: |
@@ -864,7 +864,7 @@ de:
         <ul>
         <li>Alles wird live aktualisiert</li>
         <li>Es wurde für alle Geräte entwickelt, für Smartphone bis zu Desktop-PC</li>
-        <li>Es ist für blinde Menschen nutzbar und es wurde und wird übersetzt in <a href="https://www.diehard_fund.org/translation">einen Haufen Sprachen</a>
+        <li>Es ist für blinde Menschen nutzbar und es wurde und wird übersetzt in <a href="https://www.diehard.fund/translation">einen Haufen Sprachen</a>
         </ul>
         </p>
 

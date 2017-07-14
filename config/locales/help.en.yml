@@ -116,12 +116,12 @@ en:
           When you follow this link, if do not have an existing Diehard_Fund user account you will be prompted to create an account with your email address and a password.
           If you already have a Diehard_Fund account you will be taken straight to the group.
       joining_existing_group:
-        title_html: 'When you want to join an existing Diehard_Fund group (the <a href="http://diehard_fund.org/explore">Explore page</a>)'
+        title_html: 'When you want to join an existing Diehard_Fund group (the <a href="http://diehard.fund/explore">Explore page</a>)'
         body:
           explore_page_html: |
-            The <a href="https://www.diehard_fund.org/explore">Explore page</a> shows you public groups active on Diehard_Fund.
+            The <a href="https://www.diehard.fund/explore">Explore page</a> shows you public groups active on Diehard_Fund.
             It is accessible throughout the Diehard_Fund app via the <strong>“Public groups”</strong> link in the footer.
-            From the <a href="https://www.diehard_fund.org/explore">Explore page</a> you can search for a group by name or keyword, or by category, and click on a group to see its public content.
+            From the <a href="https://www.diehard.fund/explore">Explore page</a> you can search for a group by name or keyword, or by category, and click on a group to see its public content.
             A group’s privacy settings determine how you can become a member.
           open_to_join_html: |
             Some public groups are <strong>open to join</strong>, in which case you will see a <strong>"Join group"</strong> button on the group page.
@@ -137,11 +137,11 @@ en:
         title: Single sign-on
         body_html: |
             <p>Diehard_Fund allows sign-up with Facebook, Google or Twitter.
-            If you do not have a Diehard_Fund account you can sign up using any of these third-party services by clicking the corresponding button on the <a href="http://diehard_fund.org/users/sign_in">Log in page</a>.
+            If you do not have a Diehard_Fund account you can sign up using any of these third-party services by clicking the corresponding button on the <a href="http://diehard.fund/users/sign_in">Log in page</a>.
             If you are currently logged in to Google, Facebook or Twitter, this existing account will be detected.
             Otherwise you will be prompted to sign in. When Diehard_Fund recognises your existing third-party account, you will be required to follow the prompts to create your Diehard_Fund account.<p>
             <p>You may also associate an existing Google, Facebook or Twitter account with an existing Diehard_Fund account.
-            Ensure you are logged out, visit the <a href="https://www.diehard_fund.org/users/sign_in">Log in page</a> and select your preferred platform.
+            Ensure you are logged out, visit the <a href="https://www.diehard.fund/users/sign_in">Log in page</a> and select your preferred platform.
             Diehard_Fund will ask you if you want to create a new account with your existing account on your chosen platform, or link it to your existing Diehard_Fund account.</p>
     group_settings:
       title: Group Settings
@@ -158,7 +158,7 @@ en:
           Describe what the group is set up to do, for example "A public group for gallery coordinators to approve requests for use of the gallery space" or "The space for our board members to consider budget proposals".
           The purpose of your group can change over time but it's helpful if the description gives new members a clear understanding of what that group is for.
           You are also able to choose your group category.
-          If you are a public group and you want people to be able to join the conversation, it's helpful to choose a category so others can use this to search on the <a href="http://diehard_fund.org/explore">Explore page</a>.
+          If you are a public group and you want people to be able to join the conversation, it's helpful to choose a category so others can use this to search on the <a href="http://diehard.fund/explore">Explore page</a>.
       group_privacy:
         title: Group privacy
         intro_html: |
@@ -168,7 +168,7 @@ en:
           title: Who can find this group?
           body:
             anyone_html: |
-              If you select <strong>“Anyone”</strong>, the group will be listed on the publicly searchable <a href="http://diehard_fund.org/explore">Explore page</a>, and other search  engines.
+              If you select <strong>“Anyone”</strong>, the group will be listed on the publicly searchable <a href="http://diehard.fund/explore">Explore page</a>, and other search  engines.
               This makes it easy for people to find your group, without you having to send them a personal invitation.
               This can be useful for getting large numbers of people who don’t already know each other into a group.
             members_only_html: |
@@ -329,7 +329,7 @@ en:
           Deactivating your group means that your group members will no longer be able to access your group.
           If you are a group coordinator and you wish to deactivate your group you can do so by selecting <strong>“De-activate group”</strong> from the <strong>“Options”</strong> menu on the group page.
           Deactivated groups can be restored by a member of the Diehard_Fund team.
-          To reactivate your deactivated group, contact the Diehard_Fund team by sending an email to <a href="mailto:contact@diehard_fund.org">contact@diehard_fund.org</a>.
+          To reactivate your deactivated group, contact the Diehard_Fund team by sending an email to <a href="mailto:contact@diehard.fund">contact@diehard.fund</a>.
       coordinator_tips:
         title: Tips for engaging your group
         customise_invitation:
@@ -398,7 +398,7 @@ en:
           <p>As the discussion progresses, the context panel can be updated as new information comes to light.
           As well as clarifying the topic, you can use this space for sharing resources, summarising the discussion as it progresses, or outlining the decision-making protocols your group is using.</p>
           <p>Diehard_Fund uses <strong>Markdown</strong> to let you format text and embed images. You can use Markdown in the context panel to format your discussion context, or to embed images.
-          For more information on how to use Markdown, click the <a href="https://www.diehard_fund.org/d/Wh7vHaTk/markdown-text-formatting-made-easy">"Help"</a> link next to the Markdown checkbox on the new discussion form, or visit the Markdown help page directly: <a href="/markdown" target="_blank">diehard_fund.org/markdown</a>.</p>
+          For more information on how to use Markdown, click the <a href="https://www.diehard.fund/d/Wh7vHaTk/markdown-text-formatting-made-easy">"Help"</a> link next to the Markdown checkbox on the new discussion form, or visit the Markdown help page directly: <a href="/markdown" target="_blank">diehard.fund/markdown</a>.</p>
       discussion_privacy:
         title: Discussion privacy
         body_html: |
@@ -436,7 +436,7 @@ en:
         body_html: |
           Diehard_Fund uses <strong>Markdown</strong> to let you format text and embed images.
           To enable Markdown, check the box next to the word <strong>“Markdown”</strong> under the comment box.
-          For more information on how to use Markdown, click the <a href="https://www.diehard_fund.org/d/Wh7vHaTk/markdown-text-formatting-made-easy">"Help"</a> link next to the Markdown checkbox under the comment box, or visit the Markdown help page directly: <a href="/markdown" target="_blank">diehard_fund.org/markdown</a>.
+          For more information on how to use Markdown, click the <a href="https://www.diehard.fund/d/Wh7vHaTk/markdown-text-formatting-made-easy">"Help"</a> link next to the Markdown checkbox under the comment box, or visit the Markdown help page directly: <a href="/markdown" target="_blank">diehard.fund/markdown</a>.
       attaching_files:
         title: Attaching files
         body: |
@@ -627,7 +627,7 @@ en:
         title: Changing your password
         body_html: |
           If you are logged in to Diehard_Fund you can change your password at any time by following the <strong>“Change your password”</strong> link on your <a href="#user-profile">profile page</a>.
-          If you are logged out then you can use the <strong>“Forgot your password?”</strong> link on the <a href="http://diehard_fund.org/users/sign_in">Log in page</a>.
+          If you are logged out then you can use the <strong>“Forgot your password?”</strong> link on the <a href="http://diehard.fund/users/sign_in">Log in page</a>.
       account_deactivation:
         title: Deactivating your account
         body:
@@ -644,7 +644,7 @@ en:
         title: Reactivating your account
         body_html: |
           Account reactivation can only be done by a member of the Diehard_Fund team.
-          To reactivate your deactivated account, contact the Diehard_Fund team by sending an email to <a href="mailto:contact@diehard_fund.org">contact@diehard_fund.org</a>.
+          To reactivate your deactivated account, contact the Diehard_Fund team by sending an email to <a href="mailto:contact@diehard.fund">contact@diehard.fund</a>.
     leaving_groups:
       title: Leaving a group
       body_html: |
@@ -655,16 +655,16 @@ en:
       title: Translation
       body_html: |
         <p>The translation of Diehard_Fund is done by an amazing community of generous volunteers, using a tool called <a href="https://www.transifex.com">Transifex</a>.
-        If you’re interested in taking part in the translation process a good place to start is reading our <a href="https://github.com/diehard_fund/diehard_fund/wiki/Translation">Translation guide</a> and joining our <a href="https://www.diehard_fund.org/g/cpaM3Hsv/diehard_fund-community-translation">Community Translation sub-group</a>.
-        You can request membership from the group page and your request will be approved by group coordinator. You can introduce yourself and get a sense of who is in the wider translation community in <a href="https://www.diehard_fund.org/g/cpaM3Hsv/diehard_fund-community-translation">this introductory discussion</a>.</p>
-        <p>If you have any questions about the translation process contact <a href="mailto:mix@diehard_fund.org">mix@diehard_fund.org</a>.</p>
+        If you’re interested in taking part in the translation process a good place to start is reading our <a href="https://github.com/diehard_fund/diehard_fund/wiki/Translation">Translation guide</a> and joining our <a href="https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation">Community Translation sub-group</a>.
+        You can request membership from the group page and your request will be approved by group coordinator. You can introduce yourself and get a sense of who is in the wider translation community in <a href="https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation">this introductory discussion</a>.</p>
+        <p>If you have any questions about the translation process contact <a href="mailto:mix@diehard.fund">mix@diehard.fund</a>.</p>
     security:
       title: Privacy and security
       body_html: |
         <p>Diehard_Fund is a password-protected service, and each Diehard_Fund account is tied to a verified email address. Private groups are invite only, meaning a group coordinator will be inviting people in by their email addresses. Each user sets up an account with a password. Private groups are viewable only to members of the group.</p>
         <p>Diehard_Fund is hosted by Heroku in the US, with cloud services provided by AWS/EC2 and encryption and authenticity provided by SSL.</p>
         <p>We use secure HTTP protocol (HTTPS), providing bidirectional encryption. Our privacy, security and backup systems meet industry best practice.</p>
-        <p>For more information about privacy, service hosting and data security please take a look at our privacy page: <a href="/privacy">diehard_fund.org/privacy</a>.</p>
+        <p>For more information about privacy, service hosting and data security please take a look at our privacy page: <a href="/privacy">diehard.fund/privacy</a>.</p>
         <p>If you have any specific security concerns we recommend installing your own instance of Diehard_Fund.</p>
     contributing:
       title: Contributing to Diehard_Fund
@@ -675,7 +675,7 @@ en:
           body_html: |
             If you're interested in contributing to the Diehard_Fund codebase, the first place to start is to take a look at our <a href="https://github.com/diehard_fund/diehard_fund">Github repository</a>.
             We use <a href="https://github.com/diehard_fund/diehard_fund/issues">Github's issue tracker</a> to track tasks, enhancements and bugs, and we're always delighted to support external contributors!
-            There is an installation guide to get you started on our <a href="https://github.com/diehard_fund/diehard_fund/wiki">Github wiki</a> and a public <a href="https://www.diehard_fund.org/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund">Diehard_Fund Community sub-group dedicated to installation support and assistance</a>, in which you can ask any questions that might arise along the way.
+            There is an installation guide to get you started on our <a href="https://github.com/diehard_fund/diehard_fund/wiki">Github wiki</a> and a public <a href="https://www.diehard.fund/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund">Diehard_Fund Community sub-group dedicated to installation support and assistance</a>, in which you can ask any questions that might arise along the way.
         translation:
           title_html: Translation
         diehard_fund_community:
@@ -683,12 +683,12 @@ en:
     diehard_fund_community:
       title: The Diehard_Fund Community
       body_html: |
-        <p>The <a href="https://www.diehard_fund.org/g/WmPCB3IR/diehard_fund-community">Diehard_Fund Community</a> is a public group for the whole community of Diehard_Fund users and supporters to get together, discuss the development of Diehard_Fund and collaborate.
-        Anyone can join, simply request membership from the <a href="https://www.diehard_fund.org/g/WmPCB3IR/diehard_fund-community">group page</a> and a coordinator will approve your request.</p>
+        <p>The <a href="https://www.diehard.fund/g/WmPCB3IR/diehard_fund-community">Diehard_Fund Community</a> is a public group for the whole community of Diehard_Fund users and supporters to get together, discuss the development of Diehard_Fund and collaborate.
+        Anyone can join, simply request membership from the <a href="https://www.diehard.fund/g/WmPCB3IR/diehard_fund-community">group page</a> and a coordinator will approve your request.</p>
         <p>There are a number of public Diehard_Fund Community sub-groups dedicated to different strands of the community ecosystem.
         These groups are open for anyone to join; whether you're interested in contributing, or just curious about Diehard_Fund.
-        There is a <a href="https://www.diehard_fund.org/g/cpaM3Hsv/diehard_fund-community-translation">translation sub-group</a>, a <a href="https://www.diehard_fund.org/g/GN7EFQTK/diehard_fund-community-feature-ideas">Feature ideas sub-group</a>, an <a href="https://www.diehard_fund.org/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund">Installing Diehard_Fund sub-group</a> for support and assistance with local installations, and a sub-group for <a href="https://www.diehard_fund.org/g/7jWVDr04/diehard_fund-community-group-coordinators">Diehard_Fund group coordinators</a> to share faciliation tips and tricks, so we can collectively grow our knowledge and build shared resources around the best ways to use Diehard_Fund together.</p>
-        <p>To find out more about how the Diehard_Fund Community works take a look at the <a href="https://www.diehard_fund.org/discussions/5200">"How this community works discussion"</a> in the Diehard_Fund Community group.</p>
+        There is a <a href="https://www.diehard.fund/g/cpaM3Hsv/diehard_fund-community-translation">translation sub-group</a>, a <a href="https://www.diehard.fund/g/GN7EFQTK/diehard_fund-community-feature-ideas">Feature ideas sub-group</a>, an <a href="https://www.diehard.fund/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund">Installing Diehard_Fund sub-group</a> for support and assistance with local installations, and a sub-group for <a href="https://www.diehard.fund/g/7jWVDr04/diehard_fund-community-group-coordinators">Diehard_Fund group coordinators</a> to share faciliation tips and tricks, so we can collectively grow our knowledge and build shared resources around the best ways to use Diehard_Fund together.</p>
+        <p>To find out more about how the Diehard_Fund Community works take a look at the <a href="https://www.diehard.fund/discussions/5200">"How this community works discussion"</a> in the Diehard_Fund Community group.</p>
     diehard_fund_development:
       title: Keeping up with Diehard_Fund Development
       intro: 'There are several ways to keep track of Diehard_Fund progress:'
@@ -712,32 +712,32 @@ en:
       forgotten_password:
         title: 'I’ve forgotten my password, what do I do?'
         body_html: |
-          If you’ve forgotten your password click the <strong>“Forgot your password?”</strong> link on the <a href="https://www.diehard_fund.org/users/sign_in">Log in page</a>.
+          If you’ve forgotten your password click the <strong>“Forgot your password?”</strong> link on the <a href="https://www.diehard.fund/users/sign_in">Log in page</a>.
           You will be asked to enter the email address associated with your Diehard_Fund account and password reset instructions will be sent to this email address.
       diehard_fund_account:
         title: Do I need a Diehard_Fund account to participate in discussions?
         body: 'Yes. Even though there are different levels of group privacy, everyone who wishes to participate in a Diehard_Fund group needs to have a Diehard_Fund account.'
       cost:
         title: Does it cost to use Diehard_Fund?
-        body_html: Check out our pricing page at <a href="https://www.diehard_fund.org/pricing">diehard_fund.org/pricing</a>.
+        body_html: Check out our pricing page at <a href="https://www.diehard.fund/pricing">diehard.fund/pricing</a>.
       single_sign_on:
         title: 'Can I sign in with Google, Facebook or Twitter?'
-        body_html: 'Yes, see <a href="https://www.diehard_fund.org/help#single-sign-on">Single sign-on</a> in our <a href="https://www.diehard_fund.org/help">help documentation</a>.'
+        body_html: 'Yes, see <a href="https://www.diehard.fund/help#single-sign-on">Single sign-on</a> in our <a href="https://www.diehard.fund/help">help documentation</a>.'
       diehard_fund_instance:
         title: How can I set up my own instance of Diehard_Fund?
         body_html: |
-          There is an installation guide on our <a href="https://github.com/diehard_fund/diehard_fund/wiki">Github wiki</a> and a <a href="https://www.diehard_fund.org/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund">Diehard_Fund Community sub-group</a> dedicated to support and assistance with local installations.
+          There is an installation guide on our <a href="https://github.com/diehard_fund/diehard_fund/wiki">Github wiki</a> and a <a href="https://www.diehard.fund/g/C7I2YAPN/diehard_fund-community-installing-diehard_fund">Diehard_Fund Community sub-group</a> dedicated to support and assistance with local installations.
           If you're thinking about installing your own version of Diehard_Fund, we highly recommend joining this group.
       feature_idea:
         title: What if I have a feature to suggest?
         body_html: |
-          You might be interested in taking a look at our <a href="http://www.diehard_fund.org/roadmap">public roadmap</a>, which documents what’s coming up in the development pipeline.
-          We also have an open Diehard_Fund Community sub-group dedicated to <a href="https://www.diehard_fund.org/g/GN7EFQTK/diehard_fund-community-feature-ideas">Feature Ideas</a>.
+          You might be interested in taking a look at our <a href="http://www.diehard.fund/roadmap">public roadmap</a>, which documents what’s coming up in the development pipeline.
+          We also have an open Diehard_Fund Community sub-group dedicated to <a href="https://www.diehard.fund/g/GN7EFQTK/diehard_fund-community-feature-ideas">Feature Ideas</a>.
           If you don’t see the feature you wish to suggest on our public roadmap, and you are interested in participating in discussions around the development of Diehard_Fund, you might want to join this group.
       development_pipeline:
         title: What’s coming up in the Diehard_Fund development pipeline?
         body_html: |
-          To find out what our developers are working on and what’s coming up in the development pipeline, take a look at our <a href="https://www.diehard_fund.org/roadmap">public roadmap</a>.
+          To find out what our developers are working on and what’s coming up in the development pipeline, take a look at our <a href="https://www.diehard.fund/roadmap">public roadmap</a>.
           You can vote for the ideas you want to see prioritised, and comment with your feedback.
       search_for_private_group:
         title: 'How come when I search for a group I know exists, it doesn’t come up on the Explore page?'
@@ -748,11 +748,11 @@ en:
       account_reactivation:
         title: How can I reactivate my account?
         body_html: |
-          Account reactivation can only be done by a member of the Diehard_Fund team. To have your account reactivated contact us using the form below, or send an email to <a href="mailto:contact@diehard_fund.org">contact@diehard_fund.org</a>.
+          Account reactivation can only be done by a member of the Diehard_Fund team. To have your account reactivated contact us using the form below, or send an email to <a href="mailto:contact@diehard.fund">contact@diehard.fund</a>.
       restore_group:
         title: 'I’ve deactivated my group, can I restore it?'
         body_html: |
-          Deactivated groups can only be restored by a member of the Diehard_Fund team. To have a deactivated group restored contact us using the form below, or send an email to <a href="mailto:contact@diehard_fund.org">contact@diehard_fund.org</a>.
+          Deactivated groups can only be restored by a member of the Diehard_Fund team. To have a deactivated group restored contact us using the form below, or send an email to <a href="mailto:contact@diehard.fund">contact@diehard.fund</a>.
       diehard_fund_api:
         title: Is there a Diehard_Fund API?
         body: |
@@ -760,7 +760,7 @@ en:
           There is currently no server to server api, but Diehard_Fund is open source and we welcome additions. So feel free to scratch your itch.
       subdomain:
         title: Is it possible to have a Diehard_Fund subdomain?
-        body_html: "Yes. We can, for example, set up <strong>[your-group-name].diehard_fund.org</strong> as the URL for your group. <a href='mailto:contact@diehard_fund.org'>Contact us</a> if you're interested."
+        body_html: "Yes. We can, for example, set up <strong>[your-group-name].diehard.fund</strong> as the URL for your group. <a href='mailto:contact@diehard.fund'>Contact us</a> if you're interested."
       email_signature_included_in_reply_title: 'When I reply to a discussion via email my signature is included in my comment, how can I stop it?'
       email_signature_included_in_reply_body_html: |
         <p>There is currently no official standard for identifying email signatures from the rest of the email body. To a computer the whole email is just a block of text.

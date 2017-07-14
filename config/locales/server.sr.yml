@@ -189,7 +189,7 @@ sr:
     premium_support: premijum podrška
     custom_subdomain_html: |
       namenski poddomen,<br />
-      npr. <strong>vašagrupa</strong>.diehard_fund.org
+      npr. <strong>vašagrupa</strong>.diehard.fund
     usage_statistics: statistika korišćenja
   password_reset:
     email_guidelines_html: |
@@ -254,7 +254,7 @@ sr:
 
         Uglaste zagrade za ime, a zatim normalne za URL. Nema razmaka između zagrada.
 
-        [Lumio Početna](https://www.diehard_fund.org/)
+        [Lumio Početna](https://www.diehard.fund/)
 
         Za slike važi isto pravilo, samo se koristi uzvičnik kao prefiks.
 

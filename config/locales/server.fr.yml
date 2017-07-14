@@ -212,7 +212,7 @@ fr:
       Les prix sont en dollars US, plus les taxes le cas échéant. Besoin de quelque chose d'autre ?<a href="/contact">Discutons-en !</a>
     custom_subdomain_html: |
       Sous nom de domaine personnalisé,<br />
-      ex. <strong>votregroupe</strong>.diehard_fund.org
+      ex. <strong>votregroupe</strong>.diehard.fund
     usage_statistics: statistiques d’utilisation
     plus_price_html: '<strong>$99</strong>/mois'
   password_reset:
@@ -246,7 +246,7 @@ fr:
       * Pour notifier une personne spécifique, utilisez @ suivi de son nom.
       * Cliquez sur l’icône de trombone pour ajouter une pièce jointe.
 
-      Si vous avez des questions, consultez le [manuel d'aide Diehard_Fund](http://help.diehard_fund.org).
+      Si vous avez des questions, consultez le [manuel d'aide Diehard_Fund](http://help.diehard.fund).
   first_proposal:
     name: Proposition de démonstration
     description: |
@@ -315,7 +315,7 @@ fr:
 
         Entre crochets pour le nom et l'URL entre parenthèses. Il n'y a pas d'espace entre les parenthèses.
 
-        [La page d'accueil Diehard_Fund](https://www.diehard_fund.org/)
+        [La page d'accueil Diehard_Fund](https://www.diehard.fund/)
 
         C'est la même chose pour les images, mais précédé d'un point d'exclamation.
 

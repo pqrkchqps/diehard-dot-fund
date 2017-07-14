@@ -225,7 +225,7 @@ pt-BR:
       de algo mais? <a href="/contact">Vamos conversar!</a>
     custom_subdomain_html: |
       subdomínio personalizado,<br />
-      e.g. <strong>seugrupo</strong>.diehard_fund.org
+      e.g. <strong>seugrupo</strong>.diehard.fund
     usage_statistics: estatísticas de uso
     plus_price_html: '<strong>US$99</strong>/mês'
   password_reset:
@@ -288,7 +288,7 @@ pt-BR:
 
 
       Em caso de dúvidas, confira o [manual de ajuda do
-      Diehard_Fund](http://help.diehard_fund.org).
+      Diehard_Fund](http://help.diehard.fund).
   first_proposal:
     name: Proposta de demonstração
     description: >
@@ -387,7 +387,7 @@ pt-BR:
 
 
 
-        [Página inicial do Diehard_Fund](https://www.diehard_fund.org/)
+        [Página inicial do Diehard_Fund](https://www.diehard.fund/)
 
 
 

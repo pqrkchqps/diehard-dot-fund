@@ -342,7 +342,7 @@ tr:
   confirm_leave_hidden_group: "%{which_group} grubundan ayrılmak istediğine emin misin? Ayrıca tüm alt gruplardan da kaldırılacaksın."
   confirm_leave_group: "%{which_group},undan ayrılmak istediğinize emin misiniz?"
   deactivate_group: Grubu devre dışı bırak
-  confirm_deactivate_group: Bekle!!! %{which_group}'u devre dışı bırakmak istediğinden emin misin? Artık grubu görüntülemen mümkün olmayacak. Ancak, eğer grubu geri almak istersen contact@diehard_fund.org bir e-posta göndererek bizden grubu yeniden etkinleştirmemizi isteyebilirsin.
+  confirm_deactivate_group: Bekle!!! %{which_group}'u devre dışı bırakmak istediğinden emin misin? Artık grubu görüntülemen mümkün olmayacak. Ancak, eğer grubu geri almak istersen contact@diehard.fund bir e-posta göndererek bizden grubu yeniden etkinleştirmemizi isteyebilirsin.
   invited_users: Davetli üyeler
   members: Üyeler
   confirm_remove_user: "%{which_user} üyesini gruptan çıkarmak istediğine emin misin?"
@@ -410,7 +410,7 @@ tr:
       body_html: |
         Sana grup başlatma daveti içeren bir e-posta gönderdik.
 
-        Eğer gelen kutusunda birkaç dakika içerisinde göremezseniz <a href='mailto:contact@diehard_fund.org'>contact@diehard_fund.org</a> adresine e-posta göndererek bize ulaşabilirsin.
+        Eğer gelen kutusunda birkaç dakika içerisinde göremezseniz <a href='mailto:contact@diehard.fund'>contact@diehard.fund</a> adresine e-posta göndererek bize ulaşabilirsin.
   volume:
     normal: Normal
   thread_item:
@@ -575,12 +575,12 @@ tr:
       <p>İnsanlar neden davet edildiklerini ve onlardan nelerin beklendiğini,
       ve yeni bir aracı kullanmayı öğrenmek için zamanlarından harcamaya değip değimediğini bilmek isteyecek.</p>
     join_the_community: Topluluğa katıl
-    join_the_community_description_html: Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür. <br /><br /><a href='https://www.diehard_fund.org/groups/3'>Diehard_Fund Topluluğu grubuna gitmek için tıklayın.</a>.
+    join_the_community_description_html: Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür. <br /><br /><a href='https://www.diehard.fund/groups/3'>Diehard_Fund Topluluğu grubuna gitmek için tıklayın.</a>.
     images_and_text_formatting: Resimler ve metin biçimlendirme
     images_and_text_formatting_html: |
       <p>Diehard_Fund, resim gömme ve metin biçimlendirme amacıyla ‘Markdown’ dilini kullanıyor.
       Markdown desteğini yorum kısmının üzerindeki ufak gri simge ile açıp kapayabilirsiniz.</p>
-      <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.diehard_fund.org/discussions/1124'>burayı tıklayın.</a></p>
+      <p>Markdown kullanımı hakkında daha fazla bilgi için <a href='https://www.diehard.fund/discussions/1124'>burayı tıklayın.</a></p>
     keep_up_to_date: Güncel tutun
     keep_up_to_date_html: "<p>Ekranın üst kısmındaki grup adını tıklamak sizi grup içindeki müzakereleri\nve kararları görüntüleyebileceğiniz Grup Sayfasına götürür. Eğer\nbirden fazla gruba dahilseniz, bu gruplardaki tüm aktiviteleri \nAna Sayfada tek bir seferde görebilirsiniz.</p>\n<p>Grubunuzda önemli şeyler olduğunda e-posta bildirimi alırsınız.\nE-posta tercihlerinizi <a href=\"%{link}\"\">buradan</a> değiştirebilirsiniz.</p>\n"
     make_a_decision: Bir karar ver
@@ -622,7 +622,7 @@ tr:
 
       Diehard_Fund'yu nasıl geliştirilebiliriz ve nasıl en iyi şekilde kullanabiliriz konularını konuştuğumuz Diehard_Fund Topluluğuna herkes katılmakta özgürdür.
 
-      <a href='https://www.diehard_fund.org/groups/3'>Beni Diehard_Fund Toplulugu grubuna götür &raquo;</a>
+      <a href='https://www.diehard.fund/groups/3'>Beni Diehard_Fund Toplulugu grubuna götür &raquo;</a>
     making_a_donation: Bağışta bulunmak
     making_a_donation_description: |
       Diehard_Fund işbirliğine dayalı bir sosyal girişimdir ve herkesin kendilerini etkileyen kararlara kolayca katılabilmesini hedefler.

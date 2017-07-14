@@ -164,7 +164,7 @@ cs:
     analytics_reports: analytická hlášení
     custom_subdomain_html: |
       vlastní subdoména,<br />
-      např. <strong>vaseskupina</strong>.diehard_fund.org
+      např. <strong>vaseskupina</strong>.diehard.fund
     usage_statistics: statistiky využití
     plus_price_html: '<strong>$99</strong>/měsíc'
   password_reset:
