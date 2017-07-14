@@ -1,22 +1,21 @@
-loomio_webhooks:
-  repo:         pqrkchqps/loomio_webhooks
+diehard-dot-fund_webhooks:
+  repo:         pqrkchqps/diehard-dot-fund_webhooks
 
-loomio_org_plugin:
-  repo:         pqrkchqps/loomio_org_plugin
+diehard-dot-fund_org_plugin:
+  repo:         pqrkchqps/diehard-dot-fund_org_plugin
 
-loomio_tags:
-  repo:         pqrkchqps/loomio_tags
+diehard-dot-fund_tags:
+  repo:         pqrkchqps/diehard-dot-fund_tags
 
-loomio_truncate_comment:
-  repo:         pqrkchqps/loomio_truncate_comment
-  experimental: true
+diehard-dot-fund_truncate_comment:
+  repo:         pqrkchqps/diehard-dot-fund_truncate_comment
 
-loomio_content_preview:
-  repo:         pqrkchqps/loomio_content_preview
+diehard-dot-fund_content_preview:
+  repo:         pqrkchqps/diehard-dot-fund_content_preview
 
-loomio_buyer_experience:
-  repo:         pqrkchqps/loomio_buyer_experience
+diehard-dot-fund_buyer_experience:
+  repo:         pqrkchqps/diehard-dot-fund_buyer_experience
 
-loomio_onboarding:
-  repo:         pqrkchqps/loomio_onboarding
+diehard-dot-fund_onboarding:
+  repo:         pqrkchqps/diehard-dot-fund_onboarding
   branch:       group-form-update
