@@ -1,18 +1,18 @@
 diehard-dot-fund_webhooks:
-  repo:         git@github.com:pqrkchqps/diehard-dot-fund_webhooks
+  repo:         git@github.com:pqrkchqps/diehard-dot-fund_webhooks.git
 
 diehard-dot-fund_org_plugin:
-  repo:         git@github.com:pqrkchqps/diehard-dot-fund_org_plugin
+  repo:         git@github.com:pqrkchqps/diehard-dot-fund_org_plugin.git
 
 diehard-dot-fund_tags:
-  repo:         git@github.com:pqrkchqps/diehard-dot-fund_tags
+  repo:         git@github.com:pqrkchqps/diehard-dot-fund_tags.git
 
 diehard-dot-fund_truncate_comment:
-  repo:         git@github.com:pqrkchqps/diehard-dot-fund_truncate_comment
+  repo:         git@github.com:pqrkchqps/diehard-dot-fund_truncate_comment.git
   experimental:	true
 
 diehard-dot-fund_content_preview:
-  repo:         git@github.com:pqrkchqps/diehard-dot-fund_content_preview
+  repo:         git@github.com:pqrkchqps/diehard-dot-fund_content_preview.git
 
 diehard-dot-fund_onboarding:
-  repo:         git@github.com:pqrkchqps/diehard-dot-fund_onboarding
+  repo:         git@github.com:pqrkchqps/diehard-dot-fund_onboarding.git
