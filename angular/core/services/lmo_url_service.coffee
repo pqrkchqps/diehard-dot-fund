@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'LmoUrlService', (AppConfig) ->
+angular.module('diehardFundApp').factory 'LmoUrlService', (AppConfig) ->
   new class LmoUrlService
 
     route: ({model, action, params}) ->

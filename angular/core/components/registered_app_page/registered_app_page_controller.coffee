@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'RegisteredAppPageController', ($scope, $rootScope, $routeParams, Records, FlashService, ModalService, RegisteredAppForm, RemoveAppForm) ->
+angular.module('diehardFundApp').controller 'RegisteredAppPageController', ($scope, $rootScope, $routeParams, Records, FlashService, ModalService, RegisteredAppForm, RemoveAppForm) ->
 
   @init = (application) =>
     if application and !@application?

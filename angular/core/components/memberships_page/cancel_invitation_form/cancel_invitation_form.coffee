@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'CancelInvitationForm', ->
+angular.module('diehardFundApp').factory 'CancelInvitationForm', ->
   templateUrl: 'generated/components/memberships_page/cancel_invitation_form/cancel_invitation_form.html'
   controller: ($scope, invitation, FlashService, Records, FormService) ->
     $scope.invitation = invitation

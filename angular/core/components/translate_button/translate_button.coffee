@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'translateButton', ->
+angular.module('diehardFundApp').directive 'translateButton', ->
   scope: {model: '=', showdot: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/translate_button/translate_button.html'

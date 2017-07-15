@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').config (markedProvider) ->
+angular.module('diehardFundApp').config (markedProvider) ->
   customRenderer = (opts) ->
     _super   = new marked.Renderer(opts)
     renderer = _.clone(_super)

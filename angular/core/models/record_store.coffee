@@ -1,2 +1,2 @@
-angular.module('diehard_fundApp').factory 'RecordStore', () ->
+angular.module('diehardFundApp').factory 'RecordStore', () ->
   AngularRecordStore.RecordStoreFn()

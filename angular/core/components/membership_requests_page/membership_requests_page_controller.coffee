@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'MembershipRequestsPageController', ($routeParams, $rootScope, Records, LoadingService, AbilityService, FlashService, AppConfig) ->
+angular.module('diehardFundApp').controller 'MembershipRequestsPageController', ($routeParams, $rootScope, Records, LoadingService, AbilityService, FlashService, AppConfig) ->
   $rootScope.$broadcast('currentComponent', { page: 'membershipRequestsPage'})
 
   @init = =>

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ExtendProposalForm', ->
+angular.module('diehardFundApp').factory 'ExtendProposalForm', ->
   templateUrl: 'generated/components/thread_page/extend_proposal_form/extend_proposal_form.html'
   controller: ($scope, proposal, FlashService) ->
     $scope.proposal = proposal.clone()

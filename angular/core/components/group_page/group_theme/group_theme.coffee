@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'groupTheme', ->
+angular.module('diehardFundApp').directive 'groupTheme', ->
   scope: {group: '=', homePage: '=', compact: '=', discussion: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/group_theme/group_theme.html'

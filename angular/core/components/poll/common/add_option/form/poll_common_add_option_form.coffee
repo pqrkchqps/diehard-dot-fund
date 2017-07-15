@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonAddOptionForm', (PollService) ->
+angular.module('diehardFundApp').directive 'pollCommonAddOptionForm', (PollService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/add_option/form/poll_common_add_option_form.html'
   replace: true

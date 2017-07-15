@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'SlackAddedModal', (Records, ModalService, PollCommonStartModal) ->
+angular.module('diehardFundApp').factory 'SlackAddedModal', (Records, ModalService, PollCommonStartModal) ->
   templateUrl: 'generated/components/slack_added_modal/slack_added_modal.html'
   controller: ($scope, group) ->
     $scope.group = group

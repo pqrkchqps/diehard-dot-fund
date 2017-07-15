@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonUndecidedPanel', ($location, Records, RecordLoader, AbilityService, PollService) ->
+angular.module('diehardFundApp').directive 'pollCommonUndecidedPanel', ($location, Records, RecordLoader, AbilityService, PollService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/undecided/panel/poll_common_undecided_panel.html'
   controller: ($scope) ->

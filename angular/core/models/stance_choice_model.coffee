@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'StanceChoiceModel', (BaseModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'StanceChoiceModel', (BaseModel, AppConfig) ->
   class StanceChoiceModel extends BaseModel
     @singular: 'stanceChoice'
     @plural: 'stanceChoices'

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DraftRecordsInterface', (BaseRecordsInterface, DraftModel) ->
+angular.module('diehardFundApp').factory 'DraftRecordsInterface', (BaseRecordsInterface, DraftModel) ->
   class DraftRecordsInterface extends BaseRecordsInterface
     model: DraftModel
 

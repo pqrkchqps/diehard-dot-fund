@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonShareForm', (Session, Records, AbilityService) ->
+angular.module('diehardFundApp').directive 'pollCommonShareForm', (Session, Records, AbilityService) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/share/form/poll_common_share_form.html'

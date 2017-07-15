@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MembershipRequestForm', ->
+angular.module('diehardFundApp').factory 'MembershipRequestForm', ->
   templateUrl: 'generated/components/group_page/membership_request_form/membership_request_form.html'
   controller: ($scope, FormService, Records, group, AbilityService, Session) ->
     $scope.membershipRequest = Records.membershipRequests.build

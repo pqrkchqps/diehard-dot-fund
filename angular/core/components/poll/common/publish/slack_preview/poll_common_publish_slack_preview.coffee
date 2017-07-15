@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonPublishSlackPreview', ->
+angular.module('diehardFundApp').directive 'pollCommonPublishSlackPreview', ->
   scope: {community: '=', poll: '=', message: '='}
   templateUrl: 'generated/components/poll/common/publish/slack_preview/poll_common_publish_slack_preview.html'
   controller: ($scope, $translate, Session) ->

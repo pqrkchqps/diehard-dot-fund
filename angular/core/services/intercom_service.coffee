@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'IntercomService', ($rootScope, $window, AppConfig, Session, LmoUrlService) ->
+angular.module('diehardFundApp').factory 'IntercomService', ($rootScope, $window, AppConfig, Session, LmoUrlService) ->
   lastGroup = {}
 
   mapGroup = (group) ->

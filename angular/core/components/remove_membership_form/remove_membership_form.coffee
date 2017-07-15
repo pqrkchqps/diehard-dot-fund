@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'RemoveMembershipForm', ->
+angular.module('diehardFundApp').factory 'RemoveMembershipForm', ->
   templateUrl: 'generated/components/remove_membership_form/remove_membership_form.html'
   controller: ($scope, $location, $rootScope, membership, FlashService, Session) ->
     $scope.membership = membership

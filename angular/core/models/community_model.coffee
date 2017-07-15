@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'CommunityModel', (BaseModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'CommunityModel', (BaseModel, AppConfig) ->
   class CommunityModel extends BaseModel
     @singular: 'community'
     @plural: 'communities'

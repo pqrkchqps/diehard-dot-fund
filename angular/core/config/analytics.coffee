@@ -1,3 +1,3 @@
-angular.module('diehard_fundApp').config ($analyticsProvider) ->
+angular.module('diehardFundApp').config ($analyticsProvider) ->
   $analyticsProvider.firstPageview(true)
   $analyticsProvider.withAutoBase(true)

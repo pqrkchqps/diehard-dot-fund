@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'CommunityService', ($location, $window, Records, Session, FormService, ModalService, PollCommonPublishModal, PollCommonShareModal) ->
+angular.module('diehardFundApp').factory 'CommunityService', ($location, $window, Records, Session, FormService, ModalService, PollCommonPublishModal, PollCommonShareModal) ->
   new class CommunityService
 
     buildCommunity: (poll, type) ->

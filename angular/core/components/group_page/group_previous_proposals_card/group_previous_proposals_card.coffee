@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'groupPreviousProposalsCard', ->
+angular.module('diehardFundApp').directive 'groupPreviousProposalsCard', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/group_previous_proposals_card/group_previous_proposals_card.html'

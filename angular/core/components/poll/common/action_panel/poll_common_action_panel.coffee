@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonActionPanel', ($location, AppConfig, ModalService, AbilityService, PollService, Session, Records, PollCommonEditVoteModal) ->
+angular.module('diehardFundApp').directive 'pollCommonActionPanel', ($location, AppConfig, ModalService, AbilityService, PollService, Session, Records, PollCommonEditVoteModal) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/action_panel/poll_common_action_panel.html'
   controller: ($scope, Records, Session) ->

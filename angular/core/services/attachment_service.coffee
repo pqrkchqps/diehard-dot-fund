@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'AttachmentService', (Records) ->
+angular.module('diehardFundApp').factory 'AttachmentService', (Records) ->
   new class AttachmentService
 
     listenForAttachments: (scope, model) ->

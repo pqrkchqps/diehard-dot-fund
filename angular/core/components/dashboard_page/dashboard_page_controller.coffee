@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'DashboardPageController', ($rootScope, $scope, Records, Session, LoadingService, ThreadQueryService, AbilityService, AppConfig, $routeParams, $mdMedia, ModalService, GroupModal) ->
+angular.module('diehardFundApp').controller 'DashboardPageController', ($rootScope, $scope, Records, Session, LoadingService, ThreadQueryService, AbilityService, AppConfig, $routeParams, $mdMedia, ModalService, GroupModal) ->
 
   $rootScope.$broadcast('currentComponent', { page: 'dashboardPage', filter: $routeParams.filter })
   $rootScope.$broadcast('setTitle', 'Recent')

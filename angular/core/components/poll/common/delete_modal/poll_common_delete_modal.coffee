@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonDeleteModal', ($location, LmoUrlService, FormService) ->
+angular.module('diehardFundApp').factory 'PollCommonDeleteModal', ($location, LmoUrlService, FormService) ->
   templateUrl: 'generated/components/poll/common/delete_modal/poll_common_delete_modal.html'
   controller: ($scope, poll) ->
     $scope.poll = poll

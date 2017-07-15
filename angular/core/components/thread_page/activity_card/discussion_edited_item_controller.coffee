@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'DiscussionEditedItemController', ($scope, Records) ->
+angular.module('diehardFundApp').controller 'DiscussionEditedItemController', ($scope, Records) ->
   version    = Records.versions.find($scope.event.eventable.id)
   discussion = Records.discussions.find(version.discussionId)
 

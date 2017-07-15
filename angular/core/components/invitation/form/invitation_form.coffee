@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'invitationForm', ->
+angular.module('diehardFundApp').directive 'invitationForm', ->
   scope: {group: '=', selectGroup: '='}
   templateUrl: 'generated/components/invitation/form/invitation_form.html'
   controller: ($scope, Records, Session, AbilityService, FormService, FlashService, RestfulClient, ModalService, AddMembersModal) ->

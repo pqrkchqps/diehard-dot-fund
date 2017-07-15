@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ViewportService', ($window) ->
+angular.module('diehardFundApp').factory 'ViewportService', ($window) ->
   new class ViewportService
 
     viewportSize: ->

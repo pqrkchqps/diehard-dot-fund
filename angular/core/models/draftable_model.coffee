@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DraftableModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'DraftableModel', (BaseModel) ->
   class DraftableModel extends BaseModel
     @draftParent: 'undefined'
 

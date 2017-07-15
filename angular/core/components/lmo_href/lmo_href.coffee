@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'lmoHref', ($window, $router) ->
+angular.module('diehardFundApp').directive 'lmoHref', ($window, $router) ->
   restrict: 'A'
   scope:
     route: '@lmoHref'

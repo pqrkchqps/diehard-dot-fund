@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pendingEmailForm', ($translate, KeyEventService) ->
+angular.module('diehardFundApp').directive 'pendingEmailForm', ($translate, KeyEventService) ->
   scope: {emails: '='}
   restrict: 'E'
   templateUrl: 'generated/components/pending_email_form/pending_email_form.html'

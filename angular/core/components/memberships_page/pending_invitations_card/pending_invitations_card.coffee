@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pendingInvitationsCard', ->
+angular.module('diehardFundApp').directive 'pendingInvitationsCard', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/memberships_page/pending_invitations_card/pending_invitations_card.html'

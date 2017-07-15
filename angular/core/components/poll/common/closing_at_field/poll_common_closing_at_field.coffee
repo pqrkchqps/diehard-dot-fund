@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonClosingAtField', (AppConfig) ->
+angular.module('diehardFundApp').directive 'pollCommonClosingAtField', (AppConfig) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/closing_at_field/poll_common_closing_at_field.html'

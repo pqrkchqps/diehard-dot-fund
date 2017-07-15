@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonChartPreview', (PollService, Session) ->
+angular.module('diehardFundApp').directive 'pollCommonChartPreview', (PollService, Session) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/chart_preview/poll_common_chart_preview.html'
   controller: ($scope) ->

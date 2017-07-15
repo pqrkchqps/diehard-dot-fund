@@ -1,2 +1,2 @@
-angular.module('diehard_fundApp').factory 'BaseModel', ->
+angular.module('diehardFundApp').factory 'BaseModel', ->
   AngularRecordStore.BaseModelFn()

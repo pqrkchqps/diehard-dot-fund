@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonPublishModal', (PollService) ->
+angular.module('diehardFundApp').factory 'PollCommonPublishModal', (PollService) ->
   templateUrl: 'generated/components/poll/common/publish/modal/poll_common_publish_modal.html'
   controller: ($scope, poll, community, back) ->
     $scope.poll      = poll

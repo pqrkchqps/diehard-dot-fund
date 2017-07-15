@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MdAttachmentFormController', ->
+angular.module('diehardFundApp').factory 'MdAttachmentFormController', ->
   ($scope, $element, Records) ->
     $scope.upload = ->
       $scope.model.setErrors({})

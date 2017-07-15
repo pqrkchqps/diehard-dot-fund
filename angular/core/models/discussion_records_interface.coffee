@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DiscussionRecordsInterface', (BaseRecordsInterface, DiscussionModel) ->
+angular.module('diehardFundApp').factory 'DiscussionRecordsInterface', (BaseRecordsInterface, DiscussionModel) ->
   class DiscussionRecordsInterface extends BaseRecordsInterface
     model: DiscussionModel
 

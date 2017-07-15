@@ -1,2 +1,2 @@
-angular.module('diehard_fundApp').controller 'FormErrorsController', ->
+angular.module('diehardFundApp').controller 'FormErrorsController', ->
 

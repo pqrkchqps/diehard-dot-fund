@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'AhoyService', ($rootScope, $window) ->
+angular.module('diehardFundApp').factory 'AhoyService', ($rootScope, $window) ->
   new class AhoyService
     init: ->
       return unless ahoy?

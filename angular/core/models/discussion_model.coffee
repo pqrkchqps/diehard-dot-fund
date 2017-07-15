@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DiscussionModel', (DraftableModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'DiscussionModel', (DraftableModel, AppConfig) ->
   class DiscussionModel extends DraftableModel
     @singular: 'discussion'
     @plural: 'discussions'

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'closingAtField', (AppConfig) ->
+angular.module('diehardFundApp').directive 'closingAtField', (AppConfig) ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/proposal_form/closing_at_field.html'

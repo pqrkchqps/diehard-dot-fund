@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonBarChart', (AppConfig, Records) ->
+angular.module('diehardFundApp').directive 'pollCommonBarChart', (AppConfig, Records) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/bar_chart/poll_common_bar_chart.html'
   controller: ($scope) ->

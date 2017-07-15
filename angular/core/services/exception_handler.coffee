@@ -1,4 +1,4 @@
-# angular.module('diehard_fundApp').factory '$exceptionHandler', (AppConfig) ->
+# angular.module('diehardFundApp').factory '$exceptionHandler', (AppConfig) ->
 #   (exception, cause) ->
 #     if AppConfig.reportErrors
 #       Airbrake.push

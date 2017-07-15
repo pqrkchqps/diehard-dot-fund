@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'contextPanel', ->
+angular.module('diehardFundApp').directive 'contextPanel', ->
   scope: {discussion: '='}
   restrict: 'E'
   replace: true

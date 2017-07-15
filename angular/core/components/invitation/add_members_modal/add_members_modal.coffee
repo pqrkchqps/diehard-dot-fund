@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'AddMembersModal', ->
+angular.module('diehardFundApp').factory 'AddMembersModal', ->
   templateUrl: 'generated/components/invitation/add_members_modal/add_members_modal.html'
   controller: ($scope, Records, LoadingService, group, AppConfig, FlashService, ModalService, InvitationModal) ->
     $scope.isDisabled = false

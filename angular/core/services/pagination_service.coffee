@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PaginationService', (AppConfig) ->
+angular.module('diehardFundApp').factory 'PaginationService', (AppConfig) ->
   new class PaginationService
 
     windowFor: ({current, min, max, pageType}) ->

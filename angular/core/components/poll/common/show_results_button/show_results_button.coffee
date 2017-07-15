@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'showResultsButton', ->
+angular.module('diehardFundApp').directive 'showResultsButton', ->
   templateUrl: 'generated/components/poll/common/show_results_button/show_results_button.html'
   controller: ($scope) ->
     $scope.clicked = false

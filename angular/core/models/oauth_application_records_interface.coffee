@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'OauthApplicationRecordsInterface', (BaseRecordsInterface, OauthApplicationModel) ->
+angular.module('diehardFundApp').factory 'OauthApplicationRecordsInterface', (BaseRecordsInterface, OauthApplicationModel) ->
   class OauthApplicationRecordsInterface extends BaseRecordsInterface
     model: OauthApplicationModel
 

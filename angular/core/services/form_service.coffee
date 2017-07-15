@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'FormService', ($rootScope, FlashService, DraftService, AbilityService, AttachmentService, $filter) ->
+angular.module('diehardFundApp').factory 'FormService', ($rootScope, FlashService, DraftService, AbilityService, AttachmentService, $filter) ->
   new class FormService
 
     confirmDiscardChanges: (event, record) ->

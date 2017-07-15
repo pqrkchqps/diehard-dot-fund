@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DeactivationModal', ->
+angular.module('diehardFundApp').factory 'DeactivationModal', ->
   templateUrl: 'generated/components/deactivation_modal/deactivation_modal.html'
   controller: ($scope, AbilityService, ModalService, DeactivateUserForm, OnlyCoordinatorModal) ->
 

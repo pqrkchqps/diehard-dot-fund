@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonCloseForm', ->
+angular.module('diehardFundApp').factory 'PollCommonCloseForm', ->
   templateUrl: 'generated/components/poll/common/close_form/poll_common_close_form.html'
   controller: ($scope, poll, FormService) ->
     $scope.poll = poll

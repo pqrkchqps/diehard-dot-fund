@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ContactModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'ContactModel', (BaseModel) ->
   class ContactModal extends BaseModel
     @singular: 'contact'
     @plural: 'contacts'

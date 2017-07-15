@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DraftService', ($timeout, AppConfig) ->
+angular.module('diehardFundApp').factory 'DraftService', ($timeout, AppConfig) ->
   new class DraftService
 
     applyDrafting: (scope, model) ->

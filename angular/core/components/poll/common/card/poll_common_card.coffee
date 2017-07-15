@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonCard', (Session, Records, LoadingService, PollService) ->
+angular.module('diehardFundApp').directive 'pollCommonCard', (Session, Records, LoadingService, PollService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/card/poll_common_card.html'
   replace: true

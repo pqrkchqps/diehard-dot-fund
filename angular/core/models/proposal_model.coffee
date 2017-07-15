@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ProposalModel', (BaseModel, AppConfig, DraftableModel) ->
+angular.module('diehardFundApp').factory 'ProposalModel', (BaseModel, AppConfig, DraftableModel) ->
   class ProposalModel extends DraftableModel
     @singular: 'proposal'
     @plural: 'proposals'

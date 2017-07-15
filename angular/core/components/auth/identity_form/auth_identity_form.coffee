@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'authIdentityForm', ($translate) ->
+angular.module('diehardFundApp').directive 'authIdentityForm', ($translate) ->
   scope: {user: '=', identity: '='}
   templateUrl: 'generated/components/auth/identity_form/auth_identity_form.html'
   controller: ($scope, AuthService, KeyEventService) ->

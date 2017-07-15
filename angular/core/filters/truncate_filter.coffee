@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').filter 'truncate', ->
+angular.module('diehardFundApp').filter 'truncate', ->
   (string, length = 100, separator = ' ') ->
     _.trunc string,
       length: length

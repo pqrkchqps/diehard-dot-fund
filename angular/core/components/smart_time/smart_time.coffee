@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'smartTime', ->
+angular.module('diehardFundApp').directive 'smartTime', ->
   scope: {time: '='}
   restrict: 'E'
   templateUrl: 'generated/components/smart_time/smart_time.html'

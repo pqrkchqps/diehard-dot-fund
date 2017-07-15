@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pieWithPosition', ->
+angular.module('diehardFundApp').directive 'pieWithPosition', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/pie_with_position/pie_with_position.html'

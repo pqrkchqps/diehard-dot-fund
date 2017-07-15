@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollProposalChart', (AppConfig) ->
+angular.module('diehardFundApp').directive 'pollProposalChart', (AppConfig) ->
   template: '<div class="poll-proposal-chart"></div>'
   replace: true
   scope:

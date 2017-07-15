@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'addCommunityForm', (Records, CommunityService, LoadingService, Session, ModalService, PollCommonShareModal) ->
+angular.module('diehardFundApp').directive 'addCommunityForm', (Records, CommunityService, LoadingService, Session, ModalService, PollCommonShareModal) ->
   scope: {community: '='}
   templateUrl: 'generated/components/add_community_form/add_community_form.html'
   controller: ($scope) ->

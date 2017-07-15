@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ChangePictureForm', ->
+angular.module('diehardFundApp').factory 'ChangePictureForm', ->
   templateUrl: 'generated/components/change_picture_form/change_picture_form.html'
   controller: ($scope, $timeout, Session, Records, FormService) ->
     $scope.user = Session.user().clone()

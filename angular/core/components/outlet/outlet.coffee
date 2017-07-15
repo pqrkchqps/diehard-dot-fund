@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'outlet', ($compile, AppConfig) ->
+angular.module('diehardFundApp').directive 'outlet', ($compile, AppConfig) ->
   scope: {model: '=?'}
   restrict: 'E'
   replace: true

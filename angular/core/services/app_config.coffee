@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'AppConfig', ->
+angular.module('diehardFundApp').factory 'AppConfig', ->
   configData = if window? and window.DiehardFund?
                  window.DiehardFund
                else

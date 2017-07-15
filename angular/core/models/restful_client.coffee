@@ -1,2 +1,2 @@
-angular.module('diehard_fundApp').factory 'RestfulClient', ($http, $upload) ->
+angular.module('diehardFundApp').factory 'RestfulClient', ($http, $upload) ->
   AngularRecordStore.RestfulClientFn($http, $upload)

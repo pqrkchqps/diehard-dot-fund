@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'startProposalButton', ->
+angular.module('diehardFundApp').directive 'startProposalButton', ->
   scope: { discussion: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/start_proposal_button/start_proposal_button.html'

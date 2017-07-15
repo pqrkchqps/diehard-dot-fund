@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonClosingAt', ->
+angular.module('diehardFundApp').directive 'pollCommonClosingAt', ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/closing_at/poll_common_closing_at.html'

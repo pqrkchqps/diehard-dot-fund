@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pieChart', (AppConfig) ->
+angular.module('diehardFundApp').directive 'pieChart', (AppConfig) ->
   template: '<div class="pie-chart"></div>'
   replace: true
   scope:

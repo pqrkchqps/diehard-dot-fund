@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'NotificationRecordsInterface', (BaseRecordsInterface, NotificationModel) ->
+angular.module('diehardFundApp').factory 'NotificationRecordsInterface', (BaseRecordsInterface, NotificationModel) ->
   class NotificationRecordsInterface extends BaseRecordsInterface
     model: NotificationModel
 

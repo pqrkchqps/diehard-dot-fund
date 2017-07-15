@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollProposalChartPanel', (Records) ->
+angular.module('diehardFundApp').directive 'pollProposalChartPanel', (Records) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/proposal/chart_panel/poll_proposal_chart_panel.html'
   controller: ($scope, $translate) ->

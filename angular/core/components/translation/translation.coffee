@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'translation', ->
+angular.module('diehardFundApp').directive 'translation', ->
   scope: {translation: '=', field: '@'}
   restrict: 'E'
   templateUrl: 'generated/components/translation/translation.html'

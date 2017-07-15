@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'proposalAccordian', ->
+angular.module('diehardFundApp').directive 'proposalAccordian', ->
   scope: {model: '=', selectedProposalId: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/proposal_accordian/proposal_accordian.html'

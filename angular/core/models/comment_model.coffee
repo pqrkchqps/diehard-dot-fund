@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'CommentModel', (DraftableModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'CommentModel', (DraftableModel, AppConfig) ->
   class CommentModel extends DraftableModel
     @singular: 'comment'
     @plural: 'comments'

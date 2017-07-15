@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'groupAvatar', ->
+angular.module('diehardFundApp').directive 'groupAvatar', ->
   scope: {group: '=', size: '@?'}
   restrict: 'E'
   templateUrl: 'generated/components/group_avatar/group_avatar.html'

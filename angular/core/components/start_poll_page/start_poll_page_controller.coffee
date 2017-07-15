@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'StartPollPageController', ($scope, $location, $rootScope, $routeParams, Records, LoadingService, PollService, ModalService, PollCommonShareModal) ->
+angular.module('diehardFundApp').controller 'StartPollPageController', ($scope, $location, $rootScope, $routeParams, Records, LoadingService, PollService, ModalService, PollCommonShareModal) ->
   $rootScope.$broadcast('currentComponent', { page: 'startPollPage', skipScroll: true })
   @poll = Records.polls.build
     title:       $location.search().title

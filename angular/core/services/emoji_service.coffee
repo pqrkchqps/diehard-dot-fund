@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'EmojiService', ($timeout) ->
+angular.module('diehardFundApp').factory 'EmojiService', ($timeout) ->
   new class EmojiService
     source: window.DiehardFund.emojis.source
     render: window.DiehardFund.emojis.render

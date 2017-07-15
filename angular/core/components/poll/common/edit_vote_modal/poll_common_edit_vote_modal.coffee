@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonEditVoteModal', ($rootScope, PollService, LoadingService) ->
+angular.module('diehardFundApp').factory 'PollCommonEditVoteModal', ($rootScope, PollService, LoadingService) ->
   templateUrl: 'generated/components/poll/common/edit_vote_modal/poll_common_edit_vote_modal.html'
   controller: ($scope, stance) ->
     $scope.stance = stance.clone()

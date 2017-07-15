@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'installSlackProgress', (Session) ->
+angular.module('diehardFundApp').directive 'installSlackProgress', (Session) ->
   scope: {slackProgress: '='}
   templateUrl: 'generated/components/install_slack/progress/install_slack_progress.html'
   controller: ($scope) ->

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PrivacyString', ($translate) ->
+angular.module('diehardFundApp').factory 'PrivacyString', ($translate) ->
   new class PrivacyString
     groupPrivacyStatement: (group) ->
       if group.isSubgroup() && group.parent().privacyIsSecret()

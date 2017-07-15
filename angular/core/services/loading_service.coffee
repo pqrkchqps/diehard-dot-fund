@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'LoadingService', (Records) ->
+angular.module('diehardFundApp').factory 'LoadingService', (Records) ->
   new class LoadingService
     applyLoadingFunction: (controller, functionName) ->
       executing = "#{functionName}Executing"

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'UserPageController', ($rootScope, $routeParams, Records, LoadingService) ->
+angular.module('diehardFundApp').controller 'UserPageController', ($rootScope, $routeParams, Records, LoadingService) ->
   $rootScope.$broadcast 'currentComponent', {page: 'userPage'}
 
   @init = =>

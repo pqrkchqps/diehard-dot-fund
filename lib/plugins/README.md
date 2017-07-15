@@ -204,7 +204,7 @@ If you want to make an angular something which isn't a component (like a filter 
 
 ```coffee
   # services/kickflip_filter.coffee
-  angular.module('diehard_fundApp').filter 'kickflipFilter', ->
+  angular.module('diehardFundApp').filter 'kickflipFilter', ->
     (text) ->
       "#{text} for 100 points!!"
 ```
@@ -230,7 +230,7 @@ As of Angular 1.4, there is some decent support for adding custom code to existi
 6. Return our newly modified controller instance
 
 ```coffee
-angular.module('diehard_fundApp').config ($provide) -> # 1
+angular.module('diehardFundApp').config ($provide) -> # 1
   $provide.decorator 'kickflipDirective', ($delegate) -> # 2
     directive = _.first($delegate) # $delegate is an array here :/
     directive.compile = ->
@@ -259,7 +259,7 @@ Here's what a simple implementation might look like, given we've got a `Kickflip
 
 We can update this method with the following:
 ```coffee
-angular.module('diehard_fundApp').config ($provide) -> # 1
+angular.module('diehardFundApp').config ($provide) -> # 1
   $provide.decorator '$controller', ($delegate, Session) -> # 2
      ->
       ctrl = $delegate arguments... # 3

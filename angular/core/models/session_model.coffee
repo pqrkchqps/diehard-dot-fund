@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'SessionModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'SessionModel', (BaseModel) ->
   class SessionModel extends BaseModel
     @singular: 'session'
     @plural: 'sessions'

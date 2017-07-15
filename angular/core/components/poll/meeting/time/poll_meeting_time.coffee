@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollMeetingTime', (TimeService) ->
+angular.module('diehardFundApp').directive 'pollMeetingTime', (TimeService) ->
   scope: {name: '=', zone: '='}
   template: "<span>{{displayDate(date, zone)}}</span>"
   controller: ($scope) ->

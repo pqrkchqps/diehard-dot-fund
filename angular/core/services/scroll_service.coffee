@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ScrollService', ($timeout) ->
+angular.module('diehardFundApp').factory 'ScrollService', ($timeout) ->
   new class ScrollService
 
   scrollTo: (target, options = {}) ->

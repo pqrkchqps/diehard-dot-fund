@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'InstallSlackModal', ->
+angular.module('diehardFundApp').factory 'InstallSlackModal', ->
   templateUrl: 'generated/components/install_slack/modal/install_slack_modal.html'
   controller: ($scope, preventClose) ->
 

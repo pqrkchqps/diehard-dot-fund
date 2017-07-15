@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'emojiPicker', ->
+angular.module('diehardFundApp').directive 'emojiPicker', ->
   scope: {targetSelector: '='}
   restrict: 'E'
   replace: true

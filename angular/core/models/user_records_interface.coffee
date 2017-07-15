@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'UserRecordsInterface', (BaseRecordsInterface, UserModel, RestfulClient) ->
+angular.module('diehardFundApp').factory 'UserRecordsInterface', (BaseRecordsInterface, UserModel, RestfulClient) ->
   class UserRecordsInterface extends BaseRecordsInterface
     model: UserModel
 

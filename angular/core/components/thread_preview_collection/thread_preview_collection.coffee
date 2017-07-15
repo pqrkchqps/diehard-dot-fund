@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'threadPreviewCollection', ->
+angular.module('diehardFundApp').directive 'threadPreviewCollection', ->
   scope: {query: '=', limit: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/thread_preview_collection/thread_preview_collection.html'

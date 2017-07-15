@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'TranslationRecordsInterface', (BaseRecordsInterface, TranslationModel) ->
+angular.module('diehardFundApp').factory 'TranslationRecordsInterface', (BaseRecordsInterface, TranslationModel) ->
   class TranslationRecordsInterface extends BaseRecordsInterface
     model: TranslationModel
 

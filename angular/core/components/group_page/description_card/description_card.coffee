@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'descriptionCard', ->
+angular.module('diehardFundApp').directive 'descriptionCard', ->
   scope: {group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/group_page/description_card/description_card.html'

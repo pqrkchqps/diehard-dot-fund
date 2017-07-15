@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'errorPage', ->
+angular.module('diehardFundApp').directive 'errorPage', ->
   scope: {error: '='}
   restrict: 'E'
   templateUrl: 'generated/components/error_page/error_page.html'

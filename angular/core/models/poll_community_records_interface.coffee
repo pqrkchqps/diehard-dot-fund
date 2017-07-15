@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommunityRecordsInterface', (BaseRecordsInterface) ->
+angular.module('diehardFundApp').factory 'PollCommunityRecordsInterface', (BaseRecordsInterface) ->
   class PollCommunityRecordsInterface extends BaseRecordsInterface
     model: {plural: 'poll_communities'}
 

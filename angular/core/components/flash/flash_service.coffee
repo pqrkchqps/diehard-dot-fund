@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'FlashService', ($rootScope, AppConfig) ->
+angular.module('diehardFundApp').factory 'FlashService', ($rootScope, AppConfig) ->
   new class FlashService
 
     createFlashLevel = (level, duration) =>

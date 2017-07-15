@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'CoverPhotoForm', ->
+angular.module('diehardFundApp').factory 'CoverPhotoForm', ->
   templateUrl: 'generated/components/group_page/cover_photo_form/cover_photo_form.html'
   controller: ($scope, $timeout, $rootScope, group, Records, FormService) ->
 

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonShareVisitorForm', ($translate, Records, KeyEventService, FlashService) ->
+angular.module('diehardFundApp').directive 'pollCommonShareVisitorForm', ($translate, Records, KeyEventService, FlashService) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/share/visitor_form/poll_common_share_visitor_form.html'

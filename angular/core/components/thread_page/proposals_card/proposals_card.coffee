@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'proposalsCard', ->
+angular.module('diehardFundApp').directive 'proposalsCard', ->
   scope: {}
   bindToController: {discussion: '='}
   restrict: 'E'

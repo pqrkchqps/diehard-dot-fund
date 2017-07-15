@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'proposalActionsDropdown', ->
+angular.module('diehardFundApp').directive 'proposalActionsDropdown', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/current_proposal_card/proposal_actions_dropdown/proposal_actions_dropdown.html'

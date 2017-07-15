@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'formErrors', ->
+angular.module('diehardFundApp').directive 'formErrors', ->
   scope: {model: '='}
   restrict: 'E'
   templateUrl: 'generated/components/form_errors/form_errors.html'

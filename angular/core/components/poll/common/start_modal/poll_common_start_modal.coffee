@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonStartModal', ($location, PollService, LmoUrlService, LoadingService, Records) ->
+angular.module('diehardFundApp').factory 'PollCommonStartModal', ($location, PollService, LmoUrlService, LoadingService, Records) ->
   templateUrl: 'generated/components/poll/common/start_modal/poll_common_start_modal.html'
   controller: ($scope, poll) ->
     $scope.poll = poll.clone()

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'focusOn', ->
+angular.module('diehardFundApp').directive 'focusOn', ->
   (scope, elem, attr) ->
     console.log "elem"
     scope.$on attr.focusOn, (e) ->

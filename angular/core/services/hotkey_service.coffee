@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'HotkeyService', (AppConfig, ModalService, KeyEventService, Records, Session, InvitationModal, GroupModal, DiscussionForm, PollCommonStartModal) ->
+angular.module('diehardFundApp').factory 'HotkeyService', (AppConfig, ModalService, KeyEventService, Records, Session, InvitationModal, GroupModal, DiscussionForm, PollCommonStartModal) ->
   new class HotkeyService
 
     keyboardShortcuts:

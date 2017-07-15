@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'TranslationModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'TranslationModel', (BaseModel) ->
   class TranslationModel extends BaseModel
     @singular: 'translation'
     @plural: 'translations'

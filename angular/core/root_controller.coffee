@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'RootController', ($scope, $timeout, $location, $router, $mdMedia, AuthModal, KeyEventService, MessageChannelService, IntercomService, ScrollService, Session, AppConfig, Records, ModalService, GroupModal, AbilityService, AhoyService, ViewportService, HotkeyService) ->
+angular.module('diehardFundApp').controller 'RootController', ($scope, $timeout, $location, $router, $mdMedia, AuthModal, KeyEventService, MessageChannelService, IntercomService, ScrollService, Session, AppConfig, Records, ModalService, GroupModal, AbilityService, AhoyService, ViewportService, HotkeyService) ->
   $scope.isLoggedIn = AbilityService.isLoggedIn
   $scope.currentComponent = 'nothing yet'
 

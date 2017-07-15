@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'OutcomeModel', (DraftableModel, AppConfig, MentionLinkService) ->
+angular.module('diehardFundApp').factory 'OutcomeModel', (DraftableModel, AppConfig, MentionLinkService) ->
   class OutcomeModel extends DraftableModel
     @singular: 'outcome'
     @plural: 'outcomes'

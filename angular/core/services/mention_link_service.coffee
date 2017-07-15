@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MentionLinkService', ->
+angular.module('diehardFundApp').factory 'MentionLinkService', ->
   new class MentionLinkService
     cook: (mentionedUsernames, text) ->
       text

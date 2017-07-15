@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'sidebar', ->
+angular.module('diehardFundApp').directive 'sidebar', ->
   scope: false
   restrict: 'E'
   templateUrl: 'generated/components/sidebar/sidebar.html'

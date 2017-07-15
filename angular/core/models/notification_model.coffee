@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'NotificationModel', (BaseModel, $translate) ->
+angular.module('diehardFundApp').factory 'NotificationModel', (BaseModel, $translate) ->
   class NotificationModel extends BaseModel
     @singular: 'notification'
     @plural: 'notifications'

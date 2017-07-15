@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonOutcomeModal', ->
+angular.module('diehardFundApp').factory 'PollCommonOutcomeModal', ->
   templateUrl: 'generated/components/poll/common/outcome_modal/poll_common_outcome_modal.html'
   controller: ($scope, outcome) ->
     $scope.outcome = outcome.clone()

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonOutcomeForm', ->
+angular.module('diehardFundApp').directive 'pollCommonOutcomeForm', ->
   scope: {outcome: '='}
   templateUrl: 'generated/components/poll/common/outcome_form/poll_common_outcome_form.html'
   controller: ($scope, $translate, PollService, LoadingService, TranslationService, MentionService, KeyEventService) ->

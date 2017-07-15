@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'VoteRecordsInterface', (BaseRecordsInterface, VoteModel) ->
+angular.module('diehardFundApp').factory 'VoteRecordsInterface', (BaseRecordsInterface, VoteModel) ->
   class VoteRecordsInterface extends BaseRecordsInterface
     model: VoteModel
 

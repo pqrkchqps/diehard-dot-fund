@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'voteIcon', ->
+angular.module('diehardFundApp').directive 'voteIcon', ->
   scope: {position: '='}
   restrict: 'E'
   templateUrl: 'generated/components/vote_icon/vote_icon.html'

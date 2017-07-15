@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'authEmailForm', ($translate, AppConfig, KeyEventService, AuthService) ->
+angular.module('diehardFundApp').directive 'authEmailForm', ($translate, AppConfig, KeyEventService, AuthService) ->
   scope: {user: '='}
   templateUrl: 'generated/components/auth/email_form/auth_email_form.html'
   controller: ($scope) ->

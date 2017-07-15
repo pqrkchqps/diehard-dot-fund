@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'installSlackInstallForm', ($location, KeyEventService, FormService, Session, Records, LmoUrlService) ->
+angular.module('diehardFundApp').directive 'installSlackInstallForm', ($location, KeyEventService, FormService, Session, Records, LmoUrlService) ->
   templateUrl: 'generated/components/install_slack/install_form/install_slack_install_form.html'
   controller: ($scope) ->
     $scope.groups = ->

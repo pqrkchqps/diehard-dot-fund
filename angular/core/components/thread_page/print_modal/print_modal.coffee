@@ -1,3 +1,3 @@
-angular.module('diehard_fundApp').factory 'PrintModal', ->
+angular.module('diehardFundApp').factory 'PrintModal', ->
   templateUrl: 'generated/components/thread_page/print_modal/print_modal.html'
   controller: ($scope) ->

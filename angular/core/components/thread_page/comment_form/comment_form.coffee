@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'commentForm', ->
+angular.module('diehardFundApp').directive 'commentForm', ->
   scope: {discussion: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/comment_form/comment_form.html'

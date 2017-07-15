@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'groupPrivacyButton', ->
+angular.module('diehardFundApp').directive 'groupPrivacyButton', ->
   restrict: 'E'
   templateUrl: 'generated/components/group_page/group_privacy_button/group_privacy_button.html'
   replace: true

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'IdentityModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'IdentityModel', (BaseModel) ->
   class IdentityModel extends BaseModel
     @singular: 'identity'
     @plural: 'identities'

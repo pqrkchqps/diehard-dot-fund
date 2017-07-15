@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'EventRecordsInterface', (BaseRecordsInterface, EventModel) ->
+angular.module('diehardFundApp').factory 'EventRecordsInterface', (BaseRecordsInterface, EventModel) ->
   class EventRecordsInterface extends BaseRecordsInterface
     model: EventModel
 

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'AuthService', ($window, Records, RestfulClient) ->
+angular.module('diehardFundApp').factory 'AuthService', ($window, Records, RestfulClient) ->
   new class AuthService
 
     emailStatus: (user) ->

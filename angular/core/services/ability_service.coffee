@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'AbilityService', (AppConfig, Session) ->
+angular.module('diehardFundApp').factory 'AbilityService', (AppConfig, Session) ->
   new class AbilityService
 
     isLoggedIn: =>

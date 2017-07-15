@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'notifications', ->
+angular.module('diehardFundApp').directive 'notifications', ->
   scope: {}
   restrict: 'E'
   templateUrl: 'generated/components/notifications/notifications.html'

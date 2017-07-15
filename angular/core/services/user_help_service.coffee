@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'UserHelpService', ($sce, Session) ->
+angular.module('diehardFundApp').factory 'UserHelpService', ($sce, Session) ->
   new class UserHelpService
 
     helpLocale: ->

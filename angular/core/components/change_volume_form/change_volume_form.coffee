@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ChangeVolumeForm', ->
+angular.module('diehardFundApp').factory 'ChangeVolumeForm', ->
   templateUrl: 'generated/components/change_volume_form/change_volume_form.html'
   controller: ($scope, model, FormService, Session, FlashService) ->
     $scope.model = model.clone()

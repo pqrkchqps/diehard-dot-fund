@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'SearchResultRecordsInterface', (BaseRecordsInterface, SearchResultModel) ->
+angular.module('diehardFundApp').factory 'SearchResultRecordsInterface', (BaseRecordsInterface, SearchResultModel) ->
   class SearchResultRecordsInterface extends BaseRecordsInterface
     model: SearchResultModel
 

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'authSigninForm', ($translate, $window, Session, AuthService, FlashService, KeyEventService) ->
+angular.module('diehardFundApp').directive 'authSigninForm', ($translate, $window, Session, AuthService, FlashService, KeyEventService) ->
   scope: {user: '='}
   templateUrl: 'generated/components/auth/signin_form/auth_signin_form.html'
   controller: ($scope) ->

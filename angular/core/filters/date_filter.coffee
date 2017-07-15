@@ -1,7 +1,7 @@
-angular.module('diehard_fundApp').filter 'timeFromNowInWords', ->
+angular.module('diehardFundApp').filter 'timeFromNowInWords', ->
   (date, excludeAgo) ->
     moment(date).fromNow(excludeAgo)
 
-angular.module('diehard_fundApp').filter 'exactDateWithTime', ->
+angular.module('diehardFundApp').filter 'exactDateWithTime', ->
   (date) ->
     moment(date).format('dddd MMMM Do [at] h:mm a')

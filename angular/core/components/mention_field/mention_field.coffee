@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'mentionField', ($compile, LmoUrlService) ->
+angular.module('diehardFundApp').directive 'mentionField', ($compile, LmoUrlService) ->
   restrict: 'A'
   priority: 1000
   terminal: true

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'VersionRecordsInterface', (BaseRecordsInterface, VersionModel) ->
+angular.module('diehardFundApp').factory 'VersionRecordsInterface', (BaseRecordsInterface, VersionModel) ->
   class VersionRecordsInterface extends BaseRecordsInterface
     model: VersionModel
 

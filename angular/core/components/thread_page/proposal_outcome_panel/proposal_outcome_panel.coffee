@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'proposalOutcomePanel', ->
+angular.module('diehardFundApp').directive 'proposalOutcomePanel', ->
   scope: {proposal: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/proposal_outcome_panel/proposal_outcome_panel.html'

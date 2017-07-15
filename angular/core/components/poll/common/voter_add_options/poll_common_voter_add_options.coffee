@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonVoterAddOptions', (PollService) ->
+angular.module('diehardFundApp').directive 'pollCommonVoterAddOptions', (PollService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/voter_add_options/poll_common_voter_add_options.html'
   controller: ($scope) ->

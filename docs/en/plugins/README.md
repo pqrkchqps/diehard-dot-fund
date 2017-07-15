@@ -274,14 +274,14 @@ Just like on the server side, DiehardFund has client side models as well, which 
 
 ```
 # plugins/components/discussion_tags/discussion_tag_model.coffee
-angular.module('diehard_fundApp').factory 'DiscussionTagModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'DiscussionTagModel', (BaseModel) ->
   class DiscussionTagModel extends BaseModel
     @singular: 'discussionTag'
     @plural: 'discussionTags'
 ```
 ```
 # plugins/components/discussion_tags/discussion_tag_records_interface.coffee
-angular.module('diehard_fundApp').factory 'DiscussionTagRecordsInterface', (BaseRecordsInterface, DiscussionTagModel) ->
+angular.module('diehardFundApp').factory 'DiscussionTagRecordsInterface', (BaseRecordsInterface, DiscussionTagModel) ->
   class DiscussionTagRecordsInterface extends BaseRecordsInterface
     model: DiscussionTagModel
 ```
@@ -317,7 +317,7 @@ Now, we’ll write a little code to display tags next to the discussions title i
 
 ```
 # plugins/diehard_fund_tags/components/thread_tags/thread_tags.coffee
-angular.module('diehard_fundApp').directive 'tags', ->
+angular.module('diehardFundApp').directive 'tags', ->
   restrict: 'E'
   replace: true
   templateUrl: 'generated/components/tags.html'
@@ -363,7 +363,7 @@ I've called it `tag_fetcher`, and it has just a single file, `tag_fetcher.coffee
 
 ```
 # plugins/diehard_fund_tags/components/tag_fetcher.coffee
-angular.module('diehard_fundApp').directive 'tagFetcher', ->
+angular.module('diehardFundApp').directive 'tagFetcher', ->
   restrict: 'E'
   replace: true
   controller: ($scope, Records, DiscussionTagRecordsInterface) ->

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'InboxPageController', ($scope, $rootScope, Records, Session, AppConfig, LoadingService, ThreadQueryService, ModalService, GroupModal) ->
+angular.module('diehardFundApp').controller 'InboxPageController', ($scope, $rootScope, Records, Session, AppConfig, LoadingService, ThreadQueryService, ModalService, GroupModal) ->
   $rootScope.$broadcast('currentComponent', {page: 'inboxPage'})
   $rootScope.$broadcast('setTitle', 'Inbox')
   $rootScope.$broadcast('analyticsClearGroup')

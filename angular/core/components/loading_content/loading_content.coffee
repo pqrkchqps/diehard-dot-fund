@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'loadingContent', ->
+angular.module('diehardFundApp').directive 'loadingContent', ->
   scope: {blockCount: '=?', lineCount: '=?'}
   restrict: 'E'
   templateUrl: 'generated/components/loading_content/loading_content.html'

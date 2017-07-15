@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollOptionModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'PollOptionModel', (BaseModel) ->
   class PollOptionModel extends BaseModel
     @singular: 'pollOption'
     @plural: 'pollOptions'

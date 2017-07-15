@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonAttachmentForm', (AttachmentService) ->
+angular.module('diehardFundApp').directive 'pollCommonAttachmentForm', (AttachmentService) ->
   scope: {poll: '='}
   restrict: 'E'
   templateUrl: 'generated/components/poll/common/attachment_form/poll_common_attachment_form.html'

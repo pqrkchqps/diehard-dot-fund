@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'InvitationModal', ->
+angular.module('diehardFundApp').factory 'InvitationModal', ->
   templateUrl: 'generated/components/invitation/modal/invitation_modal.html'
   controller: ($scope, group) ->
     $scope.group = group.clone()

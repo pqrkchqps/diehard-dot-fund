@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'NewCommentItemController', ($scope, $rootScope, $translate, Records, Session, ModalService, EditCommentForm, DeleteCommentForm, AbilityService, TranslationService, RevisionHistoryModal) ->
+angular.module('diehardFundApp').controller 'NewCommentItemController', ($scope, $rootScope, $translate, Records, Session, ModalService, EditCommentForm, DeleteCommentForm, AbilityService, TranslationService, RevisionHistoryModal) ->
   $scope.comment = Records.comments.find($scope.event.eventable.id)
   renderLikedBySentence = ->
     otherIds = _.without($scope.comment.likerIds, Session.user().id)

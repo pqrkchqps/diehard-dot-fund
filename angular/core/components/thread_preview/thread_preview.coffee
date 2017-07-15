@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'threadPreview', ->
+angular.module('diehardFundApp').directive 'threadPreview', ->
   scope: {thread: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_preview/thread_preview.html'

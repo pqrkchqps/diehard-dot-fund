@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'authForm', (AppConfig, LoadingService) ->
+angular.module('diehardFundApp').directive 'authForm', (AppConfig, LoadingService) ->
   scope: {preventClose: '=', user: '='}
   templateUrl: 'generated/components/auth/form/auth_form.html'
   controller: ($scope) ->

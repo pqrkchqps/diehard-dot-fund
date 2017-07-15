@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ArchiveGroupForm', ->
+angular.module('diehardFundApp').factory 'ArchiveGroupForm', ->
   templateUrl: 'generated/components/archive_group_form/archive_group_form.html'
   controller: ($scope, $rootScope, $location, group, FormService, Records) ->
     $scope.group = group

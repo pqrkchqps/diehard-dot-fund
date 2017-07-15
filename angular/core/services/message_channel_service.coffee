@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MessageChannelService', ($http, $rootScope, $window, AppConfig, Records, AbilityService, ModalService, SignedOutModal, FlashService) ->
+angular.module('diehardFundApp').factory 'MessageChannelService', ($http, $rootScope, $window, AppConfig, Records, AbilityService, ModalService, SignedOutModal, FlashService) ->
   new class MessageChannelService
 
     subscribe: (options = {}) ->

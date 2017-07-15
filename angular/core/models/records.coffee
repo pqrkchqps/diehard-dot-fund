@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'Records', (RecordStore,
+angular.module('diehardFundApp').factory 'Records', (RecordStore,
                                                 RecordStoreDatabaseName,
                                                 AttachmentRecordsInterface,
                                                 CommentRecordsInterface,

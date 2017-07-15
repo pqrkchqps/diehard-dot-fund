@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ThreadQueryService', (Records, AbilityService, Session) ->
+angular.module('diehardFundApp').factory 'ThreadQueryService', (Records, AbilityService, Session) ->
   new class ThreadQueryService
 
     filterQuery: (filter, options = {}) ->

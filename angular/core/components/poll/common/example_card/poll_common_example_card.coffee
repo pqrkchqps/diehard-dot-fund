@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonExampleCard', ($translate) ->
+angular.module('diehardFundApp').directive 'pollCommonExampleCard', ($translate) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/example_card/poll_common_example_card.html'
   replace: true

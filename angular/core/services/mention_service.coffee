@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MentionService', (Records, Session) ->
+angular.module('diehardFundApp').factory 'MentionService', (Records, Session) ->
   new class MentionService
     applyMentions: (scope, model) ->
       scope.unmentionableIds = [model.authorId, Session.user().id]

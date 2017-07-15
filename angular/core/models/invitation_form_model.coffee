@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'InvitationFormModel', (DraftableModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'InvitationFormModel', (DraftableModel, AppConfig) ->
   class InvitationFormModel extends DraftableModel
     @singular: 'invitationForm'
     @plural: 'invitationForms'

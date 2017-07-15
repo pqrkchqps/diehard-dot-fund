@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ThreadService', (Session, Records, ModalService, MuteExplanationModal, FlashService) ->
+angular.module('diehardFundApp').factory 'ThreadService', (Session, Records, ModalService, MuteExplanationModal, FlashService) ->
   new class ThreadService
 
     mute: (thread) ->

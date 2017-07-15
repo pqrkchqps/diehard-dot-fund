@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MembershipModel', (BaseModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'MembershipModel', (BaseModel, AppConfig) ->
   class MembershipModel extends BaseModel
     @singular: 'membership'
     @plural: 'memberships'

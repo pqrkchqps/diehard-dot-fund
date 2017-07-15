@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DraftModel', (BaseModel, AppConfig) ->
+angular.module('diehardFundApp').factory 'DraftModel', (BaseModel, AppConfig) ->
   class DraftModel extends BaseModel
     @singular: 'draft'
     @plural: 'drafts'

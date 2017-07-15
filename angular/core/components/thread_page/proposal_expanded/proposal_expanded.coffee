@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'proposalExpanded', ->
+angular.module('diehardFundApp').directive 'proposalExpanded', ->
   scope: {proposal: '=', canCollapse: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/proposal_expanded/proposal_expanded.html'

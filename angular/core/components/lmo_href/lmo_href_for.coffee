@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'lmoHrefFor', (LmoUrlService) ->
+angular.module('diehardFundApp').directive 'lmoHrefFor', (LmoUrlService) ->
   restrict: 'A'
   scope:
     model: '=lmoHrefFor'

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'RecordLoader', (Records) ->
+angular.module('diehardFundApp').factory 'RecordLoader', (Records) ->
   class RecordLoader
     constructor: (opts = {}) ->
       @collection = opts.collection

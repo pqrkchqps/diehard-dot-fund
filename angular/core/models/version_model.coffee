@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'VersionModel', (BaseModel) ->
+angular.module('diehardFundApp').factory 'VersionModel', (BaseModel) ->
   class VersionModel extends BaseModel
     @singular: 'version'
     @plural: 'versions'

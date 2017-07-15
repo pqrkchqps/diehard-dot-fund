@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'membershipsPanel', ->
+angular.module('diehardFundApp').directive 'membershipsPanel', ->
   scope: {memberships: '=', group: '='}
   restrict: 'E'
   templateUrl: 'generated/components/memberships_page/memberships_panel/memberships_panel.html'

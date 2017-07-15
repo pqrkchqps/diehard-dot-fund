@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'DeleteThreadForm', ->
+angular.module('diehardFundApp').factory 'DeleteThreadForm', ->
   templateUrl: 'generated/components/delete_thread_form/delete_thread_form.html'
   controller: ($scope, $location, discussion, FormService, LmoUrlService) ->
     $scope.discussion = discussion

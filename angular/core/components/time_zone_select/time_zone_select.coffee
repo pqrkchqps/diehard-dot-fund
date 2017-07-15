@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'timeZoneSelect', ($translate, AppConfig, TimeService) ->
+angular.module('diehardFundApp').directive 'timeZoneSelect', ($translate, AppConfig, TimeService) ->
   scope: {zone: '='}
   restrict: 'E'
   templateUrl: 'generated/components/time_zone_select/time_zone_select.html'

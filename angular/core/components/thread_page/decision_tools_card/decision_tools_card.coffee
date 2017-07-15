@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'decisionToolsCard', ->
+angular.module('diehardFundApp').directive 'decisionToolsCard', ->
   scope: {discussion: '='}
   restrict: 'E'
   templateUrl: 'generated/components/thread_page/decision_tools_card/decision_tools_card.html'

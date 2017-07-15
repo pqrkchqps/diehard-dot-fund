@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'RevokeAppForm', ->
+angular.module('diehardFundApp').factory 'RevokeAppForm', ->
   templateUrl: 'generated/components/revoke_app_form/revoke_app_form.html'
   controller: ($scope, $rootScope, application, FlashService) ->
     $scope.application = application

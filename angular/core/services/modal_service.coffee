@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'ModalService', ($mdDialog, $rootScope, $timeout, $translate, AppConfig) ->
+angular.module('diehardFundApp').factory 'ModalService', ($mdDialog, $rootScope, $timeout, $translate, AppConfig) ->
   new class ModalService
     open: (modal, resolve = {}, opts = {}) ->
       $rootScope.$broadcast 'modalOpened', modal

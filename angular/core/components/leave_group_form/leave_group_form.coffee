@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'LeaveGroupForm', ->
+angular.module('diehardFundApp').factory 'LeaveGroupForm', ->
   templateUrl: 'generated/components/leave_group_form/leave_group_form.html'
   controller: ($scope, $location, $rootScope, group, FormService, Session, AbilityService) ->
     $scope.group = group

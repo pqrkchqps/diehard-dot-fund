@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonStartPoll', ($window, Records, PollService, LmoUrlService) ->
+angular.module('diehardFundApp').directive 'pollCommonStartPoll', ($window, Records, PollService, LmoUrlService) ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/start_poll/poll_common_start_poll.html'
   controller: ($scope) ->

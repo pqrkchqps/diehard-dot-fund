@@ -1,3 +1,3 @@
-angular.module('diehard_fundApp').directive 'installSlackCard', ->
+angular.module('diehardFundApp').directive 'installSlackCard', ->
   scope: {group: '='}
   templateUrl: 'generated/components/install_slack/card/install_slack_card.html'

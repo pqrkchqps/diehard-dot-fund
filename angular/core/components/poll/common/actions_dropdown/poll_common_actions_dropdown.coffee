@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonActionsDropdown', ->
+angular.module('diehardFundApp').directive 'pollCommonActionsDropdown', ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/actions_dropdown/poll_common_actions_dropdown.html'
   controller: ($scope, AbilityService, ModalService, PollCommonShareModal, PollCommonFormModal, PollCommonCloseForm, PollCommonDeleteModal, PollCommonUnsubscribeModal) ->

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonCollapsed', ->
+angular.module('diehardFundApp').directive 'pollCommonCollapsed', ->
   scope: {poll: '='}
   templateUrl: 'generated/components/poll/common/collapsed/poll_common_collapsed.html'
   controller: ($scope) ->

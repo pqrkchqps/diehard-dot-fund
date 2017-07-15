@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollCommonIndexCard', ($location, Records, LoadingService, LmoUrlService) ->
+angular.module('diehardFundApp').directive 'pollCommonIndexCard', ($location, Records, LoadingService, LmoUrlService) ->
   scope: {model: '=', limit: '@?', viewMoreLink: '=?'}
   templateUrl: 'generated/components/poll/common/index_card/poll_common_index_card.html'
   replace: true

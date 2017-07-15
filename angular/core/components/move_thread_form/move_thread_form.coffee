@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MoveThreadForm', ->
+angular.module('diehardFundApp').factory 'MoveThreadForm', ->
   templateUrl: 'generated/components/move_thread_form/move_thread_form.html'
   controller: ($scope, $location, discussion, Session, FormService, Records, $translate) ->
     $scope.discussion = discussion.clone()

@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'Session', ($rootScope, $translate, $window, Records, AppConfig) ->
+angular.module('diehardFundApp').factory 'Session', ($rootScope, $translate, $window, Records, AppConfig) ->
 
   login: (data) ->
     Records.import(data)

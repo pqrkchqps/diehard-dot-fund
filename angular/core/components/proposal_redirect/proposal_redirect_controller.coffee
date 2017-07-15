@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').controller 'ProposalRedirectController', ($router, $timeout, $rootScope, $routeParams, $location, Records, LmoUrlService) ->
+angular.module('diehardFundApp').controller 'ProposalRedirectController', ($router, $timeout, $rootScope, $routeParams, $location, Records, LmoUrlService) ->
   $rootScope.$broadcast('currentComponent', 'proposalRedirect')
   Records.proposals.findOrFetchById($routeParams.key).then (proposal) =>
     Records.discussions.findOrFetchById(proposal.discussionId).then (discussion) =>

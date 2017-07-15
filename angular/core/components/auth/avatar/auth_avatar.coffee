@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'authAvatar', ->
+angular.module('diehardFundApp').directive 'authAvatar', ->
   scope: {user: '=', helperBot: '=?'}
   templateUrl: 'generated/components/auth/avatar/auth_avatar.html'
   controller: ($scope) ->

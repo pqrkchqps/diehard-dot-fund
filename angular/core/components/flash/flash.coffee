@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'flash', (AppConfig) ->
+angular.module('diehardFundApp').directive 'flash', (AppConfig) ->
   restrict: 'E'
   templateUrl: 'generated/components/flash/flash.html'
   replace: true

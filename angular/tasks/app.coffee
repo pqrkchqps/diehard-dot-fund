@@ -20,7 +20,7 @@ module.exports = ->
       haml(),                                     # convert haml to html
       htmlmin(),                                  # minify html
       template(                                   # store html templates in angular cache
-        module: 'diehard_fundApp',
+        module: 'diehardFundApp',
         transformUrl: (url) ->
           if url.match /.+\/.+/
             "generated/components/#{url}"

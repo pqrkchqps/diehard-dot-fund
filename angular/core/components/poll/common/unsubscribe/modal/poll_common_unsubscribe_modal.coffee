@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'PollCommonUnsubscribeModal', (PollService) ->
+angular.module('diehardFundApp').factory 'PollCommonUnsubscribeModal', (PollService) ->
   templateUrl: 'generated/components/poll/common/unsubscribe/modal/poll_common_unsubscribe_modal.html'
   controller: ($scope, poll) ->
     $scope.poll = poll

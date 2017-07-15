@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'MuteExplanationModal', ->
+angular.module('diehardFundApp').factory 'MuteExplanationModal', ->
   templateUrl: 'generated/components/mute_explanation_modal/mute_explanation_modal.html'
   controller: ($scope, thread, Records, FlashService, ThreadService) ->
     $scope.thread = thread

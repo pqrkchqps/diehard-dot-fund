@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'invitable', ->
+angular.module('diehardFundApp').directive 'invitable', ->
   scope: { invitable: '=' }
   restrict: 'E'
   templateUrl: 'generated/components/invitation/invitable/invitable.html'

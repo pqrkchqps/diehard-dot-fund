@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'navbar', ->
+angular.module('diehardFundApp').directive 'navbar', ->
   scope: {}
   restrict: 'E'
   templateUrl: 'generated/components/navbar/navbar.html'

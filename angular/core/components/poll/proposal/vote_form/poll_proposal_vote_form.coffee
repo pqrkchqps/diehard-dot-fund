@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').directive 'pollProposalVoteForm', ->
+angular.module('diehardFundApp').directive 'pollProposalVoteForm', ->
   scope: {stance: '='}
   templateUrl: 'generated/components/poll/proposal/vote_form/poll_proposal_vote_form.html'
   controller: ($scope, PollService, MentionService, KeyEventService) ->

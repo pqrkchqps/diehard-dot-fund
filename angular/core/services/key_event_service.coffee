@@ -1,4 +1,4 @@
-angular.module('diehard_fundApp').factory 'KeyEventService', ($rootScope) ->
+angular.module('diehardFundApp').factory 'KeyEventService', ($rootScope) ->
   new class KeyEventService
 
     keyboardShortcuts:
