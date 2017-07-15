@@ -574,7 +574,7 @@ en:
       outcome_created: "*%{author}* created an outcome for *%{name}*"
       poll_created: "*%{author}* started a poll: *%{name}*"
       poll_closing_soon: "*%{name}* is closing soon"
-      view_it_on_loomio: View it on Loomio
+      view_it_on_diehard_fund: View it on Diehard.Fund
       have_your_say: Have your say
       poll_published: "*%{author}* published a poll:"
       poll_published_with_discussion: "*%{author}* published a poll in %{discussion}:"
@@ -592,7 +592,7 @@ en:
     poll_closing_soon: "Reminder: *%{poll}* is closing in 24 hours"
     poll_expired: "*%{poll}* has closed"
     group_published: |
-      Hello, I'm Loomio Bot. *%{author}* added me.
+      Hello, I'm Diehard.Fund Bot. *%{author}* added me.
       I can help your team make decisions together.
 
       My functions include:
@@ -601,10 +601,10 @@ en:
       - letting people vote on decisions from Slack
       - showing where people agree and disagree
       - communicating the outcome of decisions
-      - keeping a record of decisions in your Loomio group.
+      - keeping a record of decisions in your Diehard.Fund group.
 
-      To find out more, type _/loomio help_
-    request_authorization_message: "Just one more step: <%{url}|Click here> to authorize your slack account to use Loomio. (You'll only have to do this once)"
+      To find out more, type _/diehard_fund help_
+    request_authorization_message: "Just one more step: <%{url}|Click here> to authorize your slack account to use Diehard.Fund. (You'll only have to do this once)"
     poll_closed: "*%{title}* has closed already! <%{url}|Click here> to view the results."
     go_to_slack: Go to Slack
     stance_created: Thanks for participating! You voted *%{position}* on the poll <%{poll_url}|%{title}>. If you''d like to change your vote, or give a reason for why you feel this way, <%{stance_url}|click here>.
@@ -625,5 +625,5 @@ en:
       'meeting': Find a time to meet
 
       For example:
-      /loomio count Who's coming to the party on Sunday?
+      /diehard_fund count Who's coming to the party on Sunday?
       In order to start a new count.
