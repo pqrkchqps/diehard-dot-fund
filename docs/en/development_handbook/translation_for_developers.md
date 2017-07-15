@@ -1,4 +1,4 @@
-Check out this blog story about [Translating DiehardFund](http://blog.diehard.fund/2013/10/01/translating-diehard_fund-2/) for some more context + guidelines for translators.
+Check out this blog story about [Translating DiehardFund](http://blog.loomio.org/2013/10/01/translating-diehard_fund-2/) for some more context + guidelines for translators.
 
 ***
 **How to make your feature translation-ready**
