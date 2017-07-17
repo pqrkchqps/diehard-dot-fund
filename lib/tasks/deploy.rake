@@ -60,6 +60,7 @@ namespace :deploy do
     run_commands [
       "rake 'plugins:fetch[#{plugin_set}]' plugins:install",                             # install plugins specified in plugins/plugins.yml
       "rm -rf plugins/**/.git",                                                          # allow cloned plugins to be added to this repo
+      "bundle exec rake bower:install:deployment",
       "cd angular && yarn && node_modules/gulp/bin/gulp.js compile-fast && cd ../",    # build the app via gulp
       "cp -r public/client/development public/client/#{DiehardFund::Version.current}"         # version assets
     ]

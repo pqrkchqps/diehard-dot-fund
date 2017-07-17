@@ -6,6 +6,7 @@ namespace :bootstrap do
     `brew install postgresql` unless pg_installed?
     `gem install bundler`     unless bundler_installed?
     `npm install -g gulp`     unless gulp_installed?
+    `npm install -g bower`
     `bundle install`
     `cd angular && npm install && cd ..`
   end
