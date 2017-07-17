@@ -1,0 +1,20 @@
+{
+  "name": "diehard-dot-fund",
+  "homepage": "https://github.com/pqrkchqps/diehard-dot-fund",
+  "authors": [
+    "pqrkchqps <johnacreps@musaemachine.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-sequence-diagrams": "pqrkchqps/js-sequence-diagrams"
+  }
+}
