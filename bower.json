@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "js-sequence-diagrams": "pqrkchqps/js-sequence-diagrams"
+    "js-sequence-diagrams": "pqrkchqps/js-sequence-diagrams#master"
   }
 }
