@@ -63,6 +63,8 @@ gem 'discriminator', '~> 0.1.1'
 gem 'has_secure_token'
 gem "autoprefixer-rails"
 gem 'icalendar', github: 'icalendar/icalendar', ref: '97ed9d3'
+gem "bower-rails", "~> 0.11.0"
+
 
 group :development, :test do
   gem 'minitest'
